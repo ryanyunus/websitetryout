@@ -37,38 +37,64 @@ class DatabaseSeeder extends Seeder
             'is_active' => true,
         ]);
 
-        // Soal untuk Tryout 1
+        // Soal TWK (Tes Wawasan Kebangsaan) - Pancasila
         $q1 = Question::create([
             'tryout_id' => $tryout1->id,
-            'question_text' => 'Berdasarkan UUD 1945 pasal 1 ayat 3, Negara Indonesia adalah negara...',
+            'question_text' => 'Pancasila sebagai dasar negara Republik Indonesia memiliki makna bahwa...',
         ]);
         $q1->options()->createMany([
-            ['option_text' => 'Kepulauan', 'is_correct' => false],
-            ['option_text' => 'Hukum', 'is_correct' => true],
-            ['option_text' => 'Republik', 'is_correct' => false],
-            ['option_text' => 'Maritim', 'is_correct' => false],
+            ['option_text' => 'Pancasila merupakan sumber dari segala sumber hukum negara', 'is_correct' => true],
+            ['option_text' => 'Pancasila menjadi pedoman mutlak dalam hubungan luar negeri', 'is_correct' => false],
+            ['option_text' => 'Pancasila adalah pandangan hidup yang bebas ditafsirkan', 'is_correct' => false],
+            ['option_text' => 'Pancasila merupakan alat pemersatu bangsa yang bersifat sementara', 'is_correct' => false],
         ]);
 
+        // Soal TIU (Tes Intelegensia Umum) - Deret Angka
         $q2 = Question::create([
             'tryout_id' => $tryout1->id,
-            'question_text' => 'Jika x = 12, dan y = 5, maka nilai dari x^2 - y^2 adalah?',
+            'question_text' => 'Berapakah angka selanjutnya dari deret berikut: 2, 6, 12, 20, 30, ...',
         ]);
         $q2->options()->createMany([
-            ['option_text' => '119', 'is_correct' => true],
-            ['option_text' => '144', 'is_correct' => false],
-            ['option_text' => '169', 'is_correct' => false],
-            ['option_text' => '60', 'is_correct' => false],
+            ['option_text' => '40', 'is_correct' => false],
+            ['option_text' => '42', 'is_correct' => true], // Pola: +4, +6, +8, +10, +12
+            ['option_text' => '44', 'is_correct' => false],
+            ['option_text' => '46', 'is_correct' => false],
         ]);
         
+        // Soal TWK - Sejarah Ketatanegaraan
         $q3 = Question::create([
             'tryout_id' => $tryout1->id,
-            'question_text' => 'Siapakah presiden ketiga Republik Indonesia?',
+            'question_text' => 'Sistem pemerintahan yang pernah diterapkan di Indonesia pada kurun waktu 17 Agustus 1950 sampai 5 Juli 1959 adalah...',
         ]);
         $q3->options()->createMany([
-            ['option_text' => 'Soeharto', 'is_correct' => false],
-            ['option_text' => 'B.J. Habibie', 'is_correct' => true],
-            ['option_text' => 'Abdurrahman Wahid', 'is_correct' => false],
-            ['option_text' => 'Megawati', 'is_correct' => false],
+            ['option_text' => 'Sistem Pemerintahan Presidensial', 'is_correct' => false],
+            ['option_text' => 'Sistem Demokrasi Terpimpin', 'is_correct' => false],
+            ['option_text' => 'Sistem Pemerintahan Parlementer', 'is_correct' => true],
+            ['option_text' => 'Sistem Republik Serikat', 'is_correct' => false],
+        ]);
+
+        // Soal TIU - Hitungan Cepat & Aritmatika Sosial
+        $q4 = Question::create([
+            'tryout_id' => $tryout1->id,
+            'question_text' => 'Sebuah proyek pembangunan jalan dikerjakan oleh 12 orang dan direncanakan selesai dalam waktu 20 hari. Jika proyek tersebut dipaksa harus selesai dalam waktu 15 hari, berapakah TAMBAHAN pekerja yang dibutuhkan?',
+        ]);
+        $q4->options()->createMany([
+            ['option_text' => '3 orang', 'is_correct' => false],
+            ['option_text' => '4 orang', 'is_correct' => true], // (12*20)/15 = 16 orang. Tambahan: 16-12 = 4
+            ['option_text' => '16 orang', 'is_correct' => false],
+            ['option_text' => '8 orang', 'is_correct' => false],
+        ]);
+
+        // Soal TIU - Analogi Verbal
+        $q5 = Question::create([
+            'tryout_id' => $tryout1->id,
+            'question_text' => 'KAPAL : PELABUHAN = PESAWAT : ...',
+        ]);
+        $q5->options()->createMany([
+            ['option_text' => 'Penerbangan', 'is_correct' => false],
+            ['option_text' => 'Pilot', 'is_correct' => false],
+            ['option_text' => 'Bandara', 'is_correct' => true],
+            ['option_text' => 'Udara', 'is_correct' => false],
         ]);
         
         // Soal untuk Tryout 2
