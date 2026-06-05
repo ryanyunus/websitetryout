@@ -11,13 +11,17 @@ class Tryout extends Model
 
     protected $fillable = [
         'title',
+        'category',
         'description',
         'duration_minutes',
         'is_active',
+        'is_premium',
+        'price',
     ];
 
     protected $casts = [
         'is_active' => 'boolean',
+        'is_premium' => 'boolean',
     ];
 
     public function questions()
@@ -28,5 +32,10 @@ class Tryout extends Model
     public function attempts()
     {
         return $this->hasMany(TryoutAttempt::class);
+    }
+
+    public function transactions()
+    {
+        return $this->hasMany(Transaction::class);
     }
 }

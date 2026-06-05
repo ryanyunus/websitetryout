@@ -1,0 +1,786 @@
+PAKET TRYOUT SKD CPNS 2026
+Simulasi 110 Soal  •  TWK – TIU – TKP
+Berdasarkan Blueprint KepmenPANRB No. 321 Tahun 2024
+Jumlah Soal	110 Soal  |  TWK: 30  |  TIU: 35  |  TKP: 45
+Waktu	100 Menit (Peserta Umum)
+Nilai Benar	TWK/TIU: +5 (salah/kosong = 0)  |  TKP: 1–5 (kosong = 0)
+Passing Grade	TWK: 65  |  TIU: 80  |  TKP: 166
+
+BAGIAN I — TES WAWASAN KEBANGSAAN (TWK)  |  No. 1–30  |  30 Soal
+Petunjuk: Pilih jawaban yang paling tepat (A/B/C/D/E). Nilai benar = 5, salah/kosong = 0. Passing grade: 65.
+1. Menurut Pasal 1 ayat (1) UUD NRI Tahun 1945, Indonesia adalah negara kesatuan yang berbentuk...
+A. Republik
+B. Presidensial
+C. Parlementer
+D. Demokrasi
+E. Monarki
+✔ Kunci: A  |  Pasal 1 ayat (1) UUD NRI 1945 menyebutkan bahwa Negara Indonesia ialah Negara Kesatuan yang berbentuk Republik.
+2. Dalam Wawasan Nusantara, unsur yang termasuk aspek alamiah adalah keadaan...
+A. Ekonomi nasional
+B. Flora dan fauna
+C. Politik demokrasi
+D. Sosial budaya
+E. Keterampilan penduduk
+✔ Kunci: B  |  Aspek alamiah dalam wawasan nusantara mencakup unsur kewilayahan yang bersifat natural, seperti kondisi fisik, hayati, dan geografis, termasuk flora dan fauna.
+3. Dalam menghadapi kemajuan teknologi, sikap negatif yang perlu dihindari adalah...
+A. Proaktif
+B. Eksklusivisme
+C. Rasa ingin tahu yang sehat
+D. Adaptif
+E. Profesionalisme
+✔ Kunci: B  |  Eksklusivisme berarti kecenderungan menutup diri dari kehidupan sosial. Sikap ini negatif karena menghambat perkembangan dan integrasi.
+4. Pancasila sebagai dasar negara Indonesia pertama kali dirumuskan dalam sidang BPUPKI. Sidang pertama BPUPKI diselenggarakan pada tanggal...
+A. 29 Mei – 1 Juni 1945
+B. 10 – 17 Juli 1945
+C. 18 Agustus 1945
+D. 17 Agustus 1945
+E. 22 Juni 1945
+✔ Kunci: A  |  Sidang pertama BPUPKI berlangsung pada 29 Mei – 1 Juni 1945, yang antara lain membahas dasar negara. Soekarno menyampaikan pidato yang kemudian dikenal sebagai kelahiran Pancasila pada 1 Juni 1945.
+5. Pembukaan UUD NRI 1945 alinea keempat memuat tujuan negara. Manakah di bawah ini yang BUKAN termasuk tujuan negara sebagaimana tercantum dalam Pembukaan UUD NRI 1945?
+A. Melindungi segenap bangsa Indonesia
+B. Memajukan kesejahteraan umum
+C. Mencerdaskan kehidupan bangsa
+D. Mewujudkan keadilan sosial bagi seluruh rakyat Indonesia
+E. Ikut melaksanakan ketertiban dunia
+✔ Kunci: D  |  Tujuan negara dalam Pembukaan UUD 1945 alinea keempat adalah: (1) melindungi segenap bangsa; (2) memajukan kesejahteraan umum; (3) mencerdaskan kehidupan bangsa; dan (4) ikut melaksanakan ketertiban dunia. 'Mewujudkan keadilan sosial' merupakan bunyi sila kelima Pancasila, bukan kalimat tujuan negara secara harfiah.
+6. Pasal 33 UUD NRI 1945 mengatur tentang perekonomian nasional. Bunyi Pasal 33 ayat (3) adalah...
+A. Perekonomian disusun sebagai usaha bersama berdasar atas asas kekeluargaan
+B. Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan sebesar-besarnya untuk kemakmuran rakyat
+C. Cabang-cabang produksi yang penting bagi negara dan menguasai hajat hidup orang banyak dikuasai oleh negara
+D. Negara menjamin kebebasan berusaha bagi seluruh warga negara
+E. Perekonomian nasional diselenggarakan berdasar atas demokrasi ekonomi
+✔ Kunci: B  |  Pasal 33 ayat (3) UUD NRI 1945: 'Bumi dan air dan kekayaan alam yang terkandung di dalamnya dikuasai oleh negara dan dipergunakan sebesar-besarnya untuk kemakmuran rakyat.'
+7. Bhinneka Tunggal Ika sebagai semboyan negara Indonesia berasal dari kitab...
+A. Negarakertagama
+B. Sutasoma
+C. Arjunawiwaha
+D. Pararaton
+E. Ramayana
+✔ Kunci: B  |  Bhinneka Tunggal Ika berasal dari Kakawin Sutasoma karya Mpu Tantular, seorang pujangga Kerajaan Majapahit.
+8. Lembaga negara yang berwenang mengadili pada tingkat kasasi dan menguji peraturan perundang-undangan di bawah undang-undang terhadap undang-undang adalah...
+A. Mahkamah Konstitusi
+B. Komisi Yudisial
+C. Mahkamah Agung
+D. DPR
+E. DPD
+✔ Kunci: C  |  Mahkamah Agung (MA) berwenang mengadili pada tingkat kasasi dan menguji peraturan perundang-undangan di bawah UU terhadap UU (Pasal 24A UUD NRI 1945).
+9. Hak asasi manusia yang tidak dapat dikurangi dalam keadaan apa pun (non-derogable rights) yang dijamin oleh UUD NRI 1945 antara lain adalah...
+A. Hak memilih dan dipilih dalam pemilu
+B. Hak untuk hidup dan hak untuk tidak disiksa
+C. Hak mendapat pekerjaan yang layak
+D. Hak mendapatkan pendidikan
+E. Hak atas kebebasan berekspresi
+✔ Kunci: B  |  Pasal 28I ayat (1) UUD NRI 1945 menegaskan bahwa hak untuk hidup, hak untuk tidak disiksa, dan beberapa hak lainnya tidak dapat dikurangi dalam keadaan apa pun.
+10. Sumpah Pemuda dikumandangkan pada tanggal 28 Oktober 1928 dalam Kongres Pemuda II. Salah satu isi Sumpah Pemuda adalah...
+A. Bertumpah darah yang satu, tanah Melayu
+B. Berbangsa yang satu, bangsa Indonesia
+C. Menjunjung bahasa persatuan, bahasa Melayu
+D. Bertanah air yang satu, tanah Jawa
+E. Berbahasa yang satu, bahasa Jawa
+✔ Kunci: B  |  Sumpah Pemuda berisi: (1) Kami putra dan putri Indonesia mengaku bertumpah darah yang satu, tanah air Indonesia; (2) berbangsa yang satu, bangsa Indonesia; (3) menjunjung bahasa persatuan, bahasa Indonesia.
+11. Wawasan Nusantara berfungsi sebagai pedoman, motivasi, dan rambu-rambu dalam menentukan kebijaksanaan, keputusan, serta tindakan dalam penyelenggaraan negara. Hal ini merupakan fungsi wawasan nusantara sebagai...
+A. Konsepsi ketahanan nasional
+B. Wawasan pembangunan nasional
+C. Wawasan pertahanan dan keamanan
+D. Pedoman penyelenggaraan negara
+E. Wawasan kewilayahan
+✔ Kunci: D  |  Wawasan Nusantara berfungsi sebagai pedoman penyelenggaraan negara dalam membuat kebijakan, keputusan, dan tindakan dalam kehidupan bermasyarakat, berbangsa, dan bernegara.
+12. Pancasila sebagai ideologi terbuka memiliki dimensi yang memungkinkan nilai-nilainya dapat disesuaikan dengan perkembangan zaman. Dimensi tersebut adalah dimensi...
+A. Normatif
+B. Idealistis
+C. Realitas
+D. Fleksibilitas
+E. Semua jawaban benar
+✔ Kunci: D  |  Pancasila sebagai ideologi terbuka memiliki tiga dimensi: idealistis (memuat cita-cita luhur), normatif (dapat dijabarkan ke norma hukum), dan fleksibilitas/realitas (dapat menyesuaikan diri dengan perkembangan masyarakat).
+13. Salah satu kewajiban warga negara Indonesia yang diatur dalam UUD NRI 1945 adalah...
+A. Mendapat perlindungan hukum yang adil
+B. Memperoleh jaminan sosial
+C. Membela negara sesuai dengan kemampuan
+D. Mendapat pendidikan gratis
+E. Bebas berpendapat
+✔ Kunci: C  |  Pasal 30 ayat (1) UUD NRI 1945 menyatakan bahwa tiap-tiap warga negara berhak dan wajib ikut serta dalam usaha pertahanan dan keamanan negara.
+14. Prinsip negara hukum yang dianut Indonesia menurut UUD NRI 1945 Pasal 1 ayat (3) mengandung makna bahwa...
+A. Negara dijalankan berdasarkan kekuasaan belaka
+B. Setiap tindakan negara harus berdasarkan hukum
+C. Pemerintah bebas bertindak tanpa batasan
+D. Hukum dapat dikesampingkan demi kepentingan negara
+E. Rakyat tunduk pada kemauan penguasa
+✔ Kunci: B  |  Pasal 1 ayat (3) UUD NRI 1945 menegaskan 'Negara Indonesia adalah negara hukum', artinya setiap penyelenggaraan kekuasaan negara harus berdasarkan dan tunduk kepada hukum.
+15. Ketahanan nasional Indonesia bersifat mandiri artinya...
+A. Indonesia tidak memerlukan bantuan negara lain dalam segala hal
+B. Ketahanan nasional bertumpu pada kemampuan dan tekad sendiri
+C. Indonesia menutup diri dari dunia luar
+D. Indonesia selalu unggul dari negara-negara tetangga
+E. Ketahanan nasional hanya dibangun melalui kekuatan militer
+✔ Kunci: B  |  Sifat mandiri dalam ketahanan nasional berarti bahwa pembinaan dan pengembangannya bertumpu pada kemampuan dan tekad sendiri, tidak bergantung pada pihak lain.
+16. Asas demokrasi Pancasila mengutamakan musyawarah untuk mufakat. Apabila musyawarah tidak mencapai mufakat, maka pengambilan keputusan dilakukan dengan...
+A. Keputusan ketua rapat
+B. Suara terbanyak (voting)
+C. Keputusan pemerintah pusat
+D. Keputusan para sesepuh
+E. Tidak diambil keputusan
+✔ Kunci: B  |  Dalam demokrasi Pancasila, musyawarah mufakat diutamakan. Namun apabila tidak tercapai, keputusan dapat diambil melalui pemungutan suara (voting) terbanyak.
+17. Otonomi daerah di Indonesia diatur dalam UUD NRI 1945 Pasal 18 yang menyatakan bahwa negara kesatuan RI dibagi atas daerah-daerah provinsi, dan daerah provinsi dibagi atas...
+A. Daerah-daerah kabupaten dan desa
+B. Daerah-daerah kabupaten dan kota
+C. Kota dan kecamatan
+D. Kabupaten dan kecamatan
+E. Kota dan desa
+✔ Kunci: B  |  Pasal 18 ayat (1) UUD NRI 1945 menyatakan bahwa Negara Kesatuan Republik Indonesia dibagi atas daerah-daerah provinsi dan daerah provinsi itu dibagi atas kabupaten dan kota.
+18. Semangat juang para pahlawan nasional dalam meraih kemerdekaan Indonesia dapat diteladani generasi muda dalam kehidupan sehari-hari antara lain melalui...
+A. Menolak segala bentuk pengaruh asing
+B. Menutup diri dari pergaulan global
+C. Menghargai jasa pahlawan dan berprestasi dalam bidang masing-masing
+D. Mengutamakan kepentingan pribadi di atas kepentingan bangsa
+E. Mengandalkan bantuan luar negeri untuk pembangunan
+✔ Kunci: C  |  Meneladani semangat juang pahlawan berarti menghargai jasa mereka dan berprestasi sebaik-baiknya di bidang masing-masing sebagai kontribusi nyata bagi bangsa dan negara.
+19. Nilai-nilai Pancasila yang harus diamalkan dalam kehidupan sehari-hari seorang PNS/ASN antara lain diwujudkan dalam...
+A. Melayani masyarakat dengan pamrih tertentu
+B. Mengutamakan golongan sendiri dalam pemberian layanan
+C. Memberikan pelayanan prima tanpa diskriminasi
+D. Mengedepankan kepentingan pribadi
+E. Membatasi akses layanan publik
+✔ Kunci: C  |  ASN sebagai abdi negara wajib mengamalkan Pancasila, antara lain dengan memberikan pelayanan prima kepada seluruh masyarakat tanpa diskriminasi.
+20. Gerakan separatisme merupakan salah satu ancaman integrasi nasional yang bersumber dari dalam negeri. Upaya terbaik untuk mencegahnya adalah...
+A. Penyebaran ideologi alternatif
+B. Peningkatan pemerataan pembangunan dan penguatan identitas kebangsaan
+C. Membatasi kebebasan berbicara warga negara
+D. Memperkuat peran TNI semata
+E. Menutup perbatasan wilayah
+✔ Kunci: B  |  Separatisme sering muncul akibat ketidakmerataan pembangunan dan lemahnya rasa kebangsaan. Upaya pencegahannya yang komprehensif adalah melalui pemerataan pembangunan dan penguatan identitas kebangsaan.
+21. Mahkamah Konstitusi (MK) berwenang mengadili pada tingkat pertama dan terakhir yang putusannya bersifat final untuk, di antara hal-hal berikut...
+A. Menguji undang-undang terhadap UUD, memutus sengketa kewenangan lembaga negara, memutus pembubaran partai politik
+B. Mengadili perkara korupsi, kolusi, dan nepotisme
+C. Menyelesaikan sengketa tanah antarnegara
+D. Memutus perkara pidana tingkat banding
+E. Mengadili hakim yang melanggar kode etik
+✔ Kunci: A  |  Pasal 24C UUD NRI 1945 menyebutkan kewenangan MK: (1) menguji UU terhadap UUD; (2) memutus sengketa kewenangan lembaga negara; (3) memutus pembubaran parpol; (4) memutus perselisihan hasil pemilu.
+22. Undang-Undang Dasar NRI 1945 telah mengalami amandemen sebanyak...
+A. 1 kali
+B. 2 kali
+C. 3 kali
+D. 4 kali
+E. 5 kali
+✔ Kunci: D  |  UUD NRI 1945 telah diamandemen sebanyak 4 kali, yaitu pada tahun 1999, 2000, 2001, dan 2002.
+23. Salah satu prinsip Good Governance (tata kelola pemerintahan yang baik) adalah akuntabilitas, yang berarti...
+A. Pemerintah bertindak bebas tanpa pertanggungjawaban
+B. Setiap tindakan dan keputusan pejabat publik harus dapat dipertanggungjawabkan
+C. Keputusan hanya diambil oleh pejabat tinggi
+D. Informasi pemerintah bersifat rahasia
+E. Anggaran tidak perlu dilaporkan secara publik
+✔ Kunci: B  |  Akuntabilitas dalam good governance berarti setiap tindakan, keputusan, dan kebijakan pejabat publik harus dapat dipertanggungjawabkan kepada publik dan pemangku kepentingan.
+24. Dalam sistem checks and balances di Indonesia, lembaga mana yang memiliki fungsi pengawasan terhadap pelaksanaan APBN?
+A. Mahkamah Agung
+B. Komisi Yudisial
+C. Badan Pemeriksa Keuangan (BPK)
+D. Kejaksaan Agung
+E. Ombudsman
+✔ Kunci: C  |  Pasal 23E UUD NRI 1945 menyatakan bahwa Badan Pemeriksa Keuangan (BPK) memeriksa pengelolaan dan tanggung jawab keuangan negara, termasuk pelaksanaan APBN.
+25. Nilai kerakyatan yang dipimpin oleh hikmat kebijaksanaan dalam permusyawaratan/perwakilan pada sila keempat Pancasila mengandung makna bahwa...
+A. Keputusan diambil oleh pimpinan tertinggi
+B. Rakyat berpartisipasi dalam pengambilan keputusan melalui mekanisme musyawarah dan perwakilan yang bijaksana
+C. Suara rakyat tidak perlu didengarkan
+D. Demokrasi hanya bisa dijalankan melalui referendum
+E. Kekuasaan tertinggi ada pada partai politik
+✔ Kunci: B  |  Sila keempat Pancasila menekankan bahwa kekuasaan tertinggi berada pada rakyat dan dijalankan melalui wakil-wakil yang dipilih, dengan mengutamakan musyawarah mufakat berdasarkan hikmat kebijaksanaan.
+26. Pasal 27 ayat (1) UUD NRI 1945 menyatakan bahwa segala warga negara bersamaan kedudukannya di dalam hukum dan pemerintahan dan wajib menjunjung hukum dan pemerintahan itu dengan tidak ada kecualinya. Prinsip ini disebut...
+A. Supremasi rakyat
+B. Persamaan di hadapan hukum (equality before the law)
+C. Kebebasan berkontrak
+D. Presumption of innocence
+E. Hak imunitas pejabat
+✔ Kunci: B  |  Pasal 27 ayat (1) UUD 1945 mencerminkan prinsip equality before the law, yaitu semua warga negara berkedudukan sama di hadapan hukum.
+27. Ciri khas demokrasi Pancasila yang membedakannya dari demokrasi liberal dan demokrasi komunis adalah...
+A. Kebebasan individu tanpa batas
+B. Kekuasaan negara yang mutlak
+C. Keseimbangan antara hak dan kewajiban, serta mengutamakan musyawarah mufakat
+D. Keputusan diambil secara sepihak oleh elite
+E. Mengutamakan kepentingan satu golongan
+✔ Kunci: C  |  Demokrasi Pancasila menekankan keseimbangan hak dan kewajiban, musyawarah mufakat, dan kepentingan bersama, tidak terjebak pada individualisme liberal maupun totalitarisme komunis.
+28. Penyelenggaraan pemilihan umum di Indonesia diatur dan dilaksanakan oleh...
+A. Mahkamah Agung dan KPK
+B. Komisi Pemilihan Umum (KPU) dan Bawaslu
+C. Kementerian Dalam Negeri dan Polri
+D. DPR dan Presiden
+E. Partai-partai politik secara bersama
+✔ Kunci: B  |  Penyelenggaraan pemilu dilaksanakan oleh KPU (Komisi Pemilihan Umum) sebagai penyelenggara dan diawasi oleh Bawaslu (Badan Pengawas Pemilihan Umum).
+29. Prinsip persatuan Indonesia dalam sila ketiga Pancasila menghendaki agar...
+A. Budaya daerah dihilangkan demi persatuan
+B. Perbedaan suku, agama, dan budaya menjadi pemersatu di atas semangat kebangsaan
+C. Satu suku atau agama mendominasi yang lain
+D. Bahasa daerah dilarang digunakan
+E. Otonomi daerah dihapuskan
+✔ Kunci: B  |  Sila ketiga Pancasila mengajarkan bahwa perbedaan suku, agama, ras, dan budaya justru menjadi kekuatan persatuan bangsa yang diikat oleh semangat kebangsaan Indonesia.
+30. Hari Kesaktian Pancasila diperingati setiap tanggal 1 Oktober untuk mengenang...
+A. Proklamasi kemerdekaan Indonesia
+B. Kelahiran Pancasila pada sidang BPUPKI
+C. Berhasil digagalkannya pemberontakan G30S/PKI dan keselamatan Pancasila sebagai ideologi negara
+D. Pengesahan UUD 1945 oleh PPKI
+E. Sumpah Pemuda 1928
+✔ Kunci: C  |  Hari Kesaktian Pancasila, 1 Oktober, diperingati untuk mengenang berhasil digagalkannya pemberontakan G30S/PKI (1965) dan terbuktinya ketangguhan Pancasila sebagai dasar dan ideologi negara.
+
+BAGIAN II — TES INTELEGENSIA UMUM (TIU)  |  No. 31–65  |  35 Soal
+Petunjuk: Meliputi sub-tes Analitis, Silogisme, Analogi, Deret, dan Cerita. Nilai benar = 5, salah/kosong = 0. Passing grade: 80.
+31. Lima siswa datang ke kelas privat. Hilman datang sebelum Marni; Marni datang sesudah Kaka tetapi sebelum Udin; Kaka datang sesudah Hilman; Ririn datang sesudah Udin. Siapa yang datang paling awal?
+A. Hilman
+B. Marni
+C. Udin
+D. Kaka
+E. Ririn
+✔ Kunci: A  |  Dari relasi urutan: Hilman → Kaka → Marni → Udin → Ririn. Hilman paling awal.
+32. Dalam olimpiade kimia, nilai Amar lebih tinggi dari Yoga, tetapi tidak melebihi Oskar. Bahar berada di bawah Rio, tetapi di atas Oskar. Siapa yang berada di peringkat ketiga?
+A. Oskar
+B. Rio
+C. Bahar
+D. Amar
+E. Yoga
+✔ Kunci: A  |  Urutan: Rio > Bahar > Oskar ≥ Amar > Yoga. Peringkat ketiga adalah Oskar.
+33. Tiga orang—Angga, Riza, Dita—memilih mangga, durian, jeruk, atau apel. Angga tidak memilih mangga. Jika Riza memilih apel maka Dita memilih jeruk. Jika ada yang memilih durian, tidak ada yang memilih jeruk. Bila Angga memilih jeruk dan Riza memilih mangga, pernyataan yang benar adalah...
+A. Angga juga bisa memilih durian
+B. Riza dan Dita sama-sama bisa memilih apel
+C. Angga dan Dita sama-sama bisa memilih jeruk
+D. Dita bisa memilih mangga atau apel
+E. Hanya Riza yang bisa memilih mangga
+✔ Kunci: D  |  Angga=jeruk, Riza=mangga. Karena ada jeruk, tidak ada yang pilih durian. Dita tersisa pilihan mangga atau apel → D benar.
+34. Enam buku di rak: IPA, IPS, Agama, Bahasa Indonesia, Matematika, Penjaskes. Agama paling kiri; IPS paling kanan; Bahasa Indonesia di antara Agama dan Penjaskes; Penjaskes di kanan Bahasa Indonesia; IPA di kanan Matematika. Urutan dari kiri ke kanan adalah...
+A. Agama – Penjaskes – Matematika – Bahasa Indonesia – IPA – IPS
+B. IPS – Penjaskes – Matematika – Agama – Bahasa Indonesia – IPA
+C. Agama – Bahasa Indonesia – Penjaskes – Matematika – IPA – IPS
+D. Bahasa Indonesia – Agama – Matematika – Penjaskes – IPA – IPS
+E. IPS – Bahasa Indonesia – Penjaskes – IPA – Matematika – Agama
+✔ Kunci: C  |  Agama(1)–BI–Penjaskes; Matematika sebelum IPA; IPS(6). Urutan: Agama–BI–Penjaskes–Matematika–IPA–IPS.
+35. Enam karyawan A, B, C, D, E, F duduk melingkar. A tidak bersebelahan dengan B. C selalu bersebelahan dengan D. E bersebelahan dengan F. Jika B duduk di antara C dan E, siapa yang duduk di sebelah kiri A?
+A. C
+B. D
+C. F
+D. E
+E. B
+✔ Kunci: C  |  Dari posisi B antara C dan E, dan pasangan CD serta EF, serta A tidak di sebelah B, sisi kiri A adalah F.
+36. Sebagian dokter gigi juga dosen. Semua dokter gigi mempunyai klinik praktik. Simpulan paling tepat adalah...
+A. Semua dokter gigi adalah dosen
+B. Semua dokter gigi dosen dan berklinik
+C. Ada dokter gigi dosen yang tidak punya klinik
+D. Ada dokter gigi yang menjadi dosen dan mempunyai klinik
+E. Tak ada dokter gigi berklinik yang menjadi dosen
+✔ Kunci: D  |  Sebagian dokter gigi adalah dosen + semua dokter gigi punya klinik → sebagian dokter gigi (yang juga dosen) punya klinik.
+37. Semua saudara Bu Titin senang memasak. Pak Handoko tidak suka memasak. Simpulan paling tepat adalah...
+A. Pak Handoko saudara Bu Titin yang tidak suka memasak
+B. Pak Handoko bukan saudara Bu Titin
+C. Pak Handoko mungkin saudara Bu Titin
+D. Pak Handoko akan belajar memasak
+E. Pak Handoko adalah suami Bu Titin
+✔ Kunci: B  |  Jika saudara Bu Titin → suka memasak. Pak Handoko tidak suka memasak, maka Pak Handoko bukan saudara Bu Titin (modus tollens).
+38. Semua wartawan yang meliput hajatan presiden wajib membawa undangan perwakilan. Zaenal adalah wartawan yang tidak membawa undangan itu. Simpulan yang paling kuat adalah...
+A. Ada wartawan yang tidak ikut meliput hajatan presiden
+B. Zaenal ikut meliput hajatan presiden
+C. Zaenal tidak ikut meliput hajatan presiden
+D. Zaenal bukan wartawan
+E. Ada wartawan peliput presiden yang tak membawa undangan
+✔ Kunci: C  |  Modus tollens: jika meliput → wajib bawa undangan. Zaenal tidak bawa undangan, maka Zaenal tidak meliput.
+39. Sebagian sopir menjadi tukang ojek. Semua sopir memiliki SIM. Simpulan paling tepat adalah...
+A. Tidak ada sopir ber-SIM yang menjadi tukang ojek
+B. Semua sopir adalah tukang ojek dan ber-SIM
+C. Ada sopir yang menjadi tukang ojek dan memiliki SIM
+D. Ada sopir yang menjadi tukang ojek tetapi tak punya SIM
+E. Tidak ada simpulan yang tepat
+✔ Kunci: C  |  Sebagian sopir = tukang ojek dan semua sopir punya SIM → sebagian sopir yang jadi tukang ojek juga punya SIM.
+40. Semua pegawai negeri wajib menjaga netralitas. Budi adalah pegawai negeri. Maka...
+A. Budi mungkin tidak wajib menjaga netralitas
+B. Budi wajib menjaga netralitas
+C. Budi boleh berpolitik praktis
+D. Netralitas bukan kewajiban Budi
+E. Budi bukan pegawai negeri
+✔ Kunci: B  |  Silogisme sederhana: semua P adalah Q, Budi adalah P → Budi adalah Q (wajib menjaga netralitas).
+41. BUKU : MEMBACA = MUSIK : ...
+A. Nada
+B. Mendengarkan
+C. Melodi
+D. Instrumen
+E. Penyanyi
+✔ Kunci: B  |  Buku digunakan untuk membaca; musik digunakan untuk mendengarkan.
+42. DOKTER : PASIEN = GURU : ...
+A. Sekolah
+B. Ilmu
+C. Murid
+D. Mengajar
+E. Buku
+✔ Kunci: C  |  Dokter melayani pasien; guru melayani murid. Hubungannya adalah pemberi layanan – penerima layanan.
+43. PANAS : DINGIN = SIANG : ...
+A. Pagi
+B. Fajar
+C. Matahari
+D. Malam
+E. Sore
+✔ Kunci: D  |  Panas dan dingin adalah antonim; siang dan malam adalah antonim.
+44. PELUKIS : KANVAS = PENULIS : ...
+A. Pena
+B. Tinta
+C. Kertas
+D. Meja
+E. Buku
+✔ Kunci: C  |  Pelukis bekerja di atas kanvas; penulis bekerja di atas kertas. Hubungannya adalah pelaku – media kerja.
+45. MATA : PENGLIHATAN = TELINGA : ...
+A. Kepala
+B. Pendengaran
+C. Suara
+D. Bunyi
+E. Organ
+✔ Kunci: B  |  Mata berfungsi untuk penglihatan; telinga berfungsi untuk pendengaran.
+46. Lanjutkan deret berikut: 124, 62, 86, 43, ...
+A. 65
+B. 23
+C. 45
+D. 67
+E. 99
+✔ Kunci: D  |  Pola: ÷2, +24 bergantian. 43 + 24 = 67.
+47. Lanjutkan deret berikut: 49, 98, 110, 220, ...
+A. 222
+B. 243
+C. 221
+D. 232
+E. 211
+✔ Kunci: D  |  Pola: ×2, +12 bergantian. 220 + 12 = 232.
+48. Lanjutkan deret berikut: 96, 120, 60, 84, ...
+A. 34
+B. 43
+C. 42
+D. 33
+E. 41
+✔ Kunci: C  |  Pola: +24, ÷2 bergantian. 84 ÷ 2 = 42.
+49. Lanjutkan deret berikut: 124, 108, 95, 85, ...
+A. 89
+B. 76
+C. 90
+D. 78
+E. 23
+✔ Kunci: D  |  Selisih: -16, -13, -10 → -7. Jadi 85 - 7 = 78.
+50. Lanjutkan deret berikut: 3, 6, 12, 24, ...
+A. 36
+B. 42
+C. 48
+D. 60
+E. 72
+✔ Kunci: C  |  Deret geometri dengan rasio 2. 24 × 2 = 48.
+51. Lanjutkan deret berikut: 2, 5, 10, 17, 26, ...
+A. 33
+B. 35
+C. 36
+D. 37
+E. 40
+✔ Kunci: D  |  Selisih: 3, 5, 7, 9 → 11. Jadi 26 + 11 = 37.
+52. Lanjutkan deret berikut: 1, 1, 2, 3, 5, 8, ...
+A. 11
+B. 12
+C. 13
+D. 14
+E. 15
+✔ Kunci: C  |  Deret Fibonacci: setiap suku = jumlah dua suku sebelumnya. 5 + 8 = 13.
+53. Seorang pekerja mengemas roti dan sosis ke dalam total 240 kardus. Jumlah kardus roti adalah 3/5 dari jumlah kardus sosis. Berapa kardus roti?
+A. 120
+B. 90
+C. 150
+D. 85
+E. 135
+✔ Kunci: B  |  Roti:Sosis = 3:5, total = 8 bagian. 240 ÷ 8 × 3 = 90 kardus roti.
+54. Sebuah truk menempuh 120 km pada jam pertama, 60 km pada jam kedua, 30 km pada jam ketiga, dan seterusnya selalu setengah dari jam sebelumnya. Berapa jarak maksimum yang bisa ditempuh?
+A. 240 km
+B. 235 km
+C. 242,5 km
+D. 260 km
+E. 360 km
+✔ Kunci: A  |  Deret geometri tak hingga: S = a/(1-r) = 120/(1-0,5) = 240 km.
+55. Pak Yusuf menjual televisi seharga Rp1.200.000,00 dan memperoleh laba 25% dari harga beli. Berapa harga belinya?
+A. Rp925.000,00
+B. Rp950.000,00
+C. Rp890.000,00
+D. Rp960.000,00
+E. Rp1.010.000,00
+✔ Kunci: D  |  Harga jual = 125% × harga beli. Harga beli = 1.200.000 ÷ 1,25 = Rp960.000,00.
+56. Dalam rapat berisi 45 orang, setiap orang berjabat tangan tepat satu kali dengan semua orang lain. Berapa total jabat tangan yang terjadi?
+A. 1.008
+B. 990
+C. 768
+D. 962
+E. 874
+✔ Kunci: B  |  C(45,2) = 45×44/2 = 990 jabat tangan.
+57. Sebuah pekerjaan dapat diselesaikan oleh Andi dalam 12 hari dan oleh Budi dalam 6 hari. Jika keduanya bekerja bersama, berapa hari pekerjaan itu selesai?
+A. 2 hari
+B. 3 hari
+C. 4 hari
+D. 5 hari
+E. 6 hari
+✔ Kunci: C  |  Kecepatan Andi = 1/12, Budi = 1/6 = 2/12. Bersama = 3/12 = 1/4. Waktu = 4 hari.
+58. Jarak kota A ke kota B adalah 300 km. Sebuah bus berangkat dari A menuju B dengan kecepatan 60 km/jam. Berapa jam perjalanan itu?
+A. 3 jam
+B. 4 jam
+C. 5 jam
+D. 6 jam
+E. 7 jam
+✔ Kunci: C  |  Waktu = jarak ÷ kecepatan = 300 ÷ 60 = 5 jam.
+59. Harga 5 kg beras adalah Rp75.000,00. Berapa harga 8 kg beras?
+A. Rp100.000,00
+B. Rp110.000,00
+C. Rp120.000,00
+D. Rp130.000,00
+E. Rp140.000,00
+✔ Kunci: C  |  Harga per kg = 75.000 ÷ 5 = 15.000. Harga 8 kg = 8 × 15.000 = Rp120.000,00.
+60. Antonim dari kata REDUNDAN adalah...
+A. Berlebihan
+B. Ringkas
+C. Lengkap
+D. Padat
+E. Sempit
+✔ Kunci: B  |  Redundan artinya berlebihan/mubazir. Antonimnya adalah ringkas/efisien.
+61. Sinonim dari kata INTEGRITAS adalah...
+A. Korupsi
+B. Kejujuran
+C. Kepintaran
+D. Kecepatan
+E. Kemewahan
+✔ Kunci: B  |  Integritas bermakna kejujuran, ketulusan, dan keutuhan moral dalam bertindak.
+62. ABJAD : HURUF = SKALA : ...
+A. Peta
+B. Angka
+C. Jarak
+D. Penggaris
+E. Ukuran
+✔ Kunci: E  |  Abjad adalah sistem dari huruf-huruf; skala adalah sistem dari ukuran-ukuran.
+63. Bacalah pernyataan: 'Bila hari hujan, maka jalan menjadi basah. Hari ini jalan basah.' Simpulan yang tepat adalah...
+A. Hari ini pasti hujan
+B. Hari ini mungkin hujan atau ada penyebab lain
+C. Tidak ada hujan hari ini
+D. Jalan basah bukan karena hujan
+E. Hari tidak hujan
+✔ Kunci: B  |  Jalan basah bisa karena hujan atau sebab lain (banjir, disiram, dll). Tidak bisa menyimpulkan pasti hujan.
+64. Kata yang tidak satu kelompok dengan GIGIH, ULET, TEKUN adalah...
+A. Pantang menyerah
+B. Rajin
+C. Ceroboh
+D. Sabar
+E. Telaten
+✔ Kunci: C  |  Gigih, ulet, tekun, rajin, sabar, telaten semuanya berkonotasi positif. Ceroboh berkonotasi negatif.
+65. Lawan kata dari TRANSPARAN adalah...
+A. Jelas
+B. Buram/Opak
+C. Bersih
+D. Terang
+E. Terbuka
+✔ Kunci: B  |  Transparan artinya tembus pandang/terbuka. Antonimnya adalah opak/buram (tidak tembus pandang).
+
+BAGIAN III — TES KARAKTERISTIK PRIBADI (TKP)  |  No. 66–110  |  45 Soal
+Petunjuk: Pilih jawaban yang PALING MENCERMINKAN sikap terbaik ASN. Nilai 1–5 berdasarkan kesesuaian, kosong = 0. Passing grade: 166.
+66. [Pelayanan Publik] Seorang warga datang ke kantor Anda dengan membawa keluhan yang menurutnya sangat mendesak, namun sebenarnya bukan kewenangan unit Anda. Apa yang Anda lakukan?
+A. Menolak melayani karena bukan wewenang Anda
+B. Mendengarkan keluhan, lalu mengarahkan ke unit yang berwenang dan memastikan warga terlayani
+C. Menyuruh warga mencari sendiri unit yang berwenang
+D. Menerima keluhan tanpa tindak lanjut
+E. Meminta warga datang kembali besok
+✔ Kunci: B  |  Orientasi pelayanan publik terbaik: tetap bantu, arahkan dengan tepat, pastikan warga terlayani.
+67. [Pelayanan Publik] Anda menemukan bahwa prosedur yang selama ini dijalankan unit Anda ternyata mempersulit masyarakat. Sikap terbaik Anda adalah...
+A. Diam karena itu bukan urusan Anda
+B. Mengeluh kepada rekan kerja saja
+C. Menyusun usulan perbaikan prosedur secara tertulis dan menyampaikannya kepada pimpinan
+D. Mengabaikan karena prosedur adalah aturan yang tidak bisa diubah
+E. Menyebarkan ketidakpuasan kepada masyarakat
+✔ Kunci: C  |  ASN yang baik bersikap proaktif: mengidentifikasi masalah dan menyampaikan usulan perbaikan secara konstruktif kepada pimpinan.
+68. [Pelayanan Publik] Seorang warga lanjut usia kesulitan mengisi formulir administrasi online. Tindakan paling tepat yang Anda lakukan adalah...
+A. Meminta keluarganya yang membantu
+B. Membantu langsung mengisi formulir sambil menjelaskan caranya
+C. Menyarankan kembali nanti
+D. Menolak dengan alasan harus diisi sendiri
+E. Memberikan nomor call center
+✔ Kunci: B  |  Pelayanan prima mengutamakan empati dan kepedulian, terutama kepada kelompok rentan seperti lansia.
+69. [Pelayanan Publik] Di tengah antrean panjang, seorang warga memotong antrean dan berdalih ada kepentingan mendesak. Respons terbaik Anda sebagai petugas adalah...
+A. Langsung melayani agar tidak ribut
+B. Menolak dengan kasar agar jera
+C. Menjelaskan dengan sopan bahwa prosedur antrean berlaku bagi semua, dan menawarkan solusi (misal nomor antrean khusus) jika ada prioritas
+D. Mengabaikan dan melanjutkan pelayanan warga lain
+E. Memanggil satpam
+✔ Kunci: C  |  Pelayanan prima: tetap tegas terhadap aturan namun sopan, dan mencari solusi terbaik bagi semua.
+70. [Pelayanan Publik] Anda mendapat keluhan dari warga bahwa pelayanan unit Anda lambat. Respons Anda adalah...
+A. Menyalahkan rekan kerja yang malas
+B. Menerima keluhan dengan lapang dada, menganalisis penyebab, dan berupaya memperbaiki
+C. Mengabaikan karena itu pendapat subjektif warga
+D. Membalas keluhan dengan alasan kekurangan staf
+E. Melaporkan warga ke pimpinan
+✔ Kunci: B  |  Feedback dari masyarakat adalah bahan evaluasi berharga. Sikap terbaik: terima, analisis, perbaiki.
+71. [Jejaring Kerja] Anda ditugaskan dalam tim lintas unit untuk proyek baru. Anggota tim dari unit lain memiliki cara kerja yang berbeda dengan kebiasaan Anda. Sikap Anda adalah...
+A. Memaksakan cara kerja Anda
+B. Menolak bekerja sama karena berbeda metode
+C. Terbuka untuk berdiskusi, mencari pendekatan terbaik secara kolaboratif
+D. Diam dan pasif agar tidak konflik
+E. Melaporkan ke pimpinan bahwa tim tidak solid
+✔ Kunci: C  |  Kolaborasi lintas unit menuntut keterbukaan, fleksibilitas, dan kemampuan mencari solusi bersama.
+72. [Jejaring Kerja] Rekan kerja Anda di unit lain sedang kewalahan dengan pekerjaan sementara Anda sedang tidak terlalu sibuk. Tindakan Anda adalah...
+A. Diam karena itu bukan urusan Anda
+B. Menawarkan bantuan sesuai kapasitas Anda
+C. Menunggu diminta bantuan terlebih dahulu
+D. Mengeluh kepada pimpinan tentang distribusi kerja
+E. Pulang lebih awal karena pekerjaan Anda sudah selesai
+✔ Kunci: B  |  Semangat kolaborasi dan saling membantu antar unit adalah ciri ASN yang berorientasi pada tujuan bersama.
+73. [Jejaring Kerja] Anda perlu mendapatkan data dari unit lain untuk menyelesaikan laporan, tetapi kontak di unit tersebut tidak responsif. Langkah terbaik Anda adalah...
+A. Menyerah dan melewatkan data tersebut
+B. Mencoba menghubungi melalui saluran lain atau menemui langsung, dan bila perlu eskalasi ke pimpinan
+C. Menuduh unit lain tidak kooperatif
+D. Membuat data sendiri tanpa konfirmasi
+E. Menunggu sampai direspons tanpa tindakan lanjut
+✔ Kunci: B  |  Proaktif dan persistens dalam koordinasi adalah kunci penyelesaian pekerjaan yang efektif.
+74. [Jejaring Kerja] Dalam rapat tim, pendapat Anda ditolak oleh mayoritas anggota. Respons terbaik Anda adalah...
+A. Marah dan meninggalkan rapat
+B. Tetap memaksakan pendapat
+C. Menerima keputusan bersama sambil tetap menyampaikan catatan dengan santun untuk pertimbangan ke depan
+D. Memendam kekecewaan dan tidak berpartisipasi aktif lagi
+E. Mengadu ke pimpinan bahwa suara Anda tidak dihargai
+✔ Kunci: C  |  Kemampuan menerima keputusan kolektif dengan lapang dada sambil tetap konstruktif adalah tanda kedewasaan profesional.
+75. [Jejaring Kerja] Anda memiliki informasi penting yang dapat membantu rekan satu tim menyelesaikan tugasnya lebih efisien. Yang terbaik Anda lakukan adalah...
+A. Menyimpannya untuk diri sendiri agar terlihat lebih unggul
+B. Berbagi informasi tersebut dengan rekan secara proaktif
+C. Menunggu diminta terlebih dahulu
+D. Melaporkan ke pimpinan bahwa rekan Anda kurang informasi
+E. Menggunakan informasi itu untuk kepentingan pribadi
+✔ Kunci: B  |  Berbagi pengetahuan secara proaktif memperkuat tim dan mencerminkan orientasi pada tujuan bersama.
+76. [Sosial Budaya] Unit kerja Anda baru saja menerima pegawai dari daerah dengan latar belakang budaya yang berbeda. Sikap Anda yang paling tepat adalah...
+A. Menjaga jarak karena perbedaan budaya berpotensi menimbulkan konflik
+B. Memperkenalkan diri, menghargai perbedaan, dan membantu adaptasi rekan baru
+C. Meminta rekan baru menyesuaikan diri sepenuhnya
+D. Mendiamkan dan menunggu rekan baru berinisiatif
+E. Membentuk kelompok berdasarkan kesamaan daerah asal
+✔ Kunci: B  |  ASN yang baik menghargai keberagaman, bersikap inklusif, dan mendukung integrasi rekan baru ke dalam tim.
+77. [Sosial Budaya] Di lingkungan kerja Anda berkembang isu SARA yang memperkeruh suasana. Tindakan paling tepat Anda adalah...
+A. Ikut menyebarkan isu tersebut untuk mendapatkan informasi lebih lanjut
+B. Diam dan tidak melakukan apa-apa
+C. Menolak menyebarkan isu, meluruskan informasi yang salah, dan mendorong dialog yang sehat
+D. Melaporkan seluruh rekan yang terlibat
+E. Memihak kelompok yang paling banyak anggotanya
+✔ Kunci: C  |  ASN harus menjaga persatuan dengan menolak isu SARA, meluruskan informasi, dan mendorong komunikasi yang sehat.
+78. [Sosial Budaya] Anda perlu mengambil keputusan yang melibatkan rekan kerja dari berbagai latar belakang agama. Pendekatan Anda yang paling tepat adalah...
+A. Mengabaikan aspek keberagaman dalam pengambilan keputusan
+B. Mengutamakan kepentingan agama mayoritas
+C. Mempertimbangkan nilai-nilai universal dan menghargai semua pihak secara adil
+D. Meminta pendapat hanya dari satu kelompok agama
+E. Menghindari keterlibatan semua pihak untuk mempercepat keputusan
+✔ Kunci: C  |  Keputusan yang baik harus dilandasi nilai-nilai universal, adil, dan menghargai keberagaman semua pihak.
+79. [Sosial Budaya] Seorang rekan membuat lelucon yang secara tidak sengaja menyinggung suku tertentu. Respons Anda yang paling tepat adalah...
+A. Ikut tertawa agar suasana tidak canggung
+B. Diam saja karena itu hanya gurauan
+C. Menegur dengan sopan bahwa lelucon semacam itu tidak pantas dan berpotensi menyinggung
+D. Melaporkan langsung ke HRD sebagai pelanggaran berat
+E. Membalas dengan lelucon tentang suku lain
+✔ Kunci: C  |  Menegur dengan sopan adalah langkah tepat untuk menjaga harmonisasi dan menghindari perluasan masalah.
+80. [Sosial Budaya] Anda diminta mewakili instansi dalam kegiatan sosial di komunitas yang berbeda budaya dari Anda. Persiapan yang paling tepat adalah...
+A. Datang tanpa persiapan apapun
+B. Mempelajari budaya setempat dan menyesuaikan sikap agar tidak menyinggung
+C. Meminta rekan lain yang berlatar budaya sama untuk menggantikan Anda
+D. Menolak tugas tersebut
+E. Membawa budaya Anda sendiri dan memperkenalkannya tanpa mempertimbangkan konteks
+✔ Kunci: B  |  Literasi budaya dan adaptasi adalah kunci dalam mewakili instansi di komunitas berbeda.
+81. [TIK] Anda menerima email yang tampak resmi dari 'pimpinan' meminta Anda mengirimkan data kepegawaian melalui tautan tertentu. Tindakan Anda adalah...
+A. Langsung mengirimkan data yang diminta
+B. Mengabaikan email tersebut
+C. Memverifikasi keaslian email dengan menghubungi pimpinan melalui saluran komunikasi resmi sebelum mengambil tindakan
+D. Memforward email ke semua rekan untuk konfirmasi
+E. Menghapus email dan tidak melapor
+✔ Kunci: C  |  Kewaspadaan terhadap phishing: selalu verifikasi permintaan data sensitif melalui saluran resmi.
+82. [TIK] Anda mengetahui bahwa seorang rekan menggunakan komputer kantor untuk kepentingan pribadi secara berlebihan. Sikap Anda adalah...
+A. Membiarkan karena bukan urusan Anda
+B. Ikut menggunakan fasilitas kantor untuk kepentingan pribadi
+C. Mengingatkan rekan secara pribadi tentang aturan penggunaan aset negara
+D. Langsung melaporkan ke Inspektorat tanpa teguran terlebih dahulu
+E. Mengancam akan melaporkan jika tidak berhenti
+✔ Kunci: C  |  Pendekatan terbaik adalah teguran personal yang santun terlebih dahulu sebelum eskalasi.
+83. [TIK] Anda diminta pimpinan untuk membuat laporan dengan aplikasi yang belum pernah Anda gunakan. Tindakan terbaik adalah...
+A. Menolak karena tidak terampil
+B. Meminta rekan lain mengerjakannya atas nama Anda
+C. Berinisiatif mempelajari aplikasi tersebut melalui tutorial dan meminta bimbingan jika perlu
+D. Mengerjakan dengan aplikasi yang biasa Anda pakai tanpa memberitahu pimpinan
+E. Menunggu pelatihan formal
+✔ Kunci: C  |  ASN yang adaptif dan berorientasi belajar akan berinisiatif mempelajari teknologi baru yang dibutuhkan.
+84. [TIK] Anda menemukan data rahasia instansi tersimpan tanpa enkripsi di folder bersama yang bisa diakses semua pegawai. Tindakan paling tepat Anda adalah...
+A. Membiarkan karena bukan tanggung jawab Anda
+B. Mengakses data tersebut untuk memastikan isinya
+C. Segera melaporkan ke pengelola sistem/IT dan atasan agar dilakukan pengamanan data
+D. Menghapus data untuk menghindari kebocoran
+E. Memindahkan data ke komputer pribadi untuk diamankan
+✔ Kunci: C  |  Keamanan data instansi adalah tanggung jawab bersama. Laporkan segera kepada pihak yang berwenang.
+85. [TIK] Anda menemukan informasi yang Anda ragukan kebenarannya beredar di grup WA resmi instansi. Respons terbaik Anda adalah...
+A. Langsung meneruskan ke grup lain agar diverifikasi bersama
+B. Memverifikasi informasi ke sumber resmi sebelum menyebarkannya, dan mengingatkan anggota grup untuk berhati-hati
+C. Mengabaikan karena bukan urusan Anda
+D. Langsung membantah tanpa verifikasi
+E. Meninggalkan grup
+✔ Kunci: B  |  Literasi digital: verifikasi sebelum menyebar, dan edukasi komunitas tentang misinformasi.
+86. [Profesionalisme] Anda menyelesaikan pekerjaan lebih cepat dari target. Waktu luang yang tersisa Anda gunakan untuk...
+A. Bermain ponsel
+B. Pulang lebih awal
+C. Mengerjakan pekerjaan lain yang belum selesai atau meningkatkan kompetensi melalui belajar mandiri
+D. Mengobrol dengan rekan kerja
+E. Menunggu instruksi tanpa melakukan apapun
+✔ Kunci: C  |  ASN profesional memanfaatkan waktu dengan produktif untuk kemajuan pekerjaan dan pengembangan diri.
+87. [Profesionalisme] Anda membuat kesalahan dalam laporan yang sudah terlanjur dikirim ke pimpinan. Tindakan paling tepat Anda adalah...
+A. Diam dan berharap tidak ada yang menyadari
+B. Menyalahkan rekan yang membantu
+C. Segera melaporkan kesalahan kepada pimpinan, meminta maaf, dan menyiapkan koreksi
+D. Menunggu pimpinan bertanya
+E. Membuat alasan untuk menutupi kesalahan
+✔ Kunci: C  |  Integritas profesional: akui kesalahan, minta maaf, dan segera koreksi.
+88. [Profesionalisme] Pimpinan Anda meminta Anda melakukan sesuatu yang menurut Anda kurang tepat secara prosedural. Tindakan Anda adalah...
+A. Menolak secara langsung di depan umum
+B. Melaksanakan perintah tanpa pertanyaan meskipun berpotensi melanggar aturan
+C. Menyampaikan keberatan secara sopan dan privat dengan disertai dasar aturan, lalu mendiskusikan solusinya bersama
+D. Mengadu ke atasan pimpinan tanpa diskusi terlebih dahulu
+E. Berpura-pura melaksanakan namun tidak sungguh-sungguh
+✔ Kunci: C  |  ASN yang baik menyampaikan keberatan dengan sopan, berdasarkan aturan, secara privat, dan mencari solusi bersama.
+89. [Profesionalisme] Anda ditugaskan menghadiri seminar nasional yang relevan dengan pekerjaan Anda. Yang Anda lakukan setelah menghadiri seminar adalah...
+A. Menyimpan materi untuk diri sendiri
+B. Membuat laporan dan berbagi intisari ilmu kepada rekan kerja dan pimpinan
+C. Melaporkan hanya kehadiran tanpa substansi
+D. Menghadiri seminar hanya untuk absensi
+E. Tidak melakukan tindak lanjut apapun
+✔ Kunci: B  |  Pengembangan kompetensi bermanfaat optimal bila dilanjutkan dengan berbagi pengetahuan kepada tim.
+90. [Profesionalisme] Target kerja Anda tidak tercapai pada bulan ini. Respons profesional Anda adalah...
+A. Menyalahkan situasi eksternal sepenuhnya
+B. Melakukan evaluasi diri, mengidentifikasi penyebab, dan menyusun rencana perbaikan
+C. Mengabaikan dan berharap bulan depan lebih baik
+D. Meminta target dikurangi
+E. Menyalahkan rekan atau sistem
+✔ Kunci: B  |  Profesionalisme menuntut akuntabilitas pribadi: evaluasi, identifikasi penyebab, dan perbaiki.
+91. [Anti-Radikalisme] Anda mengetahui ada rekan yang mulai terpapar konten bernada radikal di media sosial dan mulai menunjukkan perubahan sikap. Tindakan Anda adalah...
+A. Membiarkan karena itu urusan pribadinya
+B. Ikut membaca konten tersebut karena penasaran
+C. Mendekati secara personal untuk berdiskusi, memberikan perspektif positif, dan bila perlu melaporkan ke yang berwenang
+D. Langsung melaporkan ke polisi
+E. Menjauhi rekan tersebut
+✔ Kunci: C  |  Pendekatan terbaik: lakukan dialog preventif secara personal terlebih dahulu, baru eskalasi bila diperlukan.
+92. [Anti-Radikalisme] Anda menerima ajakan untuk mengikuti pertemuan yang mengkampanyekan ideologi yang bertentangan dengan Pancasila. Sikap Anda adalah...
+A. Menghadiri untuk mengetahui isinya
+B. Menolak dengan tegas dan melaporkan kepada pihak berwenang
+C. Mengajak rekan lain untuk menghadiri bersama
+D. Diam-diam mengikuti agar tidak menimbulkan konflik
+E. Mengabaikan ajakan tanpa tindakan lebih lanjut
+✔ Kunci: B  |  ASN wajib menjaga ideologi Pancasila: tolak dengan tegas dan laporkan kepada pihak berwenang.
+93. [Anti-Radikalisme] Di ruang makan kantor, Anda mendengar percakapan rekan tentang ideologi tertentu yang berpotensi intoleran. Respons Anda adalah...
+A. Pura-pura tidak mendengar
+B. Bergabung dan menyetujui percakapan agar tidak dikucilkan
+C. Menyampaikan pandangan moderat dan mengajak diskusi yang sehat dan toleran
+D. Langsung marah dan menegur keras
+E. Melaporkan semua pihak yang terlibat tanpa memberikan kesempatan dialog
+✔ Kunci: C  |  Moderasi beragama dan toleransi dibangun melalui dialog sehat, bukan pemaksaan atau pengabaian.
+94. [Anti-Radikalisme] Anda menemukan konten di media sosial yang menyebarkan ujaran kebencian berbasis SARA yang dibuat seseorang yang Anda kenal. Tindakan Anda adalah...
+A. Like dan share karena setuju
+B. Mengabaikan
+C. Menghubungi orang tersebut secara pribadi, mengingatkan dampak hukum dan sosialnya, dan bila konten sudah viral melaporkan ke platform
+D. Langsung memblokir orang tersebut
+E. Membuat konten balasan yang juga berisi kebencian
+✔ Kunci: C  |  Edukasi personal lebih efektif sebagai langkah pertama sebelum eskalasi ke platform atau hukum.
+95. [Anti-Radikalisme] Seseorang menawarkan Anda bergabung dalam komunitas yang menjanjikan kesempatan karier lebih baik, namun ternyata memiliki ideologi eksklusif yang mengesampingkan persatuan bangsa. Sikap Anda adalah...
+A. Bergabung karena keuntungan kariernya menarik
+B. Bergabung sambil berpura-pura tidak mengetahui ideologinya
+C. Menolak dan menjelaskan alasannya berdasarkan komitmen terhadap nilai-nilai kebangsaan
+D. Diam dan tidak mengambil keputusan
+E. Melaporkan ke polisi tanpa klarifikasi lebih lanjut
+✔ Kunci: C  |  ASN berkomitmen pada nilai kebangsaan: tolak dengan tegas, jelaskan alasannya dengan bijak.
+96. [Pelayanan Publik] Anggaran untuk program pelayanan publik yang Anda kelola tidak mencukupi untuk memenuhi semua kebutuhan. Langkah terbaik Anda adalah...
+A. Menggunakan anggaran program lain tanpa izin
+B. Melaporkan kondisi kepada pimpinan, memprioritaskan kebutuhan yang paling mendesak, dan mencari solusi efisiensi
+C. Menghentikan seluruh program
+D. Memungut biaya tambahan dari warga
+E. Mengabaikan kekurangan anggaran
+✔ Kunci: B  |  Manajemen anggaran yang baik: transparan kepada pimpinan, prioritas kebutuhan esensial, efisiensi.
+97. [Profesionalisme] Anda diminta oleh pimpinan untuk menyelesaikan laporan dalam waktu yang sangat singkat. Respons Anda adalah...
+A. Menolak karena waktunya tidak cukup
+B. Menerima dengan menyampaikan gambaran realistis tentang scope yang bisa diselesaikan, lalu bekerja semaksimal mungkin
+C. Menyanggupi namun mengerjakan asal-asalan
+D. Meminta rekan lain mengerjakan seluruhnya
+E. Diam dan tidak merespons
+✔ Kunci: B  |  Profesionalisme: jujur tentang kapasitas, berkomitmen pada kualitas terbaik dalam kondisi yang ada.
+98. [Jejaring Kerja] Anda menyadari ada konflik yang belum terselesaikan antara dua rekan satu tim yang berdampak pada produktivitas kerja. Sebagai anggota tim lainnya, Anda...
+A. Memihak salah satu pihak
+B. Tidak campur tangan karena bukan urusan Anda
+C. Memfasilitasi dialog antara keduanya secara netral, atau menyarankan mediasi dengan pimpinan
+D. Melaporkan keduanya ke HRD
+E. Membiarkan konflik berkembang sendiri
+✔ Kunci: C  |  Resolusi konflik konstruktif: fasilitasi dialog atau mediasi, bukan mengabaikan atau memperburuk.
+99. [Sosial Budaya] Kebijakan baru instansi menurut Anda kurang mempertimbangkan aspek keberagaman budaya pegawai. Yang Anda lakukan adalah...
+A. Melanggar kebijakan tersebut diam-diam
+B. Menerima pasif meskipun tidak setuju
+C. Menyampaikan masukan konstruktif melalui jalur resmi (forum diskusi, surat, atau konsultasi dengan pimpinan)
+D. Menghasut rekan untuk menolak kebijakan
+E. Mengundurkan diri dari instansi
+✔ Kunci: C  |  Menyampaikan aspirasi melalui jalur resmi dan konstruktif adalah cara yang tepat dalam berorganisasi.
+100. [Anti-Radikalisme] Dalam perjalanan dinas, Anda mendengar informasi tentang adanya kelompok yang merencanakan aksi yang mengancam keamanan nasional di daerah tersebut. Tindakan Anda adalah...
+A. Mengabaikan karena bukan tugas Anda
+B. Segera melaporkan ke aparat keamanan yang berwenang dengan informasi yang Anda ketahui
+C. Mencari tahu lebih lanjut sendiri sebelum melapor
+D. Memberitahu rekan perjalanan saja
+E. Menunggu untuk memastikan informasi lebih valid dulu sebelum berbuat apapun
+✔ Kunci: B  |  Ancaman keamanan nasional harus segera dilaporkan ke aparat berwenang; menunda laporan bisa berisiko.
+101. [Pelayanan Publik] Masyarakat memberikan hadiah kepada Anda sebagai tanda terima kasih atas pelayanan yang baik. Respons Anda adalah...
+A. Menerima karena tidak minta
+B. Menerima karena nilainya kecil
+C. Menolak dengan sopan dan menjelaskan bahwa pelayanan adalah kewajiban Anda sebagai ASN
+D. Menerima lalu melaporkannya ke atasan
+E. Menolak dengan kasar
+✔ Kunci: C  |  ASN dilarang menerima gratifikasi dalam bentuk apapun. Tolak dengan sopan dan jelaskan kewajibannya.
+102. [Profesionalisme] Anda mengetahui bahwa ada rekan yang melakukan korupsi kecil dalam laporan keuangan. Tindakan Anda adalah...
+A. Diam karena nilainya kecil
+B. Ikut mengambil keuntungan yang sama
+C. Menegur secara personal dan mendorong rekan untuk mengoreksi, serta melaporkan ke atasan atau Inspektorat jika tidak diindahkan
+D. Langsung mempermalukan di depan umum
+E. Mengancam akan melapor untuk meminta keuntungan
+✔ Kunci: C  |  Integritas: teguran personal dulu, lalu eskalasi secara formal jika tidak ada perubahan.
+103. [TIK] Anda diminta menggunakan sistem informasi baru yang dinilai lebih efisien oleh instansi. Namun Anda merasa sistem lama lebih nyaman. Tindakan Anda adalah...
+A. Tetap menggunakan sistem lama secara diam-diam
+B. Menolak menggunakan sistem baru
+C. Beradaptasi dengan sistem baru, mencatat kendala yang ditemui, dan menyampaikan masukan untuk penyempurnaan
+D. Meminta pengecualian untuk tetap menggunakan sistem lama
+E. Mengabaikan instruksi
+✔ Kunci: C  |  Adaptasi terhadap perubahan teknologi dan memberikan masukan konstruktif adalah sikap ASN yang progresif.
+104. [Jejaring Kerja] Anda diminta memimpin rapat tim yang anggotanya lebih senior dari Anda. Pendekatan terbaik Anda adalah...
+A. Mendominasi rapat untuk menunjukkan otoritas
+B. Menolak memimpin rapat
+C. Memimpin dengan menghargai pengalaman senior, membuka ruang berpendapat bagi semua, dan mengarahkan rapat ke tujuan yang jelas
+D. Hanya diam dan mencatat
+E. Menyerahkan pimpinan rapat kepada yang paling senior
+✔ Kunci: C  |  Kepemimpinan yang baik: inklusif, menghargai semua pihak, dan berorientasi pada pencapaian tujuan.
+105. [Sosial Budaya] Pada hari besar keagamaan rekan yang berbeda agama, sikap Anda yang paling tepat adalah...
+A. Mengabaikan karena berbeda keyakinan
+B. Mengucapkan selamat dan menghormati hari besar tersebut sebagai bentuk toleransi
+C. Menghindari interaksi pada hari tersebut
+D. Memberikan pertanyaan kritis tentang keyakinan mereka
+E. Mengikuti perayaan mereka agar terlihat toleran
+✔ Kunci: B  |  Toleransi beragama diwujudkan dengan menghormati dan mengucapkan selamat tanpa harus ikut merayakan.
+106. [Anti-Radikalisme] Anda melihat konten video di media sosial yang mengklaim bahwa sistem pemerintahan yang ada harus diganti dengan ideologi tertentu yang tidak sesuai Pancasila. Tindakan Anda adalah...
+A. Menyebarkan video tersebut agar lebih banyak yang mengetahui
+B. Menyimpan video untuk ditonton kemudian
+C. Tidak menyebarkan, melaporkan ke platform media sosial dan/atau pihak berwenang, serta menyebarkan konten positif tentang Pancasila
+D. Memberikan komentar mendukung
+E. Mengabaikan
+✔ Kunci: C  |  Lawan konten anti-Pancasila dengan pelaporan dan penyebaran narasi positif, bukan keikutsertaan.
+107. [Pelayanan Publik] Anda menangani pengaduan warga yang sangat emosional dan berbicara dengan keras. Respons terbaik Anda adalah...
+A. Membalas dengan nada yang sama kerasnya
+B. Meninggalkan warga tersebut
+C. Tetap tenang, mendengarkan dengan empati, mengakui perasaan warga, dan fokus pada penyelesaian masalah
+D. Meminta bantuan satpam untuk mengusir warga
+E. Memberikan janji palsu agar warga tenang
+✔ Kunci: C  |  Penanganan pengaduan emosional: empati, ketenangan, dan fokus solusi adalah kunci de-eskalasi.
+108. [Profesionalisme] Anda mendapat tawaran proyek sampingan yang menggunakan keahlian Anda namun berpotensi konflik kepentingan dengan tugas utama Anda di instansi. Tindakan Anda adalah...
+A. Menerima proyek tersebut karena menggiurkan
+B. Menerima namun merahasiakannya dari instansi
+C. Menolak atau berkonsultasi dengan pimpinan dan bagian hukum tentang kebolehannya sebelum memutuskan
+D. Meminta pendapat rekan tanpa melibatkan instansi
+E. Mengerjakan di waktu kerja tanpa sepengetahuan pimpinan
+✔ Kunci: C  |  Konflik kepentingan harus ditangani secara transparan melalui konsultasi dengan pimpinan dan aturan yang berlaku.
+109. [Sosial Budaya] Dalam kegiatan penyuluhan kepada masyarakat adat, Anda menemukan bahwa nilai-nilai lokal mereka berbeda dari standar nasional. Pendekatan yang tepat adalah...
+A. Memaksakan standar nasional tanpa mempertimbangkan nilai lokal
+B. Mengabaikan standar nasional dan mengikuti semua keinginan lokal
+C. Membangun dialog yang menghormati nilai lokal sambil menjelaskan manfaat dan konteks kebijakan nasional secara bijaksana
+D. Menyerahkan seluruh urusan kepada pemimpin adat
+E. Menghindari isu sensitif tersebut sama sekali
+✔ Kunci: C  |  Pendekatan dialog yang menghormati nilai lokal sambil menjelaskan kebijakan nasional adalah cara paling efektif dan bermartabat.
+110. [Profesionalisme] Anda menyadari kompetensi Anda dalam bidang tertentu masih kurang, sementara pekerjaan Anda membutuhkan kompetensi tersebut. Tindakan Anda adalah...
+A. Menyembunyikan kekurangan tersebut
+B. Mengambil inisiatif untuk belajar secara mandiri, mengikuti pelatihan, dan meminta bimbingan dari yang lebih ahli
+C. Meminta alih tugas ke pekerjaan yang lebih mudah
+D. Menunggu instansi menyediakan pelatihan
+E. Menyerahkan seluruh pekerjaan kepada rekan yang lebih kompeten
+✔ Kunci: B  |  ASN yang profesional terus mengembangkan diri secara proaktif untuk memenuhi tuntutan kompetensi.

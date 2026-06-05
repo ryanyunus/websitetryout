@@ -13,10 +13,12 @@ class Option extends Model
         'question_id',
         'option_text',
         'is_correct',
+        'points',
     ];
 
     protected $casts = [
         'is_correct' => 'boolean',
+        'points' => 'integer',
     ];
 
     public function question()

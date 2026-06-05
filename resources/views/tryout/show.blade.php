@@ -7,6 +7,13 @@
 
     <div class="py-12">
         <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
+            <!-- Error messages -->
+            @if(session('error'))
+                <div class="mb-4 bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded relative" role="alert">
+                    <strong class="font-bold">Oops!</strong>
+                    <span class="block sm:inline">{{ session('error') }}</span>
+                </div>
+            @endif
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-2xl rounded-3xl">
                 <div class="p-8 sm:p-12 border-b border-gray-200 dark:border-gray-700 text-center">
                     <h1 class="text-3xl sm:text-5xl font-extrabold text-gray-900 dark:text-white mb-4">
@@ -29,13 +36,24 @@
                         </div>
                     </div>
 
-                    <form action="{{ route('tryout.start', $tryout->id) }}" method="POST">
-                        @csrf
-                        <button type="submit" class="inline-flex justify-center items-center px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-700 border border-transparent rounded-full font-bold text-lg text-white uppercase tracking-widest hover:from-blue-700 hover:to-indigo-800 focus:outline-none focus:ring-4 focus:ring-indigo-500/50 shadow-lg shadow-indigo-500/30 transform transition hover:-translate-y-1">
-                            Mulai Kerjakan Sekarang
-                            <svg class="ml-3 -mr-1 w-6 h-6 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
-                        </button>
-                    </form>
+                    @if($tryout->is_premium && !$hasAccess)
+                        <div class="bg-yellow-50 border border-yellow-200 rounded-2xl p-6 mb-8 text-center">
+                            <h3 class="text-xl font-bold text-yellow-800 mb-2">Paket Premium Berbayar</h3>
+                            <p class="text-yellow-700 mb-4">Anda perlu melakukan pembayaran sebesar <strong>Rp {{ number_format($tryout->price, 0, ',', '.') }}</strong> untuk mengakses paket ini.</p>
+                            <a href="{{ route('tryout.checkout', $tryout->id) }}" class="inline-flex justify-center items-center px-8 py-4 bg-gradient-to-r from-yellow-500 to-yellow-600 border border-transparent rounded-full font-bold text-lg text-white uppercase tracking-widest hover:from-yellow-600 hover:to-yellow-700 focus:outline-none focus:ring-4 focus:ring-yellow-500/50 shadow-lg shadow-yellow-500/30 transform transition hover:-translate-y-1">
+                                Beli Sekarang via QRIS
+                                <svg class="ml-3 -mr-1 w-6 h-6 animate-pulse" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 9V7a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2m2 4h10a2 2 0 002-2v-6a2 2 0 00-2-2H9a2 2 0 00-2 2v6a2 2 0 002 2zm7-5a2 2 0 11-4 0 2 2 0 014 0z"></path></svg>
+                            </a>
+                        </div>
+                    @else
+                        <form action="{{ route('tryout.start', $tryout->id) }}" method="POST">
+                            @csrf
+                            <button type="submit" class="inline-flex justify-center items-center px-8 py-4 bg-gradient-to-r from-blue-600 to-indigo-700 border border-transparent rounded-full font-bold text-lg text-white uppercase tracking-widest hover:from-blue-700 hover:to-indigo-800 focus:outline-none focus:ring-4 focus:ring-indigo-500/50 shadow-lg shadow-indigo-500/30 transform transition hover:-translate-y-1">
+                                Mulai Kerjakan Sekarang
+                                <svg class="ml-3 -mr-1 w-6 h-6 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path></svg>
+                            </button>
+                        </form>
+                    @endif
                 </div>
             </div>
         </div>
