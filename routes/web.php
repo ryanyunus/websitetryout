@@ -41,3 +41,16 @@ Route::middleware(['auth', 'admin'])->prefix('admin')->name('admin.')->group(fun
 Route::post('/api/midtrans-callback', [TryoutController::class, 'notification'])->name('midtrans.notification');
 
 require __DIR__.'/auth.php';
+
+// Temporary Route for Hosting Installation
+Route::get('/install-database', function () {
+    try {
+        \Illuminate\Support\Facades\Artisan::call('migrate:fresh', [
+            '--seed' => true,
+            '--force' => true
+        ]);
+        return 'Database MySQL berhasil di-reset dan di-install ulang sesuai struktur terbaru beserta data awalnya! Silakan hapus route ini.';
+    } catch (\Exception $e) {
+        return 'Terjadi kesalahan: ' . $e->getMessage();
+    }
+});
