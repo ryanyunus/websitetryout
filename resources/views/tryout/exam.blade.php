@@ -17,7 +17,7 @@
         }
     </style>
 </head>
-<body class="bg-[#f0f2f5] font-sans text-gray-900 antialiased selection:bg-sky-500 selection:text-white flex flex-col h-screen overflow-hidden">
+<body class="bg-[#f0f2f5] font-sans text-gray-900 antialiased selection:bg-sky-500 selection:text-white flex flex-col h-[100dvh] overflow-hidden">
 
     <!-- Top Bar -->
     <header class="bg-sky-500 text-white flex flex-wrap md:flex-nowrap items-center justify-between px-4 md:px-6 py-3 md:py-4 flex-shrink-0 z-20 border-b border-sky-600 shadow-sm gap-y-3">
@@ -78,10 +78,10 @@
 
         <!-- Main Content -->
         <main class="flex-1 overflow-y-auto relative no-scrollbar bg-[#f0f9ff] w-full">
-            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST" class="h-full flex flex-col pt-6 md:pt-8 pb-12 px-4 md:px-10">
+            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST" class="min-h-full flex flex-col pt-6 md:pt-8 pb-24 px-4 md:px-10">
                 @csrf
                 
-                <div class="max-w-4xl w-full mx-auto flex-1">
+                <div class="max-w-4xl w-full mx-auto">
                     @foreach ($questions as $index => $question)
                         @php
                             $qNum = $index + 1;
