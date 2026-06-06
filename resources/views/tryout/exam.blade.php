@@ -77,12 +77,12 @@
         </aside>
 
         <!-- Main Content -->
-        <main class="flex-1 flex flex-col relative bg-[#f0f9ff] w-full overflow-hidden min-h-0">
-            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST" class="flex-1 flex flex-col min-h-0">
+        <main class="flex-1 flex flex-col relative bg-[#f0f9ff] w-full overflow-hidden">
+            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST" class="h-full flex flex-col">
                 @csrf
                 
                 <!-- Scrollable Area -->
-                <div class="flex-1 overflow-y-auto no-scrollbar pt-6 md:pt-8 pb-12 px-4 md:px-10">
+                <div class="flex-1 overflow-y-auto no-scrollbar pt-6 md:pt-8 pb-32 md:pb-40 px-4 md:px-10">
                     <div class="max-w-4xl w-full mx-auto">
                         @foreach ($questions as $index => $question)
                         @php
@@ -136,8 +136,8 @@
                 </div>
                 </div> <!-- End Scrollable Area -->
                 
-                <!-- Sticky Bottom Action Bar -->
-                <div class="bg-white border-t border-sky-200 shadow-[0_-4px_10px_rgba(0,0,0,0.05)] z-20 flex-shrink-0 p-4 md:p-6 w-full relative">
+                <!-- Fixed Bottom Action Bar -->
+                <div class="fixed bottom-0 right-0 w-[calc(100%-5rem)] md:w-[calc(100%-20rem)] bg-white border-t border-sky-200 shadow-[0_-4px_10px_rgba(0,0,0,0.05)] z-50 p-4 md:p-6 transition-all duration-300">
                     <div class="max-w-4xl mx-auto w-full flex flex-col md:flex-row justify-between items-center gap-3 md:gap-0">
                         <div class="w-full md:w-auto">
                             <button type="button" onclick="nextQuestion()" class="w-full md:w-auto justify-center px-6 py-3 bg-sky-500 hover:bg-sky-600 text-white font-bold rounded flex items-center space-x-2 transition-colors shadow-sm">
