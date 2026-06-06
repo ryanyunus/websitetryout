@@ -17,7 +17,7 @@
         }
     </style>
 </head>
-<body class="bg-[#f0f2f5] font-sans text-gray-900 antialiased selection:bg-sky-500 selection:text-white flex flex-col h-[100dvh] overflow-hidden">
+<body class="bg-[#f0f2f5] font-sans text-gray-900 antialiased selection:bg-sky-500 selection:text-white flex flex-col overflow-hidden h-screen" style="height: 100dvh;">
 
     <!-- Top Bar -->
     <header class="bg-sky-500 text-white flex flex-wrap md:flex-nowrap items-center justify-between px-4 md:px-6 py-3 md:py-4 flex-shrink-0 z-20 border-b border-sky-600 shadow-sm gap-y-3">
@@ -42,10 +42,10 @@
     </header>
 
     <!-- Main Workspace -->
-    <div class="flex flex-1 overflow-hidden relative">
+    <div class="flex flex-1 overflow-hidden relative min-h-0">
 
         <!-- Sidebar Navigation -->
-        <aside id="sidebarNav" class="w-20 md:w-80 bg-purple-500 border-r border-purple-600 flex flex-col z-10 shadow-lg flex-shrink-0 transition-all duration-300">
+        <aside id="sidebarNav" class="w-20 md:w-80 bg-purple-500 border-r border-purple-600 flex flex-col z-10 shadow-lg flex-shrink-0 transition-all duration-300 min-h-0">
             <div class="p-2 md:p-5 border-b border-purple-600 bg-purple-600/30 flex justify-center md:justify-between items-center">
                 <button type="button" onclick="confirmSubmit()" class="w-full bg-[#c82333] hover:bg-red-800 text-white font-bold py-3 md:py-3.5 px-2 md:px-4 rounded shadow transition duration-200 flex items-center justify-center space-x-0 md:space-x-2" title="Selesaikan Ujian">
                     <svg class="w-6 h-6 md:w-5 md:h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
@@ -77,12 +77,14 @@
         </aside>
 
         <!-- Main Content -->
-        <main class="flex-1 overflow-y-auto relative no-scrollbar bg-[#f0f9ff] w-full">
-            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST" class="min-h-full flex flex-col pt-6 md:pt-8 pb-24 px-4 md:px-10">
+        <main class="flex-1 flex flex-col relative bg-[#f0f9ff] w-full overflow-hidden min-h-0">
+            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST" class="flex-1 flex flex-col min-h-0">
                 @csrf
                 
-                <div class="max-w-4xl w-full mx-auto">
-                    @foreach ($questions as $index => $question)
+                <!-- Scrollable Area -->
+                <div class="flex-1 overflow-y-auto no-scrollbar pt-6 md:pt-8 pb-12 px-4 md:px-10">
+                    <div class="max-w-4xl w-full mx-auto">
+                        @foreach ($questions as $index => $question)
                         @php
                             $qNum = $index + 1;
                             $category = "";
@@ -132,20 +134,23 @@
                         </div>
                     @endforeach
                 </div>
+                </div> <!-- End Scrollable Area -->
                 
-                <!-- Bottom Action Bar -->
-                <div class="max-w-4xl mx-auto w-full mt-8 md:mt-12 flex flex-col md:flex-row justify-between items-center border-t border-sky-100 pt-6 gap-4 md:gap-0">
-                    <div class="w-full md:w-auto">
-                        <button type="button" onclick="nextQuestion()" class="w-full md:w-auto justify-center px-6 py-3 bg-sky-500 hover:bg-sky-600 text-white font-bold rounded flex items-center space-x-2 transition-colors shadow-sm">
-                            <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-3m-1 4l-3 3m0 0l-3-3m3 3V4"></path></svg>
-                            <span>Simpan dan Lanjutkan</span>
-                        </button>
-                    </div>
-                    <div class="w-full md:w-auto">
-                        <button type="button" onclick="skipQuestion()" class="w-full md:w-auto justify-center px-6 py-3 border border-red-400 text-red-500 hover:bg-red-50 hover:border-red-500 hover:text-red-600 font-bold rounded flex items-center space-x-2 transition-colors">
-                            <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7"></path></svg>
-                            <span>Lewatkan</span>
-                        </button>
+                <!-- Sticky Bottom Action Bar -->
+                <div class="bg-white border-t border-sky-200 shadow-[0_-4px_10px_rgba(0,0,0,0.05)] z-20 flex-shrink-0 p-4 md:p-6 w-full relative">
+                    <div class="max-w-4xl mx-auto w-full flex flex-col md:flex-row justify-between items-center gap-3 md:gap-0">
+                        <div class="w-full md:w-auto">
+                            <button type="button" onclick="nextQuestion()" class="w-full md:w-auto justify-center px-6 py-3 bg-sky-500 hover:bg-sky-600 text-white font-bold rounded flex items-center space-x-2 transition-colors shadow-sm">
+                                <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-3m-1 4l-3 3m0 0l-3-3m3 3V4"></path></svg>
+                                <span>Simpan dan Lanjutkan</span>
+                            </button>
+                        </div>
+                        <div class="w-full md:w-auto">
+                            <button type="button" onclick="skipQuestion()" class="w-full md:w-auto justify-center px-6 py-3 border border-red-400 text-red-500 hover:bg-red-50 hover:border-red-500 hover:text-red-600 font-bold rounded flex items-center space-x-2 transition-colors">
+                                <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7"></path></svg>
+                                <span>Lewatkan</span>
+                            </button>
+                        </div>
                     </div>
                 </div>
 
