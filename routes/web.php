@@ -17,10 +17,25 @@ Route::middleware('auth')->group(function () {
     Route::get('/tryout', [TryoutController::class, 'index'])->name('tryout.index');
     Route::get('/tryout/{tryout}', [TryoutController::class, 'show'])->name('tryout.show');
     Route::get('/tryout/{tryout}/checkout', [TryoutController::class, 'checkout'])->name('tryout.checkout');
+    
+    // POST routes with GET fallbacks for browser reloads
     Route::post('/tryout/payment/{transaction}', [TryoutController::class, 'processPayment'])->name('tryout.payment');
+    Route::get('/tryout/payment/{transaction}', function (\App\Models\Transaction $transaction) {
+        return redirect()->route('tryout.show', $transaction->tryout_id);
+    });
+
     Route::post('/tryout/{tryout}/start', [TryoutController::class, 'start'])->name('tryout.start');
+    Route::get('/tryout/{tryout}/start', function (\App\Models\Tryout $tryout) {
+        return redirect()->route('tryout.show', $tryout);
+    });
+
     Route::get('/tryout/{tryout}/exam/{attempt}', [TryoutController::class, 'exam'])->name('tryout.exam');
+    
     Route::post('/tryout/{tryout}/submit/{attempt}', [TryoutController::class, 'submit'])->name('tryout.submit');
+    Route::get('/tryout/{tryout}/submit/{attempt}', function (\App\Models\Tryout $tryout, \App\Models\TryoutAttempt $attempt) {
+        return redirect()->route('tryout.result', ['tryout' => $tryout->id, 'attempt' => $attempt->id]);
+    });
+
     Route::get('/tryout/{tryout}/result/{attempt}', [TryoutController::class, 'result'])->name('tryout.result');
 });
 
