@@ -17,10 +17,10 @@
         }
     </style>
 </head>
-<body class="bg-[#f0f2f5] font-sans text-gray-900 antialiased selection:bg-sky-500 selection:text-white flex flex-col overflow-hidden h-screen" style="height: 100dvh;">
+<body class="bg-[#f0f2f5] font-sans text-gray-900 antialiased selection:bg-sky-500 selection:text-white min-h-screen flex flex-col">
 
     <!-- Top Bar -->
-    <header class="bg-sky-500 text-white flex flex-wrap md:flex-nowrap items-center justify-between px-4 md:px-6 py-3 md:py-4 flex-shrink-0 z-20 border-b border-sky-600 shadow-sm gap-y-3">
+    <header class="bg-sky-500 text-white flex flex-wrap md:flex-nowrap items-center justify-between px-4 md:px-6 py-3 md:py-4 flex-shrink-0 z-50 border-b border-sky-600 shadow-sm gap-y-3 sticky top-0">
         <div class="flex flex-col w-1/2 md:w-1/4 order-1">
             <h1 class="text-sm md:text-xl font-bold tracking-wider truncate">Simulasi CAT SKD</h1>
             <span class="text-xs md:text-sm text-sky-100 mt-1 truncate">Peserta: {{ Auth::user()->name }}</span>
@@ -42,10 +42,10 @@
     </header>
 
     <!-- Main Workspace -->
-    <div class="flex flex-1 overflow-hidden relative min-h-0">
+    <div class="flex flex-1 w-full">
 
         <!-- Sidebar Navigation -->
-        <aside id="sidebarNav" class="w-20 md:w-80 bg-purple-500 border-r border-purple-600 flex flex-col z-10 shadow-lg flex-shrink-0 transition-all duration-300 min-h-0">
+        <aside id="sidebarNav" class="w-20 md:w-80 bg-purple-500 border-r border-purple-600 flex flex-col z-10 shadow-lg flex-shrink-0 transition-all duration-300">
             <div class="p-2 md:p-5 border-b border-purple-600 bg-purple-600/30 flex justify-center md:justify-between items-center">
                 <button type="button" onclick="confirmSubmit()" class="w-full bg-[#c82333] hover:bg-red-800 text-white font-bold py-3 md:py-3.5 px-2 md:px-4 rounded shadow transition duration-200 flex items-center justify-center space-x-0 md:space-x-2" title="Selesaikan Ujian">
                     <svg class="w-6 h-6 md:w-5 md:h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
@@ -77,12 +77,12 @@
         </aside>
 
         <!-- Main Content -->
-        <main class="flex-1 flex flex-col relative bg-[#f0f9ff] w-full overflow-hidden">
-            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST" class="h-full flex flex-col">
+        <main class="flex-1 relative bg-[#f0f9ff] w-full">
+            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST">
                 @csrf
                 
-                <!-- Scrollable Area -->
-                <div class="flex-1 overflow-y-auto no-scrollbar pt-6 md:pt-8 pb-32 md:pb-40 px-4 md:px-10">
+                <!-- Questions Area -->
+                <div class="pt-6 md:pt-8 pb-32 md:pb-40 px-4 md:px-10">
                     <div class="max-w-4xl w-full mx-auto">
                         @foreach ($questions as $index => $question)
                         @php
@@ -133,8 +133,8 @@
                             </div>
                         </div>
                     @endforeach
-                </div>
-                </div> <!-- End Scrollable Area -->
+                    </div>
+                </div> <!-- End Questions Area -->
                 
                 <!-- Fixed Bottom Action Bar -->
                 <div class="fixed bottom-0 right-0 w-[calc(100%-5rem)] md:w-[calc(100%-20rem)] bg-white border-t border-sky-200 shadow-[0_-4px_10px_rgba(0,0,0,0.05)] z-50 p-4 md:p-6 transition-all duration-300">
