@@ -20,55 +20,55 @@
 <body class="bg-[#f0f2f5] font-sans text-gray-900 antialiased selection:bg-sky-500 selection:text-white flex flex-col h-screen overflow-hidden">
 
     <!-- Top Bar -->
-    <header class="bg-sky-500 text-white flex items-center justify-between px-6 py-4 flex-shrink-0 z-10 border-b border-sky-600 shadow-sm">
-        <div class="flex flex-col w-1/4">
-            <h1 class="text-xl font-bold tracking-wider">Simulasi CAT SKD CPNS</h1>
-            <span class="text-sm text-sky-100 mt-1">Peserta: {{ Auth::user()->name }}</span>
+    <header class="bg-sky-500 text-white flex flex-wrap md:flex-nowrap items-center justify-between px-4 md:px-6 py-3 md:py-4 flex-shrink-0 z-20 border-b border-sky-600 shadow-sm gap-y-3">
+        <div class="flex flex-col w-1/2 md:w-1/4 order-1">
+            <h1 class="text-sm md:text-xl font-bold tracking-wider truncate">Simulasi CAT SKD</h1>
+            <span class="text-xs md:text-sm text-sky-100 mt-1 truncate">Peserta: {{ Auth::user()->name }}</span>
         </div>
         
-        <div class="w-2/4 flex flex-col items-center">
-            <div class="w-full max-w-xl bg-sky-700/40 rounded-full h-3.5 mt-1 overflow-hidden relative border border-sky-400/30">
+        <div class="w-full md:w-2/4 flex flex-col items-center order-3 md:order-2 mt-2 md:mt-0">
+            <div class="w-full max-w-xl bg-sky-700/40 rounded-full h-2.5 md:h-3.5 mt-1 overflow-hidden relative border border-sky-400/30">
                 <div id="progressBar" class="bg-gradient-to-r from-sky-200 to-white h-full rounded-full transition-all duration-500" style="width: 0%"></div>
             </div>
-            <span class="text-xs mt-2 text-sky-50 font-semibold tracking-widest" id="progressText">0 / {{ count($questions) }}</span>
+            <span class="text-[10px] md:text-xs mt-1 md:mt-2 text-sky-50 font-semibold tracking-widest" id="progressText">0 / {{ count($questions) }}</span>
         </div>
 
-        <div class="w-1/4 flex justify-end">
-            <div class="bg-sky-600/50 px-6 py-2.5 rounded-full flex items-center space-x-3 border border-sky-400/30 shadow-inner">
-                <svg class="w-5 h-5 text-sky-100 animate-pulse" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                <span id="countdown" class="font-mono text-xl font-bold tracking-widest text-white shadow-sm">--:--:--</span>
+        <div class="w-1/2 md:w-1/4 flex justify-end items-center order-2 md:order-3 space-x-2">
+            <div class="bg-sky-600/50 px-3 md:px-6 py-1.5 md:py-2.5 rounded-full flex items-center space-x-2 md:space-x-3 border border-sky-400/30 shadow-inner">
+                <svg class="w-4 h-4 md:w-5 md:h-5 text-sky-100 animate-pulse" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                <span id="countdown" class="font-mono text-base md:text-xl font-bold tracking-widest text-white shadow-sm">--:--:--</span>
             </div>
         </div>
     </header>
 
     <!-- Main Workspace -->
-    <div class="flex flex-1 overflow-hidden">
-        
+    <div class="flex flex-1 overflow-hidden relative">
+
         <!-- Sidebar Navigation -->
-        <aside class="w-80 bg-purple-500 border-r border-purple-600 flex flex-col z-0 shadow-lg flex-shrink-0">
-            <div class="p-5 border-b border-purple-600 bg-purple-600/30">
-                <button type="button" onclick="confirmSubmit()" class="w-full bg-[#c82333] hover:bg-red-800 text-white font-bold py-3.5 px-4 rounded shadow transition duration-200 flex items-center justify-center space-x-2">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
-                    <span>Selesaikan Ujian</span>
+        <aside id="sidebarNav" class="w-20 md:w-80 bg-purple-500 border-r border-purple-600 flex flex-col z-10 shadow-lg flex-shrink-0 transition-all duration-300">
+            <div class="p-2 md:p-5 border-b border-purple-600 bg-purple-600/30 flex justify-center md:justify-between items-center">
+                <button type="button" onclick="confirmSubmit()" class="w-full bg-[#c82333] hover:bg-red-800 text-white font-bold py-3 md:py-3.5 px-2 md:px-4 rounded shadow transition duration-200 flex items-center justify-center space-x-0 md:space-x-2" title="Selesaikan Ujian">
+                    <svg class="w-6 h-6 md:w-5 md:h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                    <span class="hidden md:inline">Selesaikan Ujian</span>
                 </button>
             </div>
             
-            <div class="p-5 flex-1 overflow-y-auto no-scrollbar">
-                <div class="flex items-center space-x-2 mb-5">
-                    <svg class="w-5 h-5 text-purple-100" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16"></path></svg>
-                    <h3 class="font-bold text-white tracking-wide text-sm uppercase">Navigasi Soal</h3>
+            <div class="p-2 md:p-5 flex-1 overflow-y-auto no-scrollbar">
+                <div class="flex items-center justify-center md:justify-start space-x-2 mb-3 md:mb-5">
+                    <svg class="w-5 h-5 text-purple-100 hidden md:block" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16"></path></svg>
+                    <h3 class="font-bold text-white tracking-wide text-[10px] md:text-sm uppercase text-center md:text-left">Navigasi</h3>
                 </div>
                 
-                <div class="grid grid-cols-5 gap-2.5">
+                <div class="grid grid-cols-2 md:grid-cols-5 gap-1.5 md:gap-2.5">
                     @foreach ($questions as $index => $question)
-                        <button type="button" id="nav-btn-{{ $index + 1 }}" onclick="goToQuestion({{ $index + 1 }})" class="nav-btn w-full aspect-square rounded shadow-sm border border-purple-300 text-sm font-bold flex items-center justify-center hover:bg-purple-50 transition-colors bg-white text-purple-800">
+                        <button type="button" id="nav-btn-{{ $index + 1 }}" onclick="goToQuestion({{ $index + 1 }})" class="nav-btn w-full aspect-square rounded shadow-sm border border-purple-300 text-xs md:text-sm font-bold flex items-center justify-center hover:bg-purple-50 transition-colors bg-white text-purple-800">
                             {{ $index + 1 }}
                         </button>
                     @endforeach
                 </div>
                 
                 <!-- Legend -->
-                <div class="mt-10 p-4 bg-purple-600/40 rounded-lg space-y-3 text-sm text-white border border-purple-400/30">
+                <div class="hidden md:block mt-10 p-4 bg-purple-600/40 rounded-lg space-y-3 text-sm text-white border border-purple-400/30">
                     <div class="flex items-center font-medium"><div class="w-4 h-4 rounded-sm bg-purple-800 border border-purple-900 shadow-sm mr-3"></div> Sudah Dijawab</div>
                     <div class="flex items-center font-medium"><div class="w-4 h-4 rounded-sm bg-[#ffc107] border border-yellow-600 shadow-sm mr-3"></div> Soal Aktif</div>
                     <div class="flex items-center font-medium"><div class="w-4 h-4 rounded-sm bg-white border border-purple-300 mr-3"></div> Belum Dijawab</div>
@@ -77,8 +77,8 @@
         </aside>
 
         <!-- Main Content -->
-        <main class="flex-1 overflow-y-auto relative no-scrollbar bg-[#f0f9ff]">
-            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST" class="h-full flex flex-col pt-8 pb-12 px-10">
+        <main class="flex-1 overflow-y-auto relative no-scrollbar bg-[#f0f9ff] w-full">
+            <form id="examForm" action="{{ route('tryout.submit', ['tryout' => $tryout->id, 'attempt' => $attempt->id]) }}" method="POST" class="h-full flex flex-col pt-6 md:pt-8 pb-12 px-4 md:px-10">
                 @csrf
                 
                 <div class="max-w-4xl w-full mx-auto flex-1">
@@ -93,37 +93,37 @@
                         @endphp
                         
                         <div id="question-{{ $qNum }}" class="question-container hidden">
-                            <div class="flex items-center mb-4">
-                                <h2 class="text-2xl font-semibold text-gray-800">Soal {{ $qNum }} dari {{ count($questions) }}</h2>
+                            <div class="flex items-center mb-3 md:mb-4">
+                                <h2 class="text-xl md:text-2xl font-semibold text-gray-800">Soal {{ $qNum }} dari {{ count($questions) }}</h2>
                             </div>
-                            <div class="mb-8">
-                                <span class="inline-block {{ $categoryColor }} text-white text-xs font-bold px-3 py-1.5 rounded shadow-sm">
+                            <div class="mb-6 md:mb-8">
+                                <span class="inline-block {{ $categoryColor }} text-white text-[10px] md:text-xs font-bold px-2 md:px-3 py-1 md:py-1.5 rounded shadow-sm">
                                     {{ $category }}
                                 </span>
                             </div>
                             
                             <!-- Box Soal -->
-                            <div class="bg-white rounded-xl border border-sky-100 mb-8 flex overflow-hidden shadow-sm">
+                            <div class="bg-white rounded-xl border border-sky-100 mb-6 md:mb-8 flex overflow-hidden shadow-sm">
                                 <div class="w-1.5 bg-sky-400 flex-shrink-0"></div>
-                                <div class="p-8 text-gray-800 text-[1.1rem] leading-loose w-full font-medium" style="user-select: none;">
+                                <div class="p-4 md:p-8 text-gray-800 text-base md:text-[1.1rem] leading-relaxed md:leading-loose w-full font-medium" style="user-select: none;">
                                     {!! nl2br(e(preg_replace('/^\d+\.\s*/', '', $question->question_text))) !!}
                                 </div>
                             </div>
                             
                             <!-- Box Opsi Jawaban -->
-                            <div class="space-y-4">
+                            <div class="space-y-3 md:space-y-4">
                                 @foreach ($question->options as $option)
                                     @php 
                                         $label = substr($option->option_text, 0, 1);
                                         $text = substr($option->option_text, 3);
                                     @endphp
-                                    <label class="option-label-{{ $qNum }} relative flex items-center p-5 cursor-pointer rounded-lg border border-gray-200 bg-white hover:border-sky-300 transition-all group shadow-sm hover:shadow">
+                                    <label class="option-label-{{ $qNum }} relative flex items-center p-4 md:p-5 cursor-pointer rounded-lg border border-gray-200 bg-white hover:border-sky-300 transition-all group shadow-sm hover:shadow">
                                         <!-- Custom Radio Style -->
-                                        <div class="flex items-center justify-center w-8 h-8 rounded-full border-2 border-gray-300 mr-5 flex-shrink-0 bg-white text-gray-600 font-bold radio-custom-indicator transition-colors">
+                                        <div class="flex items-center justify-center w-6 h-6 md:w-8 md:h-8 rounded-full border-2 border-gray-300 mr-3 md:mr-5 flex-shrink-0 bg-white text-gray-600 text-sm md:text-base font-bold radio-custom-indicator transition-colors">
                                             {{ $label }}
                                         </div>
                                         <input type="radio" name="answers[{{ $question->id }}]" value="{{ $option->id }}" class="hidden peer" onchange="markAnswered({{ $qNum }})">
-                                        <span class="text-gray-700 text-lg">
+                                        <span class="text-gray-700 text-base md:text-lg">
                                             {{ $text }}
                                         </span>
                                     </label>
@@ -134,16 +134,16 @@
                 </div>
                 
                 <!-- Bottom Action Bar -->
-                <div class="max-w-4xl mx-auto w-full mt-12 flex justify-between items-center border-t border-sky-100 pt-6">
-                    <div>
-                        <button type="button" onclick="nextQuestion()" class="px-6 py-3 bg-sky-500 hover:bg-sky-600 text-white font-bold rounded flex items-center space-x-2 transition-colors shadow-sm">
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-3m-1 4l-3 3m0 0l-3-3m3 3V4"></path></svg>
+                <div class="max-w-4xl mx-auto w-full mt-8 md:mt-12 flex flex-col md:flex-row justify-between items-center border-t border-sky-100 pt-6 gap-4 md:gap-0">
+                    <div class="w-full md:w-auto">
+                        <button type="button" onclick="nextQuestion()" class="w-full md:w-auto justify-center px-6 py-3 bg-sky-500 hover:bg-sky-600 text-white font-bold rounded flex items-center space-x-2 transition-colors shadow-sm">
+                            <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7H5a2 2 0 00-2 2v9a2 2 0 002 2h14a2 2 0 002-2V9a2 2 0 00-2-2h-3m-1 4l-3 3m0 0l-3-3m3 3V4"></path></svg>
                             <span>Simpan dan Lanjutkan</span>
                         </button>
                     </div>
-                    <div>
-                        <button type="button" onclick="skipQuestion()" class="px-6 py-3 border border-red-400 text-red-500 hover:bg-red-50 hover:border-red-500 hover:text-red-600 font-bold rounded flex items-center space-x-2 transition-colors">
-                            <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7"></path></svg>
+                    <div class="w-full md:w-auto">
+                        <button type="button" onclick="skipQuestion()" class="w-full md:w-auto justify-center px-6 py-3 border border-red-400 text-red-500 hover:bg-red-50 hover:border-red-500 hover:text-red-600 font-bold rounded flex items-center space-x-2 transition-colors">
+                            <svg class="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 5l7 7-7 7M5 5l7 7-7 7"></path></svg>
                             <span>Lewatkan</span>
                         </button>
                     </div>

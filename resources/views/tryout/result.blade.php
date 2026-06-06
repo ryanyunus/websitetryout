@@ -34,7 +34,7 @@
                         <span class="block text-sm text-gray-500 dark:text-gray-400 mt-2">Skala 100</span>
                     </div>
 
-                    <div class="grid grid-cols-2 gap-4 max-w-md mx-auto mb-8 text-left">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-md mx-auto mb-8 text-left">
                         <div class="bg-white dark:bg-gray-800 p-4 border border-gray-100 dark:border-gray-700 rounded-xl shadow-sm">
                             <span class="block text-sm text-gray-500 dark:text-gray-400">Waktu Mulai</span>
                             <span class="block font-semibold text-gray-900 dark:text-white">{{ $attempt->started_at->format('H:i, d M Y') }}</span>

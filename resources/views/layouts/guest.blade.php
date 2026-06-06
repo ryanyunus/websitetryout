@@ -15,10 +15,9 @@
         @vite(['resources/css/app.css', 'resources/js/app.js'])
         <style>
             body {
-                background: linear-gradient(135deg, #0f172a 0%, #1e1b4b 50%, #0f172a 100%);
-                background-attachment: fixed;
                 margin: 0;
                 min-height: 100vh;
+                background-color: #0f172a; /* fallback */
             }
             .auth-container {
                 min-height: 100vh;
@@ -55,8 +54,11 @@
             }
         </style>
     </head>
-    <body class="font-sans text-gray-900 antialiased">
-        <div class="auth-container">
+    <body class="font-sans text-gray-900 antialiased relative">
+        <!-- Vanta Background Container -->
+        <div id="vanta-bg" style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: -1;"></div>
+        
+        <div class="auth-container relative z-10">
             <div class="auth-logo-wrapper">
                 <a href="/">
                     <img src="{{ asset('images/logo_transparent.png') }}"
@@ -69,5 +71,28 @@
                 {{ $slot }}
             </div>
         </div>
+
+        <!-- Vanta.js Scripts -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r134/three.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/vanta@latest/dist/vanta.waves.min.js"></script>
+        <script>
+            document.addEventListener('DOMContentLoaded', function() {
+                VANTA.WAVES({
+                    el: "#vanta-bg",
+                    mouseControls: true,
+                    touchControls: true,
+                    gyroControls: false,
+                    minHeight: 200.00,
+                    minWidth: 200.00,
+                    scale: 1.00,
+                    scaleMobile: 1.00,
+                    color: 0x1e1b4b, /* Dark purple matching previous theme */
+                    shininess: 45.00,
+                    waveHeight: 15.00,
+                    waveSpeed: 0.70,
+                    zoom: 0.85
+                })
+            });
+        </script>
     </body>
 </html>

@@ -32,22 +32,24 @@
             </label>
         </div>
 
-        <div class="flex items-center justify-end mt-4">
-            @if (Route::has('password.request'))
-                <a class="underline text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:focus:ring-offset-gray-800" href="{{ route('password.request') }}">
-                    {{ __('Forgot your password?') }}
-                </a>
-            @endif
+        <div class="flex flex-col space-y-4 mt-8">
+            <x-primary-button class="w-full justify-center py-3 text-base">
+                {{ __('Log in') }}
+            </x-primary-button>
 
             @if (Route::has('register'))
-                <a class="ms-4 underline text-sm text-gray-600 dark:text-gray-400 hover:text-gray-900 dark:hover:text-gray-100 rounded-md focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500 dark:focus:ring-offset-gray-800" href="{{ route('register') }}">
+                <a href="{{ route('register') }}" class="w-full inline-flex justify-center items-center px-4 py-3 bg-white dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded-md font-semibold text-sm text-gray-700 dark:text-gray-300 uppercase tracking-widest shadow-sm hover:bg-gray-50 dark:hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 dark:focus:ring-offset-gray-800 transition ease-in-out duration-150">
                     Belum punya akun? Daftar
                 </a>
             @endif
 
-            <x-primary-button class="ms-3">
-                {{ __('Log in') }}
-            </x-primary-button>
+            @if (Route::has('password.request'))
+                <div class="text-center mt-2">
+                    <a class="text-sm font-medium text-indigo-600 dark:text-indigo-400 hover:text-indigo-800 dark:hover:text-indigo-300 focus:outline-none focus:underline transition duration-150 ease-in-out" href="{{ route('password.request') }}">
+                        {{ __('Forgot your password?') }}
+                    </a>
+                </div>
+            @endif
         </div>
     </form>
 </x-guest-layout>
