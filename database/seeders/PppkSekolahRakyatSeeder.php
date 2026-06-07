@@ -18,12 +18,12 @@ class PppkSekolahRakyatSeeder extends Seeder
         $json = File::get(database_path('data/pppk_questions.json'));
         $questionsData = json_decode($json, true);
 
-        Tryout::where('title', 'like', 'PPPK Tenaga Kependidikan Sekolah Rakyat 2026%')->delete();
+        Tryout::where('title', 'like', 'PPPK Guru Sekolah Rakyat 2026%')->delete();
 
         // 1. Paket Lengkap (Berbayar 50.000)
         $tryoutLengkap = Tryout::create([
-            'title' => 'PPPK Tenaga Kependidikan Sekolah Rakyat 2026 (Paket Lengkap)',
-            'description' => 'Simulasi Tes Kompetensi PPPK Tendik Sekolah Rakyat 2026. Terdiri dari 145 soal yang terbagi dalam Sesi 1 dan Sesi 2.',
+            'title' => 'PPPK Guru Sekolah Rakyat 2026 (Paket Lengkap)',
+            'description' => 'Simulasi Tes Kompetensi PPPK Guru Sekolah Rakyat 2026. Terdiri dari 145 soal yang terbagi dalam Sesi 1 dan Sesi 2.',
             'duration_minutes' => 130, // 120 mnt Sesi 1 + 10 mnt Sesi 2
             'is_active' => true,
             'category' => 'pppk',
@@ -71,8 +71,8 @@ class PppkSekolahRakyatSeeder extends Seeder
                 }
                 
                 $tryoutsTerpisah[$subtes] = Tryout::create([
-                    'title' => "PPPK Tenaga Kependidikan Sekolah Rakyat 2026 - Subtes {$subtes}",
-                    'description' => "Simulasi Tes Kompetensi PPPK Tendik Sekolah Rakyat 2026 untuk subtes {$subtes}." . (!$isPremium ? " (Gratis)" : ""),
+                    'title' => "PPPK Guru Sekolah Rakyat 2026 - Subtes {$subtes}",
+                    'description' => "Simulasi Tes Kompetensi PPPK Guru Sekolah Rakyat 2026 untuk subtes {$subtes}." . (!$isPremium ? " (Gratis)" : ""),
                     'duration_minutes' => $duration,
                     'is_active' => true,
                     'category' => 'pppk',

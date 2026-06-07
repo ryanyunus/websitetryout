@@ -57,6 +57,21 @@ Route::post('/api/midtrans-callback', [TryoutController::class, 'notification'])
 
 require __DIR__.'/auth.php';
 
+// Route bantuan untuk Shared Hosting (menjalankan artisan via browser)
+Route::get('/setup-database', function () {
+    try {
+        // Menjalankan migrasi database
+        \Illuminate\Support\Facades\Artisan::call('migrate', ['--force' => true]);
+        
+        // Menjalankan seeder paket soal
+        \Illuminate\Support\Facades\Artisan::call('db:seed', ['--force' => true]);
+        
+        return 'Database MySQL di Hosting berhasil di-setup dan Paket Soal berhasil dimasukkan!';
+    } catch (\Exception $e) {
+        return 'Terjadi kesalahan: ' . $e->getMessage();
+    }
+});
+
 // Temporary Route for Hosting Installation
 Route::get('/install-database', function () {
     try {
