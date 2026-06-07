@@ -1,0 +1,484 @@
+{
+  "soal_61_90": [
+    {
+      "nomor": 61,
+      "domain": "Pedagogik",
+      "indikator": "Think-Pair-Share - Urutan Tahapan",
+      "stimulus": "Bu Ayu menggunakan Think-Pair-Share (TPS) untuk mendiskusikan pertanyaan: 'Mengapa kita harus menjaga kebersihan asrama?' Tahapan yang benar dari metode TPS adalah...",
+      "pilihan": {
+        "A": "Share dulu di depan kelas → Pair diskusi berpasangan → Think individual.",
+        "B": "Think: siswa berpikir mandiri → Pair: diskusi dengan satu teman → Share: berbagi ke seluruh kelas.",
+        "C": "Pair dulu → Think bersama → Share dengan guru saja.",
+        "D": "Think bersama kelompok 4 orang → Pair laporan ke guru → Share melalui poster.",
+        "E": "Share ke seluruh kelas → Think mandiri → Pair verifikasi jawaban."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Urutan TPS yang benar: (1) Think - siswa berpikir mandiri 1-2 menit, (2) Pair - diskusi berpasangan untuk saling berbagi dan mempertajam pemikiran, (3) Share - pasangan berbagi hasil diskusi ke kelas besar. Urutan ini memastikan semua siswa berpartisipasi dan berpikir sebelum mendengar pendapat orang lain.",
+      "nilai": 5
+    },
+    {
+      "nomor": 62,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Konduktor dan Isolator Listrik",
+      "stimulus": "Siswa kelas 4 melakukan percobaan konduktor-isolator menggunakan baterai, lampu, dan kabel untuk menguji pensil kayu, penggaris plastik, paku besi, kain, dan sendok aluminium. Kelompok benda yang termasuk konduktor listrik yang baik adalah...",
+      "pilihan": {
+        "A": "Pensil kayu dan penggaris plastik",
+        "B": "Kain dan penggaris plastik",
+        "C": "Paku besi dan sendok aluminium",
+        "D": "Pensil kayu dan kain",
+        "E": "Semua benda tersebut adalah konduktor"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Konduktor listrik yang baik umumnya adalah logam yang memiliki elektron bebas. Paku besi dan sendok aluminium adalah logam → konduktor baik. Pensil kayu, penggaris plastik, dan kain adalah isolator (tidak menghantarkan listrik). Catatan: grafit di pensil memang konduktor lemah, namun kayu di sekitarnya adalah isolator dominan.",
+      "nilai": 5
+    },
+    {
+      "nomor": 63,
+      "domain": "Pedagogik",
+      "indikator": "Universal Design for Learning (UDL)",
+      "stimulus": "Guru kelas 5 ingin menerapkan Universal Design for Learning (UDL) dalam pembelajaran IPA. Implementasi UDL yang paling komprehensif mencakup tiga prinsip utamanya adalah...",
+      "pilihan": {
+        "A": "Menggunakan satu metode mengajar terbaik untuk semua siswa.",
+        "B": "Menyediakan representasi ganda (teks + gambar + video), pilihan cara mengekspresikan pemahaman (tulis/lisan/gambar), dan pilihan cara terlibat (mandiri/kelompok/hands-on).",
+        "C": "Memberikan soal yang sama kepada semua siswa namun dengan waktu yang berbeda.",
+        "D": "Menggunakan teknologi untuk semua aktivitas pembelajaran.",
+        "E": "Menyederhanakan semua materi agar mudah dipahami semua siswa."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "UDL memiliki tiga prinsip: (1) Multiple Means of Representation (cara menyajikan informasi), (2) Multiple Means of Action and Expression (cara siswa menunjukkan pemahaman), (3) Multiple Means of Engagement (cara memotivasi keterlibatan). Opsi B memenuhi ketiganya. UDL bukan tentang menyederhanakan, melainkan menyediakan pilihan.",
+      "nilai": 5
+    },
+    {
+      "nomor": 64,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - Perbandingan Senilai",
+      "stimulus": "Dalam resep kue, perbandingan tepung dan gula adalah 3:1. Jika seorang siswa ingin membuat kue dengan 450 gram tepung, berapa gram gula yang dibutuhkan?",
+      "pilihan": {
+        "A": "150 gram",
+        "B": "350 gram",
+        "C": "900 gram",
+        "D": "100 gram",
+        "E": "450 gram"
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": "Perbandingan tepung:gula = 3:1. Jika tepung = 450 gram, maka gula = (1/3) × 450 = 150 gram. Atau: 450 ÷ 3 = 150 gram. Ini mengukur kemampuan menyelesaikan masalah perbandingan senilai (proportional reasoning), kompetensi penting kelas 5-6 SD.",
+      "nilai": 5
+    },
+    {
+      "nomor": 65,
+      "domain": "Pedagogik",
+      "indikator": "Model Pembelajaran Inkuiri - Tingkatan",
+      "stimulus": "Bu Dina meminta siswa kelas 5 merumuskan sendiri pertanyaan penelitian tentang 'pengaruh jenis tanah terhadap pertumbuhan tanaman,' merancang prosedur percobaan, melakukan eksperimen, menganalisis data, dan menarik kesimpulan. Tingkat inkuiri yang diterapkan Bu Dina adalah...",
+      "pilihan": {
+        "A": "Inkuiri terbimbing (guided inquiry), karena guru memberikan topik.",
+        "B": "Inkuiri terstruktur (structured inquiry), karena guru memberikan prosedur.",
+        "C": "Inkuiri terbuka (open inquiry), karena siswa merumuskan pertanyaan, merancang prosedur, dan menarik kesimpulan secara mandiri.",
+        "D": "Demonstrasi, karena guru yang melakukan eksperimen.",
+        "E": "Inkuiri konfirmasi, karena hasilnya sudah diketahui sebelumnya."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Open Inquiry: siswa memiliki otonomi penuh mulai dari merumuskan pertanyaan, merancang prosedur, hingga menarik kesimpulan. Ini level inkuiri tertinggi. Guided inquiry: guru memberi pertanyaan, siswa merancang prosedur. Structured inquiry: guru memberi pertanyaan dan prosedur, siswa menarik kesimpulan.",
+      "nilai": 5
+    },
+    {
+      "nomor": 66,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Elektromagnet",
+      "stimulus": "Siswa kelas 4 menemukan bahwa semakin banyak lilitan kawat pada elektromagnet, lampu yang disambungkan semakin terang. Kesimpulan ilmiah yang paling tepat berdasarkan hasil percobaan tersebut adalah...",
+      "pilihan": {
+        "A": "Jumlah lilitan kawat tidak berpengaruh pada kekuatan elektromagnet.",
+        "B": "Semakin banyak jumlah lilitan kawat pada elektromagnet, semakin kuat medan magnet yang dihasilkan, yang ditunjukkan oleh lampu yang semakin terang.",
+        "C": "Lampu yang lebih terang disebabkan oleh panas yang dihasilkan kawat.",
+        "D": "Kekuatan elektromagnet hanya dipengaruhi oleh jenis baterai yang digunakan.",
+        "E": "Lilitan kawat yang lebih banyak memperpendek umur baterai sehingga arus listrik lebih kuat sesaat."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Kekuatan elektromagnet berbanding lurus dengan jumlah lilitan kawat (dan kuat arus). Lebih banyak lilitan = medan magnet lebih kuat. Kesimpulan harus didasarkan pada data percobaan yang teramati dan disimpulkan secara ilmiah menggunakan hubungan sebab-akibat yang tepat.",
+      "nilai": 5
+    },
+    {
+      "nomor": 67,
+      "domain": "Pedagogik",
+      "indikator": "Perkembangan Bahasa - Over-Regularization",
+      "stimulus": "Seorang anak kelas 1 Sekolah Rakyat mengatakan 'Kemarin aku pergi ke sungai dan makan-makanan banyak.' Kalimat ini mengandung over-regularization. Guru merespons dengan tepat apabila...",
+      "pilihan": {
+        "A": "Kalimat anak benar sepenuhnya; tidak perlu dikoreksi.",
+        "B": "Over-regularization adalah penerapan aturan bahasa secara berlebihan ke kasus yang dikecualikan. Guru merespons dengan recast alami tanpa menyalahkan: 'Oh, kamu makan banyak makanan ya? Enak sekali!'",
+        "C": "Ini adalah kesalahan serius yang harus segera dikoreksi keras agar tidak menjadi kebiasaan.",
+        "D": "Over-regularization menunjukkan keterlambatan bahasa; anak perlu terapi wicara.",
+        "E": "Guru mengabaikan kesalahan karena anak masih kelas 1."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Over-regularization adalah tahap normal perkembangan bahasa di mana anak menerapkan aturan yang baru dipelajari secara konsisten, termasuk pada kasus pengecualian. Ini justru menunjukkan anak aktif membangun sistem bahasa. Respons terbaik: recast (model yang benar dalam percakapan yang mengalir), bukan koreksi eksplisit.",
+      "nilai": 5
+    },
+    {
+      "nomor": 68,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPS - Sektor Ekonomi",
+      "stimulus": "Guru kelas 4 mengajarkan jenis pekerjaan. Pengelompokan yang paling tepat berdasarkan sektor ekonomi untuk: petani, pengrajin batik, nelayan, dokter, guru, dan polisi adalah...",
+      "pilihan": {
+        "A": "Sektor primer: petani, nelayan; Sektor sekunder: pengrajin batik; Sektor tersier: dokter, guru, polisi.",
+        "B": "Sektor primer: semua pekerjaan berhubungan dengan alam; Sektor sekunder: semua pekerjaan di kota.",
+        "C": "Sektor swasta: petani, pengrajin, nelayan; Sektor publik: dokter, guru, polisi.",
+        "D": "Sektor formal: dokter, guru, polisi; Sektor informal: petani, pengrajin, nelayan.",
+        "E": "Sektor produksi: petani, nelayan, pengrajin, dokter; Sektor distribusi: guru, polisi."
+      },
+      "kunci_jawaban": "A",
+      "pembahasan": "Tiga sektor ekonomi: (1) Primer: mengambil langsung dari alam (petani, nelayan, penambang), (2) Sekunder: mengolah/memproduksi barang (pengrajin batik, pabrik), (3) Tersier: layanan jasa (dokter, guru, polisi, pedagang). Pengelompokan di opsi A adalah yang paling akurat secara konseptual.",
+      "nilai": 5
+    },
+    {
+      "nomor": 69,
+      "domain": "Pedagogik",
+      "indikator": "Problem-Based Learning (PBL)",
+      "stimulus": "Bu Fitri merancang pembelajaran berbasis masalah (PBL) tentang pencemaran air di sekitar Sekolah Rakyat untuk kelas 5. Karakteristik yang membedakan PBL dari metode konvensional adalah...",
+      "pilihan": {
+        "A": "Guru menjelaskan materi secara lengkap terlebih dahulu sebelum siswa mengerjakan latihan soal.",
+        "B": "Masalah nyata yang kompleks diberikan DI AWAL sebagai pemicu belajar; siswa mengidentifikasi apa yang perlu dipelajari untuk memecahkan masalah; pengetahuan dibangun selama proses pemecahan masalah.",
+        "C": "Siswa mengerjakan soal latihan berulang-ulang hingga menguasai konsep.",
+        "D": "Guru dan siswa bersama-sama melakukan eksperimen yang sudah dirancang guru.",
+        "E": "Siswa membaca buku teks, merangkum, lalu presentasi."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "PBL dimulai dengan masalah autentik yang ill-defined. Masalah berfungsi sebagai TRIGGER belajar, bukan latihan setelah belajar. Siswa aktif mengidentifikasi learning needs mereka sendiri. Ini berbeda fundamental dari problem-solving tradisional di mana pengetahuan diberikan dulu baru soal diselesaikan.",
+      "nilai": 5
+    },
+    {
+      "nomor": 70,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Bahasa Indonesia - Majas",
+      "stimulus": "Siswa kelas 5 menemukan kalimat dalam puisi: 'Angin berbisik membawa rindu.' Identifikasi jenis majas yang tepat beserta ciri-cirinya adalah...",
+      "pilihan": {
+        "A": "Majas hiperbola, karena angin digambarkan terlalu berlebihan.",
+        "B": "Majas personifikasi, karena benda mati (angin) diberikan sifat/perilaku manusia (berbisik, membawa rindu).",
+        "C": "Majas metafora, karena angin langsung disamakan dengan manusia.",
+        "D": "Majas simile, karena menggunakan kata perbandingan 'seperti' atau 'bagai'.",
+        "E": "Majas ironi, karena makna yang dimaksud berlawanan dengan yang diucapkan."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Majas personifikasi memberikan sifat/perilaku manusia kepada benda mati atau abstrak. 'Angin berbisik' = angin melakukan tindakan manusia. 'Membawa rindu' = angin memiliki kapasitas emosional manusia. Metafora adalah perbandingan langsung, personifikasi lebih spesifik karena khusus untuk pemberian sifat manusia kepada benda mati.",
+      "nilai": 5
+    },
+    {
+      "nomor": 71,
+      "domain": "Pedagogik",
+      "indikator": "Penilaian Portofolio",
+      "stimulus": "Pak Zaki menggunakan penilaian portofolio untuk mengukur perkembangan kemampuan menulis siswa kelas 6 selama satu semester. Prinsip portofolio yang paling penting dan membedakannya dari kumpulan tugas biasa adalah...",
+      "pilihan": {
+        "A": "Portofolio harus berisi semua tugas yang pernah dikerjakan siswa tanpa seleksi.",
+        "B": "Portofolio harus dinilai oleh guru saja tanpa keterlibatan siswa.",
+        "C": "Portofolio mencakup refleksi siswa atas proses belajarnya (self-reflection), pemilihan karya terbaik yang disertai alasan, dan bukti perkembangan dari waktu ke waktu.",
+        "D": "Portofolio hanya berisi karya dengan nilai tertinggi.",
+        "E": "Portofolio adalah pengganti ujian akhir semester."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Portofolio autentik berbeda dari 'folder tugas' karena melibatkan: (1) student agency dalam memilih karya dan alasan pemilihan, (2) self-reflection yang bermakna tentang proses belajar, (3) evidence of growth dari awal ke akhir periode. Ini mengembangkan metakognisi dan ownership atas pembelajaran.",
+      "nilai": 5
+    },
+    {
+      "nomor": 72,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Perubahan Energi",
+      "stimulus": "Guru kelas 5 menjelaskan perubahan energi. Siswa diminta mengidentifikasi urutan perubahan energi ketika seseorang mengayuh sepeda untuk menyalakan lampu dinamo. Urutan yang benar adalah...",
+      "pilihan": {
+        "A": "Energi listrik → Energi gerak → Energi cahaya",
+        "B": "Energi kimia (makanan) → Energi gerak (kayuhan) → Energi listrik (dinamo) → Energi cahaya (lampu)",
+        "C": "Energi panas → Energi gerak → Energi listrik",
+        "D": "Energi cahaya → Energi kimia → Energi gerak",
+        "E": "Energi gerak → Energi kimia → Energi cahaya"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Rantai konversi energi sepeda dinamo: Energi kimia (dari makanan, disimpan otot) → Energi kinetik/gerak (mengayuh pedal) → Energi listrik (dinamo mengubah gerak putar melalui induksi elektromagnetik) → Energi cahaya (lampu menyala). Ini adalah rantai konversi energi yang lengkap dan benar.",
+      "nilai": 5
+    },
+    {
+      "nomor": 73,
+      "domain": "Pedagogik",
+      "indikator": "Self-Assessment dan Kompetensi Abad 21",
+      "stimulus": "Bu Rini mengimplementasikan penilaian diri (self-assessment) di kelas 5 setelah presentasi kelompok. Manfaat utama self-assessment yang paling relevan dengan pengembangan kompetensi abad 21 adalah...",
+      "pilihan": {
+        "A": "Mengurangi beban kerja guru dalam menilai.",
+        "B": "Mengembangkan kemampuan metakognisi, refleksi kritis, dan self-regulation belajar yang merupakan fondasi lifelong learning.",
+        "C": "Memastikan nilai siswa lebih objektif karena dinilai sendiri.",
+        "D": "Menghindari konflik antar siswa dalam penilaian kelompok.",
+        "E": "Membuat proses penilaian lebih cepat selesai."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Self-assessment mengembangkan metakognisi (kesadaran atas proses berpikir sendiri), kemampuan evaluasi kritis, dan self-regulation. Ini kompetensi kunci abad 21 yang mendukung lifelong learning. Siswa yang mampu menilai diri sendiri secara akurat lebih mampu mengatur belajarnya secara mandiri.",
+      "nilai": 5
+    },
+    {
+      "nomor": 74,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - KPK dan FPB dalam Soal Cerita",
+      "stimulus": "Pak Bejo mengajarkan KPK dan FPB kelas 5. Seorang siswa bertanya: 'Pak, kapan kita pakai KPK dan kapan FPB dalam soal cerita?' Penjelasan yang paling tepat dan mudah diingat adalah...",
+      "pilihan": {
+        "A": "KPK dan FPB digunakan dalam situasi yang sama.",
+        "B": "KPK untuk masalah penggabungan (kapan bertemu lagi, berapa minimal agar semua habis), FPB untuk masalah pembagian merata (berapa kelompok maksimal, ukuran potongan terbesar).",
+        "C": "KPK selalu lebih besar dari FPB, jadi gunakan KPK untuk jawaban besar.",
+        "D": "FPB digunakan saat bilangan genap, KPK saat bilangan ganjil.",
+        "E": "KPK untuk soal perkalian, FPB untuk soal pembagian."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Heuristik soal cerita: KPK digunakan saat 'kapan berulang bersama lagi' atau 'minimal berapa agar semua habis' (ide: memperbesar/menggabungkan). FPB digunakan saat 'membagi rata' atau 'kelompok terbesar yang bisa dibentuk' (ide: memperkecil/membagi). Contoh KPK: lampu menyala setiap 4 dan 6 detik, kapan bersamaan? Contoh FPB: 12 apel dan 8 jeruk dibagi rata tanpa sisa.",
+      "nilai": 5
+    },
+    {
+      "nomor": 75,
+      "domain": "Pedagogik",
+      "indikator": "Penelitian Tindakan Kelas (PTK)",
+      "stimulus": "Bu Sari mendapati metode pembelajaran yang ia gunakan belum efektif meningkatkan kemampuan membaca siswa. Ia ingin secara sistematis menyelidiki masalah ini dan mencari solusi melalui penelitian berbasis kelasnya sendiri. Jenis penelitian yang paling tepat adalah...",
+      "pilihan": {
+        "A": "Penelitian eksperimen murni dengan kelompok kontrol dan eksperimen terpisah.",
+        "B": "Penelitian Tindakan Kelas (PTK/Classroom Action Research), di mana guru meneliti praktik kelasnya sendiri secara siklus (plan-act-observe-reflect) untuk meningkatkan kualitas pembelajaran.",
+        "C": "Penelitian survei dengan kuesioner kepada 100 sekolah berbeda.",
+        "D": "Studi kasus tunggal terhadap satu siswa yang paling bermasalah.",
+        "E": "Penelitian korelasional untuk mengetahui hubungan antara metode membaca dan nilai ujian nasional."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "PTK (Classroom Action Research) dirancang khusus untuk refleksi dan perbaikan praktik mengajar oleh guru di kelasnya sendiri. Siklus: Plan (rencanakan perbaikan) → Act (terapkan) → Observe (amati dampak) → Reflect (refleksi dan rencanakan siklus berikutnya). PTK bersifat praktis, kolaboratif, dan kontekstual.",
+      "nilai": 5
+    },
+    {
+      "nomor": 76,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Reproduksi Generatif Tumbuhan",
+      "stimulus": "Siswa kelas 6 belajar perkembangbiakan tumbuhan. Guru bertanya: 'Mangga berkembang biak secara generatif. Apa artinya, dan apa organ yang terlibat?' Jawaban paling lengkap dan benar adalah...",
+      "pilihan": {
+        "A": "Generatif artinya menggunakan tunas; organ yang terlibat adalah akar dan daun.",
+        "B": "Generatif artinya menggunakan biji hasil penyerbukan; organ yang terlibat adalah bunga (benang sari sebagai serbuk sari, putik sebagai sel telur), kemudian biji berkembang dalam buah.",
+        "C": "Generatif artinya membelah diri; tidak ada organ khusus yang terlibat.",
+        "D": "Generatif artinya menggunakan stek batang; organ yang terlibat adalah batang.",
+        "E": "Generatif dan vegetatif adalah istilah yang sama maknanya."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Perkembangbiakan generatif = melibatkan sel kelamin (gamet) melalui penyerbukan dan pembuahan. Pada tumbuhan berbunga seperti mangga: serbuk sari (jantan, dari benang sari) + sel telur (betina, dalam putik) → zigot → biji → buah. Organ utama: bunga (benang sari, putik, mahkota, kelopak). Berbeda dengan vegetatif yang tidak melibatkan sel kelamin.",
+      "nilai": 5
+    },
+    {
+      "nomor": 77,
+      "domain": "Pedagogik",
+      "indikator": "Manajemen Waktu - Prinsip Active Learning",
+      "stimulus": "Dalam satu jam pelajaran (35 menit), Pak Ari mengalokasikan: 8 menit persiapan dan absensi, 20 menit ceramah materi, 5 menit tanya jawab, 2 menit penutup. Kelemahan utama distribusi waktu ini berdasarkan prinsip active learning adalah...",
+      "pilihan": {
+        "A": "Waktu ceramah sudah cukup; distribusi waktu sudah ideal.",
+        "B": "Waktu untuk siswa aktif (tanya jawab hanya 5 menit atau 14%) terlalu sedikit dibanding ceramah (20 menit atau 57%); idealnya minimal 50% waktu untuk aktivitas siswa aktif.",
+        "C": "Waktu pembukaan terlalu singkat; seharusnya 15 menit untuk memotivasi siswa.",
+        "D": "Waktu penutup terlalu lama; cukup 1 menit.",
+        "E": "Ceramah 20 menit adalah standar yang sudah benar untuk pembelajaran SD."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Prinsip active learning menyarankan siswa aktif secara kognitif minimal 50-70% waktu pembelajaran. Hanya 5 menit (14%) untuk tanya jawab aktif, sementara 57% untuk ceramah pasif adalah ketidakseimbangan signifikan. Research menunjukkan retensi dari ceramah pasif hanya ~5%, sedangkan dari active recall dan diskusi mencapai 50-70%.",
+      "nilai": 5
+    },
+    {
+      "nomor": 78,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Bahasa Indonesia - Pleonasme dan Kalimat Efektif",
+      "stimulus": "Siswa kelas 6 menulis: 'Para ibu-ibu wali murid hadir dalam pertemuan itu.' Guru mengidentifikasi adanya kesalahan pemborosan kata (pleonasme). Perbaikan yang paling tepat adalah...",
+      "pilihan": {
+        "A": "'Para ibu-ibu wali murid hadir dalam pertemuan itu.' (tidak perlu diperbaiki)",
+        "B": "'Para ibu wali murid hadir dalam pertemuan itu.' atau 'Ibu-ibu wali murid hadir dalam pertemuan itu.'",
+        "C": "'Semua para ibu wali murid hadir dalam pertemuan itu.'",
+        "D": "'Ibu-ibu wali murid yang hadir dalam pertemuan itu.'",
+        "E": "'Para ibu-ibu-ibu wali murid hadir dalam pertemuan itu.'"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Pleonasme: 'para' sudah berarti jamak, 'ibu-ibu' juga berarti jamak. Keduanya tidak boleh digabung. Perbaikan: gunakan salah satu saja: 'Para ibu wali murid...' (para + kata tunggal) ATAU 'Ibu-ibu wali murid...' (kata ulang tanpa para). Opsi C memperparah kesalahan.",
+      "nilai": 5
+    },
+    {
+      "nomor": 79,
+      "domain": "Pedagogik",
+      "indikator": "Growth Mindset - Carol Dweck",
+      "stimulus": "Seorang siswa kelas 5 berkata: 'Aku tidak pernah bisa pintar Matematika, itu bukan bakatku.' Pernyataan ini mencerminkan fixed mindset. Respons guru yang paling efektif untuk mendorong growth mindset adalah...",
+      "pilihan": {
+        "A": "'Kamu benar, mungkin bukan bakat kamu. Coba fokus di mata pelajaran lain.'",
+        "B": "'Kamu pasti bisa! Semua orang sama pintarnya.'",
+        "C": "'Otak kita seperti otot yang bisa dilatih. Kamu belum bisa, bukan tidak bisa. Mari kita cari strategi belajar matematika yang cocok untukmu.'",
+        "D": "'Lihat, temanmu Andi bisa. Kamu juga pasti bisa kalau mau berusaha seperti dia.'",
+        "E": "'Kalau rajin belajar, nilai kamu pasti akan naik.'"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Growth mindset response: (1) reframe 'tidak bisa' menjadi 'belum bisa' (yet-language), (2) gunakan neuroplastisitas sebagai argumen ilmiah (otak seperti otot yang bisa dilatih), (3) fokus pada strategi bukan kemampuan bawaan. Opsi A mengonfirmasi fixed mindset. Opsi D membandingkan dengan orang lain (kontraproduktif). Opsi B platitude tidak bermakna.",
+      "nilai": 5
+    },
+    {
+      "nomor": 80,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - Modus Bimodal",
+      "stimulus": "Kelas 5 mengumpulkan data nilai ulangan 15 siswa: 70, 75, 80, 70, 90, 85, 70, 80, 75, 95, 80, 70, 85, 80, 75. Guru meminta siswa menentukan nilai yang paling sering muncul. Jawaban yang benar adalah...",
+      "pilihan": {
+        "A": "Modus = 80, karena nilai tertinggi.",
+        "B": "Modus = 70 dan 80, karena kedua nilai tersebut masing-masing muncul 4 kali (modus ganda/bimodal).",
+        "C": "Modus = 79,3 karena merupakan rata-rata seluruh data.",
+        "D": "Modus = 80, karena merupakan nilai tengah.",
+        "E": "Modus = 95, karena merupakan nilai tertinggi yang muncul."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Frekuensi: 70(×4), 75(×3), 80(×4), 85(×2), 90(×1), 95(×1). Nilai 70 dan 80 masing-masing muncul 4 kali → data bimodal dengan modus 70 dan 80. Modus bukan rata-rata (opsi C = mean) atau nilai tengah (opsi D = median) atau nilai tertinggi (opsi A, E).",
+      "nilai": 5
+    },
+    {
+      "nomor": 81,
+      "domain": "Pedagogik",
+      "indikator": "Komunikasi Guru-Orang Tua yang Efektif",
+      "stimulus": "Bu Maya ingin menyampaikan kepada wali bahwa anaknya (Doni, kelas 3) belum mencapai KKM membaca dan membutuhkan dukungan tambahan. Cara menyampaikan informasi yang paling efektif dan membangun kemitraan adalah...",
+      "pilihan": {
+        "A": "'Doni malas, tidak mau belajar membaca di sekolah.'",
+        "B": "'Nilai Doni selalu di bawah semua teman-temannya.'",
+        "C": "'Doni sedang dalam proses mengembangkan kemampuan membacanya. Ini area yang sudah dicapai dan area yang perlu latihan. Berikut aktivitas yang bisa kita lakukan bersama di asrama/rumah untuk mendukungnya.'",
+        "D": "'Jika tidak ditingkatkan, Doni mungkin tidak naik kelas.'",
+        "E": "'Ini tanggung jawab Bapak/Ibu juga untuk mengajari Doni membaca di rumah.'"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Komunikasi guru-orang tua yang efektif: (1) fokus pada kompetensi spesifik bukan label ('malas'), (2) seimbang antara kekuatan dan area pengembangan, (3) solutif (tawarkan langkah konkret), (4) mengundang kemitraan bukan menyalahkan. Opsi C memenuhi semua prinsip. Opsi A dan B merendahkan. Opsi D dan E mengancam.",
+      "nilai": 5
+    },
+    {
+      "nomor": 82,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Rangkaian Listrik Paralel",
+      "stimulus": "Siswa kelas 6 membuat rangkaian listrik paralel dengan 3 lampu. Salah satu lampu dilepas. Apa yang terjadi pada dua lampu yang lain?",
+      "pilihan": {
+        "A": "Kedua lampu yang tersisa juga mati.",
+        "B": "Kedua lampu yang tersisa tetap menyala karena dalam rangkaian paralel setiap komponen memiliki jalur arus sendiri yang independen.",
+        "C": "Kedua lampu yang tersisa menyala lebih redup karena arus terbagi.",
+        "D": "Kedua lampu yang tersisa menyala lebih terang karena semua arus kini mengalir ke mereka.",
+        "E": "Rangkaian sepenuhnya rusak dan semua komponen mati."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Dalam rangkaian paralel, setiap komponen terhubung langsung ke sumber listrik melalui jalur independen. Jika satu lampu dilepas/putus, jalur lain tetap terhubung → lampu lain tetap menyala. Berbeda dengan rangkaian seri: jika satu putus, semua mati. Inilah mengapa instalasi listrik rumah menggunakan rangkaian paralel.",
+      "nilai": 5
+    },
+    {
+      "nomor": 83,
+      "domain": "Pedagogik",
+      "indikator": "Validitas Instrumen Penilaian",
+      "stimulus": "Bu Tari membuat soal ulangan IPA tentang sistem pencernaan menggunakan soal pilihan ganda hafalan nama organ, padahal tujuan pembelajaran adalah 'siswa mampu menganalisis fungsi setiap organ dalam proses pencernaan.' Masalah utama instrumen penilaian Bu Tari adalah...",
+      "pilihan": {
+        "A": "Soal terlalu mudah untuk kelas 5.",
+        "B": "Instrumen tidak valid karena tidak mengukur apa yang seharusnya diukur (tujuan: analisis fungsi C4, soal: hafalan nama organ C1).",
+        "C": "Soal pilihan ganda tidak pernah cocok untuk IPA.",
+        "D": "Reliabilitas rendah karena siswa bisa menebak.",
+        "E": "Instrumen terlalu panjang sehingga melelahkan siswa."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Validitas instrumen berarti alat ukur mengukur apa yang seharusnya diukur (construct validity). Tujuan pembelajaran mensyaratkan analisis (C4 Bloom), namun soal hanya mengukur hafalan (C1 Bloom). Ini masalah construct validity. Soal yang reliable tapi tidak valid tetap tidak berguna untuk mengukur capaian pembelajaran.",
+      "nilai": 5
+    },
+    {
+      "nomor": 84,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Bahasa Indonesia - Ciri Paragraf Padu",
+      "stimulus": "Siswa kelas 5 belajar menulis paragraf yang baik. Guru menjelaskan ciri-ciri paragraf yang padu (kohesif dan koheren). Yang BUKAN merupakan ciri paragraf yang padu adalah...",
+      "pilihan": {
+        "A": "Adanya satu gagasan utama yang jelas.",
+        "B": "Kalimat-kalimat saling terhubung secara logis dan mengembangkan satu topik.",
+        "C": "Penggunaan kata penghubung (konjungsi) yang tepat untuk menunjukkan hubungan antarkalimat.",
+        "D": "Setiap kalimat dalam paragraf membahas topik yang berbeda-beda agar lebih informatif dan kaya.",
+        "E": "Kalimat penjelas mendukung dan memperinci kalimat utama."
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": "Paragraf yang padu harus memiliki SATU gagasan utama (unity) dan semua kalimat penjelas mendukung gagasan tersebut (coherence). Opsi D 'setiap kalimat membahas topik berbeda' justru MERUSAK kepaduan paragraf. Opsi A, B, C, E adalah ciri-ciri paragraf yang padu.",
+      "nilai": 5
+    },
+    {
+      "nomor": 85,
+      "domain": "Pedagogik",
+      "indikator": "Evaluasi Program - Model Kirkpatrick",
+      "stimulus": "Kepala Sekolah Rakyat meminta guru mengevaluasi efektivitas program membaca 15 menit setiap pagi yang sudah berjalan 3 bulan. Model evaluasi yang paling komprehensif adalah...",
+      "pilihan": {
+        "A": "Cukup mengukur jumlah buku yang berhasil dibaca siswa.",
+        "B": "Hanya melihat apakah program berjalan sesuai jadwal atau tidak.",
+        "C": "Model Kirkpatrick: (1) Reaction - respons siswa terhadap program, (2) Learning - peningkatan kemampuan membaca terukur, (3) Behavior - perubahan kebiasaan membaca, (4) Results - dampak terhadap nilai akademik keseluruhan.",
+        "D": "Meminta pendapat guru saja tanpa data dari siswa.",
+        "E": "Membandingkan nilai ujian semester ini dengan semester lalu saja."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Model Kirkpatrick adalah framework evaluasi program yang paling komprehensif: Level 1 (Reaction/kepuasan), Level 2 (Learning/peningkatan skill), Level 3 (Behavior/perubahan perilaku dalam praktik), Level 4 (Results/dampak terhadap tujuan). Opsi lainnya hanya mengukur satu aspek dan tidak komprehensif.",
+      "nilai": 5
+    },
+    {
+      "nomor": 86,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Cuaca dan Iklim",
+      "stimulus": "Siswa kelas 3 bertanya: 'Bu, apa bedanya cuaca dan iklim?' Penjelasan yang paling akurat untuk level SD adalah...",
+      "pilihan": {
+        "A": "Cuaca dan iklim adalah hal yang sama.",
+        "B": "Cuaca adalah kondisi atmosfer dalam jangka pendek di suatu tempat (hari ini hujan, besok cerah), sedangkan iklim adalah pola cuaca rata-rata suatu wilayah dalam jangka panjang (30 tahun) yang relatif stabil.",
+        "C": "Cuaca terjadi di laut, iklim terjadi di darat.",
+        "D": "Iklim berubah setiap hari, cuaca tetap sepanjang tahun.",
+        "E": "Cuaca diukur oleh BMKG, iklim diukur oleh BPBD."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Perbedaan: Cuaca = kondisi atmosfer jangka pendek (jam, hari) yang berubah-ubah. Iklim = rata-rata pola cuaca jangka panjang (umumnya 30 tahun) yang relatif stabil dan mencirikan wilayah. Analogi mudah untuk SD: 'Cuaca adalah apa yang kamu kenakan hari ini, iklim adalah isi lemari pakaianmu.'",
+      "nilai": 5
+    },
+    {
+      "nomor": 87,
+      "domain": "Pedagogik",
+      "indikator": "Profil Pelajar Pancasila - Dimensi",
+      "stimulus": "Guru Sekolah Rakyat merancang kegiatan di mana siswa kelas 6 dari berbagai suku mengerjakan proyek bersama tentang 'Keberagaman Kuliner Nusantara': meneliti, memasak, dan mempresentasikan makanan khas daerah masing-masing kepada komunitas asrama. Dimensi Profil Pelajar Pancasila yang paling dominan dikembangkan adalah...",
+      "pilihan": {
+        "A": "Beriman, Bertakwa kepada Tuhan YME, dan Berakhlak Mulia.",
+        "B": "Mandiri, karena siswa bekerja secara independen.",
+        "C": "Kebhinekaan Global dan Gotong Royong, karena siswa mengapresiasi keberagaman budaya dan bekerja kolaboratif lintas suku.",
+        "D": "Bernalar Kritis, karena siswa menganalisis informasi kuliner.",
+        "E": "Kreatif, karena siswa memasak dan berkreasi."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Enam dimensi Profil Pelajar Pancasila (P3): Beriman-Bertakwa, Kebhinekaan Global, Gotong Royong, Mandiri, Bernalar Kritis, Kreatif. Kegiatan ini dominan mengembangkan Kebhinekaan Global (apresiasi keberagaman budaya, interaksi dengan perbedaan) dan Gotong Royong (kolaborasi lintas suku dalam proyek bersama).",
+      "nilai": 5
+    },
+    {
+      "nomor": 88,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPS - Relativisme Budaya",
+      "stimulus": "Seorang siswa kelas 4 berkata: 'Adat sukuku lebih baik dari adat suku lain.' Respons guru yang paling tepat untuk menangani pernyataan etnosentris ini adalah...",
+      "pilihan": {
+        "A": "Menyetujui agar siswa tidak tersinggung.",
+        "B": "Memarahi siswa karena pernyataannya tidak sopan.",
+        "C": "Memfasilitasi diskusi tentang relativitas budaya: setiap adat memiliki nilai dan fungsi dalam konteks masyarakatnya sendiri; tidak ada budaya yang lebih tinggi/rendah secara absolut; kita bisa menghargai perbedaan tanpa merendahkan yang lain.",
+        "D": "Mengabaikan pernyataan dan melanjutkan pelajaran.",
+        "E": "Meminta siswa lain untuk mengoreksi temannya tersebut."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Pernyataan siswa mencerminkan etnosentrisme (menilai budaya lain berdasarkan standar budayanya sendiri). Guru perlu memfasilitasi pemahaman relativisme budaya yang sehat: setiap budaya memiliki nilai dan logikanya sendiri, tidak ada hierarki budaya universal. Ini penting di Sekolah Rakyat dengan siswa dari berbagai suku.",
+      "nilai": 5
+    },
+    {
+      "nomor": 89,
+      "domain": "Pedagogik",
+      "indikator": "Integrasi Teknologi - Blended Learning",
+      "stimulus": "Bu Lila ingin mengintegrasikan teknologi digital dalam pembelajaran Bahasa Indonesia kelas 5 di Sekolah Rakyat yang memiliki 1 tablet untuk setiap 5 siswa. Integrasi teknologi yang paling efektif dengan keterbatasan alat tersebut adalah...",
+      "pilihan": {
+        "A": "Tidak menggunakan tablet sama sekali karena tidak cukup untuk semua siswa.",
+        "B": "Bergantian menggunakan tablet secara individual untuk menonton video YouTube.",
+        "C": "Model station rotation: kelompok bergilir antara (1) membaca mandiri, (2) menulis dengan tablet (satu per kelompok), (3) diskusi tatap muka, (4) instruksi kecil bersama guru - semua siswa mendapat akses tablet dan interaksi guru secara bermakna.",
+        "D": "Meminta siswa yang punya HP sendiri untuk menggunakan perangkatnya.",
+        "E": "Menunggu sampai sekolah mendapat lebih banyak tablet."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Station rotation (blended learning) adalah solusi efektif untuk keterbatasan perangkat: siswa bergiliran menggunakan tablet dalam kelompok kecil sementara kelompok lain mengerjakan aktivitas tidak membutuhkan teknologi. Ini memaksimalkan waktu on-task setiap siswa dan waktu berharga bersama guru.",
+      "nilai": 5
+    },
+    {
+      "nomor": 90,
+      "domain": "Pedagogik",
+      "indikator": "Kurikulum Merdeka - P5 (Projek Penguatan Profil Pelajar Pancasila)",
+      "stimulus": "Sekolah Rakyat merancang P5 dengan tema 'Suara Demokrasi' untuk kelas 5 dan 6. Siswa merencanakan, mengorganisir, dan memimpin pemilihan ketua OSIS asrama secara demokratis. Prinsip P5 yang paling tepat menggambarkan kegiatan ini adalah...",
+      "pilihan": {
+        "A": "P5 hanya boleh dilakukan di luar jam pelajaran reguler.",
+        "B": "P5 harus menghasilkan produk karya seni atau kerajinan tangan.",
+        "C": "P5 adalah pembelajaran berbasis proyek lintas disiplin yang kontekstual, mengembangkan dimensi Profil Pelajar Pancasila melalui aksi nyata untuk menjawab isu yang bermakna bagi siswa.",
+        "D": "P5 adalah tambahan beban belajar di luar struktur kurikulum.",
+        "E": "P5 harus dilaksanakan oleh seluruh sekolah di Indonesia dengan proyek yang identik."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "P5 dalam Kurikulum Merdeka: (1) berbasis proyek nyata, (2) lintas mata pelajaran, (3) mengembangkan dimensi P3 secara terintegrasi, (4) kontekstual dan relevan dengan kehidupan siswa, (5) fleksibel dalam tema dan implementasi. Proyek 'Suara Demokrasi' mengembangkan Gotong Royong, Bernalar Kritis, dan Kebhinekaan Global secara autentik.",
+      "nilai": 5
+    }
+  ]
+}

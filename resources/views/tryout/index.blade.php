@@ -7,16 +7,30 @@
 
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-            <div class="mb-8 text-center">
-                <h1 class="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
-                    {{ $pageTitle }}
-                </h1>
-                <p class="mt-4 text-gray-600 dark:text-gray-400">Pilih tryout yang tersedia dan lihat seberapa jauh persiapanmu.</p>
+            <div class="mb-8 flex flex-col md:flex-row justify-between items-center">
+                <div class="text-left mb-4 md:mb-0">
+                    <h1 class="text-4xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
+                        {{ $pageTitle }}
+                    </h1>
+                    <p class="mt-2 text-gray-600 dark:text-gray-400">Pilih tryout yang tersedia dan lihat seberapa jauh persiapanmu.</p>
+                </div>
+                
+                <div class="inline-flex shadow-sm rounded-md" role="group">
+                    <button type="button" data-filter="all" class="filter-btn bg-blue-600 text-white border-blue-600 px-4 py-2 text-sm font-medium border rounded-l-lg transition-colors duration-200">
+                        Semua
+                    </button>
+                    <button type="button" data-filter="free" class="filter-btn bg-white text-gray-700 border-t border-b border-gray-200 hover:bg-gray-50 hover:text-blue-600 px-4 py-2 text-sm font-medium transition-colors duration-200">
+                        Gratis
+                    </button>
+                    <button type="button" data-filter="premium" class="filter-btn bg-white text-gray-700 border border-gray-200 hover:bg-gray-50 hover:text-blue-600 px-4 py-2 text-sm font-medium rounded-r-lg transition-colors duration-200">
+                        Premium
+                    </button>
+                </div>
             </div>
 
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="tryout-container">
                 @forelse ($tryouts as $tryout)
-                    <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 rounded-2xl border border-gray-100 dark:border-gray-700 transform hover:-translate-y-2">
+                    <div data-premium="{{ $tryout->is_premium ? 'true' : 'false' }}" class="tryout-card bg-white dark:bg-gray-800 overflow-hidden shadow-lg hover:shadow-2xl transition-all duration-300 rounded-2xl border border-gray-100 dark:border-gray-700 transform hover:-translate-y-2">
                         <div class="p-6">
                             <div class="flex justify-between items-center mb-4">
                                 <span class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-900">
@@ -60,4 +74,39 @@
             </div>
         </div>
     </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const filterBtns = document.querySelectorAll('.filter-btn');
+            const tryoutCards = document.querySelectorAll('.tryout-card');
+
+            filterBtns.forEach(btn => {
+                btn.addEventListener('click', () => {
+                    // Update active state of buttons
+                    filterBtns.forEach(b => {
+                        b.classList.remove('bg-blue-600', 'text-white', 'border-blue-600');
+                        b.classList.add('bg-white', 'text-gray-700', 'hover:bg-gray-50', 'hover:text-blue-600');
+                    });
+                    btn.classList.add('bg-blue-600', 'text-white', 'border-blue-600');
+                    btn.classList.remove('bg-white', 'text-gray-700', 'hover:bg-gray-50', 'hover:text-blue-600');
+
+                    const filter = btn.dataset.filter;
+
+                    // Update cards
+                    tryoutCards.forEach(card => {
+                        const isPremium = card.dataset.premium === 'true';
+                        if (filter === 'all') {
+                            card.style.display = '';
+                        } else if (filter === 'free' && !isPremium) {
+                            card.style.display = '';
+                        } else if (filter === 'premium' && isPremium) {
+                            card.style.display = '';
+                        } else {
+                            card.style.display = 'none';
+                        }
+                    });
+                });
+            });
+        });
+    </script>
 </x-app-layout>

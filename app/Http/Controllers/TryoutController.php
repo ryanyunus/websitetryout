@@ -261,6 +261,21 @@ class TryoutController extends Controller
             abort(403);
         }
 
-        return view('tryout.result', compact('tryout', 'attempt'));
+        $correctAnswers = 0;
+        $wrongAnswers = 0;
+        
+        // Asumsi "benar" adalah opsi dengan poin tertinggi (is_correct) atau poin > 0 untuk teknis
+        foreach ($attempt->answers as $answer) {
+            if ($answer->option && $answer->option->is_correct) {
+                $correctAnswers++;
+            } else {
+                $wrongAnswers++;
+            }
+        }
+
+        $totalQuestions = $tryout->questions()->count();
+        $unanswered = $totalQuestions - ($correctAnswers + $wrongAnswers);
+
+        return view('tryout.result', compact('tryout', 'attempt', 'correctAnswers', 'wrongAnswers', 'unanswered', 'totalQuestions'));
     }
 }

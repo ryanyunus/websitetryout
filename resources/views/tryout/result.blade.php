@@ -34,7 +34,7 @@
                         <span class="block text-sm text-gray-500 dark:text-gray-400 mt-2">Skala 100</span>
                     </div>
 
-                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-md mx-auto mb-8 text-left">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-md mx-auto mb-6 text-left">
                         <div class="bg-white dark:bg-gray-800 p-4 border border-gray-100 dark:border-gray-700 rounded-xl shadow-sm">
                             <span class="block text-sm text-gray-500 dark:text-gray-400">Waktu Mulai</span>
                             <span class="block font-semibold text-gray-900 dark:text-white">{{ $attempt->started_at->format('H:i, d M Y') }}</span>
@@ -42,6 +42,21 @@
                         <div class="bg-white dark:bg-gray-800 p-4 border border-gray-100 dark:border-gray-700 rounded-xl shadow-sm">
                             <span class="block text-sm text-gray-500 dark:text-gray-400">Waktu Selesai</span>
                             <span class="block font-semibold text-gray-900 dark:text-white">{{ $attempt->completed_at->format('H:i, d M Y') }}</span>
+                        </div>
+                    </div>
+
+                    <div class="grid grid-cols-3 gap-4 max-w-lg mx-auto mb-8">
+                        <div class="bg-green-50 border border-green-200 dark:bg-green-900/30 dark:border-green-800 p-4 rounded-xl shadow-sm text-center">
+                            <span class="block text-3xl font-bold text-green-600 dark:text-green-400">{{ $correctAnswers }}</span>
+                            <span class="block text-sm text-green-800 dark:text-green-300 font-medium">Benar</span>
+                        </div>
+                        <div class="bg-red-50 border border-red-200 dark:bg-red-900/30 dark:border-red-800 p-4 rounded-xl shadow-sm text-center">
+                            <span class="block text-3xl font-bold text-red-600 dark:text-red-400">{{ $wrongAnswers }}</span>
+                            <span class="block text-sm text-red-800 dark:text-red-300 font-medium">Salah</span>
+                        </div>
+                        <div class="bg-gray-50 border border-gray-200 dark:bg-gray-800 dark:border-gray-700 p-4 rounded-xl shadow-sm text-center">
+                            <span class="block text-3xl font-bold text-gray-600 dark:text-gray-400">{{ $unanswered }}</span>
+                            <span class="block text-sm text-gray-800 dark:text-gray-300 font-medium">Kosong</span>
                         </div>
                     </div>
 

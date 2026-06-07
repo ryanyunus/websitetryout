@@ -1,0 +1,503 @@
+{
+  "metadata": {
+    "judul": "Tryout PPPK Guru Sekolah Rakyat 2026",
+    "sesi": "Sesi 1A",
+    "subtes": "Kompetensi Teknis",
+    "total_soal": 90,
+    "alokasi_waktu": "120 menit (digabung dengan Manajerial dan Sosial Kultural)",
+    "sistem_nilai": {
+      "benar": 5,
+      "salah": 0,
+      "kosong": 0
+    },
+    "nilai_maksimal_subtes": 450,
+    "domain": [
+      "Pedagogik",
+      "Profesional - Guru Kelas SD"
+    ],
+    "format_soal": "Pilihan ganda A-E",
+    "tingkat_kesulitan": "HOTS (Higher Order Thinking Skills)"
+  },
+  "soal": [
+    {
+      "nomor": 1,
+      "domain": "Pedagogik",
+      "indikator": "Teori Perkembangan Kognitif Piaget",
+      "stimulus": "Di kelas awal Sekolah Rakyat, Ibu Karina mendapati siswanya berusia 8 tahun belum pernah mengenyam TK akibat kemiskinan. Saat mengajarkan pengurangan dasar, anak frustrasi dengan angka abstrak di papan tulis. Ketika diberi ranting dan kerikil untuk dihitung secara fisik, pemahaman mereka melonjak drastis. Strategi Ibu Karina selaras dengan tahap perkembangan...",
+      "pilihan": {
+        "A": "Tahap Operasional Formal, penalaran deduktif hipotetis sedang distimulasi.",
+        "B": "Tahap Praoperasional, egosentrisme mendominasi pemikiran anak.",
+        "C": "Tahap Operasional Konkret, pemikiran logis masih mutlak terikat manipulasi objek fisik nyata.",
+        "D": "Tahap Sensorimotorik, pemahaman berbasis respons gerak refleks.",
+        "E": "Tahap Kognisi Holistik, analitik komparatif tanpa peraga bila lingkungan mendukung."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Usia 7-11 tahun berada pada tahap Operasional Konkret (Piaget). Anak mampu berpikir logis namun memerlukan objek fisik nyata sebagai jembatan. Opsi A (Formal) muncul usia 12+. Opsi B (Praoperasional) usia 2-7 tahun. Opsi D (Sensorimotorik) untuk bayi 0-2 tahun. Opsi E adalah konsep fiktif.",
+      "nilai": 5
+    },
+    {
+      "nomor": 2,
+      "domain": "Pedagogik",
+      "indikator": "Evaluasi Asesmen Criterion-Referenced",
+      "stimulus": "Bapak Ilham diminta mengidentifikasi kesulitan literasi siswa pindahan dari daerah terisolir menggunakan metode criterion-referenced. Langkah yang TIDAK tepat dalam penerapan metode ini adalah...",
+      "pilihan": {
+        "A": "Menetapkan nilai minimal yang dapat diterima sebagai batas kelulusan kompetensi dasar.",
+        "B": "Mengelompokkan siswa berdasarkan hasil pemetaan terhadap kriteria minimum.",
+        "C": "Membandingkan nilai anak dengan rata-rata kelompok untuk menentukan persentil peringkat.",
+        "D": "Membandingkan prestasi siswa terhadap indikator pencapaian kompetensi yang ditetapkan.",
+        "E": "Menganalisis kemampuan spesifik pada setiap Kompetensi Dasar yang belum tuntas."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Opsi C mendeskripsikan Norm-Referenced (Penilaian Acuan Norma), bukan criterion-referenced. Criterion-referenced mengevaluasi apakah siswa mencapai standar tertentu, terlepas performa teman sekelas.",
+      "nilai": 5
+    },
+    {
+      "nomor": 3,
+      "domain": "Pedagogik",
+      "indikator": "Pembelajaran Diferensiasi Proses",
+      "stimulus": "Kelas 5 Sekolah Rakyat: sepertiga siswa mahir membaca narasi panjang, sepertiga lancar namun kesulitan makna tersirat, sisanya masih mengeja. Tujuan pembelajaran: 'Siswa memahami pesan moral fabel.' Desain diferensiasi proses yang paling tepat adalah...",
+      "pilihan": {
+        "A": "Menyamaratakan teks mudah agar tidak ada yang dibedakan, siswa mahir mengerjakan soal lebih banyak.",
+        "B": "Kelompok heterogen, siswa mahir menjadi tutor sebaya agar guru fokus administrasi.",
+        "C": "Menyiapkan teks fabel sama dengan tiga tingkat kompleksitas bahasa dan modifikasi berbeda (visual, komik, teks padat), lalu membimbing diskusi kelompok sesuai kemahiran.",
+        "D": "Memisahkan siswa yang mengeja ke kelas remedial agar target kurikulum tidak terhambat.",
+        "E": "Ceramah mendongeng tanpa teks agar semua tingkatan literasi terakomodasi auditori."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Opsi C menerapkan diferensiasi konten dan proses berbasis readiness siswa (scaffolding bertingkat). Opsi A pseudo-equity. Opsi B membebani siswa cerdas. Opsi D segregasi bertentangan prinsip inklusi. Opsi E mereduksi tujuan literasi.",
+      "nilai": 5
+    },
+    {
+      "nomor": 4,
+      "domain": "Pedagogik",
+      "indikator": "Teori Vygotsky - ZPD dan Scaffolding",
+      "stimulus": "Dika (kelas 3) mampu menyelesaikan penjumlahan tiga angka secara mandiri, tetapi gagal pada pengurangan bersusun. Setelah bimbingan singkat 5 menit dari Bu Ratna, Dika berhasil menyelesaikannya. Konsep Vygotsky yang paling tepat menggambarkan kondisi ini adalah...",
+      "pilihan": {
+        "A": "Equilibrasi, proses penyeimbangan asimilasi dan akomodasi pada skema kognitif.",
+        "B": "Zone of Proximal Development (ZPD), jarak antara kemampuan mandiri dan kemampuan dengan bantuan orang yang lebih kompeten.",
+        "C": "Scaffolding permanen karena siswa dianggap belum mampu berkembang mandiri.",
+        "D": "Asimilasi kognitif, integrasi informasi baru ke skema yang ada tanpa mengubah struktur.",
+        "E": "Elaborasi memori kerja, pengulangan informasi untuk retensi jangka pendek."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "ZPD adalah celah antara kemampuan mandiri dan kemampuan dengan bantuan. Dika bisa penjumlahan mandiri (batas bawah ZPD), butuh bantuan untuk pengurangan (dalam ZPD). Bu Ratna bertindak sebagai scaffolding. Opsi A adalah konsep Piaget. Opsi C keliru karena scaffolding bersifat sementara dan bertujuan melepaskan bantuan.",
+      "nilai": 5
+    },
+    {
+      "nomor": 5,
+      "domain": "Pedagogik",
+      "indikator": "Taksonomi Bloom Revisi - HOTS",
+      "stimulus": "Pak Budi membuat soal IPA kelas 4: 'Jika penggundulan hutan di Jawa meningkat 5% per tahun, prediksikan dampaknya terhadap siklus hidrologi wilayah hilir dalam 10 tahun dan usulkan dua solusi berbasis sains.' Soal ini berada pada level taksonomi Bloom...",
+      "pilihan": {
+        "A": "C1 dan C2, karena siswa menjelaskan siklus air yang sudah dipelajari.",
+        "B": "C3 (Mengaplikasikan), karena siswa menerapkan konsep siklus air pada kasus nyata.",
+        "C": "C4 (Menganalisis), karena siswa memecah masalah deforestasi menjadi komponen dampak.",
+        "D": "C5 (Mengevaluasi) dan C6 (Mencipta), karena siswa memprediksi berdasarkan data dan mengusulkan solusi baru.",
+        "E": "C2 dan C3, karena memahami konsep lalu menggunakannya pada situasi baru."
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": "'Prediksikan' masuk C5 (Mengevaluasi) karena membutuhkan penalaran berbasis data untuk memproyeksikan hasil. 'Usulkan solusi' masuk C6 (Mencipta) karena menghasilkan rencana baru. Kombinasi C5+C6 adalah karakteristik soal HOTS sejati.",
+      "nilai": 5
+    },
+    {
+      "nomor": 6,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Pembelajaran Tematik Terpadu",
+      "stimulus": "Bu Sari mengintegrasikan 'Pertumbuhan Tanaman' (IPA) dengan 'Pengukuran Panjang' (Matematika) di kelas 3. Siswa mengukur tinggi tanaman kacang hijau setiap hari, mencatat, dan membuat grafik batang sederhana. Pendekatan pembelajaran ini paling tepat dikategorikan sebagai...",
+      "pilihan": {
+        "A": "Problem-Based Learning karena siswa memecahkan masalah pertumbuhan tanaman.",
+        "B": "Pembelajaran tematik terpadu dengan pendekatan saintifik, mengintegrasikan IPA dan Matematika dalam satu konteks bermakna.",
+        "C": "Contextual Teaching Learning tanpa integrasi tema karena tiap mapel dinilai secara terpisah.",
+        "D": "Pembelajaran kooperatif tipe STAD karena siswa bekerja dalam kelompok.",
+        "E": "Project-Based Learning karena menghasilkan produk akhir berupa grafik batang."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Pembelajaran tematik terpadu mengintegrasikan beberapa mapel dalam satu tema bermakna. Bu Sari menggabungkan IPA (pertumbuhan) dan Matematika (pengukuran, grafik) dalam tema 'Tumbuhan' dengan pendekatan saintifik (mengamati-mengukur-mencatat-menyajikan).",
+      "nilai": 5
+    },
+    {
+      "nomor": 7,
+      "domain": "Pedagogik",
+      "indikator": "Asesmen Formatif - Exit Ticket",
+      "stimulus": "Pak Hendra mengajar teks prosedur kelas 5 dan ingin mengetahui pemahaman siswa secara cepat di tengah pembelajaran tanpa tes tertulis formal yang memakan banyak waktu. Teknik asesmen formatif paling tepat dan efisien adalah...",
+      "pilihan": {
+        "A": "Ulangan harian 10 soal pilihan ganda di akhir sesi.",
+        "B": "Exit Ticket: siswa menuliskan satu hal yang dipahami dan satu pertanyaan yang masih membingungkan sebelum meninggalkan kelas.",
+        "C": "Menunda asesmen hingga pertemuan berikutnya dan memberikan PR sebagai pengganti.",
+        "D": "Portofolio siswa dikumpulkan di akhir semester sebagai bukti perkembangan belajar.",
+        "E": "Ujian tengah semester dini untuk mendeteksi kesenjangan pemahaman secara menyeluruh."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Exit Ticket adalah asesmen formatif informal yang cepat dan memberikan immediate feedback kepada guru tentang capaian siswa sebelum melanjutkan materi. Opsi A terlalu formal dan memakan waktu. Opsi C menunda umpan balik. Opsi D jangka panjang. Opsi E berlebihan untuk pengecekan mid-lesson.",
+      "nilai": 5
+    },
+    {
+      "nomor": 8,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Literasi Awal - Metode Membaca Permulaan",
+      "stimulus": "Ibu Dewi mengajar kelas 1 Sekolah Rakyat. Siswanya minim paparan bahasa tulis sebelum masuk sekolah. Ia memulai dari pengenalan huruf dan suku kata, lalu merangkainya menjadi kata dan kalimat sederhana bermakna yang berhubungan keseharian siswa (beras, air, sawah). Metode yang digunakan Ibu Dewi adalah...",
+      "pilihan": {
+        "A": "Metode Global/Whole Language, dimulai dari kalimat utuh dianalisis ke huruf.",
+        "B": "Metode Suku Kata (Syllabic Method), mengajarkan suku kata sebagai satuan dasar sebelum membentuk kata.",
+        "C": "Metode SAS (Struktural Analitik Sintetik), dimulai kalimat → kata → suku kata → huruf → dirangkai kembali.",
+        "D": "Metode Fonik (Phonics), berfokus pada korespondensi bunyi-huruf sebagai dasar decoding.",
+        "E": "Metode Abjad, mengajarkan nama-nama huruf alfabet secara urut."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Ibu Dewi memulai dari huruf → suku kata → kata → kalimat. Ini ciri Metode Suku Kata. Opsi A (Global) adalah kebalikannya: dari kalimat ke huruf. Opsi C (SAS) dimulai dari kalimat utuh. Opsi D (Fonik) berfokus pada bunyi/fonem bukan suku kata sebagai satuan utama.",
+      "nilai": 5
+    },
+    {
+      "nomor": 9,
+      "domain": "Pedagogik",
+      "indikator": "Manajemen Kelas Inklusif - Gaya Belajar Kinestetik",
+      "stimulus": "Rahmat (kelas 4) sering membuat gaduh, sulit duduk diam lebih dari 10 menit, mudah teralihkan, namun sangat antusias saat kegiatan praktik langsung. Ia kesulitan membaca instruksi tertulis yang panjang. Identifikasi kebutuhan belajar dan strategi paling tepat adalah...",
+      "pilihan": {
+        "A": "Gangguan disiplin; tempatkan di bangku depan pengawasan ketat dan sanksi setiap membuat gaduh.",
+        "B": "Gaya belajar kinestetik dengan kemungkinan karakteristik ADHD; pecah instruksi jadi langkah singkat, sediakan aktivitas gerak berkala, manfaatkan energinya melalui peran aktif dalam demonstrasi.",
+        "C": "Siswa visual; perbanyak media gambar dan video dalam setiap sesi.",
+        "D": "Butuh remedial intensif di luar jam pelajaran karena kemampuan membaca di bawah rata-rata.",
+        "E": "Dirujuk ke psikiater sebelum diizinkan mengikuti pembelajaran kelas reguler."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Profil Rahmat menunjukkan gaya belajar kinestetik yang kuat dan kemungkinan karakteristik ADHD. Respons profesional bukan menghukum melainkan mengadaptasi: instruksi pendek, brain break, peran aktif. Opsi E prematur dan eksklusif bertentangan pendidikan inklusif.",
+      "nilai": 5
+    },
+    {
+      "nomor": 10,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Kurikulum Merdeka - Pembelajaran Kontekstual Lokal",
+      "stimulus": "Pak Fajar, guru kelas 5 di pesisir Sulawesi, mengajarkan CP 'interaksi manusia dengan lingkungan alam'. Siswa mewawancarai nelayan lokal tentang perubahan hasil tangkap 10 tahun terakhir, menganalisis data sederhana, lalu membuat laporan. Prinsip Kurikulum Merdeka yang paling tepat diimplementasikan adalah...",
+      "pilihan": {
+        "A": "Standarisasi konten, seluruh Indonesia menggunakan materi yang identik tanpa pertimbangan konteks lokal.",
+        "B": "Pembelajaran berbasis proyek berpusat pada siswa, kontekstualisasi kearifan lokal, dan pengembangan kompetensi lintas disiplin.",
+        "C": "Drill dan hafalan fakta-fakta lingkungan alam untuk keperluan ujian nasional.",
+        "D": "Segregasi mata pelajaran, proyek hanya boleh dalam jam pelajaran IPS.",
+        "E": "Guru sebagai satu-satunya sumber belajar; informasi dari nelayan lokal tidak valid secara formal."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Kurikulum Merdeka mendorong: (1) proyek berbasis konteks lokal, (2) student-centered, (3) integrasi lintas disiplin (IPS, Bahasa Indonesia, Matematika), (4) keberagaman sumber belajar. Proyek Pak Fajar memenuhi keempat prinsip ini.",
+      "nilai": 5
+    },
+    {
+      "nomor": 11,
+      "domain": "Pedagogik",
+      "indikator": "Motivasi Belajar - Self-Determination Theory",
+      "stimulus": "Aldi (kelas 6 Sekolah Rakyat) selalu mengerjakan PR karena takut dihukum guru, bukan karena ingin belajar. Menurut Self-Determination Theory (Deci dan Ryan), jenis motivasi yang dimiliki Aldi adalah...",
+      "pilihan": {
+        "A": "Motivasi intrinsik, karena Aldi secara aktif mengerjakan tugas setiap hari.",
+        "B": "Regulasi teridentifikasi, karena Aldi memahami nilai penting PR untuk masa depannya.",
+        "C": "Regulasi eksternal, karena perilaku Aldi dikendalikan oleh konsekuensi eksternal (ancaman hukuman).",
+        "D": "Motivasi terintegrasi, karena mengerjakan PR sudah menjadi bagian dari identitas diri Aldi.",
+        "E": "Amotivasi, karena Aldi tidak memiliki alasan sama sekali untuk belajar."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Regulasi eksternal adalah bentuk motivasi ekstrinsik paling dasar: perilaku didorong oleh reward/punishment dari luar diri. Aldi mengerjakan PR karena takut hukuman (tekanan eksternal). Motivasi intrinsik didorong minat dan kepuasan internal. Regulasi teridentifikasi berarti siswa memahami manfaat untuk dirinya sendiri.",
+      "nilai": 5
+    },
+    {
+      "nomor": 12,
+      "domain": "Pedagogik",
+      "indikator": "Desain Instruksional - Model ADDIE",
+      "stimulus": "Bu Hani merancang program pembelajaran literasi untuk siswa kelas 2 yang sebagian besar belum bisa membaca. Ia memetakan kemampuan awal siswa, mengidentifikasi kesenjangan, menentukan tujuan, merancang bahan ajar, mengimplementasikan, lalu mengevaluasi hasilnya. Pendekatan desain instruksional yang digunakan Bu Hani adalah...",
+      "pilihan": {
+        "A": "Model Backward Design (UbD), dimulai dari hasil yang diinginkan menuju kegiatan pembelajaran.",
+        "B": "Model ADDIE (Analysis, Design, Development, Implementation, Evaluation) yang sistematik dan berurutan.",
+        "C": "Model Kemp, yang menekankan fleksibilitas dan siklus tidak berurutan.",
+        "D": "Model Dick and Carey, yang berfokus pada analisis tugas dan sistem instruksional.",
+        "E": "Model Assure, yang dirancang khusus untuk integrasi media teknologi dalam pembelajaran."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah Bu Hani (analisis kebutuhan → desain tujuan → kembangkan bahan → implementasi → evaluasi) merepresentasikan fase ADDIE secara tepat. Opsi A (UbD/Backward Design) dimulai dari tujuan akhir/asesmen, bukan analisis kebutuhan. Opsi E (Assure) khusus integrasi media.",
+      "nilai": 5
+    },
+    {
+      "nomor": 13,
+      "domain": "Pedagogik",
+      "indikator": "Teori Belajar Konstruktivisme",
+      "stimulus": "Bu Laras mengajar IPA kelas 4 tentang sifat benda. Alih-alih menjelaskan langsung, ia memberikan berbagai benda (es batu, lilin, karet, kayu) kepada siswa dan meminta mereka mengeksplor, mencatat pengamatan, lalu membangun sendiri kesimpulan tentang sifat-sifat benda. Pendekatan Bu Laras paling sesuai dengan teori belajar...",
+      "pilihan": {
+        "A": "Behaviorisme, karena guru memberikan stimulus berupa benda-benda konkret.",
+        "B": "Kognitivisme, karena siswa memproses informasi melalui memori jangka pendek ke jangka panjang.",
+        "C": "Konstruktivisme, karena siswa membangun pengetahuan sendiri melalui eksplorasi dan pengalaman langsung.",
+        "D": "Humanisme, karena guru menghargai kebutuhan dan potensi individual setiap siswa.",
+        "E": "Sibernetika, karena umpan balik dari eksplorasi benda membentuk regulasi perilaku belajar."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Konstruktivisme (Piaget, Vygotsky, Bruner) menekankan bahwa pengetahuan dibangun secara aktif oleh siswa melalui pengalaman. Bu Laras memfasilitasi discovery learning. Bukan behaviorisme karena tidak ada conditioning/reward. Bukan kognitivisme murni karena penekanannya pada konstruksi aktif bukan pemrosesan informasi pasif.",
+      "nilai": 5
+    },
+    {
+      "nomor": 14,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Numerasi - Konsep Pecahan Konkret",
+      "stimulus": "Siswa kelas 3 kesulitan memahami bahwa 1/2 lebih besar dari 1/4. Pak Eko sudah mencoba berbagai cara verbal namun gagal. Representasi konkret paling efektif untuk membangun pemahaman konseptual pecahan pada kelas rendah adalah...",
+      "pilihan": {
+        "A": "Menulis 1/2 > 1/4 di papan tulis berulang kali sambil menjelaskan secara verbal.",
+        "B": "Meminta siswa menghafal urutan pecahan dari terkecil ke terbesar untuk ulangan.",
+        "C": "Menggunakan model area (kertas dilipat): lipat kertas jadi 2 bagian vs 4 bagian, siswa membandingkan ukuran setiap bagian secara langsung.",
+        "D": "Memberikan 20 soal latihan perbandingan pecahan agar siswa terbiasa.",
+        "E": "Menggunakan kalkulator untuk membuktikan bahwa 0,5 > 0,25."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Model area (paper folding) adalah representasi konkret yang membangun pemahaman konseptual secara visual dan taktil. Siswa melihat langsung bahwa 1 dari 2 bagian lebih besar dari 1 dari 4 bagian. Opsi A dan B hanya hafalan tanpa pemahaman. Opsi E melompat ke desimal yang lebih abstrak.",
+      "nilai": 5
+    },
+    {
+      "nomor": 15,
+      "domain": "Pedagogik",
+      "indikator": "Pendekatan Saintifik 5M",
+      "stimulus": "Dalam Kurikulum Merdeka, pembelajaran menggunakan pendekatan saintifik 5M. Urutan tahapan yang BENAR dari pendekatan saintifik adalah...",
+      "pilihan": {
+        "A": "Menanya → Mengamati → Mengasosiasi → Mencoba → Mengomunikasikan",
+        "B": "Mengamati → Menanya → Mengumpulkan informasi/mencoba → Mengasosiasi → Mengomunikasikan",
+        "C": "Mencoba → Mengamati → Menanya → Mengasosiasi → Mengomunikasikan",
+        "D": "Mengomunikasikan → Mengamati → Menanya → Mencoba → Mengasosiasi",
+        "E": "Mengasosiasi → Mengamati → Menanya → Mencoba → Mengomunikasikan"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Urutan pendekatan saintifik 5M yang benar sesuai Permendikbud: (1) Mengamati - stimulus/observasi, (2) Menanya - identifikasi masalah, (3) Mengumpulkan informasi/mencoba - eksplorasi, (4) Mengasosiasi - analisis dan penalaran, (5) Mengomunikasikan - presentasi hasil. Urutan ini mengikuti alur metode ilmiah.",
+      "nilai": 5
+    },
+    {
+      "nomor": 16,
+      "domain": "Pedagogik",
+      "indikator": "Gaya Belajar VARK",
+      "stimulus": "Dalam satu kelas terdapat empat kelompok siswa: Kelompok 1 mudah memahami diagram dan peta konsep. Kelompok 2 efektif mendengarkan cerita dan diskusi. Kelompok 3 perlu membaca teks sendiri. Kelompok 4 butuh praktik langsung dan gerak fisik. Identifikasi urutan gaya belajar VARK yang tepat sesuai urutan kelompok adalah...",
+      "pilihan": {
+        "A": "Visual, Auditori, Kinestetik, Reading/Writing",
+        "B": "Visual, Auditori, Reading/Writing, Kinestetik",
+        "C": "Visual, Reading/Writing, Auditori, Kinestetik",
+        "D": "Auditori, Visual, Kinestetik, Reading/Writing",
+        "E": "Reading/Writing, Visual, Auditori, Kinestetik"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Kelompok 1 (diagram, peta konsep) = Visual. Kelompok 2 (mendengarkan cerita, diskusi) = Auditori. Kelompok 3 (membaca teks sendiri) = Reading/Writing. Kelompok 4 (praktik langsung, gerak) = Kinestetik. Urutan V-A-R-K.",
+      "nilai": 5
+    },
+    {
+      "nomor": 17,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Siklus Air dan Evaporasi",
+      "stimulus": "Bu Nita mengajar siklus air kelas 5. Siswa bertanya mengapa air laut yang asin tidak menghasilkan hujan yang asin. Penjelasan ilmiah yang paling tepat untuk level SD adalah...",
+      "pilihan": {
+        "A": "Air laut disaring oleh awan sebelum turun sebagai hujan sehingga garamnya tertinggal.",
+        "B": "Saat evaporasi, hanya molekul air (H₂O) yang menguap karena panas matahari, sedangkan garam (NaCl) memiliki titik didih jauh lebih tinggi sehingga tertinggal di laut.",
+        "C": "Garam di laut tidak cukup banyak sehingga konsentrasinya terlalu rendah untuk ikut menguap.",
+        "D": "Awan memiliki filter khusus yang memisahkan garam dari air sebelum terbentuk hujan.",
+        "E": "Air hujan berasal dari sungai dan danau air tawar yang menguap, bukan dari laut."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Pada evaporasi, panas matahari menyebabkan molekul air (H₂O) berpindah ke atmosfer sebagai uap. Garam (NaCl) adalah zat terlarut dengan titik didih sangat tinggi sehingga tidak ikut menguap dalam kondisi normal. Penjelasan ini akurat secara ilmiah dan dapat disederhanakan untuk level SD.",
+      "nilai": 5
+    },
+    {
+      "nomor": 18,
+      "domain": "Pedagogik",
+      "indikator": "Pendidikan Inklusif - Adaptasi Kurikulum",
+      "stimulus": "Terdapat siswa tunanetra di kelas 4 Sekolah Rakyat. Kurikulum mensyaratkan pembelajaran IPA tentang warna pelangi. Adaptasi kurikulum yang paling tepat tanpa mengurangi esensi capaian pembelajaran adalah...",
+      "pilihan": {
+        "A": "Membebaskan siswa tunanetra dari materi tersebut karena tidak relevan dengan kondisinya.",
+        "B": "Memberikan penugasan alternatif berupa tulisan deskriptif tentang pengalaman mendengar hujan.",
+        "C": "Mengadaptasi pembelajaran dengan mengganti representasi visual ke multisensori: deskripsi auditori urutan warna, model taktil pelangi dari bahan berbeda tekstur, dan analogi bunyi.",
+        "D": "Menyediakan pendamping yang membacakan buku teks selama jam pelajaran berlangsung.",
+        "E": "Menempatkan siswa di ruang khusus dengan guru pendamping terpisah dari kelas reguler."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Adaptasi kurikulum untuk siswa tunanetra yang tepat adalah mengubah modalitas representasi dari visual ke multisensori (auditori + taktil), bukan menghapus materi. Esensi CP (memahami fenomena pelangi/dispersi cahaya) tetap tercapai melalui jalur berbeda. Opsi A dan B mengurangi CP. Opsi E segregatif.",
+      "nilai": 5
+    },
+    {
+      "nomor": 19,
+      "domain": "Pedagogik",
+      "indikator": "Teori Multiple Intelligences Gardner",
+      "stimulus": "Bu Indah mendapati siswanya Farel sangat lemah dalam matematika dan bahasa, namun luar biasa dalam menirukan gerakan tari daerah, memiliki koordinasi tubuh sempurna, dan mudah memahami instruksi fisik. Menurut Teori Kecerdasan Majemuk Howard Gardner, kecerdasan dominan Farel adalah...",
+      "pilihan": {
+        "A": "Kecerdasan Musikal, karena tari berkaitan erat dengan ritme dan musik.",
+        "B": "Kecerdasan Kinestetik-Jasmani, karena kemampuan mengontrol gerakan tubuh dan koordinasi fisik.",
+        "C": "Kecerdasan Spasial, karena tari memerlukan pemahaman ruang dan dimensi.",
+        "D": "Kecerdasan Interpersonal, karena tari sering dilakukan bersama orang lain.",
+        "E": "Kecerdasan Naturalis, karena tari daerah berhubungan dengan alam dan budaya lokal."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Kecerdasan Kinestetik-Jasmani (Bodily-Kinesthetic Intelligence) meliputi kemampuan menggunakan tubuh dengan terampil, koordinasi fisik, dan keseimbangan. Farel menunjukkan profil ini secara jelas. Opsi A (Musikal) berfokus pada nada/ritme bukan gerak tubuh. Opsi C (Spasial) berfokus pada persepsi ruang visual.",
+      "nilai": 5
+    },
+    {
+      "nomor": 20,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Bahasa Indonesia - Jenis Teks",
+      "stimulus": "Siswa kelas 5 diminta menulis teks dengan ciri-ciri: terdapat tesis/pernyataan pendapat, argumen pendukung dengan fakta dan data, serta kesimpulan/rekomendasi. Jenis teks yang paling tepat sesuai karakteristik tersebut dalam Kurikulum Merdeka adalah...",
+      "pilihan": {
+        "A": "Teks narasi, karena menceritakan peristiwa secara kronologis.",
+        "B": "Teks prosedur, karena memiliki langkah-langkah yang harus diikuti.",
+        "C": "Teks eksposisi/argumentasi, karena memuat pendapat, argumen dengan bukti, dan rekomendasi.",
+        "D": "Teks deskripsi, karena menggambarkan objek secara detail dan rinci.",
+        "E": "Teks laporan hasil observasi, karena berisi fakta-fakta tentang suatu fenomena."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Struktur tesis + argumen + rekomendasi adalah ciri khas teks eksposisi/argumentasi. Teks ini bertujuan meyakinkan pembaca dengan menggunakan data dan logika. Berbeda dengan narasi (kronologis cerita), prosedur (langkah-langkah), deskripsi (gambaran objek), dan laporan observasi (fakta tanpa opini).",
+      "nilai": 5
+    },
+    {
+      "nomor": 21,
+      "domain": "Pedagogik",
+      "indikator": "Pengelolaan Kelas - Rutinitas dan Prosedur",
+      "stimulus": "Awal tahun ajaran, Bu Sinta mendapati kelas 2 Sekolah Rakyat barunya sangat kacau: siswa berlarian, tidak tahu cara mengambil buku, tidak tertib saat makan bersama di asrama. Strategi manajemen kelas yang paling fundamental dan berdampak jangka panjang yang harus dilakukan pertama kali adalah...",
+      "pilihan": {
+        "A": "Memberikan sanksi tegas kepada seluruh kelas sebagai efek jera agar segera tertib.",
+        "B": "Membangun dan melatihkan rutinitas serta prosedur kelas secara eksplisit, konsisten, dan berulang hingga menjadi kebiasaan otomatis.",
+        "C": "Memindahkan siswa yang paling gaduh ke bangku depan dekat meja guru.",
+        "D": "Meminta bantuan orangtua untuk mendisiplinkan anak di rumah/asrama.",
+        "E": "Mengurangi waktu belajar dan memperbanyak waktu bermain agar siswa senang dulu."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Fondasi manajemen kelas efektif adalah membangun rutinitas dan prosedur yang jelas, dilatihkan eksplisit, dan diinternalisasi hingga menjadi otomatis. Ini pendekatan preventif lebih efektif daripada reaktif (sanksi). Di Sekolah Rakyat dengan siswa dari latar trauma, konsistensi rutinitas memberikan rasa aman psikologis.",
+      "nilai": 5
+    },
+    {
+      "nomor": 22,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - Nilai Tempat dan Placeholder",
+      "stimulus": "Pak Rudi mengajar nilai tempat kelas 2. Seorang siswa menulis angka '304' sebagai 'tiga ratus nol empat' dan mengklaim nol adalah 'angka yang tidak ada artinya.' Respons pedagogis yang paling tepat adalah...",
+      "pilihan": {
+        "A": "Menyalahkan siswa karena jawabannya keliru dan memintanya memperbaiki tanpa penjelasan.",
+        "B": "Menjelaskan bahwa nol adalah 'pemegang tempat' (placeholder) yang menunjukkan tidak ada nilai pada posisi puluhan; tanpa nol, angka 304 menjadi 34 yang berbeda artinya; menggunakan blok nilai tempat konkret.",
+        "C": "Mengabaikan konsepsi keliru siswa dan melanjutkan materi.",
+        "D": "Meminta siswa menghafal: ratusan-puluhan-satuan tanpa penjelasan konseptual.",
+        "E": "Memberikan soal latihan tambahan 30 butir tentang nilai tempat sebagai remedial."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Konsepsi keliru siswa ('nol tidak ada artinya') harus direspons dengan membangun pemahaman konseptual yang benar. Angka 0 berfungsi sebagai placeholder dalam sistem nilai tempat. Penggunaan blok nilai tempat (manipulatif konkret) membantu siswa SD memvisualisasikan konsep ini secara nyata.",
+      "nilai": 5
+    },
+    {
+      "nomor": 23,
+      "domain": "Pedagogik",
+      "indikator": "Literasi Kritis",
+      "stimulus": "Siswa kelas 6 membaca berita tentang pembangunan jalan di dekat kawasan hutan. Guru ingin mengembangkan kemampuan literasi kritis siswa. Pertanyaan yang paling tepat untuk mendorong literasi kritis adalah...",
+      "pilihan": {
+        "A": "Siapa nama jalan yang dibangun?",
+        "B": "Di mana lokasi pembangunan jalan tersebut?",
+        "C": "Siapa yang diuntungkan dan dirugikan oleh pembangunan jalan ini, dan mengapa perspektif yang berbeda tidak muncul dalam berita?",
+        "D": "Kapan pembangunan jalan tersebut dimulai?",
+        "E": "Berapa panjang jalan yang akan dibangun?"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Literasi kritis melampaui comprehension literal. Pertanyaan kritis mendorong siswa menganalisis: kepentingan/perspektif yang terwakili dan tidak terwakili, implikasi sosial dan lingkungan, posisi penulis. Opsi C mendorong analisis multiperspektif. Opsi A, B, D, E hanya pertanyaan faktual tingkat recall.",
+      "nilai": 5
+    },
+    {
+      "nomor": 24,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPS - Kebutuhan dan Keinginan",
+      "stimulus": "Bu Mirna mengajar IPS kelas 3 tentang kebutuhan dan keinginan. Untuk konteks siswa Sekolah Rakyat dari keluarga miskin ekstrem, cara paling tepat membimbing diskusi agar tidak menyinggung kondisi keluarga adalah...",
+      "pilihan": {
+        "A": "Langsung menanyakan: 'Di rumah kalian, mana yang ada dan mana yang tidak ada?'",
+        "B": "Menggunakan tokoh fiksi (keluarga dalam cerita) sebagai konteks, sehingga diskusi tidak personal namun konsep tetap tersampaikan.",
+        "C": "Meminta siswa yang 'kaya' menjadi contoh dan siswa yang 'kurang' hanya menyimak.",
+        "D": "Menghindari topik ini sepenuhnya karena sensitif untuk kondisi siswa.",
+        "E": "Memberikan pernyataan: 'Keluarga yang baik selalu bisa memenuhi kebutuhan anaknya.'"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Menggunakan tokoh fiksi (distancing technique) melindungi privasi dan martabat siswa dari keluarga miskin ekstrem sambil tetap mencapai tujuan pembelajaran. Opsi A berisiko mempermalukan siswa. Opsi C diskriminatif. Opsi D menghindari tanggung jawab pedagogis. Opsi E memperparah rasa bersalah siswa.",
+      "nilai": 5
+    },
+    {
+      "nomor": 25,
+      "domain": "Pedagogik",
+      "indikator": "Penilaian Autentik",
+      "stimulus": "Pak Fandi ingin mengukur kompetensi menulis persuasif siswa kelas 6 secara autentik. Instrumen penilaian yang paling sesuai dengan prinsip asesmen autentik adalah...",
+      "pilihan": {
+        "A": "Tes pilihan ganda 40 soal tentang aturan tata bahasa dan ejaan.",
+        "B": "Tes esai singkat 5 pertanyaan tentang ciri-ciri teks persuasif.",
+        "C": "Rubrik penilaian untuk poster persuasif nyata tentang pentingnya menjaga kebersihan asrama, dipresentasikan kepada warga asrama.",
+        "D": "Dikte 50 kata untuk mengukur kemampuan mengeja.",
+        "E": "Kuis lisan tentang definisi teks persuasif."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Asesmen autentik mengukur kompetensi melalui tugas nyata yang bermakna (real-world task). Membuat poster persuasif untuk konteks nyata mengukur kemampuan menulis persuasif secara langsung dan kontekstual. Rubrik memastikan penilaian objektif. Opsi A, B, D, E mengukur pengetahuan TENTANG menulis, bukan kemampuan menulis itu sendiri.",
+      "nilai": 5
+    },
+    {
+      "nomor": 26,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "PKn - Internalisasi Nilai Pancasila",
+      "stimulus": "Guru kelas 5 Sekolah Rakyat mengajarkan sila ke-3 Pancasila 'Persatuan Indonesia' dalam konteks keberagaman siswa asrama dari berbagai pulau dan suku. Strategi pembelajaran yang paling kontekstual untuk internalisasi nilai persatuan adalah...",
+      "pilihan": {
+        "A": "Meminta siswa menghafal bunyi sila ke-3 dan 5 poin pengamalannya.",
+        "B": "Menyelenggarakan 'Festival Mini Budaya Nusantara': tiap siswa memperkenalkan satu tradisi/makanan/lagu daerahnya, lalu berdiskusi tentang kesamaan nilai di balik perbedaan.",
+        "C": "Memberikan soal pilihan ganda tentang pengamalan sila ke-3 dalam kehidupan sehari-hari.",
+        "D": "Menunjukkan video dokumenter tentang konflik SARA dan dampaknya.",
+        "E": "Meminta siswa menulis esai tentang pentingnya persatuan bangsa."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Internalisasi nilai memerlukan pengalaman langsung bermakna, bukan hafalan. Festival Mini Budaya memanfaatkan keberagaman nyata siswa asrama sebagai sumber belajar autentik. Siswa mengalami sendiri bahwa perbedaan adalah kekayaan. Ini menginternalisasi nilai persatuan secara afektif dan kognitif sekaligus.",
+      "nilai": 5
+    },
+    {
+      "nomor": 27,
+      "domain": "Pedagogik",
+      "indikator": "Diferensiasi Konten",
+      "stimulus": "Di kelas 4 Sekolah Rakyat terdapat tiga kelompok kemampuan membaca: tinggi (membaca kritis), sedang (membaca literal), rendah (membaca lambat kata per kata). Guru mengajarkan 'perubahan wujud benda' dengan diferensiasi konten. Implementasi paling tepat adalah...",
+      "pilihan": {
+        "A": "Semua kelompok menerima teks bacaan yang sama dengan instruksi yang berbeda.",
+        "B": "Kelompok tinggi: artikel ilmiah populer + analisis; kelompok sedang: teks bergambar + pertanyaan literal; kelompok rendah: infografis sederhana + diskusi oral dengan guru.",
+        "C": "Kelompok tinggi mengerjakan semua tugas, kelompok rendah hanya mengerjakan nomor 1-5.",
+        "D": "Semua kelompok mengerjakan tugas yang sama namun diberi waktu berbeda.",
+        "E": "Kelompok rendah belajar di luar kelas dengan guru bantu sementara kelompok lain belajar mandiri."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Diferensiasi konten berarti materi/sumber belajar disesuaikan dengan tingkat kesiapan siswa. Opsi B menyesuaikan kompleksitas teks dan modalitas untuk setiap kelompok sambil mempertahankan topik yang sama. Opsi A hanya membedakan instruksi. Opsi C hanya kuantitas bukan kualitas. Opsi E adalah segregasi.",
+      "nilai": 5
+    },
+    {
+      "nomor": 28,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - Soal Cerita dan Problem Solving",
+      "stimulus": "Siswa kelas 5 diberi soal cerita: 'Bu Ani membeli 3 kg beras Rp15.000/kg dan 2 kg gula Rp12.000/kg. Ia membayar Rp100.000. Berapa kembaliannya?' Seorang siswa menjawab Rp44.000 dengan langkah tidak sistematis. Respons guru yang paling mendukung pembelajaran konseptual adalah...",
+      "pilihan": {
+        "A": "Memberi nilai 0 karena langkah penyelesaian salah meski jawaban akhir benar.",
+        "B": "Memberi nilai penuh karena jawaban akhirnya benar.",
+        "C": "Meminta siswa menjelaskan cara berpikirnya, lalu membimbing mengorganisasi langkah secara sistematis (diketahui → ditanya → penyelesaian → cek) sambil menghargai hasil akhir yang benar.",
+        "D": "Meminta siswa mengerjakan ulang dengan cara 'benar' sesuai contoh di buku.",
+        "E": "Mengabaikan jawaban siswa dan langsung menunjukkan cara guru di papan tulis."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Pembelajaran matematika kontemporer menghargai proses berpikir, bukan hanya jawaban akhir. Guru perlu memvalidasi pemikiran siswa sambil membimbing sistematisasi. Opsi C membangun kemampuan problem-solving dan metakognisi. Opsi A terlalu punitif. Opsi B mengabaikan perkembangan proses berpikir.",
+      "nilai": 5
+    },
+    {
+      "nomor": 29,
+      "domain": "Pedagogik",
+      "indikator": "Hierarki Kebutuhan Maslow dalam Pembelajaran",
+      "stimulus": "Di Sekolah Rakyat berasrama, Rino (kelas 3) menolak belajar, sering mengantuk, sulit konsentrasi meski tidak terindikasi sakit. Setelah investigasi, ternyata ia kelaparan karena sering melewatkan sarapan pagi. Berdasarkan Hierarki Kebutuhan Maslow, tindakan prioritas guru yang paling tepat adalah...",
+      "pilihan": {
+        "A": "Memberikan motivasi ekstrinsik berupa poin penghargaan agar Rino bersemangat belajar.",
+        "B": "Memastikan kebutuhan fisiologis Rino terpenuhi terlebih dahulu (akses makanan) sebelum mengharapkan keterlibatan belajar optimal.",
+        "C": "Menghubungi orang tua untuk meminta dukungan moral agar Rino lebih termotivasi.",
+        "D": "Memberikan tugas yang lebih mudah agar Rino tidak stres saat belajar.",
+        "E": "Memindahkan Rino ke kelompok belajar yang lebih suportif."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Dalam hierarki Maslow, kebutuhan fisiologis (makan, tidur) adalah fondasi paling dasar. Tanpa terpenuhinya kebutuhan ini, kebutuhan di atasnya tidak dapat dicapai optimal. Belajar adalah proses kognitif tingkat tinggi yang tidak bisa berjalan efektif saat kebutuhan dasar tidak terpenuhi.",
+      "nilai": 5
+    },
+    {
+      "nomor": 30,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Fotosintesis dan Etiolasi",
+      "stimulus": "Siswa kelas 5 bertanya: 'Pak, kenapa daun di tempat gelap warnanya kuning-pucat, padahal di tempat terang hijau segar?' Penjelasan ilmiah yang paling akurat dan sesuai level SD kelas 5 adalah...",
+      "pilihan": {
+        "A": "Daun di tempat gelap kedinginan sehingga klorofil mati dan berubah warna.",
+        "B": "Tanaman di tempat gelap kekurangan cahaya; klorofil (zat hijau daun) tidak diproduksi cukup karena sintesisnya memerlukan cahaya; daun menjadi kuning pucat (etiolasi).",
+        "C": "Air tidak bisa naik ke daun di tempat gelap sehingga daun kering dan kuning.",
+        "D": "Daun kuning di tempat gelap karena kekurangan pupuk nitrogen.",
+        "E": "Klorofil berpindah ke bagian batang untuk menyerap cahaya yang lebih banyak."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Fenomena ini disebut etiolasi: pertumbuhan tanaman di tempat kurang cahaya mengakibatkan batang memanjang lemah dan daun menguning karena klorofil tidak terbentuk optimal (sintesis klorofil memerlukan cahaya). Penjelasan ini akurat secara sains dan dapat dipahami siswa kelas 5.",
+      "nilai": 5
+    }
+  ]
+}

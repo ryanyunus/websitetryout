@@ -1,0 +1,484 @@
+{
+  "soal_31_60": [
+    {
+      "nomor": 31,
+      "domain": "Pedagogik",
+      "indikator": "Refleksi Pembelajaran - Metakognisi",
+      "stimulus": "Bu Ani ingin siswa kelas 6 mengembangkan kemampuan metakognisi setelah ulangan harian. Strategi paling tepat untuk memfasilitasi metakognisi pasca-tes adalah...",
+      "pilihan": {
+        "A": "Langsung mengumumkan nilai dan melanjutkan materi berikutnya.",
+        "B": "Meminta siswa memeriksa jawaban yang salah, mengidentifikasi MENGAPA salah (salah konsep, salah hitung, atau tidak membaca soal), dan menulis rencana perbaikan spesifik.",
+        "C": "Memberikan soal remedial tambahan kepada seluruh siswa.",
+        "D": "Membahas soal yang paling banyak salah secara klasikal tanpa analisis individual.",
+        "E": "Meminta siswa membandingkan nilainya dengan nilai teman sebangku."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Metakognisi adalah kesadaran dan regulasi terhadap proses berpikir sendiri. Mengidentifikasi jenis kesalahan (salah konsep vs salah prosedur vs salah membaca) mendorong siswa menjadi learner yang mandiri dan reflektif, inti pengembangan self-regulated learning dalam Kurikulum Merdeka.",
+      "nilai": 5
+    },
+    {
+      "nomor": 32,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Bahasa Indonesia - Ejaan dan Tanda Baca PUEBI",
+      "stimulus": "Siswa kelas 4 menulis: 'kemarin, saya pergi ke pasar bersama ibu. kami membeli sayur bayam, wortel dan tomat. harganya Rp 15000.' Kesalahan ejaan dan tanda baca yang PALING perlu diprioritaskan adalah...",
+      "pilihan": {
+        "A": "Penggunaan koma setelah 'kemarin' yang tidak diperlukan.",
+        "B": "Huruf kapital di awal kalimat kedua ('kami' → 'Kami'), huruf kapital pada 'ibu' sebagai panggilan, dan penulisan Rp 15.000 (titik ribuan).",
+        "C": "Tidak ada tanda seru di akhir kalimat.",
+        "D": "Kata 'bayam' sebaiknya ditulis 'bayem' sesuai dialek lokal.",
+        "E": "Kalimat terlalu pendek dan perlu ditambah kata sifat deskriptif."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Prioritas koreksi PUEBI: (1) 'kami' → 'Kami' (kapital awal kalimat), (2) 'ibu' → 'Ibu' jika digunakan sebagai panggilan/sapaan, (3) Rp 15000 → Rp 15.000 (penulisan angka dengan titik pemisah ribuan sesuai PUEBI). Ini kesalahan yang paling signifikan terhadap standar bahasa formal.",
+      "nilai": 5
+    },
+    {
+      "nomor": 33,
+      "domain": "Pedagogik",
+      "indikator": "Cooperative Learning - Jigsaw",
+      "stimulus": "Pak Yuda menggunakan metode Jigsaw untuk 24 siswa kelas 5 dengan materi 'keragaman budaya Indonesia'. Tahapan yang TIDAK sesuai dengan implementasi Jigsaw yang benar adalah...",
+      "pilihan": {
+        "A": "Membagi siswa menjadi kelompok asal dengan anggota heterogen.",
+        "B": "Memberikan setiap anggota kelompok asal satu subtopik berbeda untuk dipelajari.",
+        "C": "Siswa dengan subtopik yang sama berkumpul di 'kelompok ahli' untuk mendiskusikan subtopik mereka secara mendalam.",
+        "D": "Guru menjelaskan seluruh materi kepada semua kelompok secara bergantian sebelum diskusi kelompok ahli dimulai.",
+        "E": "Siswa kembali ke kelompok asal dan mengajarkan subtopiknya kepada anggota lain."
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": "Dalam Jigsaw, otoritas pengetahuan ada pada siswa (student as expert), bukan guru. Guru TIDAK menjelaskan seluruh materi sebelum diskusi kelompok ahli; itu menghilangkan esensi Jigsaw dan tanggung jawab belajar individual. Opsi A, B, C, E adalah tahapan Jigsaw yang benar.",
+      "nilai": 5
+    },
+    {
+      "nomor": 34,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - Konversi Satuan Panjang",
+      "stimulus": "Siswa kelas 4 belajar konversi satuan panjang. Seorang siswa mengklaim: '5 meter sama dengan 500 sentimeter, jadi 5 meter juga sama dengan 0,5 kilometer.' Analisis dan respons pedagogis yang tepat adalah...",
+      "pilihan": {
+        "A": "Siswa benar sepenuhnya; langsung puji dan lanjutkan materi.",
+        "B": "Siswa salah di semua konversi; minta mengulang dari awal.",
+        "C": "Konversi pertama (5 m = 500 cm) benar; konversi kedua salah (5 m = 0,005 km bukan 0,5 km). Guru membimbing dengan tangga satuan (km→hm→dam→m→dm→cm→mm) agar siswa menemukan kesalahannya sendiri.",
+        "D": "Siswa perlu diberikan tabel konversi untuk dihafal agar tidak salah lagi.",
+        "E": "Kesalahan ini tidak penting; yang penting siswa bisa menggunakan rumus akhirnya."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "5 m = 500 cm ✓ (×100). Namun 5 m = 0,005 km karena 1 km = 1000 m, sehingga 5 m = 5/1000 km = 0,005 km ✗. Siswa salah di konversi kedua. Tangga satuan (alat visual) membantu siswa menemukan sendiri polanya, bukan hanya diberitahu jawabannya.",
+      "nilai": 5
+    },
+    {
+      "nomor": 35,
+      "domain": "Pedagogik",
+      "indikator": "Teknik Bertanya HOTS",
+      "stimulus": "Bu Wati mengajar fotosintesis kelas 5. Dari pertanyaan berikut, yang termasuk pertanyaan HOTS (C4-C6 Bloom) adalah...",
+      "pilihan": {
+        "A": "Apa itu fotosintesis?",
+        "B": "Di mana proses fotosintesis terjadi dalam daun?",
+        "C": "Sebutkan bahan-bahan yang dibutuhkan untuk fotosintesis!",
+        "D": "Jika sebuah tanaman diletakkan dalam akuarium tertutup bersama ikan, bagaimana keduanya saling bergantung dan apa yang terjadi jika cahaya dimatikan selama 3 hari?",
+        "E": "Kapan tanaman melakukan fotosintesis?"
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": "Opsi D memerlukan: (1) analisis hubungan simbiosis tanaman-ikan (CO₂/O₂), (2) evaluasi dampak variabel (gelap), (3) prediksi hasil berdasarkan penalaran. Ini level C4-C5. Opsi A, B, C, E hanya pertanyaan faktual C1-C2 yang memerlukan recall.",
+      "nilai": 5
+    },
+    {
+      "nomor": 36,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Sistem Pencernaan",
+      "stimulus": "Guru kelas 5 mengajarkan organ pencernaan. Siswa bertanya: 'Kenapa kalau makan terlalu cepat sering kembung?' Penjelasan ilmiah paling tepat untuk level SD adalah...",
+      "pilihan": {
+        "A": "Makanan tidak sempat dikunyah menyebabkan lambung bekerja lebih keras dan menghasilkan gas.",
+        "B": "Makan cepat menyebabkan banyak udara ikut tertelan (aerofagia) dan makanan yang kurang terkunyah mempersulit kerja enzim pencernaan sehingga terjadi fermentasi bakteri usus yang menghasilkan gas.",
+        "C": "Makanan langsung masuk ke usus besar tanpa melalui lambung saat makan terlalu cepat.",
+        "D": "Kembung terjadi karena makanan tersangkut di kerongkongan.",
+        "E": "Lambung tidak punya cukup asam saat makan terlalu cepat."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Dua mekanisme utama: (1) aerofagia - udara tertelan saat makan cepat, (2) pencernaan tidak sempurna - makanan kurang terkunyah sehingga enzim tidak bekerja optimal, menyebabkan fermentasi bakteri di usus yang menghasilkan gas. Penjelasan ini akurat dan dapat dipahami siswa SD.",
+      "nilai": 5
+    },
+    {
+      "nomor": 37,
+      "domain": "Pedagogik",
+      "indikator": "Pendidikan Karakter Berbasis Nilai",
+      "stimulus": "Pak Aji mendapati beberapa siswa kelas 6 mencontek saat ulangan. Ia ingin menggunakan pendekatan pendidikan karakter yang sistemis. Strategi paling komprehensif yang mencerminkan pendidikan karakter berbasis nilai adalah...",
+      "pilihan": {
+        "A": "Memberikan nilai 0 kepada semua siswa yang tertangkap mencontek tanpa pengecualian.",
+        "B": "Menangani secara privat, mengajak siswa merefleksikan nilai integritas, mengidentifikasi penyebab mencontek (rasa takut gagal, kurang belajar), dan merancang solusi bersama termasuk perbaikan sistem belajar.",
+        "C": "Mengumumkan nama siswa yang mencontek di depan kelas sebagai efek jera.",
+        "D": "Meminta seluruh kelas menandatangani pakta integritas dan mengancam hukuman kelompok.",
+        "E": "Mengabaikan kejadian tersebut dan memperketat pengawasan ulangan berikutnya."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Pendidikan karakter bukan hanya penerapan sanksi, melainkan proses membangun kesadaran nilai secara internal. Opsi B menangani akar masalah (mengapa mencontek) sambil membangun refleksi moral. Opsi A dan C punitif tanpa edukasi. Opsi D hanya compliance eksternal. Opsi E mengabaikan momen pembelajaran karakter.",
+      "nilai": 5
+    },
+    {
+      "nomor": 38,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - Modus dan Statistika Deskriptif",
+      "stimulus": "Kelas 6 mengumpulkan data tinggi badan 10 siswa (cm): 130, 132, 128, 145, 131, 129, 133, 128, 131, 130. Nilai modus yang benar adalah...",
+      "pilihan": {
+        "A": "130 cm karena merupakan nilai tengah data.",
+        "B": "128 dan 131 cm karena kedua nilai tersebut masing-masing muncul 2 kali (modus ganda).",
+        "C": "145 cm karena merupakan nilai tertinggi dalam data.",
+        "D": "130,7 cm karena merupakan rata-rata seluruh data.",
+        "E": "131 cm karena merupakan nilai yang paling sering muncul tunggal."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Frekuensi: 128(×2), 129(×1), 130(×2), 131(×2), 132(×1), 133(×1), 145(×1). Nilai 128, 130, dan 131 masing-masing muncul 2 kali → multimodal. Dari pilihan yang tersedia, opsi B menggambarkan konsep modus ganda yang paling mendekati benar. Modus bukan rata-rata, nilai tengah (median), atau nilai tertinggi.",
+      "nilai": 5
+    },
+    {
+      "nomor": 39,
+      "domain": "Pedagogik",
+      "indikator": "Trauma-Informed Pedagogy",
+      "stimulus": "Seorang siswa kelas 3 menangis saat pelajaran matematika dan berkata: 'Aku bodoh, aku tidak bisa apa-apa.' Respons guru yang paling tepat berdasarkan prinsip trauma-informed pedagogy adalah...",
+      "pilihan": {
+        "A": "'Sudah, jangan menangis. Coba lagi dari awal!'",
+        "B": "'Semua siswa pasti bisa, asal mau berusaha keras.'",
+        "C": "Duduk sejajar dengan siswa, validasi perasaannya ('Aku lihat kamu sedang frustrasi, itu normal'), lalu bersama-sama mengidentifikasi satu bagian kecil yang sudah bisa dikerjakan sebagai titik awal.",
+        "D": "'Lihat, teman-temanmu bisa mengerjakan. Kamu juga pasti bisa!'",
+        "E": "Memberikan soal yang lebih mudah tanpa berinteraksi lebih lanjut."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Trauma-informed pedagogy mengutamakan: (1) validasi emosi tanpa penghakiman, (2) rasa aman psikologis, (3) growth mindset melalui bukti konkret kemampuan. Opsi C melakukan ketiganya. Opsi A dan D mengabaikan perasaan. Opsi B adalah platitude tidak bermakna. Opsi E menghindari hubungan penting guru-siswa.",
+      "nilai": 5
+    },
+    {
+      "nomor": 40,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPS - Kegiatan Ekonomi Produksi-Distribusi-Konsumsi",
+      "stimulus": "Guru kelas 4 Sekolah Rakyat mengajarkan kegiatan ekonomi menggunakan contoh kontekstual nelayan. Urutan siklus ekonomi yang paling benar dan relevan dari hasil tangkap ikan adalah...",
+      "pilihan": {
+        "A": "Konsumsi → Produksi → Distribusi",
+        "B": "Distribusi → Konsumsi → Produksi",
+        "C": "Produksi (nelayan menangkap ikan) → Distribusi (ikan dijual ke pasar/pengepul) → Konsumsi (masyarakat membeli dan makan ikan)",
+        "D": "Konsumsi → Distribusi → Produksi",
+        "E": "Produksi → Konsumsi → Distribusi"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Urutan yang benar adalah Produksi → Distribusi → Konsumsi. Konteks nelayan: menangkap ikan (produksi) → dijual ke pasar/pengepul (distribusi) → masyarakat membeli dan mengonsumsi (konsumsi). Konteks lokal yang dekat dengan kehidupan siswa memperkuat pemahaman konsep abstrak.",
+      "nilai": 5
+    },
+    {
+      "nomor": 41,
+      "domain": "Pedagogik",
+      "indikator": "Scaffolding - Gradual Release of Responsibility",
+      "stimulus": "Bu Yeni mengajar menulis paragraf argumentatif kepada siswa kelas 5 yang baru pertama kali belajar jenis teks ini. Urutan scaffolding yang paling sistematis untuk membangun kemampuan menulis mandiri adalah...",
+      "pilihan": {
+        "A": "Langsung tugaskan siswa menulis paragraf mandiri, lalu berikan umpan balik.",
+        "B": "Guru menulis contoh → siswa menganalisis struktur bersama → siswa mengisi template terbimbing → siswa menulis dengan prompt terbuka → siswa menulis mandiri.",
+        "C": "Guru menjelaskan teori argumentasi selama 2 jam, lalu siswa menulis.",
+        "D": "Siswa menghafal struktur teks argumentatif sebelum mulai menulis.",
+        "E": "Siswa membaca 10 contoh teks argumentatif lalu langsung menulis mandiri."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Scaffolding efektif mengikuti gradasi Gradual Release of Responsibility (GRR): I do (guru modelling) → We do (analisis bersama) → You do guided (template) → You do open (prompt terbuka) → You do independently (mandiri). Opsi A melewati semua fase scaffolding. Opsi C dan D mengandalkan teori/hafalan tanpa praktik bertahap.",
+      "nilai": 5
+    },
+    {
+      "nomor": 42,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Gravitasi",
+      "stimulus": "Siswa kelas 4 bertanya: 'Kenapa bola yang kita lempar ke atas pasti jatuh lagi?' Guru ingin menjelaskan konsep gravitasi dengan tepat dan mudah dipahami. Penjelasan yang paling akurat adalah...",
+      "pilihan": {
+        "A": "Bumi memiliki 'magnet raksasa' yang menarik semua benda ke arahnya.",
+        "B": "Bumi memiliki gaya tarik gravitasi yang menarik semua benda bermassa ke arah pusatnya; semakin besar massa benda semakin besar gaya gravitasinya, namun semua benda jatuh dengan percepatan sama di ruang hampa.",
+        "C": "Bola jatuh karena udara mendorong bola ke bawah saat ia naik ke atas.",
+        "D": "Bola jatuh karena sudah kehabisan energi untuk terbang.",
+        "E": "Gravitasi hanya berlaku untuk benda berat; benda ringan seperti bulu tidak terpengaruh gravitasi."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Gravitasi adalah gaya tarik Bumi terhadap semua benda bermassa, mengarah ke pusat Bumi. Opsi A (analogi magnet) menyesatkan karena gravitasi berbeda dengan gaya elektromagnetik. Opsi C dan D adalah miskonsepsi umum. Opsi E salah karena bulu juga jatuh karena gravitasi (hanya diperlambat hambatan udara).",
+      "nilai": 5
+    },
+    {
+      "nomor": 43,
+      "domain": "Pedagogik",
+      "indikator": "Project-Based Learning (PjBL)",
+      "stimulus": "Guru kelas 6 Sekolah Rakyat merancang proyek: siswa membuat 'Peta Potensi Desa' di sekitar sekolah menggunakan wawancara, foto, dan peta sederhana, lalu dipresentasikan kepada kepala desa. Karakteristik PjBL yang TIDAK terpenuhi dalam proyek ini adalah...",
+      "pilihan": {
+        "A": "Produk akhir yang nyata dan bermakna.",
+        "B": "Pertanyaan pemandu (driving question) yang menantang.",
+        "C": "Keterlibatan audiens nyata di luar kelas.",
+        "D": "Refleksi dan revisi selama proses berlangsung.",
+        "E": "Tidak ada komponen yang tidak terpenuhi; proyek ini sudah memenuhi semua karakteristik PjBL."
+      },
+      "kunci_jawaban": "E",
+      "pembahasan": "Proyek 'Peta Potensi Desa' memenuhi semua elemen PjBL: (1) produk nyata (peta), (2) konteks autentik (desa nyata), (3) audiens nyata (kepala desa), (4) kolaborasi dan inkuiri (wawancara, foto), (5) driving question implisit ('Apa potensi desa kita?'), dan siklus revisi. Semua karakteristik PjBL terpenuhi.",
+      "nilai": 5
+    },
+    {
+      "nomor": 44,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Bahasa Indonesia - Unsur Intrinsik Teks Narasi",
+      "stimulus": "Siswa kelas 4 diminta menulis cerita tentang pengalaman pertama masuk Sekolah Rakyat berasrama. Unsur intrinsik yang WAJIB hadir dalam teks narasi yang baik adalah...",
+      "pilihan": {
+        "A": "Tesis, argumen, dan rekomendasi.",
+        "B": "Tokoh, alur (orientasi-komplikasi-resolusi), latar, sudut pandang, tema, dan amanat.",
+        "C": "Judul, pengantar, isi, dan kesimpulan.",
+        "D": "Tujuan, langkah-langkah, dan bahan.",
+        "E": "Definisi, klasifikasi, dan deskripsi bagian."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Unsur intrinsik teks narasi: (1) tokoh/penokohan, (2) alur (orientasi-komplikasi-resolusi), (3) latar (tempat, waktu, suasana), (4) sudut pandang, (5) tema, (6) amanat. Opsi A adalah struktur teks argumentasi. Opsi D adalah prosedur. Opsi E adalah laporan/eksposisi.",
+      "nilai": 5
+    },
+    {
+      "nomor": 45,
+      "domain": "Pedagogik",
+      "indikator": "Diferensiasi Produk",
+      "stimulus": "Guru memberikan tugas: 'Tunjukkan pemahamanmu tentang daur hidup kupu-kupu.' Diferensiasi produk yang tepat untuk mengakomodasi keberagaman gaya belajar adalah...",
+      "pilihan": {
+        "A": "Semua siswa membuat laporan tertulis 1 halaman.",
+        "B": "Siswa visual membuat diagram siklus bergambar; siswa auditori merekam penjelasan lisan; siswa kinestetik membuat model 3D dari bahan bekas; siswa reading/writing menulis esai naratif.",
+        "C": "Siswa nilai ulangan tinggi membuat presentasi; yang rendah membuat gambar.",
+        "D": "Semua siswa boleh memilih tugas manapun secara bebas tanpa arahan apapun.",
+        "E": "Guru memilihkan format tugas untuk setiap siswa berdasarkan nilai rapor semester lalu."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Diferensiasi produk memungkinkan siswa menunjukkan pemahaman melalui modalitas sesuai kekuatan belajarnya, sambil semua mencapai tujuan pembelajaran yang sama (memahami daur hidup kupu-kupu). Opsi A seragam. Opsi C berdasarkan nilai bukan gaya belajar. Opsi D tanpa panduan tidak efektif.",
+      "nilai": 5
+    },
+    {
+      "nomor": 46,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - Luas Bangun Datar Konseptual",
+      "stimulus": "Pak Doni mengajarkan luas persegi panjang kepada kelas 4. Ia ingin mengajarkan MENGAPA rumus luas adalah p × l, bukan sekadar menghafal rumus. Strategi paling tepat untuk membangun pemahaman konseptual adalah...",
+      "pilihan": {
+        "A": "Menuliskan rumus L = p × l di papan tulis dan meminta siswa menghafal.",
+        "B": "Memberikan soal latihan 50 butir tentang luas persegi panjang.",
+        "C": "Meminta siswa menutup persegi panjang dengan ubin/persegi satuan kecil, menghitung totalnya, lalu menghubungkan dengan penghitungan baris × kolom (p × l).",
+        "D": "Menjelaskan bahwa p × l adalah perkalian biasa yang sudah dipelajari.",
+        "E": "Menampilkan animasi luas persegi panjang dari internet."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Membangun pemahaman konseptual luas melalui manipulatif konkret (ubin satuan) membantu siswa 'melihat' mengapa p × l = jumlah total unit persegi. Ini mengikuti jalur CPA (Concrete-Pictorial-Abstract) yang direkomendasikan untuk matematika SD. Opsi A dan B hanya prosedural tanpa pemahaman konseptual.",
+      "nilai": 5
+    },
+    {
+      "nomor": 47,
+      "domain": "Pedagogik",
+      "indikator": "Umpan Balik Efektif",
+      "stimulus": "Siswa kelas 5 mengumpulkan karangan deskripsi. Bu Rina memberikan umpan balik. Manakah yang paling efektif untuk mendorong perbaikan dan mempertahankan motivasi?",
+      "pilihan": {
+        "A": "'Tulisanmu bagus sekali!' (tanpa penjelasan lebih lanjut)",
+        "B": "'Paragraf pembukamu sangat menarik karena menggunakan kalimat tanya yang membuat pembaca penasaran. Untuk paragraf isi, coba tambahkan kata sifat indrawi (apa yang terlihat, terdengar, tercium) agar gambaran lebih hidup.'",
+        "C": "'Tulisanmu banyak yang salah, perbaiki lagi.'",
+        "D": "'Nilai kamu 70, masih di bawah rata-rata kelas.'",
+        "E": "'Kamu harus belajar lebih keras dari teman-temanmu.'"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Umpan balik efektif bersifat: (1) spesifik (bukan 'bagus' atau 'salah'), (2) actionable (ada tindak lanjut yang jelas), (3) growth-oriented (mendorong perbaikan), (4) tidak membandingkan dengan orang lain. Opsi B memenuhi semua kriteria. Opsi A tidak informatif. Opsi C, D, E bersifat negatif dan tidak konstruktif.",
+      "nilai": 5
+    },
+    {
+      "nomor": 48,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Perubahan Wujud Benda",
+      "stimulus": "Guru kelas 4 mendemonstrasikan: es batu (padat) dipanaskan → cair → dipanaskan lebih → uap. Pasangan nama perubahan wujud yang BENAR untuk urutan tersebut adalah...",
+      "pilihan": {
+        "A": "Membeku → Menguap",
+        "B": "Mencair → Mengembun",
+        "C": "Mencair → Menguap",
+        "D": "Menyublim → Mengkristal",
+        "E": "Mengkristal → Mencair"
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Es (padat) → air (cair) = MENCAIR (meleleh). Air (cair) → uap (gas) = MENGUAP. Perubahan lain: membeku (cair→padat), mengembun (gas→cair), menyublim (padat→gas langsung), mengkristal/deposisi (gas→padat langsung). Urutan yang benar untuk soal ini: Mencair → Menguap.",
+      "nilai": 5
+    },
+    {
+      "nomor": 49,
+      "domain": "Pedagogik",
+      "indikator": "Teori Belajar Sosial Bandura - Vicarious Learning",
+      "stimulus": "Di Sekolah Rakyat, siswa yang sekamar dengan siswa berprestasi cenderung mengembangkan kebiasaan belajar yang lebih baik meski tidak ada intervensi khusus dari guru. Fenomena ini paling tepat dijelaskan melalui teori...",
+      "pilihan": {
+        "A": "Conditioning Operan (Skinner), karena siswa mendapat reward berupa nilai baik.",
+        "B": "Teori Belajar Sosial (Bandura), khususnya vicarious learning (belajar melalui pengamatan model) dan penularan self-efficacy.",
+        "C": "Teori Perkembangan Kognitif (Piaget), karena lingkungan mempengaruhi skema kognitif.",
+        "D": "Teori Humanistik (Maslow), karena kebutuhan afiliasi mendorong motivasi belajar.",
+        "E": "Teori Pemrosesan Informasi, karena informasi belajar diserap melalui pengindraan."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Teori Belajar Sosial Bandura: perilaku dapat dipelajari melalui observasi dan imitasi model (vicarious learning). Melihat teman sekamar belajar keras meningkatkan self-efficacy dan memodelkan kebiasaan belajar tanpa reinforcement langsung. Ini fenomena 'peer modeling' yang kuat di lingkungan asrama.",
+      "nilai": 5
+    },
+    {
+      "nomor": 50,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Bahasa Indonesia - Kosakata Kontekstual",
+      "stimulus": "Dalam teks bacaan kelas 5 terdapat kalimat: 'Para petani menggarap sawah dengan cara konvensional, berbeda dengan desa sebelah yang sudah menggunakan mesin modern.' Strategi pembelajaran kosakata paling efektif untuk kata 'konvensional' adalah...",
+      "pilihan": {
+        "A": "Meminta siswa membuka kamus dan menyalin definisi.",
+        "B": "Guru langsung memberikan definisi: 'konvensional artinya tradisional.'",
+        "C": "Memandu siswa menganalisis konteks kalimat (kontras dengan 'mesin modern'), menemukan makna melalui kontras kontekstual, lalu mengkonfirmasi dengan definisi dan membuat kalimat baru.",
+        "D": "Meminta siswa menghafal 10 kata sulit termasuk 'konvensional' untuk ulangan.",
+        "E": "Melewati kata tersebut dan fokus pada makna kalimat secara keseluruhan."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Pembelajaran kosakata kontekstual yang efektif mengajarkan siswa strategi inferensi: menggunakan clues dalam teks (kontras dengan 'mesin modern') untuk membangun makna secara mandiri. Ini mengembangkan kemampuan membaca independen jangka panjang. Opsi A dan D hafalan mekanis. Opsi B memberi jawaban tanpa proses.",
+      "nilai": 5
+    },
+    {
+      "nomor": 51,
+      "domain": "Pedagogik",
+      "indikator": "RPP - Tujuan Pembelajaran ABCD",
+      "stimulus": "Dalam menyusun tujuan pembelajaran yang efektif menggunakan rumus ABCD (Audience, Behavior, Condition, Degree), rumusan tujuan yang paling tepat adalah...",
+      "pilihan": {
+        "A": "Siswa belajar tentang fotosintesis.",
+        "B": "Memahami proses fotosintesis dengan baik.",
+        "C": "Siswa (A) mampu menjelaskan proses fotosintesis (B) melalui diagram berlabel (C) dengan menyebutkan minimal 4 komponen yang terlibat (D).",
+        "D": "Guru mengajarkan fotosintesis menggunakan media gambar.",
+        "E": "Siswa mengetahui fotosintesis setelah mengikuti pelajaran IPA."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Rumus ABCD: A (Audience) = siswa, B (Behavior) = mampu menjelaskan, C (Condition) = melalui diagram berlabel, D (Degree) = minimal 4 komponen. Opsi C memenuhi semua komponen ABCD secara lengkap dan terukur. Opsi A, B, D, E tidak memiliki semua komponen ABCD.",
+      "nilai": 5
+    },
+    {
+      "nomor": 52,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "PKn - Lembaga Legislatif",
+      "stimulus": "Siswa kelas 6 bertanya: 'Bu, apa bedanya DPR dan DPD?' Penjelasan yang paling akurat dan sesuai untuk level SD adalah...",
+      "pilihan": {
+        "A": "DPR dan DPD adalah lembaga yang sama dengan nama berbeda.",
+        "B": "DPR (Dewan Perwakilan Rakyat) mewakili partai politik/rakyat secara umum dengan fungsi legislasi, anggaran, dan pengawasan penuh. DPD (Dewan Perwakilan Daerah) mewakili kepentingan daerah/provinsi dengan peran terbatas pada RUU terkait otonomi daerah.",
+        "C": "DPR berada di tingkat nasional, DPD berada di tingkat daerah dan setara DPRD.",
+        "D": "DPD lebih kuat dari DPR karena mewakili seluruh daerah Indonesia.",
+        "E": "DPR dipilih rakyat, DPD diangkat oleh presiden."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "DPR mewakili partai politik dengan fungsi penuh (legislasi, anggaran, pengawasan). DPD mewakili kepentingan daerah (4 anggota per provinsi) dengan fungsi terbatas pada RUU terkait daerah. Keduanya bagian dari MPR. DPD bukan setara DPRD (berbeda level pemerintahan).",
+      "nilai": 5
+    },
+    {
+      "nomor": 53,
+      "domain": "Pedagogik",
+      "indikator": "Strategi Membaca - SQ3R",
+      "stimulus": "Bu Hana menginstruksikan: (1) lihat judul, sub-judul, dan gambar dulu, (2) buat pertanyaan dari judul, (3) baca untuk menjawab pertanyaan, (4) ceritakan ulang isi tanpa melihat teks, (5) tinjau kembali bagian yang sulit. Strategi membaca yang diajarkan adalah...",
+      "pilihan": {
+        "A": "KWL (Know-Want-Learn)",
+        "B": "SQ3R (Survey, Question, Read, Recite, Review)",
+        "C": "THIEVES (Title, Heading, Introduction, Every first word, Visuals, End of chapter, Summary)",
+        "D": "Reciprocal Teaching",
+        "E": "Think-Pair-Share"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Langkah yang dideskripsikan adalah SQ3R: (1) Survey (lihat overview), (2) Question (buat pertanyaan), (3) Read (baca untuk menjawab), (4) Recite (ceritakan ulang/recall), (5) Review (tinjau kembali). Strategi ini mengembangkan kemampuan membaca aktif dan metakognitif.",
+      "nilai": 5
+    },
+    {
+      "nomor": 54,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - Penjumlahan Pecahan",
+      "stimulus": "Siswa kelas 5 mendapat soal: 2/3 + 3/4. Seorang siswa menjawab 5/7 (langsung menjumlahkan pembilang dan penyebut secara terpisah). Miskonsepsi dan cara mengatasinya yang paling tepat adalah...",
+      "pilihan": {
+        "A": "Siswa benar; 2/3 + 3/4 = 5/7.",
+        "B": "Siswa salah karena miskonsepsi matriks; cukup dijelaskan secara verbal.",
+        "C": "Siswa salah dengan miskonsepsi menambahkan pembilang dan penyebut secara terpisah. Guru menggunakan model area (kertas dilipat) untuk memvisualisasikan mengapa penyebut harus disamakan dulu: KPK(3,4)=12, maka 8/12 + 9/12 = 17/12.",
+        "D": "Siswa salah karena lupa mengalikan dengan 2.",
+        "E": "Siswa salah karena harus mengubah ke desimal terlebih dahulu."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Miskonsepsi: menambahkan pembilang (2+3=5) dan penyebut (3+4=7) secara terpisah. Jawaban benar: KPK(3,4)=12, sehingga 8/12 + 9/12 = 17/12. Model area membantu siswa memahami MENGAPA penyebut harus disamakan, membangun pemahaman konseptual bukan sekadar hafalan prosedur.",
+      "nilai": 5
+    },
+    {
+      "nomor": 55,
+      "domain": "Pedagogik",
+      "indikator": "Overjustification Effect - Behaviorisme",
+      "stimulus": "Pak Seno selalu memberikan stiker bintang kepada siswa yang menjawab benar. Seiring waktu, siswa berlomba menjawab bukan karena ingin belajar tetapi karena ingin stiker. Fenomena yang paling mengkhawatirkan dari pendekatan ini dalam jangka panjang adalah...",
+      "pilihan": {
+        "A": "Siswa akan semakin bersemangat belajar karena termotivasi oleh stiker.",
+        "B": "Overjustification effect: motivasi intrinsik belajar melemah karena digantikan motivasi ekstrinsik (stiker); saat stiker tidak ada, siswa tidak lagi mau berpartisipasi.",
+        "C": "Tidak ada masalah; reinforcement positif selalu efektif untuk semua siswa.",
+        "D": "Siswa yang tidak mendapat stiker akan konflik sosial dengan temannya.",
+        "E": "Sistem stiker terlalu sederhana; seharusnya menggunakan poin digital."
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Overjustification Effect (Deci, 1971): reward eksternal berlebihan menggeser alasan melakukan aktivitas dari internal ke eksternal, justru menurunkan motivasi intrinsik. Saat reward dihilangkan, siswa tidak lagi termotivasi. Reinforcement ekstrinsik perlu diimbangi pengembangan motivasi intrinsik.",
+      "nilai": 5
+    },
+    {
+      "nomor": 56,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPA - Ekosistem dan Keseimbangan Rantai Makanan",
+      "stimulus": "Rantai makanan sawah: padi → belalang → katak → ular → elang. Siswa bertanya: 'Apa yang terjadi pada ekosistem sawah jika semua ular diburu habis?' Penjelasan yang paling tepat adalah...",
+      "pilihan": {
+        "A": "Ekosistem tidak terganggu karena ular bukan hewan utama.",
+        "B": "Populasi elang langsung habis karena tidak ada makanan.",
+        "C": "Populasi katak meledak → belalang berkurang → padi bertambah → ekosistem justru membaik.",
+        "D": "Populasi katak meledak (tanpa predator ular) → belalang berkurang drastis → dampak ke padi berubah; elang kehilangan ular sebagai sumber makanan → elang migrasi/punah dari area. Keseimbangan ekosistem terganggu di semua level trofik.",
+        "E": "Semua hewan dalam rantai makanan langsung punah secara bersamaan."
+      },
+      "kunci_jawaban": "D",
+      "pembahasan": "Hilangnya ular menyebabkan cascade effect: katak meledak (tanpa predator) → belalang berkurang → dampak ke padi; elang kehilangan ular sebagai sumber makanan utama → elang terganggu. Ketidakseimbangan trofik terjadi di semua level. Opsi C salah karena belalang yang berkurang justru mengancam stabilitas, bukan memperbaikinya.",
+      "nilai": 5
+    },
+    {
+      "nomor": 57,
+      "domain": "Pedagogik",
+      "indikator": "Pengelolaan Kelas Heterogen - Multi-Level",
+      "stimulus": "Kelas 3 Sekolah Rakyat terdiri dari 30 siswa dengan kemampuan sangat beragam: ada yang sudah membaca lancar, ada yang baru mengenal huruf. Strategi pengelolaan kelas paling efektif untuk keberagaman ini adalah...",
+      "pilihan": {
+        "A": "Mengajar dengan level terendah agar semua siswa bisa mengikuti.",
+        "B": "Mengajar dengan level tertinggi agar siswa yang lemah terpacu.",
+        "C": "Menerapkan struktur multi-level: sesi instruktional bersama singkat, lalu rotasi kelompok kecil berdasarkan kebutuhan (guided reading group) sementara siswa lain bekerja mandiri di learning centers.",
+        "D": "Membagi kelas menjadi dua ruangan: kelas A untuk yang sudah bisa baca, kelas B untuk yang belum.",
+        "E": "Menyerahkan siswa yang belum bisa membaca kepada guru pendamping sepenuhnya."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Struktur multi-level (whole class + small group rotation) memungkinkan guru memberikan instruksi tersasar kepada kelompok yang membutuhkan sambil siswa lain belajar bermakna mandiri di learning centers. Ini implementasi diferensiasi praktis di kelas besar. Opsi A dan B mengorbankan salah satu kelompok. Opsi D dan E adalah segregasi.",
+      "nilai": 5
+    },
+    {
+      "nomor": 58,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "Matematika - Bilangan Desimal dan Nilai Tempat",
+      "stimulus": "Siswa kelas 5 mengklaim '25 lebih besar dari 3, sehingga 0,25 > 0,3.' Representasi yang paling efektif untuk mengoreksi miskonsepsi ini adalah...",
+      "pilihan": {
+        "A": "Meminta siswa mengubah ke pecahan biasa dan membandingkan.",
+        "B": "Menunjukkan pada garis bilangan bahwa 0,3 berada di sebelah kanan 0,25.",
+        "C": "Menjelaskan bahwa desimal dibandingkan digit per digit dari kiri: 0,30 vs 0,25 → angka persepuluhan 3 > 2, sehingga 0,3 > 0,25; menggunakan model petak 100 (30 petak vs 25 petak) untuk visualisasi.",
+        "D": "Meminta siswa menghafal aturan: 'desimal tidak bisa dibandingkan seperti bilangan bulat.'",
+        "E": "Menggunakan kalkulator untuk membuktikan 0,3 > 0,25."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Miskonsepsi: mengabaikan nilai tempat desimal dan membandingkan angka setelah titik sebagai bilangan bulat. Koreksi: (1) ajarkan perbandingan digit per digit dari kiri (nilai tempat), (2) gunakan model visual 100-grid (0,30 = 30 petak, 0,25 = 25 petak) untuk membangun pemahaman konseptual yang nyata.",
+      "nilai": 5
+    },
+    {
+      "nomor": 59,
+      "domain": "Pedagogik",
+      "indikator": "Kecerdasan Emosional dan Trauma-Informed",
+      "stimulus": "Siswa kelas 6 tiba-tiba menangis saat pelajaran matematika dan menolak mengerjakan soal. Setelah diajak bicara, ternyata ia baru mendapat kabar keluarganya di kampung terkena bencana banjir. Tindakan guru paling tepat berdasarkan prinsip trauma-informed approach adalah...",
+      "pilihan": {
+        "A": "Tetap mewajibkan siswa mengerjakan soal agar tidak tertinggal materi.",
+        "B": "Memberikan kesempatan siswa keluar dari kelas dan beristirahat tanpa tindak lanjut.",
+        "C": "Menemaninya sejenak, memvalidasi perasaannya, menghubungkan dengan konselor sekolah/wali asrama, memastikan ia tahu cara menghubungi keluarga, dan mengizinkan fleksibilitas mengikuti pelajaran hari itu.",
+        "D": "Mengumumkan situasi siswa kepada seluruh kelas agar teman-temannya bisa memberikan dukungan.",
+        "E": "Menelepon orang tua siswa di depan kelas untuk mendapatkan informasi lebih lanjut."
+      },
+      "kunci_jawaban": "C",
+      "pembahasan": "Trauma-informed approach: (1) safety - rasa aman, (2) trustworthiness - kepercayaan, (3) connection - koneksi dengan profesional yang tepat, (4) collaboration - bekerja bersama siswa bukan untuknya. Opsi C memenuhi semua prinsip. Opsi A mengabaikan kebutuhan emosional. Opsi D melanggar privasi siswa.",
+      "nilai": 5
+    },
+    {
+      "nomor": 60,
+      "domain": "Profesional - Guru Kelas SD",
+      "indikator": "IPS - Peta, Skala, dan Jarak",
+      "stimulus": "Guru kelas 4 mengajarkan cara membaca peta berskala 1:500.000. Jarak kota A ke kota B di peta = 4 cm. Jarak sebenarnya adalah...",
+      "pilihan": {
+        "A": "4 km",
+        "B": "20 km",
+        "C": "200 km",
+        "D": "2.000 km",
+        "E": "500 km"
+      },
+      "kunci_jawaban": "B",
+      "pembahasan": "Skala 1:500.000 artinya 1 cm di peta = 500.000 cm di lapangan. Jarak sebenarnya = 4 cm × 500.000 = 2.000.000 cm. Konversi: 2.000.000 cm ÷ 100 = 20.000 m ÷ 1.000 = 20 km.",
+      "nilai": 5
+    }
+  ]
+}
