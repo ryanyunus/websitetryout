@@ -25,7 +25,14 @@ class TryoutController extends Controller
                          ->where('category', $category)
                          ->get();
                          
-        $pageTitle = $category === 'topic' ? 'Latihan per Topik' : 'Paket Full SKD';
+        if ($category === 'topic') {
+            $pageTitle = 'Latihan per Topik';
+        } elseif ($category === 'pppk') {
+            $pageTitle = 'PPPK Sekolah Rakyat 2026';
+        } else {
+            $pageTitle = 'Paket Full SKD';
+        }
+
         return view('tryout.index', compact('tryouts', 'category', 'pageTitle'));
     }
 

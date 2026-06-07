@@ -22,6 +22,67 @@
                     <p class="text-lg text-gray-600 dark:text-gray-300 mb-8 max-w-2xl mx-auto">
                         {{ $tryout->description }}
                     </p>
+
+                    @if($tryout->category === 'pppk' && str_contains($tryout->title, 'Paket Lengkap'))
+                    <div class="max-w-2xl mx-auto mb-8 bg-[#1e1e1e] rounded-xl overflow-hidden shadow-lg border border-gray-700 text-left">
+                        <table class="w-full text-sm text-left text-gray-300">
+                            <thead class="text-xs text-gray-400 bg-[#252525] border-b border-gray-700">
+                                <tr>
+                                    <th scope="col" class="px-6 py-4 font-medium text-base">Subtes</th>
+                                    <th scope="col" class="px-6 py-4 font-medium text-base">Soal</th>
+                                    <th scope="col" class="px-6 py-4 font-medium text-base">Proporsi</th>
+                                    <th scope="col" class="px-6 py-4 font-medium text-base">Estimasi waktu</th>
+                                </tr>
+                            </thead>
+                            <tbody class="divide-y divide-gray-700">
+                                <tr class="hover:bg-[#2a2a2a] transition-colors">
+                                    <td class="px-6 py-4 font-semibold text-white flex items-center">
+                                        <div class="w-2.5 h-2.5 rounded-full bg-blue-500 mr-3"></div>
+                                        Kompetensi Teknis
+                                    </td>
+                                    <td class="px-6 py-4 text-base font-medium">90</td>
+                                    <td class="px-6 py-4 text-base font-medium">62%</td>
+                                    <td class="px-6 py-4 text-base font-medium text-white">81 menit</td>
+                                </tr>
+                                <tr class="hover:bg-[#2a2a2a] transition-colors">
+                                    <td class="px-6 py-4 font-semibold text-white flex items-center">
+                                        <div class="w-2.5 h-2.5 rounded-full bg-orange-500 mr-3"></div>
+                                        Kompetensi Manajerial
+                                    </td>
+                                    <td class="px-6 py-4 text-base font-medium">25</td>
+                                    <td class="px-6 py-4 text-base font-medium">17%</td>
+                                    <td class="px-6 py-4 text-base font-medium text-white">22 menit</td>
+                                </tr>
+                                <tr class="hover:bg-[#2a2a2a] transition-colors">
+                                    <td class="px-6 py-4 font-semibold text-white flex items-center">
+                                        <div class="w-2.5 h-2.5 rounded-full bg-emerald-500 mr-3"></div>
+                                        Sosial Kultural
+                                    </td>
+                                    <td class="px-6 py-4 text-base font-medium">20</td>
+                                    <td class="px-6 py-4 text-base font-medium">14%</td>
+                                    <td class="px-6 py-4 text-base font-medium text-white">18 menit</td>
+                                </tr>
+                                <tr class="hover:bg-[#2a2a2a] transition-colors">
+                                    <td class="px-6 py-4 font-semibold text-white flex items-center">
+                                        <div class="w-2.5 h-2.5 rounded-full bg-purple-500 mr-3"></div>
+                                        Wawancara
+                                    </td>
+                                    <td class="px-6 py-4 text-base font-medium">10</td>
+                                    <td class="px-6 py-4 text-base font-medium">7%</td>
+                                    <td class="px-6 py-4 text-base font-medium text-white">9 menit</td>
+                                </tr>
+                                <tr class="bg-[#252525]">
+                                    <td class="px-6 py-4 font-bold text-white text-base">
+                                        Total
+                                    </td>
+                                    <td class="px-6 py-4 font-bold text-white text-base">145</td>
+                                    <td class="px-6 py-4 font-bold text-white text-base">100%</td>
+                                    <td class="px-6 py-4 font-bold text-white text-base">130 menit</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    @endif
                     
                     <div class="grid grid-cols-2 gap-4 max-w-md mx-auto mb-8">
                         <div class="bg-blue-50 dark:bg-blue-900/30 p-4 rounded-2xl">

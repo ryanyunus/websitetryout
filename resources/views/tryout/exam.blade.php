@@ -87,11 +87,33 @@
                         @foreach ($questions as $index => $question)
                         @php
                             $qNum = $index + 1;
-                            $category = "";
-                            $categoryColor = "";
-                            if($qNum <= 30) { $category = "Tes Wawasan Kebangsaan (TWK)"; $categoryColor = "bg-sky-500"; }
-                            elseif($qNum <= 65) { $category = "Tes Intelegensia Umum (TIU)"; $categoryColor = "bg-sky-500"; }
-                            else { $category = "Tes Karakteristik Pribadi (TKP)"; $categoryColor = "bg-sky-500"; }
+                            $categoryLabel = "";
+                            $categoryColor = "bg-sky-500";
+                            
+                            if ($tryout->category === 'pppk') {
+                                if (str_contains($tryout->title, 'Subtes ')) {
+                                    $sub = explode('Subtes ', $tryout->title)[1];
+                                    if ($sub === 'Teknis') $categoryLabel = "Kompetensi Teknis";
+                                    elseif ($sub === 'Manajerial') $categoryLabel = "Kompetensi Manajerial";
+                                    elseif ($sub === 'Sosial Kultural') $categoryLabel = "Kompetensi Sosial Kultural";
+                                    elseif ($sub === 'Wawancara') $categoryLabel = "Wawancara (CAT)";
+                                    else $categoryLabel = "Kompetensi " . $sub;
+                                } else {
+                                    if($qNum <= 90) { 
+                                        $categoryLabel = "Kompetensi Teknis"; 
+                                    } elseif($qNum <= 115) { 
+                                        $categoryLabel = "Kompetensi Manajerial"; 
+                                    } elseif($qNum <= 135) { 
+                                        $categoryLabel = "Kompetensi Sosial Kultural"; 
+                                    } else { 
+                                        $categoryLabel = "Wawancara (CAT)"; 
+                                    }
+                                }
+                            } else {
+                                if($qNum <= 30) { $categoryLabel = "Tes Wawasan Kebangsaan (TWK)"; }
+                                elseif($qNum <= 65) { $categoryLabel = "Tes Intelegensia Umum (TIU)"; }
+                                else { $categoryLabel = "Tes Karakteristik Pribadi (TKP)"; }
+                            }
                         @endphp
                         
                         <div id="question-{{ $qNum }}" class="question-container hidden">
@@ -100,7 +122,7 @@
                             </div>
                             <div class="mb-6 md:mb-8">
                                 <span class="inline-block {{ $categoryColor }} text-white text-[10px] md:text-xs font-bold px-2 md:px-3 py-1 md:py-1.5 rounded shadow-sm">
-                                    {{ $category }}
+                                    {{ $categoryLabel }}
                                 </span>
                             </div>
                             
@@ -116,8 +138,9 @@
                             <div class="space-y-3 md:space-y-4">
                                 @foreach ($question->options as $option)
                                     @php 
-                                        $label = substr($option->option_text, 0, 1);
-                                        $text = substr($option->option_text, 3);
+                                        $letters = ['A', 'B', 'C', 'D', 'E'];
+                                        $label = $letters[$loop->index] ?? '';
+                                        $text = $option->option_text;
                                     @endphp
                                     <label class="option-label-{{ $qNum }} relative flex items-center p-4 md:p-5 cursor-pointer rounded-lg border border-gray-200 bg-white hover:border-sky-300 transition-all group shadow-sm hover:shadow">
                                         <!-- Custom Radio Style -->

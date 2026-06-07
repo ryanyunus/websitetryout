@@ -1,0 +1,2177 @@
+[
+  {
+    "no": 1,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Mudah",
+    "soal": "Anda menerima surat masuk berstempel 'Rahasia' dari Dinas Pendidikan daerah setempat. Sesuai prosedur kearsipan, tindakan awal yang harus Anda lakukan adalah...",
+    "opsi": {
+      "A": "Membuka surat untuk mengecek urgensi isinya sebelum diagendakan",
+      "B": "Mencatat di buku agenda surat masuk tanpa membuka sampul dan meneruskannya ke pimpinan",
+      "C": "Menyalin isi surat ke dalam format digital untuk arsip sekolah",
+      "D": "Menyerahkan surat langsung kepada rekan kerja yang sedang bertugas mendisposisi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Surat rahasia harus dicatat dalam buku agenda surat rahasia/masuk dalam keadaan tertutup untuk menjaga kerahasiaannya, lalu diteruskan ke pimpinan."
+  },
+  {
+    "no": 2,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Mudah",
+    "soal": "Kepala sekolah meminta Anda membuat draf undangan rapat komite sekolah. Bagian dari surat resmi yang berfungsi untuk memudahkan penerima mengetahui pokok isi surat tanpa harus membaca keseluruhan adalah...",
+    "opsi": {
+      "A": "Nomor surat",
+      "B": "Lampiran",
+      "C": "Hal atau perihal",
+      "D": "Tembusan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Hal atau perihal pada surat dinas berfungsi sebagai judul yang merangkum maksud dan tujuan surat tersebut secara singkat."
+  },
+  {
+    "no": 3,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Mudah",
+    "soal": "Dalam pengelolaan arsip inaktif yang memiliki nilai guna sejarah bagi sekolah, metode penyimpanan yang paling tepat digunakan adalah...",
+    "opsi": {
+      "A": "Penyimpanan sentralisasi di gudang sekolah dengan sistem tumpuk",
+      "B": "Penyusutan arsip setiap bulan untuk menghemat ruang",
+      "C": "Penataan sistematis dalam kotak arsip yang dilabeli di ruang arsip khusus",
+      "D": "Pemindahan paksa ke dinas kearsipan daerah setiap akhir semester"
+    },
+    "jawaban": "C",
+    "pembahasan": "Arsip inaktif yang bernilai sejarah (statis) harus disimpan secara sistematis dalam boks arsip di ruang khusus agar kondisinya terjaga dan mudah ditemukan."
+  },
+  {
+    "no": 4,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Mudah",
+    "soal": "Seorang wali murid meminta fotokopi ijazah anaknya dilegalisir. Saat memeriksa berkas, Anda menyadari fotokopi tersebut agak buram pada bagian nilai. Langkah yang tepat adalah...",
+    "opsi": {
+      "A": "Minta wali murid membawa dokumen asli untuk dicocokkan sebelum dilegalisir",
+      "B": "Langsung membubuhkan stempel legalisir karena wali murid sedang terburu-buru",
+      "C": "Menolak melegalisir dan meminta mencetak ulang dari database sekolah tanpa melihat dokumen asli",
+      "D": "Menebalkan angka yang buram dengan pena agar mudah dibaca"
+    },
+    "jawaban": "A",
+    "pembahasan": "Legalisir dokumen resmi mensyaratkan pencocokan keaslian dan kejelasan fotokopi dengan dokumen asli untuk mencegah pemalsuan."
+  },
+  {
+    "no": 5,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Mudah",
+    "soal": "Saat menyusun laporan bulanan tata usaha, Anda menemukan beberapa nota pembelian ATK yang tintanya mulai memudar. Tindakan preventif yang sebaiknya dilakukan ke depannya adalah...",
+    "opsi": {
+      "A": "Menghafalkan nominal pembelian sebelum nota memudar",
+      "B": "Mendigitalisasi nota dengan memindai (scan) atau memfotokopi segera setelah diterima",
+      "C": "Meminta toko ATK untuk tidak menggunakan kertas thermal",
+      "D": "Membuang nota yang memudar dan membuat kwitansi pengganti secara mandiri"
+    },
+    "jawaban": "B",
+    "pembahasan": "Nota berbahan kertas thermal mudah pudar, sehingga digitalisasi atau memfotokopi segera adalah cara terbaik mengamankan bukti transaksi."
+  },
+  {
+    "no": 6,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Mudah",
+    "soal": "Anda bertugas mendistribusikan surat edaran kegiatan ekstrakurikuler ke seluruh kelas. Cara paling efisien dan ramah lingkungan untuk memastikan informasi sampai ke siswa adalah...",
+    "opsi": {
+      "A": "Mencetak satu surat per siswa dan membagikannya di gerbang sekolah",
+      "B": "Menempelkan satu salinan di setiap mading sekolah dan mengabaikan kelas",
+      "C": "Membagikan surat digital melalui grup komunikasi kelas atau aplikasi sekolah",
+      "D": "Membacakan surat di lapangan sekolah tanpa memberikan salinan tertulis"
+    },
+    "jawaban": "C",
+    "pembahasan": "Penyebaran informasi melalui platform digital terbukti efisien, menjangkau seluruh target sasaran, dan menghemat penggunaan kertas."
+  },
+  {
+    "no": 7,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sedang",
+    "soal": "Sekolah Anda menerapkan sistem tata persuratan elektronik (e-office). Saat sistem mengalami gangguan jaringan yang tidak bisa dipastikan kapan pulih, ada surat instruksi penting dari kementerian yang harus segera diproses. Tindakan Anda adalah...",
+    "opsi": {
+      "A": "Menunggu jaringan kembali normal agar nomor urut surat elektronik tidak berantakan",
+      "B": "Memproses surat secara manual menggunakan buku agenda cadangan sementara waktu",
+      "C": "Mengembalikan surat kepada kurir dengan alasan sistem sedang bermasalah",
+      "D": "Mengirim foto surat melalui aplikasi pesan instan ke semua staf tanpa pencatatan resmi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Sistem manual berfungsi sebagai mitigasi bencana (contingency plan) saat sistem elektronik down agar layanan persuratan tidak terhenti."
+  },
+  {
+    "no": 8,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sedang",
+    "soal": "Dalam penyusunan SK pembagian tugas mengajar guru, Anda menemukan ada satu guru yang namanya tidak sengaja terlewatkan padahal SK sudah ditandatangani Kepala Sekolah. Langkah perbaikan yang sesuai asas tata usaha adalah...",
+    "opsi": {
+      "A": "Menyelipkan nama guru tersebut di halaman terakhir dengan tulisan tangan",
+      "B": "Membuat nota dinas usulan ralat dan membuat SK Perubahan atau SK Susulan",
+      "C": "Menyuruh guru tersebut ikut mengajar saja tanpa perlu dasar hukum formal",
+      "D": "Membuat ulang seluruh dokumen SK dengan nomor yang sama persis seperti tidak terjadi apa-apa"
+    },
+    "jawaban": "B",
+    "pembahasan": "Dokumen resmi yang sudah ditetapkan tidak boleh diubah secara informal; perbaikan dilakukan melalui SK ralat/perubahan demi tertib administrasi."
+  },
+  {
+    "no": 9,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sedang",
+    "soal": "Kepala Sekolah memberikan selembar disposisi pada surat permohonan magang dari mahasiswa. Instruksi di disposisi kurang jelas karena tulisan sulit dibaca. Langkah yang Anda ambil adalah...",
+    "opsi": {
+      "A": "Mengira-ngira maksud tulisan tersebut berdasarkan surat magang pada umumnya",
+      "B": "Menyimpan surat tersebut sampai Kepala Sekolah menanyakan tindak lanjutnya",
+      "C": "Menemui Kepala Sekolah atau staf pribadinya untuk mengonfirmasi ulang maksud disposisi tersebut",
+      "D": "Menolak permohonan magang tersebut karena instruksi tidak dapat dieksekusi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Klarifikasi langsung merupakan prinsip komunikasi efektif dalam tata usaha untuk mencegah kesalahan penanganan dokumen penting."
+  },
+  {
+    "no": 10,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sedang",
+    "soal": "Sebuah surat perjanjian kerja sama antara sekolah dengan pihak katering mencantumkan klausul denda yang memberatkan sekolah. Anda sebagai penelaah draf dokumen menemukan hal ini sebelum penandatanganan. Sikap Anda adalah...",
+    "opsi": {
+      "A": "Mencoret klausul tersebut dengan tinta merah dan langsung menyerahkan ke Kepala Sekolah",
+      "B": "Membahasnya dengan pihak katering tanpa sepengetahuan pimpinan sekolah",
+      "C": "Mencetak ulang dokumen tersebut dengan menghapus klausul denda sepihak",
+      "D": "Memberikan anotasi temuan tersebut dan melaporkannya kepada Kepala Sekolah sebagai bahan pertimbangan"
+    },
+    "jawaban": "D",
+    "pembahasan": "Staf TU bertugas memberikan telaah dokumen, namun keputusan akhir dan negosiasi ada di tangan pimpinan."
+  },
+  {
+    "no": 11,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sedang",
+    "soal": "Anda diinstruksikan menyusun kearsipan kepegawaian. Metode sistem penyimpanan arsip (filing system) yang paling tepat untuk dokumen kepegawaian per individu adalah...",
+    "opsi": {
+      "A": "Sistem Abjad (Alphabetical) berdasarkan nama pegawai",
+      "B": "Sistem Geografis berdasarkan tempat lahir pegawai",
+      "C": "Sistem Tanggal (Chronological) berdasarkan masuknya dokumen per hari",
+      "D": "Sistem Masalah (Subject) berdasarkan jenis pelanggaran pegawai"
+    },
+    "jawaban": "A",
+    "pembahasan": "Arsip personel paling efektif dikelola menggunakan sistem abjad berdasarkan nama karena pencarian berkas spesifik per orang akan lebih cepat."
+  },
+  {
+    "no": 12,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sedang",
+    "soal": "Sekolah Anda akan mengadakan penilaian kinerja staf TU. Salah satu indikatornya adalah 'Zero Backlog' (tidak ada tunggakan pekerjaan). Untuk mencapai ini dalam hal surat menyurat, strategi yang tepat adalah...",
+    "opsi": {
+      "A": "Mengumpulkan semua surat masuk dalam sepekan untuk dikerjakan sekaligus di hari Jumat",
+      "B": "Memilah surat berdasarkan prioritas urgensinya dan menyelesaikannya pada hari yang sama",
+      "C": "Mendelegasikan semua surat biasa ke staf magang tanpa pengawasan",
+      "D": "Hanya memproses surat yang diminta langsung oleh Kepala Sekolah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Manajemen waktu yang baik dalam tata usaha melibatkan kategorisasi prioritas agar dokumen penting dapat tertangani tepat waktu."
+  },
+  {
+    "no": 13,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sedang",
+    "soal": "Seorang mantan siswa datang meminta legalisir SKHUN karena ijazahnya hilang, namun ia lupa membawa surat keterangan hilang dari kepolisian. Sesuai SOP pelayanan administrasi publik di sekolah, yang harus Anda lakukan adalah...",
+    "opsi": {
+      "A": "Tetap melegalisir SKHUN karena siswa tersebut adalah alumni sekolah",
+      "B": "Meminta siswa tersebut membuat pernyataan lisan saja demi kecepatan layanan",
+      "C": "Menjelaskan dengan sopan syarat dokumen yang kurang dan menunda proses legalisir",
+      "D": "Melaporkan siswa tersebut ke polisi karena dicurigai menghilangkan ijazah secara sengaja"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pelayanan prima menuntut kepatuhan pada SOP untuk keabsahan dokumen, disampaikan dengan komunikasi yang ramah dan solutif."
+  },
+  {
+    "no": 14,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sedang",
+    "soal": "Sekolah menerapkan standar ISO untuk administrasi persuratan. Salah satu syaratnya adalah keterlacakan (traceability) dokumen. Implementasi teknis terbaik untuk hal ini adalah...",
+    "opsi": {
+      "A": "Penggunaan lembar pengantar dan tanda terima fisik/digital pada setiap perpindahan surat",
+      "B": "Menempelkan nama pegawai yang membawa surat di meja kerjanya",
+      "C": "Menghafal alur pergerakan setiap surat yang masuk ke ruangan Tata Usaha",
+      "D": "Menyimpan surat orisinal dan hanya mendistribusikan fotokopinya tanpa catatan"
+    },
+    "jawaban": "A",
+    "pembahasan": "Keterlacakan membutuhkan log perpindahan yang tercatat resmi, seperti lembar tanda terima dokumen yang valid."
+  },
+  {
+    "no": 15,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sedang",
+    "soal": "Dalam menyusun draf laporan pertanggungjawaban kegiatan, bukti fisik seperti kwitansi dan nota sering tercecer. Cara penyusunan lampiran LPJ yang paling rapi dan sesuai kaidah tata usaha adalah...",
+    "opsi": {
+      "A": "Menyatukan semua kwitansi dalam satu amplop tebal di bagian paling belakang",
+      "B": "Menempelkan kwitansi pada kertas HVS dengan rapi berurutan sesuai nomor transaksi di laporan",
+      "C": "Membiarkan nota terlipat di sela-sela halaman laporan agar mudah dicabut",
+      "D": "Memfotokopi semua kwitansi secara acak dan membuang yang aslinya"
+    },
+    "jawaban": "B",
+    "pembahasan": "Penempelan bukti fisik secara urut kronologis pada kertas lampiran mencegah berkas hilang dan memudahkan auditor saat verifikasi."
+  },
+  {
+    "no": 16,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sulit",
+    "soal": "Seorang pejabat daerah secara mendadak meminta rekapitulasi data kelulusan 5 tahun terakhir, namun sistem database sekolah sedang diretas (ransomware) dan arsip fisik belum sepenuhnya rapi. Anda hanya memiliki waktu 2 jam. Tindakan paling taktis dan bertanggung jawab adalah...",
+    "opsi": {
+      "A": "Menghubungi pejabat tersebut bahwa data hilang selamanya akibat peretasan",
+      "B": "Mengerahkan seluruh staf untuk menyortir arsip fisik secara paralel sambil melaporkan insiden ke tim IT dinas",
+      "C": "Memberikan estimasi angka kelulusan berdasarkan ingatan agar cepat selesai",
+      "D": "Meminta perpanjangan waktu satu minggu untuk merapikan arsip fisik terlebih dahulu"
+    },
+    "jawaban": "B",
+    "pembahasan": "Dalam krisis, mobilisasi sumber daya manusia untuk pemrosesan manual paralel adalah solusi terbaik sambil menangani masalah utama (IT)."
+  },
+  {
+    "no": 17,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sulit",
+    "soal": "Anda ditugaskan memusnahkan arsip penilaian siswa yang sudah melampaui jadwal retensi 10 tahun. Saat proses sortir, Anda menemukan ijazah asli milik siswa tahun 2013 terselip di dalamnya. Prosedur penanganan yang paling berintegritas adalah...",
+    "opsi": {
+      "A": "Tetap menghancurkannya karena sudah melewati batas waktu penyimpanan 10 tahun",
+      "B": "Menyimpannya secara pribadi jika sewaktu-waktu siswa tersebut mencarinya",
+      "C": "Memisahkan ijazah tersebut, mencatat dalam register dokumen vital tertinggal, dan mengumumkan pencariannya",
+      "D": "Menitipkan ijazah tersebut ke kantor pos agar dikembalikan ke alamat yang tertera"
+    },
+    "jawaban": "C",
+    "pembahasan": "Ijazah adalah dokumen statis berharga milik individu (vital) yang tidak boleh dimusnahkan meski berada di dalam tumpukan arsip inaktif."
+  },
+  {
+    "no": 18,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sulit",
+    "soal": "Kepala Sekolah menginstruksikan Anda membuat surat edaran sumbangan sukarela perbaikan fasilitas yang bahasanya sering disalahartikan wali murid sebagai pungutan liar. Strategi perumusan kalimat yang tepat agar secara hukum administratif aman adalah...",
+    "opsi": {
+      "A": "Mencantumkan nominal minimal yang harus disumbangkan setiap siswa",
+      "B": "Menggunakan kata 'iuran wajib' agar perbaikan dapat segera terlaksana",
+      "C": "Menyatakan sumbangan bersifat tidak mengikat, sukarela, tanpa batasan waktu dan nominal",
+      "D": "Menyertakan ancaman sanksi akademis bagi yang tidak berpartisipasi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Sumbangan pendidikan secara regulasi dilarang bersifat memaksa, terikat nominal, dan mengancam layanan pendidikan dasar."
+  },
+  {
+    "no": 19,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sulit",
+    "soal": "Anda mendapati seorang staf TU senior sering membawa pulang stempel resmi sekolah untuk menyelesaikan dokumen di rumah. Hal ini rawan penyalahgunaan wewenang. Langkah profesional yang harus Anda tempuh tanpa memicu konflik terbuka adalah...",
+    "opsi": {
+      "A": "Menyembunyikan stempel sekolah sebelum staf senior tersebut pulang",
+      "B": "Melaporkan langsung ke polisi atas dugaan pencurian inventaris dinas",
+      "C": "Menegur keras staf senior tersebut di hadapan seluruh pegawai Tata Usaha",
+      "D": "Mengusulkan pembuatan SOP penggunaan dan penyimpanan stempel dinas melalui Kepala Tata Usaha"
+    },
+    "jawaban": "D",
+    "pembahasan": "Pendekatan sistemik melalui SOP lebih efektif dan profesional dalam memperbaiki budaya kerja tanpa menyerang individu secara personal."
+  },
+  {
+    "no": 20,
+    "subtes": "Teknis",
+    "domain": "Tata usaha & persuratan dinas",
+    "level": "Sulit",
+    "soal": "Sekolah menerima somasi dari sebuah percetakan karena belum membayar buku pelajaran selama setahun. Anda ditugaskan mengecek rekam jejak surat perjanjian. Ternyata perjanjian ditandatangani oleh mantan kepala sekolah yang kini dimutasi. Langkah administratif pertama Anda adalah...",
+    "opsi": {
+      "A": "Menolak somasi tersebut karena kepala sekolah yang bertanda tangan sudah pindah",
+      "B": "Mengumpulkan seluruh dokumen kontrak, kwitansi pengiriman, dan riwayat komunikasi untuk bahan telaah",
+      "C": "Menyuruh percetakan tersebut menagih langsung ke sekolah tempat mantan kepala sekolah bertugas",
+      "D": "Langsung membayar tagihan menggunakan dana BOS demi menjaga nama baik sekolah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Dalam masalah hukum/somasi, tanggung jawab adalah pada institusi (jabatan), sehingga langkah awal haruslah mengumpulkan fakta administratif secara komprehensif."
+  },
+  {
+    "no": 21,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Mudah",
+    "soal": "Sistem Data Pokok Pendidikan (Dapodik) mewajibkan sinkronisasi data secara berkala. Hal terpenting yang harus dipastikan oleh operator sebelum melakukan proses sinkronisasi adalah...",
+    "opsi": {
+      "A": "Memastikan jumlah kuota internet tersisa lebih dari 10 GB",
+      "B": "Memastikan seluruh kolom isian telah valid tanpa ada peringatan error (invalid) pada sistem",
+      "C": "Mengubah password Dapodik sesaat sebelum proses sinkronisasi dimulai",
+      "D": "Menonaktifkan sementara antivirus di server sekolah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Sistem Dapodik akan menolak sinkronisasi ke server pusat jika masih terdapat data yang berstatus 'invalid' (tidak valid)."
+  },
+  {
+    "no": 22,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Mudah",
+    "soal": "Guru meminta bantuan Anda karena proyektor di kelas tidak memunculkan tampilan dari laptopnya, meskipun kabel HDMI sudah terpasang. Solusi teknis dasar yang pertama kali harus dicoba adalah...",
+    "opsi": {
+      "A": "Membongkar mesin proyektor untuk mengecek lampu",
+      "B": "Mengganti laptop guru dengan laptop baru milik sekolah",
+      "C": "Memeriksa pengaturan mode presentasi/proyeksi (contoh: Duplicate/Extend) pada laptop guru",
+      "D": "Membeli kabel HDMI baru karena yang lama pasti rusak"
+    },
+    "jawaban": "C",
+    "pembahasan": "Seringkali masalah proyektor hanya disebabkan oleh pengaturan display output pada sistem operasi yang belum diaktifkan."
+  },
+  {
+    "no": 23,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Mudah",
+    "soal": "Untuk menjaga keamanan data administrasi sekolah di komputer ruang tata usaha dari risiko kerusakan perangkat keras, langkah preventif operasional yang harus dirutinkan adalah...",
+    "opsi": {
+      "A": "Membiarkan komputer menyala 24 jam penuh setiap hari",
+      "B": "Melakukan pencadangan (backup) data secara berkala ke media penyimpanan eksternal atau cloud",
+      "C": "Menghapus file yang berusia lebih dari satu minggu",
+      "D": "Menutup layar monitor dengan kain tebal setiap malam"
+    },
+    "jawaban": "B",
+    "pembahasan": "Backup data merupakan prosedur standar keamanan informasi untuk mengantisipasi kehilangan data akibat kerusakan hardware atau bencana."
+  },
+  {
+    "no": 24,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Mudah",
+    "soal": "Dalam aplikasi pengolah angka (spreadsheet) yang digunakan untuk merekap nilai rapor siswa, formula yang tepat untuk menjumlahkan nilai pada sel C2 hingga C10 adalah...",
+    "opsi": {
+      "A": "=AVERAGE(C2:C10)",
+      "B": "=MAX(C2:C10)",
+      "C": "=SUM(C2:C10)",
+      "D": "=COUNT(C2:C10)"
+    },
+    "jawaban": "C",
+    "pembahasan": "Fungsi SUM digunakan untuk menjumlahkan seluruh angka dalam rentang sel yang ditentukan."
+  },
+  {
+    "no": 25,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Mudah",
+    "soal": "Saat input data mutasi siswa ke dalam sistem informasi sekolah, ada kolom NISN yang harus diisi. Jika siswa pindahan belum mengetahui NISN-nya, langkah operasional yang tepat adalah...",
+    "opsi": {
+      "A": "Membuat NISN acak agar kolom tidak kosong",
+      "B": "Mencari data NISN siswa tersebut melalui portal NISN Kementerian menggunakan nama dan tanggal lahir",
+      "C": "Menolak pendaftaran mutasi siswa tersebut sampai ia membawa NISN",
+      "D": "Mengisi kolom dengan angka nol semuanya"
+    },
+    "jawaban": "B",
+    "pembahasan": "NISN bersifat unik dan terpusat, pencarian secara online melalui portal kementerian adalah cara resmi untuk memvalidasi nomor tersebut."
+  },
+  {
+    "no": 26,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sedang",
+    "soal": "Saat pendaftaran Penerimaan Peserta Didik Baru (PPDB) daring, server sekolah mendadak sangat lambat karena lonjakan akses (traffic). Tindakan darurat paling efektif yang bisa dilakukan oleh pengelola TIK adalah...",
+    "opsi": {
+      "A": "Menutup situs PPDB hingga esok hari tanpa pemberitahuan",
+      "B": "Melakukan pembatasan ukuran file unggahan (compress) pada sisi klien dan mengoptimalkan resource server",
+      "C": "Menyarankan pendaftar untuk datang langsung ke sekolah menyerahkan berkas",
+      "D": "Menghapus data pendaftar hari sebelumnya agar server lebih lega"
+    },
+    "jawaban": "B",
+    "pembahasan": "Mengurangi beban server melalui optimasi file dan manajemen resource membantu menjaga ketersediaan layanan tanpa menghentikan sistem."
+  },
+  {
+    "no": 27,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sedang",
+    "soal": "Aplikasi CBT (Computer Based Test) lokal sekolah mengalami kendala 'Database Connection Error' saat ujian tengah semester baru akan dimulai. Diagnosa awal yang secara logika paling mungkin menyebabkan ini adalah...",
+    "opsi": {
+      "A": "Layar monitor di ruang ujian belum dihidupkan",
+      "B": "Layanan (service) database seperti MySQL/MariaDB pada server utama belum berjalan",
+      "C": "Soal ujian di dalamnya mengandung gambar berukuran terlalu besar",
+      "D": "Kapasitas RAM di komputer klien/siswa terlalu rendah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Error koneksi database secara spesifik mengindikasikan server gagal terhubung ke sistem basis datanya, biasanya karena servicenya mati."
+  },
+  {
+    "no": 28,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sedang",
+    "soal": "Banyak siswa yang mengeluh jaringan WiFi perpustakaan yang dikelola oleh tim TIK sekolah sering terputus-putus. Setelah dicek, letak Access Point berada di dalam lemari besi server. Pemecahan masalah fisiknya adalah...",
+    "opsi": {
+      "A": "Mengganti kata sandi WiFi agar lebih aman",
+      "B": "Memindahkan Access Point ke tempat yang tinggi, terbuka, dan minim halangan fisik",
+      "C": "Menambah kecepatan paket berlangganan internet (bandwidth)",
+      "D": "Membongkar Access Point untuk mengganti antenanya"
+    },
+    "jawaban": "B",
+    "pembahasan": "Lemari besi menciptakan efek Faraday cage yang memblokir sinyal radio. Access point harus berada di area terbuka dan sentral untuk jangkauan maksimal."
+  },
+  {
+    "no": 29,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sedang",
+    "soal": "Dalam pembuatan surat keterangan kelulusan massal berjumlah 500 siswa, fitur di pengolah kata (word processor) yang paling tepat untuk menggabungkan template surat dengan database excel siswa adalah...",
+    "opsi": {
+      "A": "Copy and Paste Special",
+      "B": "Mail Merge",
+      "C": "Find and Replace",
+      "D": "Format Painter"
+    },
+    "jawaban": "B",
+    "pembahasan": "Mail merge merupakan fitur standar otomatisasi pembuatan dokumen massal berdasarkan satu master template yang terkoneksi ke basis data."
+  },
+  {
+    "no": 30,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sedang",
+    "soal": "Sistem presensi sidik jari (fingerprint) guru gagal mengirim data log harian ke server tata usaha. Jaringan LAN sekolah dalam kondisi normal. Pemeriksaan berikutnya yang rasional dilakukan adalah...",
+    "opsi": {
+      "A": "Meminta semua guru membersihkan jari mereka sebelum menekan mesin",
+      "B": "Mengecek pengaturan IP address pada mesin fingerprint apakah ada perubahan (konflik IP)",
+      "C": "Mereset ulang pengaturan pabrik (factory reset) pada mesin absensi",
+      "D": "Mencabut kabel power server utama tata usaha secara paksa"
+    },
+    "jawaban": "B",
+    "pembahasan": "Gangguan pengiriman data via LAN seringkali disebabkan oleh miskonfigurasi IP address yang menyebabkan perangkat kehilangan rute ke server."
+  },
+  {
+    "no": 31,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sedang",
+    "soal": "Data rekap kehadiran di spreadsheet Google Sheets secara tidak sengaja terhapus sebagian oleh rekan guru yang memiliki akses edit. Cara paling cepat mengembalikan data yang hilang tersebut adalah...",
+    "opsi": {
+      "A": "Meminta semua guru mengisi ulang data kehadiran selama satu semester",
+      "B": "Membuka fitur riwayat versi (version history) dan memulihkan dokumen ke versi sebelum data terhapus",
+      "C": "Mengirim email ke Google Support untuk meminta pengembalian data",
+      "D": "Menutup jendela browser secepatnya berharap perubahan tidak tersimpan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Aplikasi cloud document memiliki fitur Version History yang merekam setiap perubahan sehingga memungkinkan pemulihan (restore) secara instan."
+  },
+  {
+    "no": 32,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sedang",
+    "soal": "Sekolah menerima dana hibah berupa 30 unit tablet untuk e-learning. Anda diminta mengatur pembatasan agar siswa tidak dapat mengunduh aplikasi non-edukasi (game). Solusi teknis terbaiknya adalah...",
+    "opsi": {
+      "A": "Menerapkan sistem Mobile Device Management (MDM) untuk mengunci instalasi aplikasi pihak ketiga",
+      "B": "Menempelkan stiker larangan mengunduh game di belakang setiap tablet",
+      "C": "Menghapus aplikasi Google Play Store secara manual satu per satu",
+      "D": "Memutuskan koneksi internet pada semua tablet"
+    },
+    "jawaban": "A",
+    "pembahasan": "MDM adalah solusi enterprise terpusat untuk memonitor, mengelola, dan mengamankan perangkat seluler di lingkungan pendidikan/institusi."
+  },
+  {
+    "no": 33,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sedang",
+    "soal": "Pada saat migrasi data siswa dari format Excel lama ke aplikasi sistem manajemen sekolah baru, format penulisan tanggal lahir berbeda-beda (ada yang DD-MM-YYYY, ada yang MM/DD/YYYY). Yang harus Anda lakukan sebelum import data adalah...",
+    "opsi": {
+      "A": "Langsung mengimport file dan membiarkan sistem baru memperbaikinya otomatis",
+      "B": "Melakukan standarisasi (cleansing/formatting) tanggal di Excel menjadi satu format baku yang diminta sistem",
+      "C": "Mengosongkan semua kolom tanggal lahir agar proses import tidak error",
+      "D": "Mengetik ulang data 1.000 siswa satu per satu di aplikasi baru"
+    },
+    "jawaban": "B",
+    "pembahasan": "Data cleansing/formatting merupakan prasyarat krusial sebelum migrasi agar data dapat dibaca sistem tanpa anomali atau corrupt."
+  },
+  {
+    "no": 34,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sulit",
+    "soal": "Dinas Pendidikan meminta data sebaran domisili titik koordinat siswa untuk program zonasi, namun di database hanya tersedia alamat jalan tanpa lintang bujur. Waktu pengumpulan data sangat mepet. Solusi efektif berbasis TIK adalah...",
+    "opsi": {
+      "A": "Membentuk tim survei rumah untuk mendata koordinat GPS dengan alat ukur",
+      "B": "Meminta siswa mengumpulkan cetakan peta rumah dari kertas keesokan harinya",
+      "C": "Membuat form online dengan fitur geo-location yang secara otomatis menangkap koordinat saat diakses siswa dari rumah",
+      "D": "Mengisi titik koordinat semua siswa ke satu titik di tengah kota agar data terisi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pendayagunaan form dengan geo-tagging mempercepat pengumpulan koordinat secara masif dan akurat dengan memanfaatkan perangkat masing-masing siswa."
+  },
+  {
+    "no": 35,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sulit",
+    "soal": "Sistem Informasi Akademik sekolah tiba-tiba lambat dan dicurigai terkena serangan Distributed Denial of Service (DDoS). Hal pertama yang harus dieksekusi pengelola jaringan untuk memitigasi hal tersebut adalah...",
+    "opsi": {
+      "A": "Mengecek traffic firewall dan memblokir sementara IP dari luar negeri/tidak dikenal yang melakukan anomali permintaan",
+      "B": "Mematikan server database utama untuk melindunginya secara permanen",
+      "C": "Mengganti nama domain sekolah agar penyerang kesulitan menemukannya",
+      "D": "Menambah kapasitas penyimpanan hardisk pada server web"
+    },
+    "jawaban": "A",
+    "pembahasan": "DDoS ditangani pada layer jaringan. Memfilter dan melakukan drop request pada traffic anomali dari luar melalui firewall adalah respon insiden awal."
+  },
+  {
+    "no": 36,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sulit",
+    "soal": "Kepala sekolah menghendaki penerapan Tanda Tangan Elektronik (TTE) tersertifikasi untuk rapor digital, namun beberapa guru senior keberatan karena merasa prosesnya rumit. Upaya strategis dari unit Data & TIK adalah...",
+    "opsi": {
+      "A": "Membatalkan program TTE agar tidak menimbulkan gejolak di sekolah",
+      "B": "Membuatkan dan memegang akun TTE para guru tersebut agar TIK yang menandatangani",
+      "C": "Menyelenggarakan lokakarya pendampingan intensif dan menyusun panduan visual (infografis/video) langkah demi langkah TTE",
+      "D": "Membiarkan guru senior menggunakan tanda tangan basah sedangkan guru muda pakai TTE"
+    },
+    "jawaban": "C",
+    "pembahasan": "Resistensi teknologi harus diatasi dengan manajemen perubahan (change management) melalui edukasi, bukan pelanggaran prosedur keamanan otentikasi."
+  },
+  {
+    "no": 37,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sulit",
+    "soal": "Sekolah berencana menyimpan arsip video pembelajaran ke dalam cloud. Terdapat pilihan layanan cloud gratis yang tidak memiliki kepastian jaminan privasi data, dan layanan berbayar dengan SLA (Service Level Agreement) keamanan yang ketat. Mengingat anggaran terbatas, keputusan pengadaan yang paling berdasar adalah...",
+    "opsi": {
+      "A": "Memilih cloud gratis namun mengunggah data video setelah mengenkripsi dan memfilter wajah/identitas anak-anak",
+      "B": "Menggunakan akun cloud pribadi milik kepala sekolah demi penghematan",
+      "C": "Membuat banyak akun cloud gratis bodong agar kapasitas penyimpanan meningkat",
+      "D": "Meninggalkan teknologi cloud dan membakar ribuan video ke kepingan DVD"
+    },
+    "jawaban": "A",
+    "pembahasan": "Bila terpaksa menggunakan layanan gratis tanpa jaminan keamanan kuat, enkripsi dan anonymization adalah mitigasi perlindungan privasi yang paling sesuai etika IT."
+  },
+  {
+    "no": 38,
+    "subtes": "Teknis",
+    "domain": "Data pendidikan & TIK operasional",
+    "level": "Sulit",
+    "soal": "Saat sinkronisasi nilai akhir tahun ke pusat, Anda menyadari ada perbedaan algoritma pembulatan antara sistem kurikulum sekolah dan sistem kementerian, yang menyebabkan status kelulusan 3 siswa berubah. Langkah penanganan berbasis regulasi sistem informasi adalah...",
+    "opsi": {
+      "A": "Mengubah nilai asli (raw) siswa secara manual agar menyesuaikan dengan pembulatan kementerian",
+      "B": "Membiarkan data terkirim apa adanya dan membiarkan 3 siswa tersebut tidak lulus",
+      "C": "Melaporkan anomali algoritma ke pusat bantuan kementerian, sambil menyiapkan berita acara penetapan manual berdasarkan rapat dewan guru",
+      "D": "Mendiamkan masalah ini hingga wali murid menyadarinya dan melapor"
+    },
+    "jawaban": "C",
+    "pembahasan": "Perbedaan logika sistem harus di-eskalasi ke developer pusat (helpdesk), dan legalitas kelulusan dikembalikan pada kewenangan otonom rapat pleno pendidik."
+  },
+  {
+    "no": 39,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Mudah",
+    "soal": "Seorang siswa asrama mengeluh sakit perut hebat di tengah malam. Sebagai pengurus layanan asrama, tindakan pertama (First Aid) yang harus dilakukan adalah...",
+    "opsi": {
+      "A": "Menyuruh siswa meminum obat warung sembarangan agar segera tertidur",
+      "B": "Memeriksa tanda vital, memberi pertolongan pertama dasar, dan segera membawanya ke klinik/UKS terdekat",
+      "C": "Meminta siswa tersebut menahan sakit hingga dokter sekolah tiba keesokan paginya",
+      "D": "Menghubungi orang tua siswa untuk menjemput saat itu juga tanpa penanganan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kondisi darurat medis memerlukan observasi awal dan penanganan klinis segera (rujukan ke klinik/RS) sebelum tindakan administrasi lebih lanjut."
+  },
+  {
+    "no": 40,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Mudah",
+    "soal": "Saat jadwal makan malam di ruang makan asrama, terjadi keributan karena antrean yang tidak tertib. Cara preventif untuk mencegah masalah yang sama di kemudian hari adalah...",
+    "opsi": {
+      "A": "Mengunci ruang makan jika ada siswa yang tidak tertib antre",
+      "B": "Menyediakan layanan pesan antar makanan untuk setiap kamar asrama",
+      "C": "Menyusun sistem zonasi meja, jadwal bergilir, dan marka antrean yang jelas",
+      "D": "Mengurangi jatah makan bagi siswa yang sering membuat keributan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pengelolaan ketertiban fasum membutuhkan rekayasa ruang (marka) dan tata tertib operasional yang sistematis."
+  },
+  {
+    "no": 41,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Mudah",
+    "soal": "Dalam SOP penerimaan tamu asrama siswa, prosedur dasar yang ditujukan untuk menjaga keamanan fisik penghuni asrama adalah...",
+    "opsi": {
+      "A": "Memperbolehkan tamu langsung masuk jika mereka mengaku kerabat",
+      "B": "Mewajibkan tamu lapor di pos jaga, menukar kartu identitas, dan menemui siswa hanya di ruang tunggu tamu",
+      "C": "Membebaskan waktu berkunjung tamu hingga larut malam",
+      "D": "Meminta siswa yang menemui tamu keluar dari area sekolah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Prosedur screening identitas dan isolasi interaksi di ruang tamu dirancang untuk mencegah orang asing menyusup ke ruang privat penghuni asrama."
+  },
+  {
+    "no": 42,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Mudah",
+    "soal": "Seorang siswa baru terlihat sangat pendiam, sering menyendiri, dan enggan bersosialisasi dengan teman sekamarnya. Sebagai pembina asrama, langkah awal yang simpatik adalah...",
+    "opsi": {
+      "A": "Melakukan pendekatan interpersonal, mengajak ngobrol santai untuk mengenali latar belakang dan kesulitannya",
+      "B": "Memindahkan siswa tersebut ke kamar isolasi agar lebih nyaman menyendiri",
+      "C": "Melaporkan siswa tersebut ke guru Bimbingan Konseling agar segera dipulangkan",
+      "D": "Memaksa siswa tersebut ikut pertunjukan seni agar berani tampil"
+    },
+    "jawaban": "A",
+    "pembahasan": "Adaptasi (homesickness) umum terjadi; pendekatan personal membangun rasa aman dan kepercayaan sebelum menerapkan intervensi lebih jauh."
+  },
+  {
+    "no": 43,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Mudah",
+    "soal": "Fasilitas mesin cuci bersama di asrama seringkali penuh dan antreannya menimbulkan konflik. Pengelolaan penggunaan fasilitas bersama yang paling adil adalah...",
+    "opsi": {
+      "A": "Menyerahkan sepenuhnya kepada siswa siapa yang cepat dia yang dapat",
+      "B": "Membuat jadwal pemakaian (laundry schedule) berbasis kamar atau blok asrama",
+      "C": "Melarang penggunaan mesin cuci dan mewajibkan semua mencuci dengan tangan",
+      "D": "Hanya memperbolehkan siswa senior menggunakan mesin cuci tersebut"
+    },
+    "jawaban": "B",
+    "pembahasan": "Penjadwalan fasilitas (resource scheduling) mengeliminasi ketidakpastian dan mendistribusikan hak secara merata."
+  },
+  {
+    "no": 44,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sedang",
+    "soal": "Sebagai petugas layanan siswa, Anda menerima aduan ada kasus perundungan (bullying) verbal di dalam kamar asrama. Mengacu pada penanganan disiplin yang berperspektif perlindungan anak, tindakan yang tepat adalah...",
+    "opsi": {
+      "A": "Memanggil pelaku dan korban secara bersamaan ke tengah lapangan untuk diinterogasi",
+      "B": "Mengumpulkan informasi secara rahasia dan terpisah, menjamin keamanan korban, serta berkoordinasi dengan guru BK",
+      "C": "Langsung mengeluarkan pelaku dari asrama tanpa proses klarifikasi",
+      "D": "Mengabaikan aduan tersebut dengan alasan hanya bercandaan anak asrama biasa"
+    },
+    "jawaban": "B",
+    "pembahasan": "Penanganan perundungan memerlukan sensitivitas: isolasi korban demi keamanan, investigasi tertutup, dan melibatkan tenaga profesional (BK/Psikolog)."
+  },
+  {
+    "no": 45,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sedang",
+    "soal": "Ketika melakukan inspeksi rutin kebersihan asrama, Anda menemukan beberapa peralatan elektronik pemanas air di kamar yang dilarang karena rawan korsleting. Respons penertiban yang edukatif adalah...",
+    "opsi": {
+      "A": "Menyita barang tanpa penjelasan dan langsung merusaknya",
+      "B": "Mengamankan barang tersebut, memberikan surat teguran tertulis, dan menjelaskan risiko fatal kebakaran",
+      "C": "Meminta denda berupa uang tunai kepada siswa pemilik alat tersebut",
+      "D": "Membiarkankannya saja karena kasihan mereka butuh air panas"
+    },
+    "jawaban": "B",
+    "pembahasan": "Penyitaan yang edukatif harus disertai pemahaman resiko (risk awareness) dan dicatat resmi agar menjadi pembelajaran mitigasi bahaya."
+  },
+  {
+    "no": 46,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sedang",
+    "soal": "Saat masa ujian akhir semester, tingkat stres penghuni asrama meninggi dan sering terjadi perdebatan sepele karena kurang tidur. Upaya intervensi manajemen asrama untuk meredakan ketegangan kolektif ini adalah...",
+    "opsi": {
+      "A": "Menambah jam belajar malam agar mereka lebih lelah dan cepat tidur",
+      "B": "Mengurangi jadwal kegiatan non-akademik, mematikan wifi pada jam istirahat, dan menyediakan minuman hangat/ekstra nutrisi",
+      "C": "Meniadakan aturan jam malam agar mereka bebas belajar hingga pagi",
+      "D": "Mengenakan sanksi fisik bagi siapapun yang berdebat"
+    },
+    "jawaban": "B",
+    "pembahasan": "Manajemen stres kolektif dilakukan dengan intervensi lingkungan: penyesuaian regulasi jam istirahat (enforced sleep hygiene) dan perbaikan nutrisi."
+  },
+  {
+    "no": 47,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sedang",
+    "soal": "Seorang orang tua murid menuntut kamar anaknya dipasang AC (Pendingin Ruang) secara khusus dengan biaya sendiri, sementara standar fasilitas asrama adalah kipas angin untuk kesetaraan sosial. Sikap pengelola asrama adalah...",
+    "opsi": {
+      "A": "Menerima tawaran tersebut karena menguntungkan fasilitas asrama",
+      "B": "Menolak dengan tegas dan menjelaskan kebijakan kesetaraan layanan serta keterbatasan kapasitas listrik",
+      "C": "Mengizinkan pemasangan AC namun meminta biaya bulanan ganda sebagai denda",
+      "D": "Memindahkan anak tersebut ke asrama lain secara paksa"
+    },
+    "jawaban": "B",
+    "pembahasan": "Asrama publik menjunjung prinsip ekuitas layanan; pemberian perlakuan khusus berisiko memicu kecemburuan sosial dan mengganggu sistem kelistrikan terpusat."
+  },
+  {
+    "no": 48,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sedang",
+    "soal": "Program 'Kakak Asuh' di asrama dirancang untuk membantu siswa baru. Namun, Anda melihat ada 'Kakak Asuh' yang cenderung menyuruh-nyuruh (perpeloncoan halus) adik asuhnya. Evaluasi program yang harus segera Anda lakukan adalah...",
+    "opsi": {
+      "A": "Menghapuskan program Kakak Asuh untuk selamanya",
+      "B": "Melakukan pembinaan ulang (briefing) batasan wewenang Kakak Asuh dan membuka kanal pelaporan anonim",
+      "C": "Menghukum adik asuh karena tidak berani melawan",
+      "D": "Memindahkan tanggung jawab program kepada alumni dari luar sekolah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Mereduksi potensi penyalahgunaan kekuasaan relasional (power trip) dilakukan melalui re-edukasi batasan etis dan pemberdayaan pengawasan bottom-up (anonim)."
+  },
+  {
+    "no": 49,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sedang",
+    "soal": "Dalam pengelolaan katering asrama, ditemukan keluhan beberapa siswa tentang rasa makanan yang tidak enak. Namun dana konsumsi sangat terbatas. Strategi pelayanan untuk mengatasi keluhan ini tanpa defisit anggaran adalah...",
+    "opsi": {
+      "A": "Mengurangi porsi makan agar bahan makanan bisa dibeli yang lebih mahal",
+      "B": "Meminta siswa menyumbang bahan pokok tambahan dari rumah masing-masing",
+      "C": "Membuat survei preferensi menu, merotasi bumbu dasar, dan melibatkan perwakilan siswa dalam penyusunan menu mingguan",
+      "D": "Membubarkan dapur asrama dan meminta siswa membeli makanan sendiri di luar"
+    },
+    "jawaban": "C",
+    "pembahasan": "Keterlibatan (partisipasi) pengguna dalam perumusan layanan meningkatkan penerimaan psikologis terhadap makanan, meski secara budget tetap."
+  },
+  {
+    "no": 50,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sedang",
+    "soal": "Malam hari di asrama, terjadi pemadaman listrik total dari PLN. Genset sekolah ternyata sedang rusak. Prosedur standar operasional (SOP) darurat malam hari yang harus dijalankan pengurus adalah...",
+    "opsi": {
+      "A": "Meminta siswa menyalakan lilin sebanyak mungkin di dalam kamar",
+      "B": "Mengerahkan petugas jaga menyisir area, membagikan senter cadangan, dan menginstruksikan siswa tetap di kamar",
+      "C": "Mengumpulkan semua siswa di lapangan gelap gulita untuk diabsen",
+      "D": "Meninggalkan asrama untuk mencari genset sewaan di tempat lain"
+    },
+    "jawaban": "B",
+    "pembahasan": "Dalam kondisi blackout, mobilisasi berlebihan memicu kepanikan dan risiko jatuh; lockdown sementara di kamar sambil distribusi penerangan baterai lebih aman."
+  },
+  {
+    "no": 51,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sedang",
+    "soal": "Seorang siswa yang memiliki alergi makanan berat (anaphylaxis) baru masuk ke asrama. Mitigasi risiko utama yang harus diatur oleh pengurus layanan asrama adalah...",
+    "opsi": {
+      "A": "Meminta siswa tersebut tidak perlu makan di ruang makan asrama",
+      "B": "Membuat database medis spesifik, melatih petugas dapur, dan memberikan tanda khusus (card) pada nampan anak tersebut",
+      "C": "Memberi tahu seluruh penghuni asrama secara terbuka dengan mikrofon bahwa anak tersebut penyakitan",
+      "D": "Menyediakan obat alergi sebanyak-banyaknya di UKS tanpa tindakan preventif dapur"
+    },
+    "jawaban": "B",
+    "pembahasan": "Manajemen risiko alergi bertumpu pada kontrol ketat rantai makanan (dapur) dan penandaan visual yang menghindari stigmatisasi sosial."
+  },
+  {
+    "no": 52,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sulit",
+    "soal": "Anda memergoki dua kelompok siswa berbeda etnis hampir terlibat bentrok fisik di lorong asrama karena kesalahpahaman budaya dalam berkomunikasi. Jika Anda memanggil mereka langsung, konflik ditakutkan meluas menjadi sentimen SARA. Pendekatan mediasi yang elegan adalah...",
+    "opsi": {
+      "A": "Menjatuhkan skorsing langsung kepada kedua kelompok agar menjadi pelajaran",
+      "B": "Mengisolasi ketua dari kedua kelompok secara terpisah, mencari akar masalah faktual, dan melakukan mediasi restoratif tertutup",
+      "C": "Membuat forum debat terbuka antar kelompok untuk membuktikan siapa yang benar",
+      "D": "Membiarkan mereka menyelesaikan masalahnya secara mandiri sebagai bentuk kedewasaan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Konflik bermuatan identitas harus dicegah dari efek domino (snowballing). Dialog terbatas dengan figur dominan memfasilitasi penyelesaian rasional tanpa panggung massa."
+  },
+  {
+    "no": 53,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sulit",
+    "soal": "Sekolah memiliki program asrama inklusi yang menerima siswa disabilitas netra. Gedung asrama yang digunakan adalah bangunan tua yang banyak undakan tangga. Dalam dilema anggaran renovasi fisik yang ditolak, penyesuaian rasional apa yang bisa diberikan untuk keselamatan siswa tersebut?",
+    "opsi": {
+      "A": "Menolak siswa disabilitas masuk asrama demi keselamatan mereka",
+      "B": "Menempatkan mereka di kamar lantai dasar yang paling dekat dengan akses utama, serta menempelkan karpet/stiker bertekstur sebagai guiding block",
+      "C": "Meminta satu siswa awas untuk terus-menerus menuntun mereka 24 jam penuh",
+      "D": "Membangun lift darurat walaupun terpaksa meminjam uang secara ilegal"
+    },
+    "jawaban": "B",
+    "pembahasan": "Akomodasi yang layak (reasonable accommodation) dalam hambatan fisik mencakup alokasi tata letak (zoning) dan rekayasa taktil murah untuk mendukung kemandirian."
+  },
+  {
+    "no": 54,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sulit",
+    "soal": "Selama pandemi/wabah flu musiman, asrama mengalami lonjakan siswa sakit yang melebihi kapasitas ruang isolasi (UKS). Beberapa orang tua menuntut penutupan asrama, namun kebijakan daerah meminta sekolah tatap muka berlanjut. Trade-off solusi asrama terbaik adalah...",
+    "opsi": {
+      "A": "Memulangkan semua siswa yang batuk sekecil apa pun",
+      "B": "Mengubah satu blok kamar terluar/terpisah menjadi zona isolasi darurat dengan sirkulasi silang dan akses makan khusus",
+      "C": "Mencampurkan siswa sakit dan sehat karena toh virusnya musiman",
+      "D": "Melarang siswa keluar kamar sama sekali selama 1 bulan penuh"
+    },
+    "jawaban": "B",
+    "pembahasan": "Manajemen epidemi dalam fasilitas tertutup berfokus pada pembesaran skala fasilitas karantina/isolasi komunal secara dinamis (adaptive zoning) guna mencegah transmisi lanjutan."
+  },
+  {
+    "no": 55,
+    "subtes": "Teknis",
+    "domain": "Layanan siswa & layanan asrama",
+    "level": "Sulit",
+    "soal": "Aturan asrama melarang keras penggunaan ponsel pintar. Namun, Anda menangkap basah seorang siswa berprestasi yang diam-diam membawa ponsel untuk mencari uang (freelance) guna membiayai sekolahnya sendiri karena yatim piatu. Dilema etika penegakan disiplin yang Anda pilih adalah...",
+    "opsi": {
+      "A": "Mengeluarkan siswa tersebut dari asrama tanpa ampun demi menegakkan supremasi aturan",
+      "B": "Menyita ponselnya selamanya dan membiarkan siswa itu kehilangan pekerjaan",
+      "C": "Menegakkan aturan dengan menyita ponsel, namun memberikan akses komputer khusus di kantor untuknya bekerja di jam tertentu",
+      "D": "Pura-pura tidak melihat pelanggaran tersebut karena iba"
+    },
+    "jawaban": "C",
+    "pembahasan": "Disiplin edukatif (restorative) tetap menegakkan aturan tanpa menghancurkan kehidupan esensial siswa; institusi memberi jalan keluar reguler (komputer) yang bisa diawasi."
+  },
+  {
+    "no": 56,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Mudah",
+    "soal": "Sebagai pengelola aset, Anda mendapati kiriman 50 unit kursi baru untuk aula. Langkah administratif pertama yang harus dilakukan setelah barang tiba dan dicek kondisinya adalah...",
+    "opsi": {
+      "A": "Langsung mendistribusikan kursi ke dalam aula dan ruang kelas",
+      "B": "Mencatat ke dalam Buku Penerimaan Barang dan Buku Induk Inventaris (KIR/KIB)",
+      "C": "Menjual sisa kursi lama ke pengepul barang bekas",
+      "D": "Membuang tanda terima dari distributor karena tidak penting lagi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Setiap barang modal yang masuk harus di-registerasi (pencatatan administratif) terlebih dahulu untuk masuk menjadi aset resmi sekolah sebelum didistribusikan."
+  },
+  {
+    "no": 57,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Mudah",
+    "soal": "Untuk memudahkan identifikasi, pelacakan, dan audit, setiap meja kerja pegawai dan siswa di sekolah sebaiknya dipasangi...",
+    "opsi": {
+      "A": "Stiker nama kepala sekolah",
+      "B": "Label kode barang inventaris yang standar",
+      "C": "Alarm anti pencuri",
+      "D": "Pita berwarna cerah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Labelisasi aset dengan kode unik inventaris (misal barcode/QR/nomor KIB) adalah standar baku penataan sarana prasana negara/institusi."
+  },
+  {
+    "no": 58,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Mudah",
+    "soal": "Guru olahraga melaporkan bahwa beberapa matras senam sudah mulai sobek dan berbahaya. Sikap proaktif Anda sebagai staf sarpras adalah...",
+    "opsi": {
+      "A": "Menunggu instruksi tertulis dari kepala sekolah untuk melakukan survei",
+      "B": "Menarik matras yang rusak ke gudang, mencatat kondisinya, dan mengusulkan anggaran perbaikan/penggantian",
+      "C": "Meminta guru olahraga menambalnya dengan selotip",
+      "D": "Menghapus matras tersebut dari buku inventaris tanpa laporan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Manajemen fasilitas berfokus pada keselamatan; barang rusak harus ditarik (karantina) dan dilaporkan kondisinya (mutasi) agar dapat diganti."
+  },
+  {
+    "no": 59,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Mudah",
+    "soal": "Penataan ruang (layout) gudang logistik yang menyimpan bahan kimia pembersih dan alat tulis kantor sebaiknya dilakukan dengan prinsip...",
+    "opsi": {
+      "A": "Semua ditumpuk bersamaan agar menghemat ruang",
+      "B": "Barang yang sering dipakai ditaruh paling bawah agar tidak mudah diambil orang",
+      "C": "Pemisahan zona (segregasi) antara bahan kimia yang berisiko dengan kertas yang mudah terbakar",
+      "D": "Mencampur pembersih cair dan kertas dalam satu lemari agar mudah didata"
+    },
+    "jawaban": "C",
+    "pembahasan": "Manajemen gudang wajib menerapkan segregasi bahan (Hazardous isolation) untuk mencegah kontaminasi dan bahaya kebakaran kimiawi silang."
+  },
+  {
+    "no": 60,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Mudah",
+    "soal": "Staf kebersihan melaporkan stok cairan pembersih lantai menipis. Dalam konsep manajemen logistik/persediaan, titik di mana Anda harus mulai memesan barang kembali disebut...",
+    "opsi": {
+      "A": "Reorder Point (ROP)",
+      "B": "Dead Stock",
+      "C": "Overstock",
+      "D": "Break Even Point"
+    },
+    "jawaban": "A",
+    "pembahasan": "Reorder Point (Titik Pemesanan Kembali) adalah level persediaan saat pemesanan ulang harus dibuat untuk menghindari kekosongan."
+  },
+  {
+    "no": 61,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sedang",
+    "soal": "Saat audit inventaris akhir tahun, ditemukan selisih jumlah proyektor. Di buku tercatat ada 15, namun secara fisik hanya ada 14 proyektor. Langkah investigatif awal yang tepat adalah...",
+    "opsi": {
+      "A": "Langsung menuduh penjaga malam melakukan pencurian",
+      "B": "Mengecek log buku peminjaman/mutasi barang dan menelusuri riwayat perbaikan (servis)",
+      "C": "Menghapus catatan proyektor ke-15 di buku agar datanya balance",
+      "D": "Membeli proyektor baru menggunakan uang pribadi untuk menutupi kesalahan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Selisih barang modal seringkali disebabkan ketidaktertiban pencatatan administrasi pergerakan barang (dipinjam/diservis/rusak berat) sebelum disimpulkan sebagai tindak pidana hilang."
+  },
+  {
+    "no": 62,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sedang",
+    "soal": "Penggunaan kertas HVS di ruang guru sangat boros (overconsumption) sehingga anggaran ATK jebol setiap semester. Inisiatif kontrol sarpras yang paling logis adalah...",
+    "opsi": {
+      "A": "Menyembunyikan kunci lemari kertas dari guru",
+      "B": "Mengalokasikan kuota maksimal rim kertas per bulan untuk tiap MGMP/Unit dan menyediakan keranjang kertas bekas layak print ulang",
+      "C": "Melarang pencetakan dokumen di sekolah",
+      "D": "Membiarkan saja karena kertas adalah hak guru"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pengendalian barang habis pakai memerlukan sistem rasionalisasi kuota distribusi dan pembiasaan efisiensi pemakaian kembali (reuse/recycle)."
+  },
+  {
+    "no": 63,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sedang",
+    "soal": "Sekolah berencana memusnahkan (penghapusan barang milik negara) 20 unit komputer pentium 4 yang sudah rusak berat. Syarat utama sebelum barang tersebut boleh dijual rongsok atau dihancurkan adalah...",
+    "opsi": {
+      "A": "Pembuatan Berita Acara Pemeriksaan kerusakan fisik dan turunnya SK Penghapusan dari instansi berwenang",
+      "B": "Izin lisan dari kepala sekolah sudah cukup",
+      "C": "Komputer dipastikan sudah tidak bisa menyala sama sekali selama 1 minggu",
+      "D": "Membongkar hardisknya dan langsung membuang sisa kerangkanya ke tempat sampah"
+    },
+    "jawaban": "A",
+    "pembahasan": "Penghapusan aset negara/daerah wajib melalui prosedur formal pemeriksaan tim panitia penghapusan untuk mencegah penyalahgunaan nilai aset (depresiasi)."
+  },
+  {
+    "no": 64,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sedang",
+    "soal": "Anda ditugaskan mendesain spesifikasi pembelian mesin fotokopi baru. Hal terpenting yang harus Anda pastikan dari vendor selain harga beli yang murah adalah...",
+    "opsi": {
+      "A": "Warna mesin harus senada dengan cat dinding sekolah",
+      "B": "Jaminan purnajual (garansi perbaikan, ketersediaan sparepart, dan layanan teknisi)",
+      "C": "Vendor mampu memberikan hadiah televisi gratis kepada sekolah",
+      "D": "Brosur mesin dicetak dengan kertas mewah"
+    },
+    "jawaban": "B",
+    "pembahasan": "Dalam pengadaan barang elektronik operasional berat (fotokopi), biaya pemeliharaan (maintenance cost) jangka panjang dan ketersediaan teknisi sering kali lebih krusial dari harga awal."
+  },
+  {
+    "no": 65,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sedang",
+    "soal": "Atap perpustakaan bocor dan menetes tepat di atas rak koleksi buku mahal. Dana perbaikan berat belum cair. Tindakan taktis logistik yang dilakukan hari itu juga adalah...",
+    "opsi": {
+      "A": "Menyusun bata di lantai agar air tidak menggenang",
+      "B": "Memindahkan rak buku menjauh dari titik bocor dan memasang terpal plastik penutup sementera",
+      "C": "Meminta siswa membersihkan air secara terus menerus sambil menunggu dana cair",
+      "D": "Menjual buku tersebut segera sebelum rusak terkena air"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pengamanan aset berisiko tinggi (buku) diutamakan melalui relokasi mekanis dan pengisolasian menggunakan material pelindung (terpal/plastik tebal)."
+  },
+  {
+    "no": 66,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sedang",
+    "soal": "Sistem persediaan gudang sekolah Anda masih konvensional. Untuk memastikan metode FIFO (First In First Out) berjalan pada logistik makanan asrama, cara paling dasar dalam penataan adalah...",
+    "opsi": {
+      "A": "Meletakkan barang belanjaan baru di barisan paling depan agar mudah diambil",
+      "B": "Meletakkan barang ber-kadaluarsa paling awal di posisi paling depan untuk diambil lebih dulu",
+      "C": "Menyimpan makanan berdasarkan abjad mereknya",
+      "D": "Membongkar kemasan kardus agar terlihat isinya saja"
+    },
+    "jawaban": "B",
+    "pembahasan": "FIFO (First In First Out) atau FEFO (First Expired First Out) mensyaratkan akses barang diurutkan berdasarkan kedaluwarsa tercepat demi menghindari kerugian basi/rusak."
+  },
+  {
+    "no": 67,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sedang",
+    "soal": "Banyak siswa yang secara tidak sengaja mematahkan gagang pintu toilet karena dorongan yang keras. Strategi manajemen fasilitas (facility management) yang tepat adalah...",
+    "opsi": {
+      "A": "Mencabut pintu toilet agar tidak ada yang dirusak lagi",
+      "B": "Mengenakan denda jutaan rupiah bagi yang merusak",
+      "C": "Mengganti gagang pintu dengan model dorong (push-plate) atau tarikan berat (heavy duty pull handle) tanpa mekanisme kenop putar",
+      "D": "Membiarkan gagang patah agar siswa sadar akibat perbuatannya"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pendekatan Vandal-proof atau desain anti-rusak dengan meminimalisasi komponen rapuh adalah langkah efisiensi pemeliharaan fasilitas massal."
+  },
+  {
+    "no": 68,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sulit",
+    "soal": "Menjelang akreditasi, sekolah harus menunjukkan bukti kepemilikan tanah. Ternyata sertifikat tanah sekolah tumpang tindih statusnya dengan klaim hak waris warga setempat yang kini menutup akses jalan masuk. Dalam kondisi krisis ini, tugas spesifik staf inventaris aset adalah...",
+    "opsi": {
+      "A": "Mengerahkan guru untuk melawan warga dan membuka blokir jalan secara paksa",
+      "B": "Mengumpulkan seluruh riwayat perolehan aset (hibah/beli), bukti bayar PBB, denah KIB, dan berkas kronologi untuk diserahkan ke bagian advokasi hukum dinas",
+      "C": "Membakar klaim surat tanah warga agar tidak ada bukti perlawanan",
+      "D": "Menjual sisa lahan sekolah yang tidak diklaim kepada pihak swasta"
+    },
+    "jawaban": "B",
+    "pembahasan": "Fungsi tata usaha/aset bukan menyelesaikan perdata di lapangan, melainkan menyediakan portofolio otentik pembuktian legal (dokumen historis) untuk biro hukum."
+  },
+  {
+    "no": 69,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sulit",
+    "soal": "Pemerintah daerah memberikan 10 unit mesin praktik vokasi berdaya listrik sangat besar, namun instalasi listrik sekolah baru setengah dari daya yang dibutuhkan mesin tersebut. Vendor sudah menaruh barang di gerbang. Tindakan logistik dan sarpras yang sesuai adalah...",
+    "opsi": {
+      "A": "Menerima dan langsung menyambungkan ke meteran listrik sekolah meski berisiko kebakaran",
+      "B": "Menerima barang dengan menandatangani BAST, meletakkannya di gudang aman, mengisolir panel listriknya, dan menyusun proposal upgrade daya ke PLN",
+      "C": "Menolak barang tersebut dan menyuruh vendor membawanya kembali ke pabrik",
+      "D": "Menyembunyikan mesin tersebut agar tidak ketahuan bahwa sekolah belum siap"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pengadaan barang yang tidak kompatibel dengan infrastruktur lokal tetap harus diamankan secara administratif (penerimaan fisik masuk daftar aset), lalu dimitigasi risikonya (karantina instalasi) sambil mengurus peningkatan fasilitas dasar."
+  },
+  {
+    "no": 70,
+    "subtes": "Teknis",
+    "domain": "Sarana-prasarana, logistik & inventaris",
+    "level": "Sulit",
+    "soal": "Sekolah berencana membangun aula serbaguna. Anda diminta menganalisis efisiensi biaya (Value Engineering) dari draf desain awal yang sangat mewah. Pendekatan analisis apa yang harus Anda utamakan?",
+    "opsi": {
+      "A": "Menghapus komponen estetika mahal yang tidak mengganggu fungsi struktural dan akustik aula",
+      "B": "Mengurangi kekuatan pondasi besi tulang agar harga semen dan beton bisa ditekan separuhnya",
+      "C": "Mengganti atap baja dengan kayu lapuk hasil bekas bangunan lama",
+      "D": "Menurunkan upah tukang bangunan di bawah standar minimal agar biaya murah"
+    },
+    "jawaban": "A",
+    "pembahasan": "Value engineering dalam fasilitas publik berfokus pada penghapusan ornamen kosmetik yang menguras anggaran (non-essential features) tanpa sedikit pun mengurangi standar kekuatan struktur penopang atau keselamatan."
+  },
+  {
+    "no": 71,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Mudah",
+    "soal": "Seorang siswa mengembalikan buku perpustakaan yang basah dan halamannya lengket. Mengacu pada peraturan layanan sirkulasi perpustakaan standar, tindakan yang dikenakan adalah...",
+    "opsi": {
+      "A": "Membiarkan saja karena siswa tersebut adalah anak yatim",
+      "B": "Meminta siswa menjemurnya di lapangan sekolah hingga kering",
+      "C": "Mewajibkan siswa mengganti dengan buku yang sama, judul/edisi serupa, atau kompensasi dana yang setara",
+      "D": "Menghapus keanggotaan perpustakaan siswa tersebut secara permanen"
+    },
+    "jawaban": "C",
+    "pembahasan": "Prinsip pelestarian koleksi mengharuskan pengguna yang merusak (secara fatal) untuk melakukan penggantian (replacement) koleksi yang sama atau setara secara material."
+  },
+  {
+    "no": 72,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Mudah",
+    "soal": "Dalam klasifikasi Dewey Decimal Classification (DDC), buku ensiklopedia umum dan ilmu komputer biasanya dikelompokkan pada kategori nomor...",
+    "opsi": {
+      "A": "000 - Karya Umum",
+      "B": "400 - Bahasa",
+      "C": "800 - Sastra",
+      "D": "900 - Sejarah dan Geografi"
+    },
+    "jawaban": "A",
+    "pembahasan": "Sistem DDC kelas utama 000 dialokasikan untuk karya umum (generalities), ilmu komputer, informasi, dan ensiklopedia umum."
+  },
+  {
+    "no": 73,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Mudah",
+    "soal": "Kegiatan menempelkan label punggung (call number), kantong buku, slip tanggal kembali, dan menyampul buku dengan plastik disebut proses...",
+    "opsi": {
+      "A": "Katalogisasi (Cataloging)",
+      "B": "Klasifikasi (Classification)",
+      "C": "Kelengkapan Fisik (Processing/Shelving preparation)",
+      "D": "Penyiangan (Weeding)"
+    },
+    "jawaban": "C",
+    "pembahasan": "Penyelesaian fisik buku sebelum siap disajikan ke rak disebut bibliografi fisik atau book processing (labeling, penyampulan)."
+  },
+  {
+    "no": 74,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Sedang",
+    "soal": "Tingkat kunjungan perpustakaan sekolah sangat rendah. Mayoritas siswa menganggap perpustakaan tempat yang kaku dan membosankan. Strategi promosi dan tata ruang (library atmosphere) yang paling tepat untuk menarik generasi Z adalah...",
+    "opsi": {
+      "A": "Menambah aturan larangan berbicara lebih ketat agar suasana sangat tenang",
+      "B": "Menciptakan zona ruang baca lesehan bergaya kafe, wifi cepat, dan area diskusi kolaboratif tanpa sekat",
+      "C": "Mewajibkan siswa meminjam minimal 5 buku per hari",
+      "D": "Memajang buku-buku terbitan tahun 1980-an di rak paling depan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Transformasi perpustakaan modern berorientasi pada 'Third Place' (ruang ketiga) yang dinamis, kolaboratif (Makerspace), dan memfasilitasi interaksi sosial yang santai."
+  },
+  {
+    "no": 75,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Sedang",
+    "soal": "Saat melakukan penyiangan (weeding) koleksi, Anda menemukan banyak buku kurikulum tahun 1994 yang sudah usang informasinya namun secara fisik masih bagus. Keputusan penanganan koleksi ini adalah...",
+    "opsi": {
+      "A": "Menyimpannya di rak utama agar jumlah koleksi terlihat banyak saat akreditasi",
+      "B": "Menariknya dari rak utama, menyimpan 1-2 eksemplar di gudang arsip historis, dan sisanya didonasikan/dimusnahkan",
+      "C": "Menjualnya kembali ke siswa dengan harga sangat mahal",
+      "D": "Merobek halamannya untuk dijadikan kertas lipat (origami)"
+    },
+    "jawaban": "B",
+    "pembahasan": "Buku referensi sains/kurikulum yang obsolete (usang) memiliki nilai misinformasi tinggi, sehingga harus dikeluarkan dari sirkulasi aktif agar tidak menyesatkan pembaca."
+  },
+  {
+    "no": 76,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Sedang",
+    "soal": "Anda bertugas menginput data buku ke dalam sistem SLiMS (Senayan Library Management System). Salah satu buku merupakan kumpulan cerpen dari 15 pengarang berbeda tanpa ada editor yang dominan. Cara penentuan tajuk entri utama (main entry) untuk buku ini adalah...",
+    "opsi": {
+      "A": "Menggunakan nama pengarang cerita pertama sebagai entri utama",
+      "B": "Menuliskan nama ke-15 pengarang tersebut dalam satu kolom nama",
+      "C": "Menjadikan Judul Buku (Title) sebagai entri utama",
+      "D": "Membiarkan kolom pengarang dan judul kosong"
+    },
+    "jawaban": "C",
+    "pembahasan": "Dalam aturan pengkatalogan (AACR2), karya kumpulan atau bunga rampai dengan lebih dari 3 pengarang (tanpa penanggung jawab tunggal/editor jelas) masuk menggunakan tajuk entri Judul."
+  },
+  {
+    "no": 77,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Sedang",
+    "soal": "Banyak buku di rak yang tidak berada pada tempatnya (salah susun) sehingga menyulitkan pencarian (misshelving). Untuk meminimalisir hal ini, edukasi dasar apa yang dapat diterapkan pada pemustaka (siswa)?",
+    "opsi": {
+      "A": "Menyuruh siswa merapikan seluruh perpustakaan sebelum pulang",
+      "B": "Menyediakan kereta dorong (book trolley) dan instruksi agar buku yang selesai dibaca diletakkan di sana, bukan dikembalikan sendiri ke rak",
+      "C": "Memasang CCTV di setiap lorong rak untuk menghukum yang salah taruh",
+      "D": "Menempelkan stiker peringatan besar di wajah siswa yang salah mengembalikan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pemustaka awam cenderung salah meletakkan call number. Menyediakan keranjang penampungan sementara mencegah dokumen hilang di rak yang salah."
+  },
+  {
+    "no": 78,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Sulit",
+    "soal": "Sebuah kelompok agama lokal memprotes keberadaan novel fantasi populer di perpustakaan sekolah karena dianggap mengandung muatan sihir. Mereka menuntut buku tersebut segera dibakar. Mengacu pada kode etik kepustakawanan terkait kebebasan intelektual, posisi Anda adalah...",
+    "opsi": {
+      "A": "Segera membakar buku tersebut untuk menghindari demo besar-besaran",
+      "B": "Membentuk tim penelaah internal objektif untuk menilai kesesuaian buku dengan usia siswa, serta mempertahankan hak baca sesuai regulasi kurikulum sastra",
+      "C": "Memaki-maki kelompok agama tersebut dan mengusir mereka",
+      "D": "Meminta penulis buku datang ke sekolah untuk berdebat dengan kelompok agama tersebut"
+    },
+    "jawaban": "B",
+    "pembahasan": "Perpustakaan menjunjung tinggi hak akses informasi bebas sensor; penanganan sengketa literatur (book banning) diselesaikan melalui komite review berbasis pedoman seleksi yang terukur."
+  },
+  {
+    "no": 79,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Sulit",
+    "soal": "Koleksi manuskrip kuno dan buku langka milik perpustakaan sekolah mulai dimakan rayap dan lapuk karena ruangan lembap. Anggaran pelestarian sangat minim (tidak bisa beli fumigator mahal). Metode preservasi kuratif termurah dan teraman untuk menghentikan rayap aktif adalah...",
+    "opsi": {
+      "A": "Menyemprotkan obat nyamuk semprot komersial langsung ke halaman buku",
+      "B": "Mengisolasi buku ke dalam plastik kedap udara (ziplock) dan memasukkannya ke dalam freezer (pembekuan) selama 72 jam",
+      "C": "Merendam buku langka tersebut di dalam air sabun detergen",
+      "D": "Menjemur buku di bawah terik matahari siang langsung selama berhari-hari"
+    },
+    "jawaban": "B",
+    "pembahasan": "Freezing treatment (pembekuan pada suhu -20°C) adalah metode konservasi standar dan non-toksik untuk mematikan serangga perusak kertas tanpa merusak pigmen tinta."
+  },
+  {
+    "no": 80,
+    "subtes": "Teknis",
+    "domain": "Perpustakaan",
+    "level": "Sulit",
+    "soal": "Sekolah Anda memenangkan hibah e-book DRM (Digital Rights Management) berbayar untuk 1.000 judul, namun infrastruktur sekolah belum memiliki portal perpustakaan digital sendiri. Cara legal dan efisien mengelola sirkulasi e-book ini agar akun siswa tidak berbagi ilegal (password sharing) adalah...",
+    "opsi": {
+      "A": "Mencetak 1.000 e-book tersebut menjadi buku fisik dan difotokopi",
+      "B": "Menyalin file PDF tersebut ke flashdisk dan membagikannya secara bebas",
+      "C": "Mengintegrasikan lisensi melalui platform e-library pihak ketiga berbasis Single Sign-On (SSO) Dapodik/NISN yang mengunci file pada satu perangkat saat dipinjam",
+      "D": "Mengunggah semua file ke grup WhatsApp angkatan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pengelolaan hak cipta digital (DRM) perpustakaan memerlukan aplikasi e-loan (peminjaman terkunci waktu dan device) agar mematuhi UU Hak Cipta dan mencegah piracy."
+  },
+  {
+    "no": 81,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Mudah",
+    "soal": "Siswa secara tidak sengaja menjatuhkan tabung reaksi berisi asam sulfat pekat (H2SO4) hingga pecah di lantai laboratorium. Langkah pertama penanganan keselamatan (K3) adalah...",
+    "opsi": {
+      "A": "Mengepelnya dengan kain basah biasa secepat mungkin",
+      "B": "Mengevakuasi siswa dari area tumpahan, menggunakan APD (sarung tangan, masker), dan menaburkan bahan penetral (seperti soda kue/pasir kering)",
+      "C": "Menyiramnya dengan air dalam jumlah yang sangat banyak",
+      "D": "Memungut pecahan kaca dengan tangan kosong dengan cepat"
+    },
+    "jawaban": "B",
+    "pembahasan": "Tumpahan asam kuat bersifat korosif dan reaktif eksotermik jika disiram air murni. Harus dilokalisir, dinetralkan dengan basa lemah/pasir (absorben), menggunakan proteksi APD penuh."
+  },
+  {
+    "no": 82,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Mudah",
+    "soal": "Di pintu masuk laboratorium biologi terpasang simbol peringatan bergambar 'Tengkorak dan Tulang Bersilang' (Skull and Crossbones). Arti dari simbol K3 internasional tersebut adalah...",
+    "opsi": {
+      "A": "Bahan mudah meledak",
+      "B": "Bahan beracun (Toxic) / mematikan",
+      "C": "Bahan biologis menular",
+      "D": "Bahaya radiasi nuklir"
+    },
+    "jawaban": "B",
+    "pembahasan": "Simbol tengkorak bersilang (pictogram GHS) secara universal menunjukkan bahwa zat tersebut sangat beracun (toxic) bila tertelan, terhirup, atau terkena kulit."
+  },
+  {
+    "no": 83,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Mudah",
+    "soal": "Cara menyimpan mikroskop cahaya yang benar setelah digunakan oleh siswa di laboratorium biologi adalah...",
+    "opsi": {
+      "A": "Membiarkan mikroskop di atas meja tanpa ditutup penutup debu",
+      "B": "Melepas seluruh lensa objektif dan membiarkan lubangnya terbuka",
+      "C": "Memposisikan lensa objektif perbesaran terkecil menghadap meja preparat, menurunkan tabung, membersihkan lensa, dan menyimpannya di lemari kering bersilika",
+      "D": "Membungkus erat mikroskop dengan handuk basah agar suhunya dingin"
+    },
+    "jawaban": "C",
+    "pembahasan": "Perawatan optik mikroskop berfokus pada pencegahan goresan (lensa terpendek) dan pencegahan jamur dengan menyimpannya di lingkungan kering (silica gel)."
+  },
+  {
+    "no": 84,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Sedang",
+    "soal": "Saat praktikum kimia pemanasan cairan mudah terbakar (alkohol), tiba-tiba api dari pembakar spiritus menyambar cawan dan membesar. Alat pemadam yang paling tepat dan aman digunakan di ruangan penuh alat kaca tersebut adalah...",
+    "opsi": {
+      "A": "Menyiram api menggunakan ember berisi air keran",
+      "B": "Menghembuskan udara dengan kipas angin atau meniupnya dengan kuat",
+      "C": "Menutup cawan yang terbakar dengan kain basah yang tebal (fire blanket) atau menggunakan APAR jenis CO2",
+      "D": "Melemparkan jas laboratorium berbahan nilon sintetik ke atas api"
+    },
+    "jawaban": "C",
+    "pembahasan": "Api dari bahan kimia cair terbakar/kelas B tidak boleh disiram air (menyebabkan percikan yang memperluas api). Pemadaman terbaik adalah isolasi oksigen (smothering) dengan fire blanket/CO2."
+  },
+  {
+    "no": 85,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Sedang",
+    "soal": "Laboran sedang menata stok bahan kimia di lemari penyimpanan (Chemical Storage). Prinsip penyimpanan logam Alkali seperti Natrium (Na) yang sangat reaktif adalah...",
+    "opsi": {
+      "A": "Menyimpannya di rak terbuka pada suhu ruang agar mudah menguap",
+      "B": "Merendamnya di dalam botol berisi minyak tanah (kerosin) atau minyak mineral untuk mencegah kontak dengan udara dan air",
+      "C": "Menyimpannya bersebelahan langsung dengan botol asam klorida pekat",
+      "D": "Membungkusnya dengan kertas koran"
+    },
+    "jawaban": "B",
+    "pembahasan": "Logam alkali bereaksi eksplosif dengan kelembapan udara (H2O), penyimpanannya mensyaratkan isolasi total dengan cairan non-reaktif/hidrokarbon."
+  },
+  {
+    "no": 86,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Sedang",
+    "soal": "Pemeriksaan kalibrasi pada alat timbangan analitik digital di laboratorium IPA idealnya dilakukan secara berkala. Jika kalibrasi diabaikan, dampak utama yang mengganggu kualitas praktikum adalah...",
+    "opsi": {
+      "A": "Alat timbangan akan menjadi berkarat lebih cepat",
+      "B": "Angka penimbangan tidak presisi dan tidak akurat, menghasilkan kesalahan reaksi stoikiometri",
+      "C": "Display LCD pada timbangan akan meredup secara permanen",
+      "D": "Kabel power timbangan akan mengalami korsleting"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kalibrasi berkaitan erat dengan validitas pengukuran; alat ukur analitik yang tidak terkalibrasi memunculkan galat (error) sistematis pada data kuantitatif."
+  },
+  {
+    "no": 87,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Sedang",
+    "soal": "Ventilasi pada ruang asam (fume hood) terasa kurang kuat sedotannya (exhaust fan lemah). Guru kimia memaksa ingin melakukan reaksi pelarutan logam dengan asam nitrat berasap siang itu juga. Sebagai laboran penanggung jawab K3, sikap Anda adalah...",
+    "opsi": {
+      "A": "Mengizinkan asal jendela ruang kelas dibuka lebar-lebar",
+      "B": "Menunda praktikum pemakaian bahan berasap toksik tersebut sampai lemari asam diperbaiki teknisi",
+      "C": "Memberikan masker kain lapis satu kepada guru tersebut dan membiarkan praktikum jalan",
+      "D": "Menyarankan praktikum dilakukan di kantin sekolah yang terbuka"
+    },
+    "jawaban": "B",
+    "pembahasan": "Gas NOx dari asam nitrat sangat toksik bagi paru-paru. Lemari asam adalah proteksi rekayasa utama yang tidak dapat dikompromikan (zero tolerance) jika kinerjanya di bawah standar."
+  },
+  {
+    "no": 88,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Sulit",
+    "soal": "Anggaran limbah B3 (Bahan Berbahaya dan Beracun) sekolah dipotong. Akibatnya jerigen limbah sisa praktikum titrasi asam-basa dan logam berat menumpuk di pojok lab selama berbulan-bulan. Solusi manajemen limbah sementara yang patuh aturan lingkungan adalah...",
+    "opsi": {
+      "A": "Mengencerkan seluruh limbah tersebut dengan air keran lalu membuangnya ke saluran got sekolah",
+      "B": "Menggali lubang di tanah belakang sekolah dan mengubur jerigen tersebut",
+      "C": "Melakukan segregasi limbah berdasarkan kompatibilitas kimia, memberi label tanggal, menyimpannya di TPS B3 sekolah dengan bak penampung sekunder, sambil bernegosiasi hibah pengelolaan dengan dinas lingkungan",
+      "D": "Membakar limbah cair tersebut di tong sampah"
+    },
+    "jawaban": "C",
+    "pembahasan": "Limbah kimia sekolah berstatus B3. Pembuangan ilegal (dumping) menyalahi UU Lingkungan. Solusi aman adalah pelabelan ketat, isolasi wadah, dan pencarian skema pembuangan institusional tersertifikasi."
+  },
+  {
+    "no": 89,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Sulit",
+    "soal": "Saat audit inventaris K3, Anda mendapati bahwa APAR (Alat Pemadam Api Ringan) di ruang lab komputer berupa APAR jenis Dry Chemical Powder. Jika APAR ini digunakan saat korsleting server, trade-off negatif apa yang paling merugikan?",
+    "opsi": {
+      "A": "Api tidak akan padam karena powder tidak cocok untuk listrik",
+      "B": "Powder/serbuk kimia akan meninggalkan residu korosif yang masuk ke motherboard dan merusak seluruh peralatan elektronik yang tidak terbakar",
+      "C": "APAR powder akan meledak sendiri jika terkena panas perangkat elektronik",
+      "D": "Harga isi ulang powder sangat mahal hingga setara harga server"
+    },
+    "jawaban": "B",
+    "pembahasan": "Serbuk kimia kering (powder) mematikan api, namun residunya sangat destruktif bagi komponen mikro-elektronik mahal. Lab komputer harusnya menggunakan APAR agen bersih (Clean Agent/CO2)."
+  },
+  {
+    "no": 90,
+    "subtes": "Teknis",
+    "domain": "Laboratorium & keselamatan kerja",
+    "level": "Sulit",
+    "soal": "Laboratorium bioteknologi sedang mengembangkan kultur bakteri E. coli. Selesai praktikum, sisa cawan petri berisi koloni bakteri langsung dibuang siswa ke tempat sampah umum oleh siswa yang lalai. Protokol dekontaminasi biologis yang terlewatkan dan sangat fatal dari kejadian ini adalah...",
+    "opsi": {
+      "A": "Proses sterilisasi (autoclaving) limbah biohazard selama 15-20 menit pada suhu 121°C bertekanan tinggi sebelum dibuang",
+      "B": "Mencuci cawan petri di wastafel dengan sabun cuci piring biasa",
+      "C": "Menyimpan cawan petri bekas tersebut di dalam kulkas bersama bahan makanan guru",
+      "D": "Membiarkan koloni mati sendiri akibat kelaparan nutrisi di tong sampah"
+    },
+    "jawaban": "A",
+    "pembahasan": "Kultur agen biologis hidup tidak boleh dibuang bebas karena memicu pencemaran patogen. Wajib didestruksi (inaktivasi total) dengan sterilisasi termal-tekanan uap tinggi (autoklaf)."
+  },
+  {
+    "no": 91,
+    "subtes": "Manajerial",
+    "kompetensi": "Integritas",
+    "level": "Sulit",
+    "soal": "Anda menemukan bahwa kepala tata usaha menyetujui pengeluaran dana operasional asrama tanpa bukti transaksi yang sah, namun ia adalah atasan langsung Anda dan dikenal dekat dengan kepala sekolah. Tindakan yang paling tepat Anda lakukan adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena kepala sekolah pasti sudah mengetahui dan menyetujui",
+      "B": "Mendokumentasikan temuan secara pribadi lalu melaporkan melalui jalur pengaduan internal yang tersedia",
+      "C": "Langsung menyebarkan informasi tersebut kepada rekan kerja agar menjadi perhatian bersama",
+      "D": "Menanyakan langsung kepada kepala tata usaha secara terbuka di depan rapat"
+    },
+    "jawaban": "B",
+    "pembahasan": "Integritas ASN menuntut pelaporan melalui jalur resmi dan terdokumentasi, bukan pembiaran atau eskalasi informal yang dapat merugikan proses pembuktian."
+  },
+  {
+    "no": 92,
+    "subtes": "Manajerial",
+    "kompetensi": "Integritas",
+    "level": "Sedang",
+    "soal": "Seorang rekan kerja meminta Anda menandatangani daftar hadir rapat untuknya karena ia terlambat datang dan takut dicatat tidak hadir. Ia berdalih pekerjaan Anda berdua saling bergantung sehingga jika ia kena sanksi, pekerjaan Anda juga terdampak. Respons paling tepat Anda adalah...",
+    "opsi": {
+      "A": "Menandatangani karena memang pekerjaan Anda saling tergantung dan sanksinya akan merugikan tim",
+      "B": "Menolak dengan sopan dan menyarankan rekan untuk menjelaskan keterlambatannya sendiri kepada atasan",
+      "C": "Menandatangani tetapi memintanya berjanji tidak mengulangi lagi",
+      "D": "Diam saja dan membiarkan rekan mengurus sendiri tanpa memberi saran apapun"
+    },
+    "jawaban": "B",
+    "pembahasan": "Menandatangani daftar hadir orang lain adalah pemalsuan dokumen; integritas mengharuskan penolakan meskipun ada tekanan dari hubungan kerja."
+  },
+  {
+    "no": 93,
+    "subtes": "Manajerial",
+    "kompetensi": "Integritas",
+    "level": "Mudah",
+    "soal": "Anda menerima parsel dari orang tua siswa menjelang hari raya sebagai bentuk terima kasih atas pelayanan Anda selama ini. Tidak ada atasan yang melihat kejadian ini. Tindakan paling tepat adalah...",
+    "opsi": {
+      "A": "Menerima karena nilainya kecil dan niatnya tulus sebagai ungkapan terima kasih",
+      "B": "Menolak dengan ramah dan menjelaskan bahwa Anda tidak diperkenankan menerima pemberian dari pihak yang dilayani",
+      "C": "Menerima lalu melaporkannya kepada atasan setelah hari raya selesai",
+      "D": "Meminta orang tua menyerahkan langsung ke kantor agar terasa lebih resmi"
+    },
+    "jawaban": "B",
+    "pembahasan": "ASN dilarang menerima gratifikasi dalam bentuk apapun dari pihak yang terkait dengan tugasnya; penolakan ramah disertai penjelasan adalah tindakan yang paling tepat."
+  },
+  {
+    "no": 94,
+    "subtes": "Manajerial",
+    "kompetensi": "Kerja sama tim",
+    "level": "Sedang",
+    "soal": "Tim Anda terdiri dari lima orang dengan beban kerja yang tidak merata; dua anggota selalu kelebihan tugas sementara dua lainnya sering menganggur. Ketua tim tidak mengambil tindakan apapun. Sebagai anggota tim, langkah terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menyelesaikan tugas Anda sendiri saja dan tidak ikut campur urusan pembagian kerja",
+      "B": "Mengusulkan kepada ketua tim untuk mendiskusikan ulang pembagian beban kerja secara terbuka dan adil",
+      "C": "Mengeluh kepada rekan yang kelebihan tugas bahwa ketua tidak adil",
+      "D": "Langsung mengerjakan tugas rekan yang menganggur tanpa koordinasi agar pekerjaan cepat selesai"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kerja sama tim yang baik membutuhkan komunikasi terbuka tentang pembagian beban; mengusulkan solusi kepada pemimpin adalah langkah konstruktif dan tepat sasaran."
+  },
+  {
+    "no": 95,
+    "subtes": "Manajerial",
+    "kompetensi": "Kerja sama tim",
+    "level": "Mudah",
+    "soal": "Rekan kerja Anda dari unit lain meminta bantuan mencetak dan menyortir 200 lembar dokumen untuk kegiatan besok pagi, sementara tugas rutin Anda hari ini sudah selesai lebih awal. Sikap terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menolak karena itu bukan tugas Anda dan sudah di luar jam kerja produktif Anda",
+      "B": "Membantu sambil memastikan tugas Anda sendiri tidak terbengkalai dan melaporkan bantuan tersebut kepada atasan",
+      "C": "Membantu tanpa perlu laporan apapun karena ini hal kecil",
+      "D": "Menyarankan rekan untuk meminta bantuan dari unitnya sendiri terlebih dahulu"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kolaborasi lintas unit perlu dilakukan dengan tetap menjaga transparansi kepada atasan agar tidak menimbulkan kesalahpahaman tentang penggunaan waktu kerja."
+  },
+  {
+    "no": 96,
+    "subtes": "Manajerial",
+    "kompetensi": "Kerja sama tim",
+    "level": "Sulit",
+    "soal": "Dalam sebuah proyek persiapan penerimaan siswa baru, seorang anggota tim secara konsisten tidak memenuhi tenggat yang disepakati sehingga pekerjaan anggota lain tertunda. Ketika diingatkan, ia selalu beralasan sibuk dengan tugas lain. Tindakan paling tepat sebagai koordinator proyek adalah...",
+    "opsi": {
+      "A": "Mengambil alih seluruh tugas anggota tersebut agar proyek tidak terlambat",
+      "B": "Melaporkan langsung ke kepala sekolah tanpa memberi kesempatan anggota untuk memperbaiki diri",
+      "C": "Mendiskusikan hambatan secara privat, menyepakati ulang tenggat yang realistis, dan menetapkan konsekuensi jelas jika terulang",
+      "D": "Membagi tugas anggota tersebut secara diam-diam ke anggota lain tanpa memberitahunya"
+    },
+    "jawaban": "C",
+    "pembahasan": "Koordinator yang efektif menangani masalah kinerja melalui dialog, penyesuaian target yang terukur, dan kejelasan konsekuensi sebelum eskalasi formal."
+  },
+  {
+    "no": 97,
+    "subtes": "Manajerial",
+    "kompetensi": "Kerja sama tim",
+    "level": "Sedang",
+    "soal": "Dua rekan kerja Anda terlibat perselisihan pribadi yang mulai memengaruhi suasana kerja dan kecepatan penyelesaian tugas tim. Atasan belum menyadari situasi ini. Sebagai anggota tim yang mengetahui kondisi ini, langkah terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memihak salah satu pihak yang menurut Anda lebih benar",
+      "B": "Membiarkan mereka menyelesaikan sendiri karena itu urusan pribadi",
+      "C": "Mendorong keduanya untuk berbicara secara langsung dan menawarkan diri sebagai penengah netral, serta melaporkan dampaknya kepada atasan jika tidak ada kemajuan",
+      "D": "Langsung melaporkan perselisihan tersebut kepada atasan sebelum mencoba mediasi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Anggota tim yang baik berupaya menjaga harmoni melalui mediasi terlebih dahulu, dan hanya menggunakan jalur formal jika upaya mandiri tidak berhasil."
+  },
+  {
+    "no": 98,
+    "subtes": "Manajerial",
+    "kompetensi": "Komunikasi",
+    "level": "Mudah",
+    "soal": "Anda harus menyampaikan perubahan jadwal kegiatan asrama kepada seluruh siswa yang berjumlah 80 orang dalam waktu singkat. Metode komunikasi yang paling efektif dan efisien adalah...",
+    "opsi": {
+      "A": "Menyampaikan informasi hanya kepada ketua kamar dan berharap mereka meneruskannya",
+      "B": "Menempel pengumuman tertulis di papan pengumuman asrama dan menyampaikannya secara lisan saat apel atau makan bersama",
+      "C": "Mengirim pesan ke grup media sosial siswa tanpa pengumuman resmi",
+      "D": "Menunggu siswa bertanya sendiri tentang perubahan jadwal tersebut"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kombinasi pengumuman tertulis resmi dan penyampaian lisan di forum bersama memastikan seluruh siswa menerima informasi secara merata dan terdokumentasi."
+  },
+  {
+    "no": 99,
+    "subtes": "Manajerial",
+    "kompetensi": "Komunikasi",
+    "level": "Sedang",
+    "soal": "Orang tua siswa menelepon dengan nada emosional untuk mengadukan pelayanan yang ia anggap diskriminatif terhadap anaknya. Anda adalah petugas yang menerima telepon tersebut. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Langsung membantah tuduhan karena Anda yakin pelayanan sudah sesuai prosedur",
+      "B": "Mendengarkan dengan penuh perhatian, mengakui perasaan orang tua, mencatat aduan, dan menjelaskan langkah tindak lanjut yang akan diambil",
+      "C": "Meminta orang tua untuk datang langsung ke sekolah karena keluhan via telepon tidak dapat diproses",
+      "D": "Memindahkan telepon ke atasan tanpa menjelaskan apapun kepada orang tua"
+    },
+    "jawaban": "B",
+    "pembahasan": "Komunikasi yang baik dalam situasi emosional diawali dengan mendengarkan aktif dan empati, lalu dilanjutkan dengan langkah konkret yang dapat dipercaya."
+  },
+  {
+    "no": 100,
+    "subtes": "Manajerial",
+    "kompetensi": "Komunikasi",
+    "level": "Sulit",
+    "soal": "Anda diminta atasan menyampaikan kebijakan baru yang menurut Anda kurang tepat sasaran kepada seluruh staf. Anda tidak setuju dengan kebijakan tersebut namun sudah menjadi keputusan resmi. Cara terbaik Anda menyikapinya adalah...",
+    "opsi": {
+      "A": "Menyampaikan kebijakan sambil secara terbuka menyatakan ketidaksetujuan Anda di depan staf",
+      "B": "Menolak menyampaikan kebijakan tersebut karena bertentangan dengan pendapat Anda",
+      "C": "Menyampaikan kebijakan secara profesional dan akurat, lalu menyampaikan keberatan Anda kepada atasan melalui jalur yang tepat setelah sesi selesai",
+      "D": "Menyampaikan kebijakan tetapi menambahkan catatan pribadi yang meragukan keputusan tersebut"
+    },
+    "jawaban": "C",
+    "pembahasan": "ASN profesional menjalankan keputusan resmi secara loyal sambil menyalurkan perbedaan pendapat melalui mekanisme internal yang tepat, bukan di depan publik."
+  },
+  {
+    "no": 101,
+    "subtes": "Manajerial",
+    "kompetensi": "Komunikasi",
+    "level": "Sedang",
+    "soal": "Anda menerima laporan tertulis dari petugas asrama yang menggunakan bahasa tidak baku dan struktur tidak jelas sehingga sulit dipahami. Laporan ini penting untuk diteruskan ke kepala sekolah hari ini. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Meneruskan laporan apa adanya agar kepala sekolah menilai sendiri kualitas penulisan petugas",
+      "B": "Meminta petugas membuat ulang laporan dengan format yang benar, meski berisiko terlambat",
+      "C": "Memperbaiki laporan sesuai kaidah bahasa dan struktur yang benar, mencantumkan nama petugas asal, lalu meneruskan tepat waktu sambil memberi umpan balik kepada petugas",
+      "D": "Menulis ulang laporan sepenuhnya atas nama Anda sendiri"
+    },
+    "jawaban": "C",
+    "pembahasan": "Memperbaiki tanpa mengubah substansi dan tetap mencantumkan sumber asal menjaga akurasi informasi sekaligus memberikan pembinaan komunikasi tertulis kepada petugas."
+  },
+  {
+    "no": 102,
+    "subtes": "Manajerial",
+    "kompetensi": "Orientasi hasil",
+    "level": "Mudah",
+    "soal": "Anda memiliki tiga tugas dengan tenggat yang sama hari ini: rekap data kehadiran siswa, laporan bulanan sarana, dan notulen rapat kemarin. Cara paling tepat mengelola prioritas Anda adalah...",
+    "opsi": {
+      "A": "Mengerjakan yang paling mudah terlebih dahulu agar semangat bekerja terjaga",
+      "B": "Mengerjakan secara bersamaan agar semuanya terasa maju",
+      "C": "Mengidentifikasi mana yang paling berdampak jika terlambat, mengerjakan itu duluan, lalu melanjutkan ke tugas berikutnya",
+      "D": "Meminta perpanjangan tenggat untuk semua tugas kepada atasan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Orientasi hasil yang baik ditandai dengan kemampuan memprioritaskan berdasarkan dampak dan urgensi, bukan kemudahan atau kebiasaan."
+  },
+  {
+    "no": 103,
+    "subtes": "Manajerial",
+    "kompetensi": "Orientasi hasil",
+    "level": "Sedang",
+    "soal": "Laporan bulanan yang Anda kerjakan hampir selesai, namun Anda menemukan kesalahan data di bagian tengah yang akan mempengaruhi kesimpulan. Laporan harus dikirim dalam 30 menit. Tindakan terbaik adalah...",
+    "opsi": {
+      "A": "Mengirim laporan tepat waktu meskipun tahu ada kesalahan data",
+      "B": "Memperbaiki kesalahan data terlebih dahulu, menginformasikan kepada atasan bahwa laporan akan sedikit terlambat beserta alasannya",
+      "C": "Mengirim laporan dengan catatan kaki bahwa data masih perlu diverifikasi tanpa memberitahu atasan",
+      "D": "Membatalkan pengiriman laporan dan meminta tenggat baru minggu depan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Akurasi data adalah bagian dari orientasi hasil; menginformasikan keterlambatan beserta alasan yang valid lebih profesional daripada mengirim data yang salah."
+  },
+  {
+    "no": 104,
+    "subtes": "Manajerial",
+    "kompetensi": "Orientasi hasil",
+    "level": "Sulit",
+    "soal": "Target Anda bulan ini adalah menginput 500 data siswa baru ke sistem, namun sistem mengalami gangguan berulang yang memperlambat proses. Bulan hampir berakhir dan baru 320 data yang berhasil diinput. Tindakan paling tepat adalah...",
+    "opsi": {
+      "A": "Melaporkan bahwa target sudah tercapai dengan mengisi data sisipan yang tidak akurat",
+      "B": "Mendokumentasikan hambatan teknis secara rinci, melaporkan progres aktual kepada atasan, mengusulkan solusi alternatif seperti input offline atau perpanjangan waktu yang terukur",
+      "C": "Menyerah dan menunggu sistem pulih sendiri tanpa laporan apapun",
+      "D": "Meminta rekan kerja mengisi sisa data meski mereka tidak memiliki akses resmi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Ketika hambatan eksternal menghalangi target, ASN yang berorientasi hasil mendokumentasikan masalah, melaporkan kondisi aktual, dan proaktif mengusulkan solusi."
+  },
+  {
+    "no": 105,
+    "subtes": "Manajerial",
+    "kompetensi": "Orientasi hasil",
+    "level": "Sedang",
+    "soal": "Anda menyadari bahwa cara kerja Anda dalam mengarsipkan dokumen fisik selama ini tidak efisien dan menyebabkan waktu pencarian rata-rata 15 menit per dokumen. Anda menemukan metode pengarsipan yang lebih baik. Langkah terbaik adalah...",
+    "opsi": {
+      "A": "Menerapkan metode baru secara diam-diam tanpa memberi tahu siapapun",
+      "B": "Membiarkan sistem lama karena perubahan akan membingungkan rekan kerja",
+      "C": "Mengusulkan metode baru kepada atasan disertai alasan dan rencana transisi, lalu menerapkannya setelah mendapat persetujuan",
+      "D": "Menunggu ada audit atau evaluasi eksternal sebelum mengusulkan perbaikan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Inisiatif perbaikan yang disampaikan melalui jalur resmi dan disertai rencana transisi mencerminkan orientasi hasil yang bertanggung jawab."
+  },
+  {
+    "no": 106,
+    "subtes": "Manajerial",
+    "kompetensi": "Pelayanan publik",
+    "level": "Mudah",
+    "soal": "Seorang siswa datang ke meja pelayanan dengan wajah pucat dan mengeluh sakit perut. Saat itu antrean di loket cukup panjang. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Meminta siswa menunggu antrean seperti yang lain karena semua harus adil",
+      "B": "Segera mengarahkan siswa ke petugas kesehatan atau UKS tanpa menunggu antrean, lalu melanjutkan pelayanan antrean",
+      "C": "Menyuruh teman siswa untuk mengantarkannya ke UKS sendiri",
+      "D": "Mencatat nama siswa dan meminta datang kembali saat kondisi sudah membaik"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kondisi kesehatan darurat adalah pengecualian yang sah dari antrean biasa; pelayanan publik yang baik mengutamakan keselamatan tanpa mengorbankan keadilan bagi yang lain."
+  },
+  {
+    "no": 107,
+    "subtes": "Manajerial",
+    "kompetensi": "Pelayanan publik",
+    "level": "Sedang",
+    "soal": "Orang tua siswa mengajukan permintaan surat keterangan yang tidak termasuk dalam layanan standar Sekolah Rakyat. Orang tua tampak sangat membutuhkan surat tersebut untuk keperluan bantuan sosial. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menolak langsung karena layanan tersebut tidak tersedia",
+      "B": "Menerbitkan surat meskipun tidak ada dasar kewenangannya agar orang tua tidak kecewa",
+      "C": "Menjelaskan keterbatasan layanan dengan empati, mengecek apakah ada mekanisme alternatif yang tersedia, dan mengarahkan ke instansi yang berwenang jika tidak memungkinkan",
+      "D": "Meminta orang tua datang kembali minggu depan dan berharap masalahnya selesai sendiri"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pelayanan publik yang baik tidak hanya menolak permintaan di luar kewenangan, tetapi juga aktif membantu mencari solusi alternatif yang sah untuk kebutuhan masyarakat."
+  },
+  {
+    "no": 108,
+    "subtes": "Manajerial",
+    "kompetensi": "Pelayanan publik",
+    "level": "Sulit",
+    "soal": "Anda mengetahui bahwa seorang rekan kerja di loket pelayanan secara konsisten memperlambat proses layanan bagi orang tua yang terlihat dari kalangan kurang mampu, namun cepat melayani orang tua yang berpenampilan rapi. Atasan belum mengetahui hal ini. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena Anda tidak ingin konflik dengan rekan kerja",
+      "B": "Menegur rekan di depan antrean agar orang tua yang dilayani merasa diperjuangkan",
+      "C": "Mendiskusikan pengamatan Anda secara privat dengan rekan tersebut terlebih dahulu, dan jika perilaku berlanjut, melaporkan kepada atasan dengan bukti yang dapat dijelaskan",
+      "D": "Langsung merekam perilaku rekan dengan ponsel sebagai bukti tanpa konfirmasi apapun"
+    },
+    "jawaban": "C",
+    "pembahasan": "Diskriminasi dalam pelayanan publik harus diatasi; pendekatan awal secara privat memberi kesempatan perbaikan, dan eskalasi formal dilakukan jika tidak ada perubahan."
+  },
+  {
+    "no": 109,
+    "subtes": "Manajerial",
+    "kompetensi": "Pelayanan publik",
+    "level": "Sedang",
+    "soal": "Sistem antrian digital di loket pelayanan mengalami error sehingga nomor antrean tidak bisa dicetak. Masih ada 12 orang yang menunggu. Tindakan paling tepat Anda lakukan adalah...",
+    "opsi": {
+      "A": "Menutup loket sementara sampai sistem pulih meski tidak ada kepastian waktu",
+      "B": "Beralih ke sistem antrean manual menggunakan daftar tulis, mengumumkan perubahan kepada yang menunggu, dan melanjutkan pelayanan tanpa jeda panjang",
+      "C": "Melayani berdasarkan penampilan dan urgensi yang Anda nilai sendiri",
+      "D": "Meminta semua orang yang menunggu untuk pulang dan datang kembali esok hari"
+    },
+    "jawaban": "B",
+    "pembahasan": "Ketika sistem gagal, petugas layanan publik yang baik berinisiatif menggunakan prosedur cadangan untuk memastikan pelayanan tetap berjalan tanpa diskriminasi."
+  },
+  {
+    "no": 110,
+    "subtes": "Manajerial",
+    "kompetensi": "Pengembangan diri dan orang lain",
+    "level": "Mudah",
+    "soal": "Sekolah Rakyat tempat Anda bekerja akan menerapkan sistem pengelolaan data baru yang berbasis aplikasi digital. Anda belum familiar dengan aplikasi tersebut. Sikap terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menghindari penggunaan aplikasi baru dan tetap menggunakan cara lama karena Anda sudah terbiasa",
+      "B": "Menunggu rekan kerja yang lebih muda untuk mengajari Anda saat ada waktu",
+      "C": "Secara proaktif mempelajari aplikasi melalui panduan yang tersedia, mengikuti pelatihan yang disediakan, dan tidak ragu bertanya kepada yang lebih paham",
+      "D": "Meminta atasan untuk membebaskan Anda dari kewajiban menggunakan aplikasi tersebut"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pengembangan diri yang baik ditunjukkan dengan sikap proaktif dalam menghadapi perubahan teknologi, bukan penolakan atau ketergantungan pada orang lain."
+  },
+  {
+    "no": 111,
+    "subtes": "Manajerial",
+    "kompetensi": "Pengembangan diri dan orang lain",
+    "level": "Sedang",
+    "soal": "Anda memiliki pengalaman 5 tahun dalam pengelolaan arsip, sementara rekan baru Anda yang baru bergabung masih sering melakukan kesalahan dalam pengarsipan. Atasan meminta Anda untuk membimbing rekan tersebut. Pendekatan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Mengerjakan tugas pengarsipan rekan tersebut sendiri karena lebih cepat dan efisien",
+      "B": "Membimbing dengan menunjukkan cara yang benar, memberi ruang bagi rekan untuk mencoba sendiri, dan memberikan umpan balik yang spesifik setelah ia mencoba",
+      "C": "Menegur rekan setiap kali ada kesalahan di depan staf lain agar ia lebih berhati-hati",
+      "D": "Menyerahkan panduan SOP tertulis dan memintanya belajar sendiri tanpa pendampingan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pembimbingan yang efektif menggabungkan demonstrasi, kesempatan praktik mandiri, dan umpan balik konstruktif yang mendorong pertumbuhan tanpa mempermalukan."
+  },
+  {
+    "no": 112,
+    "subtes": "Manajerial",
+    "kompetensi": "Pengembangan diri dan orang lain",
+    "level": "Sulit",
+    "soal": "Setelah mengikuti pelatihan manajemen data selama dua hari atas biaya instansi, Anda diminta atasan untuk menyusun ringkasan materi dan melatihkan keterampilan baru tersebut kepada empat rekan kerja yang tidak bisa hadir. Anda merasa kurang percaya diri menjadi fasilitator. Tindakan terbaik adalah...",
+    "opsi": {
+      "A": "Menolak karena merasa belum cukup ahli dan meminta atasan mencari trainer eksternal",
+      "B": "Menyetujui, menyiapkan materi dengan baik menggunakan catatan pelatihan, menyampaikan dengan jujur bahwa Anda baru saja belajar, dan mendorong diskusi dua arah",
+      "C": "Menyetujui tetapi menyampaikan materi hanya secara lisan tanpa persiapan agar tidak terlihat kaku",
+      "D": "Mengirimkan materi pelatihan asli melalui grup chat tanpa sesi tatap muka"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kesediaan berbagi pengetahuan yang baru diperoleh dengan persiapan matang dan kejujuran tentang batas kemampuan mencerminkan pengembangan diri dan orang lain yang autentik."
+  },
+  {
+    "no": 113,
+    "subtes": "Manajerial",
+    "kompetensi": "Mengelola perubahan",
+    "level": "Sedang",
+    "soal": "Kepala sekolah mengumumkan bahwa mulai bulan depan seluruh laporan administrasi harus dikirim dalam format digital dan tidak lagi menerima berkas fisik. Sebagian besar staf mengeluh kesulitan. Sebagai petugas TU yang lebih familiar dengan teknologi, sikap terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkan rekan yang kesulitan menyelesaikan masalahnya sendiri karena itu tanggung jawab masing-masing",
+      "B": "Menjelaskan kepada kepala sekolah bahwa kebijakan ini tidak realistis dan perlu dibatalkan",
+      "C": "Secara sukarela membantu rekan yang kesulitan beradaptasi, mengusulkan sesi latihan singkat bersama, dan menyampaikan hambatan teknis yang nyata kepada atasan secara konstruktif",
+      "D": "Tetap menggunakan format fisik untuk laporan Anda sendiri sampai rekan lain siap"
+    },
+    "jawaban": "C",
+    "pembahasan": "Mengelola perubahan yang efektif mencakup membantu rekan beradaptasi, menyampaikan kendala secara konstruktif, dan tetap bergerak maju sesuai arah kebijakan."
+  },
+  {
+    "no": 114,
+    "subtes": "Manajerial",
+    "kompetensi": "Mengelola perubahan",
+    "level": "Mudah",
+    "soal": "Sekolah Rakyat Anda menerapkan rotasi tugas antar staf TU setiap enam bulan sebagai kebijakan baru. Anda akan dipindahkan dari tugas pengarsipan ke tugas layanan front office yang belum pernah Anda lakukan. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Mengajukan keberatan resmi karena sudah nyaman dan ahli di posisi sebelumnya",
+      "B": "Menerima rotasi dengan sikap terbuka, aktif mempelajari tugas baru, dan meminta bimbingan dari rekan yang berpengalaman di posisi tersebut",
+      "C": "Menerima secara formal tetapi tetap mengerjakan tugas pengarsipan di waktu luang",
+      "D": "Menunggu instruksi detail sebelum mulai mempelajari apapun tentang tugas baru"
+    },
+    "jawaban": "B",
+    "pembahasan": "Sikap terbuka terhadap rotasi tugas dan inisiatif belajar yang proaktif mencerminkan kemampuan adaptasi yang diperlukan dalam lingkungan kerja yang berkembang."
+  },
+  {
+    "no": 115,
+    "subtes": "Manajerial",
+    "kompetensi": "Mengelola perubahan",
+    "level": "Sulit",
+    "soal": "Kebijakan baru mengharuskan semua data siswa diinput ke sistem pusat yang belum stabil dan sering error, menggantikan sistem lokal yang selama ini berjalan lancar. Tenggat migrasi data sangat ketat. Anda menemukan bahwa sistem baru menyebabkan banyak data ganda dan inkonsistensi. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menolak menggunakan sistem baru dan melanjutkan input di sistem lama sambil menunggu sistem baru diperbaiki",
+      "B": "Menggunakan sistem baru sesuai kebijakan, mendokumentasikan setiap error yang ditemukan secara sistematis, melaporkan temuan kepada atasan disertai data konkret, dan mengusulkan mekanisme verifikasi tambahan",
+      "C": "Menggunakan sistem baru tanpa melaporkan error karena takut dianggap menghambat kebijakan",
+      "D": "Meminta rekan dari unit lain untuk menginput data sambil Anda terus menggunakan sistem lama"
+    },
+    "jawaban": "B",
+    "pembahasan": "Mengikuti kebijakan sambil mendokumentasikan masalah secara sistematis dan melaporkannya dengan data adalah cara yang paling bertanggung jawab dalam transisi perubahan."
+  },
+  {
+    "no": 116,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Mudah",
+    "soal": "Sekolah Rakyat tempat Anda bekerja memiliki siswa dari 12 provinsi berbeda dengan latar belakang budaya yang sangat beragam. Seorang siswa dari Papua merasa minder karena logat bicaranya sering ditirukan rekan-rekannya. Tindakan Anda sebagai staf adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena itu bercanda biasa di kalangan remaja",
+      "B": "Menegur perilaku menirukan logat tersebut, menjelaskan bahwa setiap daerah memiliki kekayaan bahasa yang patut dihargai, dan memastikan siswa yang bersangkutan merasa aman",
+      "C": "Menyarankan siswa Papua untuk berbicara lebih standar agar tidak jadi bahan candaan",
+      "D": "Melaporkan ke orang tua siswa yang menirukan tanpa menangani situasinya langsung"
+    },
+    "jawaban": "B",
+    "pembahasan": "Menjadi perekat bangsa berarti aktif melindungi martabat setiap siswa dari segala bentuk diskriminasi berbasis identitas daerah dan mendorong budaya saling menghargai."
+  },
+  {
+    "no": 117,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Sedang",
+    "soal": "Menjelang perayaan hari kemerdekaan, Anda diminta merancang kegiatan yang melibatkan seluruh siswa dari berbagai daerah. Pendekatan yang paling tepat mencerminkan semangat persatuan adalah...",
+    "opsi": {
+      "A": "Menampilkan budaya dari satu daerah saja yang paling dikenal secara nasional",
+      "B": "Merancang kegiatan kolaboratif yang memadukan unsur budaya dari berbagai daerah yang diwakili siswa, sehingga setiap kelompok merasa diakui dan berkontribusi",
+      "C": "Mengadakan pertandingan antardaerah untuk menentukan budaya mana yang paling menarik",
+      "D": "Membebaskan siswa memilih kegiatan sendiri-sendiri tanpa tema persatuan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kegiatan yang merayakan keberagaman sekaligus membangun rasa kontribusi bersama adalah wujud nyata dari nilai perekat bangsa dalam lingkungan pendidikan multikultural."
+  },
+  {
+    "no": 118,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Sulit",
+    "soal": "Anda mengetahui bahwa di asrama terbentuk kelompok-kelompok siswa yang cenderung hanya bergaul dengan teman sedaerah dan mulai menunjukkan sikap tidak mau berbagi fasilitas dengan kelompok lain. Kondisi ini belum sampai ke telinga kepala sekolah. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya selama tidak ada perkelahian fisik",
+      "B": "Melaporkan langsung kepada kepala sekolah tanpa melakukan pendekatan apapun terlebih dahulu",
+      "C": "Melakukan pendekatan informal kepada masing-masing kelompok untuk memahami akar masalah, merancang aktivitas yang mendorong interaksi lintas kelompok, dan melaporkan situasi kepada kepala sekolah beserta langkah yang sudah diambil",
+      "D": "Memisahkan kamar asrama berdasarkan asal daerah agar tidak ada konflik penggunaan fasilitas"
+    },
+    "jawaban": "C",
+    "pembahasan": "Segregasi sosial di asrama perlu ditangani dengan pendekatan berbasis pemahaman dan interaksi positif, bukan pemisahan yang justru memperkuat sekat antar kelompok."
+  },
+  {
+    "no": 119,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Sedang",
+    "soal": "Seorang siswa menyatakan tidak mau mengikuti upacara bendera karena menurutnya ritual tersebut tidak sejalan dengan keyakinan keluarganya. Tindakan paling tepat Anda sebagai staf adalah...",
+    "opsi": {
+      "A": "Memaksanya mengikuti upacara karena itu adalah kewajiban nasional tanpa penjelasan lebih lanjut",
+      "B": "Membebaskannya dari upacara tanpa proses apapun agar tidak ada konflik",
+      "C": "Mendengarkan keberatan siswa dengan empati, menjelaskan makna upacara sebagai penghormatan bersama, dan melibatkan guru pembimbing atau kepala sekolah untuk mencari penyelesaian yang menghormati kedua nilai",
+      "D": "Mencatat siswa tersebut sebagai bermasalah dan melaporkannya kepada orang tua tanpa dialog"
+    },
+    "jawaban": "C",
+    "pembahasan": "Menangani ketegangan antara keyakinan pribadi dan kewajiban bersama memerlukan dialog empatik dan keterlibatan pihak yang berwenang untuk solusi yang menghormati semua pihak."
+  },
+  {
+    "no": 120,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Mudah",
+    "soal": "Di ruang tunggu orang tua, Anda melihat seorang orang tua siswa dari suku minoritas yang tampak canggung dan tidak disambut oleh orang tua lain yang sedang berbincang dalam bahasa daerah mayoritas. Sikap terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena itu urusan sesama orang tua",
+      "B": "Menyapa orang tua tersebut secara ramah dalam bahasa Indonesia, memperkenalkannya kepada kelompok yang ada, dan menciptakan suasana yang inklusif",
+      "C": "Hanya memastikan urusan administrasi orang tua tersebut selesai lalu membiarkannya menunggu sendiri",
+      "D": "Meminta kelompok orang tua lain untuk berbicara dalam bahasa Indonesia"
+    },
+    "jawaban": "B",
+    "pembahasan": "Staf yang menjadi perekat bangsa tidak hanya menghindari diskriminasi tetapi juga aktif menciptakan suasana inklusif di setiap interaksi."
+  },
+  {
+    "no": 121,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Mudah",
+    "soal": "Jadwal makan siang asrama bertepatan dengan waktu ibadah wajib bagi siswa dari agama tertentu. Beberapa siswa harus memilih antara makan atau beribadah. Tindakan terbaik Anda sebagai petugas layanan asrama adalah...",
+    "opsi": {
+      "A": "Memberi tahu siswa bahwa jadwal makan tidak bisa diubah karena sudah ditetapkan",
+      "B": "Mengusulkan penyesuaian jadwal makan atau menyediakan opsi makan lebih awal atau lebih lambat bagi siswa yang memerlukan, setelah berkoordinasi dengan pihak yang berwenang",
+      "C": "Membiarkan siswa memilih sendiri tanpa fasilitas apapun dari sekolah",
+      "D": "Menyarankan siswa untuk mempersingkat waktu ibadahnya agar bisa tetap makan bersama"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kepekaan terhadap keberagaman agama diwujudkan dengan mencari akomodasi yang memungkinkan siswa menjalankan kewajiban agama tanpa mengorbankan kebutuhan dasar mereka."
+  },
+  {
+    "no": 122,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Sedang",
+    "soal": "Seorang siswa mengeluhkan bahwa menu makanan asrama selalu mengandung bahan yang tidak sesuai dengan pantangan agamanya, padahal ia sudah menyampaikan hal ini saat pendaftaran. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Meminta siswa untuk menyesuaikan diri dengan menu yang ada karena menu berlaku untuk semua",
+      "B": "Mengabaikan keluhan karena itu sudah menjadi risiko yang diketahui saat mendaftar",
+      "C": "Mendokumentasikan keluhan, memverifikasi catatan pendaftaran, berkoordinasi dengan bagian gizi atau dapur untuk menyediakan alternatif menu yang sesuai, dan memberi jawaban kepada siswa tentang langkah tindak lanjutnya",
+      "D": "Meminta siswa membawa makanannya sendiri dari luar"
+    },
+    "jawaban": "C",
+    "pembahasan": "Keluhan berbasis kebutuhan agama yang tercatat sejak awal harus ditindaklanjuti secara sistematis; ini adalah hak dasar siswa yang harus dipenuhi oleh layanan asrama."
+  },
+  {
+    "no": 123,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Sulit",
+    "soal": "Anda mendengar seorang staf membuat komentar bernada merendahkan tentang siswa dari etnis tertentu dalam obrolan tidak resmi di ruang staf. Komentar tersebut tidak terdengar oleh siswa. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut tertawa agar suasana tidak canggung meski Anda tidak setuju",
+      "B": "Diam dan tidak merespons karena itu hanya obrolan biasa dan tidak ada yang terluka",
+      "C": "Menyatakan dengan tenang bahwa komentar tersebut tidak tepat dan dapat merugikan lingkungan kerja yang inklusif, lalu mengakhiri percakapan tersebut",
+      "D": "Langsung melaporkan staf tersebut kepada atasan tanpa terlebih dahulu menegurnya"
+    },
+    "jawaban": "C",
+    "pembahasan": "Sikap diam atau tertawa mengamini komentar diskriminatif; menegur secara langsung dan tenang adalah respons yang paling tepat untuk membangun budaya kerja yang inklusif."
+  },
+  {
+    "no": 124,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Sedang",
+    "soal": "Seorang orang tua siswa meminta agar anaknya dipisahkan dari teman sekamar yang berbeda agama dengan alasan ingin menjaga kemurnian akidah. permintaan ini disampaikan secara formal dalam surat kepada kepala sekolah. Anda diminta memberikan rekomendasi. Rekomendasi paling tepat adalah...",
+    "opsi": {
+      "A": "Mengabulkan permintaan karena orang tua berhak menentukan lingkungan anak",
+      "B": "Menolak tanpa penjelasan dan memaksa siswa tetap di kamar yang sama",
+      "C": "Merekomendasikan dialog antara orang tua, siswa, dan pihak sekolah untuk memahami kekhawatiran sebenarnya, menjelaskan nilai kebhinekaan yang menjadi fondasi program, dan mencari solusi yang tidak menciptakan segregasi formal",
+      "D": "Mengabulkan sebagian dengan memindahkan siswa ke kamar lain yang kebetulan lebih homogen"
+    },
+    "jawaban": "C",
+    "pembahasan": "Permintaan pemisahan berbasis agama perlu ditanggapi dengan dialog yang menghormati kekhawatiran orang tua sekaligus mempertahankan nilai kebhinekaan yang menjadi fondasi Sekolah Rakyat."
+  },
+  {
+    "no": 125,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Mudah",
+    "soal": "Dalam pengisian formulir pendataan siswa, ada kolom yang meminta informasi suku dan agama. Seorang siswa tampak ragu mengisi kolom tersebut. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memaksanya mengisi karena data tersebut wajib untuk keperluan administrasi",
+      "B": "Menjelaskan dengan ramah untuk apa data tersebut digunakan, memastikan kerahasiaannya terjaga, dan memberi siswa ruang untuk memutuskan",
+      "C": "Membiarkan kolom tersebut kosong tanpa penjelasan apapun",
+      "D": "Mengisinya berdasarkan perkiraan Anda dari penampilan fisik siswa"
+    },
+    "jawaban": "B",
+    "pembahasan": "Data identitas sensitif harus dikumpulkan dengan transparansi tentang tujuan penggunaan dan jaminan kerahasiaan agar siswa merasa aman dan dihormati."
+  },
+  {
+    "no": 126,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Mudah",
+    "soal": "Seorang siswa penerima beasiswa dari keluarga sangat miskin terlihat malu saat mengambil perlengkapan sekolah yang disediakan program di depan teman-temannya. Tindakan paling tepat Anda sebagai staf adalah...",
+    "opsi": {
+      "A": "Memanggil namanya keras-keras di depan semua siswa agar prosesnya efisien",
+      "B": "Mengatur mekanisme pengambilan perlengkapan secara privat atau di waktu yang tidak ramai untuk menjaga martabat siswa",
+      "C": "Memberitahu teman-teman siswa bahwa ia mendapat beasiswa agar mereka bisa membantu",
+      "D": "Meminta siswa mengambil sendiri di luar jam sekolah tanpa pendampingan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Melindungi martabat siswa dari kelompok rentan adalah tanggung jawab layanan; mekanisme privat mencegah rasa malu yang tidak perlu tanpa mengurangi hak mereka."
+  },
+  {
+    "no": 127,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Sedang",
+    "soal": "Seorang siswa yang berasal dari keluarga dengan riwayat kekerasan dalam rumah tangga menunjukkan perubahan perilaku yang mencolok: menjadi pendiam, tidak mau makan, dan menghindari kontak dengan staf. Anda adalah petugas asrama yang pertama menyadari hal ini. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menunggu siswa mau bercerita sendiri tanpa intervensi karena tidak ingin dianggap ikut campur",
+      "B": "Mendekati siswa secara individual dengan pendekatan yang hangat dan tidak menghakimi, mendengarkan jika ia mau bercerita, dan segera melaporkan perubahan perilaku ini kepada guru pembimbing atau konselor sekolah",
+      "C": "Langsung menelepon orang tua siswa untuk menanyakan apa yang terjadi di rumah",
+      "D": "Mengumumkan kepada staf lain agar semua waspada terhadap perilaku siswa tersebut"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pendekatan empatik yang tidak menghakimi dan pelaporan kepada profesional yang tepat adalah respons paling aman untuk siswa yang berpotensi mengalami trauma."
+  },
+  {
+    "no": 128,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Sulit",
+    "soal": "Seorang siswa penyandang disabilitas ringan (kesulitan belajar) mengalami kesulitan mengisi formulir administrasi yang rumit dan terlihat frustrasi. Ada antrean panjang di belakangnya. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Meminta siswa minggir dulu dan mengisi formulir di luar antrean tanpa bantuan agar antrean lancar",
+      "B": "Mengisi seluruh formulir atas namanya tanpa melibatkan siswa agar cepat selesai",
+      "C": "Meluangkan waktu memandu siswa mengisi formulir langkah demi langkah dengan sabar, atau jika memungkinkan mengajak rekan lain sementara melayani antrean yang lain, sehingga siswa tetap aktif dalam prosesnya",
+      "D": "Memintanya datang di luar jam sibuk agar Anda bisa membantu lebih leluasa"
+    },
+    "jawaban": "C",
+    "pembahasan": "Layanan terhadap penyandang disabilitas harus memastikan mereka tetap aktif dalam proses layanannya sendiri; mengambil alih sepenuhnya justru mengurangi kemandirian mereka."
+  },
+  {
+    "no": 129,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Sedang",
+    "soal": "Seorang orang tua tunggal yang bekerja sebagai buruh harian tidak bisa hadir pada pertemuan orang tua yang dijadwalkan di hari kerja. Ia meminta agar informasi dari pertemuan tersebut disampaikan kepadanya melalui cara lain. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memintanya tetap hadir karena absensi orang tua akan mempengaruhi penilaian keaktifan",
+      "B": "Memberikan ringkasan tertulis hasil pertemuan kepada orang tua tersebut dan menawarkan waktu konsultasi alternatif yang lebih fleksibel sesuai kemampuannya",
+      "C": "Menyuruh anaknya untuk menyampaikan informasi pertemuan kepada orang tuanya",
+      "D": "Mencatat ketidakhadiran tanpa tindak lanjut apapun"
+    },
+    "jawaban": "B",
+    "pembahasan": "Fleksibilitas dalam pelayanan kepada orang tua dari kelompok rentan ekonomi mencerminkan empati dan komitmen terhadap kesetaraan akses informasi pendidikan."
+  },
+  {
+    "no": 130,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Mudah",
+    "soal": "Seorang siswa baru dari daerah terpencil tampak kebingungan dan tidak tahu cara menggunakan fasilitas sanitasi modern di asrama. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menertawakannya bersama staf lain karena dianggap lucu",
+      "B": "Membiarkannya belajar sendiri melalui pengamatan agar tidak tergantung pada orang lain",
+      "C": "Menjelaskan cara penggunaan fasilitas dengan sopan dan sabar tanpa mempermalukan siswa, dan memastikan ia merasa nyaman bertanya jika masih bingung",
+      "D": "Meminta teman sekamarnya untuk mengajarinya tanpa memberitahu kepada staf"
+    },
+    "jawaban": "C",
+    "pembahasan": "Mendampingi siswa dari daerah terpencil beradaptasi dengan fasilitas modern adalah bagian dari layanan yang empatik dan menghargai latar belakang yang berbeda."
+  },
+  {
+    "no": 131,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Sedang",
+    "soal": "Seorang siswa menanyakan kepada Anda mengapa harus belajar Pancasila dan menganggapnya tidak relevan dengan kehidupan sehari-hari. Anda adalah staf TU yang kebetulan mendengar pertanyaan ini di lorong sekolah. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Mendiamkannya karena itu bukan tugas Anda untuk menjelaskan hal akademis",
+      "B": "Menyetujui pendapat siswa bahwa Pancasila memang tidak terlalu relevan untuk anak muda",
+      "C": "Merespons dengan contoh sederhana bagaimana nilai Pancasila hadir dalam kehidupan nyata di sekolah, dan menyarankan siswa untuk mendiskusikan lebih dalam dengan guru yang bersangkutan",
+      "D": "Memarahi siswa karena dianggap tidak menghargai dasar negara"
+    },
+    "jawaban": "C",
+    "pembahasan": "Staf ASN di lingkungan pendidikan turut bertanggung jawab menguatkan wawasan kebangsaan; respons yang bijak mengaitkan nilai abstrak dengan pengalaman nyata tanpa menggurui."
+  },
+  {
+    "no": 132,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Mudah",
+    "soal": "Anda melihat bendera merah putih di tiang sekolah sudah lusuh dan warnanya pudar. Acara resmi sekolah akan berlangsung minggu depan. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena pengadaan bendera bukan tanggung jawab langsung Anda",
+      "B": "Menunggu ada yang melaporkan secara resmi terlebih dahulu sebelum bertindak",
+      "C": "Segera melaporkan kondisi bendera kepada penanggung jawab sarana dan mengusulkan penggantian sebelum acara berlangsung",
+      "D": "Menurunkan bendera dan menyimpannya tanpa memberitahu siapapun"
+    },
+    "jawaban": "C",
+    "pembahasan": "Menjaga simbol negara dalam kondisi layak adalah wujud nyata wawasan kebangsaan; inisiatif pelaporan proaktif mencerminkan etika publik yang baik."
+  },
+  {
+    "no": 133,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Sulit",
+    "soal": "Anda menemukan konten di grup percakapan staf sekolah yang berisi informasi menyesatkan tentang sejarah nasional dan berpotensi menimbulkan perpecahan. Beberapa staf sudah menyebarkan ulang konten tersebut. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut menyebarkan karena sudah banyak yang berbagi dan tampaknya valid",
+      "B": "Keluar dari grup tanpa memberikan komentar apapun",
+      "C": "Menyampaikan dengan sopan di grup bahwa konten tersebut perlu diverifikasi terlebih dahulu, menyertakan sumber yang lebih kredibel jika tersedia, dan jika konten bersifat sangat berbahaya, melaporkannya kepada atasan untuk tindakan lebih lanjut",
+      "D": "Menghubungi secara pribadi hanya teman terdekat untuk memperingatkan tanpa menyentuh konten di grup"
+    },
+    "jawaban": "C",
+    "pembahasan": "ASN bertanggung jawab menjaga ekosistem informasi yang sehat; merespons misinformasi dengan verifikasi sopan dan sumber kredibel lebih efektif daripada diam atau keluar."
+  },
+  {
+    "no": 134,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Sedang",
+    "soal": "Seorang tamu yang datang ke sekolah memakai seragam instansi lain dan meminta Anda menunjukkan data jumlah siswa per daerah asal tanpa surat tugas resmi. Ia berdalih data tersebut diperlukan untuk laporan pemerintah pusat. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memberikan data karena ia tampak resmi dan tujuannya untuk keperluan pemerintah",
+      "B": "Menolak memberikan data dan meminta tamu tersebut melengkapi surat tugas resmi serta mengikuti prosedur permohonan data yang berlaku",
+      "C": "Memberikan data tetapi meminta tamu menandatangani buku tamu terlebih dahulu",
+      "D": "Meminta tamu menunggu dan menelepon atasan, lalu memberikan data jika atasan setuju via telepon"
+    },
+    "jawaban": "B",
+    "pembahasan": "Data siswa adalah informasi yang dilindungi; prosedur permohonan resmi harus ditegakkan tanpa pandang penampilan atau klaim kewenangan tamu yang tidak disertai dokumen."
+  },
+  {
+    "no": 135,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Mudah",
+    "soal": "Anda sebagai staf ASN di Sekolah Rakyat diminta seorang kerabat untuk ikut serta dalam kegiatan yang berpotensi mempermasalahkan kebijakan pemerintah secara terbuka di media sosial mengatasnamakan ASN. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut serta karena kerabat sudah meminta dan topiknya penting untuk disuarakan",
+      "B": "Menolak dengan sopan dan menjelaskan bahwa sebagai ASN Anda terikat aturan netralitas dan tidak diperkenankan terlibat dalam kegiatan politik praktis atau tindakan yang mencoreng citra instansi",
+      "C": "Ikut tetapi menggunakan nama samaran agar tidak ketahuan",
+      "D": "Ikut tetapi hanya sebagai penonton tanpa berkomentar apapun"
+    },
+    "jawaban": "B",
+    "pembahasan": "ASN wajib menjaga netralitas dan tidak boleh terlibat dalam aktivitas yang berpotensi mencoreng citra pemerintah atau instansi, meskipun ada tekanan dari lingkungan sosial."
+  },
+  {
+    "no": 136,
+    "subtes": "Wawancara",
+    "kompetensi": "Kejujuran dan integritas",
+    "level": "Sedang",
+    "soal": "Dalam sesi wawancara seleksi ini, Anda ditanya: 'Pernahkah Anda melakukan kesalahan dalam pekerjaan sebelumnya yang berdampak pada orang lain? Ceritakan.' Respons yang paling mencerminkan kejujuran dan integritas adalah...",
+    "opsi": {
+      "A": "Menjawab bahwa Anda tidak pernah melakukan kesalahan yang berarti karena selalu berhati-hati",
+      "B": "Menceritakan kesalahan nyata yang pernah terjadi, menjelaskan dampaknya, langkah yang Anda ambil untuk memperbaiki, dan apa yang Anda pelajari dari pengalaman tersebut",
+      "C": "Menyebutkan kesalahan kecil yang tidak berdampak apapun agar terlihat jujur tanpa berisiko",
+      "D": "Mengalihkan pertanyaan dengan menceritakan keberhasilan Anda yang relevan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kejujuran sejati mencakup keberanian mengakui kesalahan secara spesifik beserta pertanggungjawaban dan pembelajaran; jawaban yang mengecilkan atau menghindari kesalahan tidak mencerminkan integritas."
+  },
+  {
+    "no": 137,
+    "subtes": "Wawancara",
+    "kompetensi": "Kejujuran dan integritas",
+    "level": "Mudah",
+    "soal": "Saat seleksi berlangsung, Anda menyadari bahwa peserta di sebelah Anda sedang menyalin jawaban dari ponsel yang disembunyikan di bawah meja. Pengawas tidak melihat kejadian ini. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut melihat jawaban di ponsel tersebut karena kesempatan terbuka",
+      "B": "Membiarkannya karena bukan urusan Anda dan Anda tidak mau membuat masalah",
+      "C": "Melaporkan kejadian tersebut kepada pengawas secara diam-diam saat ada kesempatan",
+      "D": "Menegur peserta tersebut secara langsung dengan suara keras"
+    },
+    "jawaban": "C",
+    "pembahasan": "Integritas dalam seleksi berarti menjaga keadilan proses; melaporkan kecurangan kepada pengawas adalah tindakan yang tepat tanpa harus membuat kegaduhan."
+  },
+  {
+    "no": 138,
+    "subtes": "Wawancara",
+    "kompetensi": "Kejujuran dan integritas",
+    "level": "Sulit",
+    "soal": "Anda mengetahui bahwa seorang peserta seleksi PPPK di sekolah yang sama memiliki koneksi dengan salah satu anggota panitia dan tampaknya mendapat perlakuan istimewa dalam proses administrasi. Anda tidak memiliki bukti tertulis, hanya pengamatan. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menyebarkan informasi ini kepada sesama peserta agar menjadi perhatian bersama",
+      "B": "Mendokumentasikan pengamatan Anda secara faktual dan menyampaikannya melalui mekanisme pengaduan resmi yang tersedia jika Anda yakin ada pelanggaran",
+      "C": "Mencoba mendekati anggota panitia yang sama untuk mendapatkan perlakuan serupa",
+      "D": "Mengabaikan karena tanpa bukti tertulis tidak ada gunanya melapor"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kecurigaan yang didasari pengamatan faktual harus disalurkan melalui mekanisme resmi, bukan disebarkan secara informal atau direspons dengan tindakan tidak etis serupa."
+  },
+  {
+    "no": 139,
+    "subtes": "Wawancara",
+    "kompetensi": "Kepatuhan terhadap aturan",
+    "level": "Mudah",
+    "soal": "Atasan Anda meminta Anda menyelesaikan tugas administrasi dengan cara yang lebih cepat namun melanggar prosedur baku yang berlaku. Ia berargumen bahwa itu lebih efisien dan tidak akan ketahuan. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Mengikuti instruksi atasan karena atasan selalu benar dan Anda tidak ingin konflik",
+      "B": "Menolak secara sopan, menjelaskan risiko pelanggaran prosedur, dan menawarkan untuk mencari cara yang lebih cepat namun tetap sesuai aturan",
+      "C": "Mengikuti instruksi tetapi menyimpan bukti bahwa Anda diperintahkan melakukannya",
+      "D": "Langsung melaporkan atasan kepada kepala sekolah tanpa terlebih dahulu menyampaikan keberatan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kepatuhan terhadap aturan harus dijaga bahkan ketika instruksi datang dari atasan; penolakan yang disampaikan dengan konstruktif dan tawaran solusi alternatif adalah respons yang paling profesional."
+  },
+  {
+    "no": 140,
+    "subtes": "Wawancara",
+    "kompetensi": "Kepatuhan terhadap aturan",
+    "level": "Sedang",
+    "soal": "Anda mengetahui bahwa rekan kerja secara rutin memanfaatkan aset sekolah seperti printer dan kertas untuk keperluan usaha pribadi di luar jam kerja. Ia menganggap hal ini wajar karena 'tidak mengganggu siapapun'. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut memanfaatkan aset sekolah untuk keperluan pribadi karena rekan sudah melakukannya lebih dulu",
+      "B": "Mengingatkan rekan bahwa penggunaan aset negara untuk kepentingan pribadi melanggar aturan, dan menyarankannya untuk menghentikan kebiasaan tersebut",
+      "C": "Melaporkan langsung ke inspektorat tanpa memberi tahu rekan terlebih dahulu",
+      "D": "Membiarkannya karena memang tidak ada yang dirugikan secara langsung"
+    },
+    "jawaban": "B",
+    "pembahasan": "Penggunaan aset negara untuk kepentingan pribadi adalah pelanggaran aturan ASN; mengingatkan rekan secara langsung adalah langkah awal yang proporsional sebelum eskalasi."
+  },
+  {
+    "no": 141,
+    "subtes": "Wawancara",
+    "kompetensi": "Kepatuhan terhadap aturan",
+    "level": "Sulit",
+    "soal": "Anda menemukan celah dalam sistem yang memungkinkan Anda memproses dokumen lebih cepat dengan melewati satu tahap verifikasi yang dianggap memakan waktu. Secara teknis tidak ada yang melarang hal ini secara eksplisit dalam SOP, namun tahap verifikasi tersebut ada untuk alasan akurasi data. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memanfaatkan celah tersebut karena tidak ada larangan eksplisit dan hasilnya lebih efisien",
+      "B": "Tidak memanfaatkan celah, melaporkan temuan celah tersebut kepada atasan, dan mengusulkan revisi SOP untuk menutup celah sambil tetap mempertahankan efisiensi",
+      "C": "Memanfaatkan celah hanya untuk kasus mendesak saja",
+      "D": "Membagikan informasi celah ini kepada rekan kerja agar semua bisa bekerja lebih cepat"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kepatuhan yang matang bukan sekadar mengikuti aturan yang tersurat, tetapi juga memahami tujuan aturan; melaporkan celah dan mengusulkan perbaikan mencerminkan integritas prosedural."
+  },
+  {
+    "no": 142,
+    "subtes": "Wawancara",
+    "kompetensi": "Etika kerja dan moralitas",
+    "level": "Mudah",
+    "soal": "Anda baru saja selesai mengerjakan tugas lebih awal dan masih ada satu jam sebelum jam kerja berakhir. Tidak ada atasan di ruangan. Tindakan yang paling mencerminkan etika kerja yang baik adalah...",
+    "opsi": {
+      "A": "Bermain ponsel karena tugas sudah selesai dan tidak ada yang mengawasi",
+      "B": "Pulang lebih awal karena tugas sudah selesai dan atasan tidak ada",
+      "C": "Menggunakan waktu tersebut untuk menyelesaikan pekerjaan yang tertunda, mempersiapkan tugas besok, atau membantu rekan yang masih sibuk",
+      "D": "Berpura-pura sibuk agar terlihat bekerja jika atasan tiba-tiba masuk"
+    },
+    "jawaban": "C",
+    "pembahasan": "Etika kerja yang baik tidak bergantung pada kehadiran pengawas; memanfaatkan waktu luang untuk pekerjaan produktif mencerminkan komitmen dan profesionalisme yang konsisten."
+  },
+  {
+    "no": 143,
+    "subtes": "Wawancara",
+    "kompetensi": "Etika kerja dan moralitas",
+    "level": "Sedang",
+    "soal": "Anda mengetahui bahwa seorang staf senior sering mengklaim hasil kerja orang lain sebagai karyanya kepada atasan. Staf tersebut cukup disegani di lingkungan kerja. Anda sendiri belum pernah menjadi korban langsung. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena Anda belum menjadi korban dan tidak mau bermasalah dengan staf senior",
+      "B": "Secara diam-diam mendokumentasikan karya dan kontribusi Anda secara konsisten, dan jika ada rekan yang menjadi korban, mendorong mereka untuk menyampaikan kepada atasan melalui jalur yang tepat",
+      "C": "Menyebarkan cerita ini kepada rekan lain agar semua waspada",
+      "D": "Langsung mengadukan staf tersebut kepada atasan tertinggi berdasarkan cerita rekan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Etika kerja yang matang mencakup melindungi integritas kontribusi diri sendiri dan mendukung rekan yang menjadi korban melalui jalur yang tepat, bukan gosip atau eskalasi prematur."
+  },
+  {
+    "no": 144,
+    "subtes": "Wawancara",
+    "kompetensi": "Etika kerja dan moralitas",
+    "level": "Sulit",
+    "soal": "Anda ditempatkan di sekolah yang jauh dari rumah dengan fasilitas terbatas. Beberapa bulan kemudian, ada tawaran posisi yang sama di kota yang lebih dekat dan nyaman melalui jalur yang tidak resmi. Anda diminta membayar sejumlah uang agar proses dipermudah. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membayar karena kenyamanan hidup lebih penting dan semua orang melakukannya",
+      "B": "Menolak tawaran tersebut, tidak melibatkan diri dalam praktik tersebut, dan jika memungkinkan melaporkan tawaran itu kepada pihak yang berwenang",
+      "C": "Membayar sebagian dengan tawar-menawar agar terasa lebih etis",
+      "D": "Menolak saat ini tetapi menyimpan kontak penawar untuk digunakan di kemudian hari jika diperlukan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Suap dalam mutasi jabatan adalah pelanggaran hukum dan etika ASN; penolakan tegas dan pelaporan jika memungkinkan adalah satu-satunya pilihan yang sesuai dengan moralitas."
+  },
+  {
+    "no": 145,
+    "subtes": "Wawancara",
+    "kompetensi": "Etika kerja dan moralitas",
+    "level": "Sulit",
+    "soal": "Anda mengetahui bahwa data yang Anda input ke laporan resmi mengandung angka yang sedikit tidak akurat karena tekanan waktu. Laporan sudah dikirim dan disetujui atasan. Beberapa hari kemudian Anda sadar kesalahan tersebut berdampak pada alokasi bantuan bagi siswa. Tindakan paling tepat Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena laporan sudah disetujui dan membuka masalah baru hanya akan merugikan Anda",
+      "B": "Menunggu ada audit untuk mengungkapkan kesalahan tersebut agar Anda tidak harus mengakuinya sendiri",
+      "C": "Segera mengakui kesalahan kepada atasan, menyampaikan dampak yang mungkin terjadi, dan mengusulkan langkah koreksi sebelum alokasi bantuan terdistribusi berdasarkan data yang salah",
+      "D": "Memperbaiki data secara diam-diam di sistem tanpa memberitahu siapapun"
+    },
+    "jawaban": "C",
+    "pembahasan": "Ketika kesalahan berdampak langsung pada pihak yang dilayani, tanggung jawab moral ASN mengharuskan pengakuan dan koreksi segera, meskipun itu berisiko secara personal."
+  }
+]

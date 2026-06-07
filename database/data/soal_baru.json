@@ -1,0 +1,829 @@
+[
+  {
+    "no": 91,
+    "subtes": "Manajerial",
+    "kompetensi": "Integritas",
+    "level": "Sulit",
+    "soal": "Anda menemukan bahwa kepala tata usaha menyetujui pengeluaran dana operasional asrama tanpa bukti transaksi yang sah, namun ia adalah atasan langsung Anda dan dikenal dekat dengan kepala sekolah. Tindakan yang paling tepat Anda lakukan adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena kepala sekolah pasti sudah mengetahui dan menyetujui",
+      "B": "Mendokumentasikan temuan secara pribadi lalu melaporkan melalui jalur pengaduan internal yang tersedia",
+      "C": "Langsung menyebarkan informasi tersebut kepada rekan kerja agar menjadi perhatian bersama",
+      "D": "Menanyakan langsung kepada kepala tata usaha secara terbuka di depan rapat"
+    },
+    "jawaban": "B",
+    "pembahasan": "Integritas ASN menuntut pelaporan melalui jalur resmi dan terdokumentasi, bukan pembiaran atau eskalasi informal yang dapat merugikan proses pembuktian."
+  },
+  {
+    "no": 92,
+    "subtes": "Manajerial",
+    "kompetensi": "Integritas",
+    "level": "Sedang",
+    "soal": "Seorang rekan kerja meminta Anda menandatangani daftar hadir rapat untuknya karena ia terlambat datang dan takut dicatat tidak hadir. Ia berdalih pekerjaan Anda berdua saling bergantung sehingga jika ia kena sanksi, pekerjaan Anda juga terdampak. Respons paling tepat Anda adalah...",
+    "opsi": {
+      "A": "Menandatangani karena memang pekerjaan Anda saling tergantung dan sanksinya akan merugikan tim",
+      "B": "Menolak dengan sopan dan menyarankan rekan untuk menjelaskan keterlambatannya sendiri kepada atasan",
+      "C": "Menandatangani tetapi memintanya berjanji tidak mengulangi lagi",
+      "D": "Diam saja dan membiarkan rekan mengurus sendiri tanpa memberi saran apapun"
+    },
+    "jawaban": "B",
+    "pembahasan": "Menandatangani daftar hadir orang lain adalah pemalsuan dokumen; integritas mengharuskan penolakan meskipun ada tekanan dari hubungan kerja."
+  },
+  {
+    "no": 93,
+    "subtes": "Manajerial",
+    "kompetensi": "Integritas",
+    "level": "Mudah",
+    "soal": "Anda menerima parsel dari orang tua siswa menjelang hari raya sebagai bentuk terima kasih atas pelayanan Anda selama ini. Tidak ada atasan yang melihat kejadian ini. Tindakan paling tepat adalah...",
+    "opsi": {
+      "A": "Menerima karena nilainya kecil dan niatnya tulus sebagai ungkapan terima kasih",
+      "B": "Menolak dengan ramah dan menjelaskan bahwa Anda tidak diperkenankan menerima pemberian dari pihak yang dilayani",
+      "C": "Menerima lalu melaporkannya kepada atasan setelah hari raya selesai",
+      "D": "Meminta orang tua menyerahkan langsung ke kantor agar terasa lebih resmi"
+    },
+    "jawaban": "B",
+    "pembahasan": "ASN dilarang menerima gratifikasi dalam bentuk apapun dari pihak yang terkait dengan tugasnya; penolakan ramah disertai penjelasan adalah tindakan yang paling tepat."
+  },
+  {
+    "no": 94,
+    "subtes": "Manajerial",
+    "kompetensi": "Kerja sama tim",
+    "level": "Sedang",
+    "soal": "Tim Anda terdiri dari lima orang dengan beban kerja yang tidak merata; dua anggota selalu kelebihan tugas sementara dua lainnya sering menganggur. Ketua tim tidak mengambil tindakan apapun. Sebagai anggota tim, langkah terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menyelesaikan tugas Anda sendiri saja dan tidak ikut campur urusan pembagian kerja",
+      "B": "Mengusulkan kepada ketua tim untuk mendiskusikan ulang pembagian beban kerja secara terbuka dan adil",
+      "C": "Mengeluh kepada rekan yang kelebihan tugas bahwa ketua tidak adil",
+      "D": "Langsung mengerjakan tugas rekan yang menganggur tanpa koordinasi agar pekerjaan cepat selesai"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kerja sama tim yang baik membutuhkan komunikasi terbuka tentang pembagian beban; mengusulkan solusi kepada pemimpin adalah langkah konstruktif dan tepat sasaran."
+  },
+  {
+    "no": 95,
+    "subtes": "Manajerial",
+    "kompetensi": "Kerja sama tim",
+    "level": "Mudah",
+    "soal": "Rekan kerja Anda dari unit lain meminta bantuan mencetak dan menyortir 200 lembar dokumen untuk kegiatan besok pagi, sementara tugas rutin Anda hari ini sudah selesai lebih awal. Sikap terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menolak karena itu bukan tugas Anda dan sudah di luar jam kerja produktif Anda",
+      "B": "Membantu sambil memastikan tugas Anda sendiri tidak terbengkalai dan melaporkan bantuan tersebut kepada atasan",
+      "C": "Membantu tanpa perlu laporan apapun karena ini hal kecil",
+      "D": "Menyarankan rekan untuk meminta bantuan dari unitnya sendiri terlebih dahulu"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kolaborasi lintas unit perlu dilakukan dengan tetap menjaga transparansi kepada atasan agar tidak menimbulkan kesalahpahaman tentang penggunaan waktu kerja."
+  },
+  {
+    "no": 96,
+    "subtes": "Manajerial",
+    "kompetensi": "Kerja sama tim",
+    "level": "Sulit",
+    "soal": "Dalam sebuah proyek persiapan penerimaan siswa baru, seorang anggota tim secara konsisten tidak memenuhi tenggat yang disepakati sehingga pekerjaan anggota lain tertunda. Ketika diingatkan, ia selalu beralasan sibuk dengan tugas lain. Tindakan paling tepat sebagai koordinator proyek adalah...",
+    "opsi": {
+      "A": "Mengambil alih seluruh tugas anggota tersebut agar proyek tidak terlambat",
+      "B": "Melaporkan langsung ke kepala sekolah tanpa memberi kesempatan anggota untuk memperbaiki diri",
+      "C": "Mendiskusikan hambatan secara privat, menyepakati ulang tenggat yang realistis, dan menetapkan konsekuensi jelas jika terulang",
+      "D": "Membagi tugas anggota tersebut secara diam-diam ke anggota lain tanpa memberitahunya"
+    },
+    "jawaban": "C",
+    "pembahasan": "Koordinator yang efektif menangani masalah kinerja melalui dialog, penyesuaian target yang terukur, dan kejelasan konsekuensi sebelum eskalasi formal."
+  },
+  {
+    "no": 97,
+    "subtes": "Manajerial",
+    "kompetensi": "Kerja sama tim",
+    "level": "Sedang",
+    "soal": "Dua rekan kerja Anda terlibat perselisihan pribadi yang mulai memengaruhi suasana kerja dan kecepatan penyelesaian tugas tim. Atasan belum menyadari situasi ini. Sebagai anggota tim yang mengetahui kondisi ini, langkah terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memihak salah satu pihak yang menurut Anda lebih benar",
+      "B": "Membiarkan mereka menyelesaikan sendiri karena itu urusan pribadi",
+      "C": "Mendorong keduanya untuk berbicara secara langsung dan menawarkan diri sebagai penengah netral, serta melaporkan dampaknya kepada atasan jika tidak ada kemajuan",
+      "D": "Langsung melaporkan perselisihan tersebut kepada atasan sebelum mencoba mediasi"
+    },
+    "jawaban": "C",
+    "pembahasan": "Anggota tim yang baik berupaya menjaga harmoni melalui mediasi terlebih dahulu, dan hanya menggunakan jalur formal jika upaya mandiri tidak berhasil."
+  },
+  {
+    "no": 98,
+    "subtes": "Manajerial",
+    "kompetensi": "Komunikasi",
+    "level": "Mudah",
+    "soal": "Anda harus menyampaikan perubahan jadwal kegiatan asrama kepada seluruh siswa yang berjumlah 80 orang dalam waktu singkat. Metode komunikasi yang paling efektif dan efisien adalah...",
+    "opsi": {
+      "A": "Menyampaikan informasi hanya kepada ketua kamar dan berharap mereka meneruskannya",
+      "B": "Menempel pengumuman tertulis di papan pengumuman asrama dan menyampaikannya secara lisan saat apel atau makan bersama",
+      "C": "Mengirim pesan ke grup media sosial siswa tanpa pengumuman resmi",
+      "D": "Menunggu siswa bertanya sendiri tentang perubahan jadwal tersebut"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kombinasi pengumuman tertulis resmi dan penyampaian lisan di forum bersama memastikan seluruh siswa menerima informasi secara merata dan terdokumentasi."
+  },
+  {
+    "no": 99,
+    "subtes": "Manajerial",
+    "kompetensi": "Komunikasi",
+    "level": "Sedang",
+    "soal": "Orang tua siswa menelepon dengan nada emosional untuk mengadukan pelayanan yang ia anggap diskriminatif terhadap anaknya. Anda adalah petugas yang menerima telepon tersebut. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Langsung membantah tuduhan karena Anda yakin pelayanan sudah sesuai prosedur",
+      "B": "Mendengarkan dengan penuh perhatian, mengakui perasaan orang tua, mencatat aduan, dan menjelaskan langkah tindak lanjut yang akan diambil",
+      "C": "Meminta orang tua untuk datang langsung ke sekolah karena keluhan via telepon tidak dapat diproses",
+      "D": "Memindahkan telepon ke atasan tanpa menjelaskan apapun kepada orang tua"
+    },
+    "jawaban": "B",
+    "pembahasan": "Komunikasi yang baik dalam situasi emosional diawali dengan mendengarkan aktif dan empati, lalu dilanjutkan dengan langkah konkret yang dapat dipercaya."
+  },
+  {
+    "no": 100,
+    "subtes": "Manajerial",
+    "kompetensi": "Komunikasi",
+    "level": "Sulit",
+    "soal": "Anda diminta atasan menyampaikan kebijakan baru yang menurut Anda kurang tepat sasaran kepada seluruh staf. Anda tidak setuju dengan kebijakan tersebut namun sudah menjadi keputusan resmi. Cara terbaik Anda menyikapinya adalah...",
+    "opsi": {
+      "A": "Menyampaikan kebijakan sambil secara terbuka menyatakan ketidaksetujuan Anda di depan staf",
+      "B": "Menolak menyampaikan kebijakan tersebut karena bertentangan dengan pendapat Anda",
+      "C": "Menyampaikan kebijakan secara profesional dan akurat, lalu menyampaikan keberatan Anda kepada atasan melalui jalur yang tepat setelah sesi selesai",
+      "D": "Menyampaikan kebijakan tetapi menambahkan catatan pribadi yang meragukan keputusan tersebut"
+    },
+    "jawaban": "C",
+    "pembahasan": "ASN profesional menjalankan keputusan resmi secara loyal sambil menyalurkan perbedaan pendapat melalui mekanisme internal yang tepat, bukan di depan publik."
+  },
+  {
+    "no": 101,
+    "subtes": "Manajerial",
+    "kompetensi": "Komunikasi",
+    "level": "Sedang",
+    "soal": "Anda menerima laporan tertulis dari petugas asrama yang menggunakan bahasa tidak baku dan struktur tidak jelas sehingga sulit dipahami. Laporan ini penting untuk diteruskan ke kepala sekolah hari ini. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Meneruskan laporan apa adanya agar kepala sekolah menilai sendiri kualitas penulisan petugas",
+      "B": "Meminta petugas membuat ulang laporan dengan format yang benar, meski berisiko terlambat",
+      "C": "Memperbaiki laporan sesuai kaidah bahasa dan struktur yang benar, mencantumkan nama petugas asal, lalu meneruskan tepat waktu sambil memberi umpan balik kepada petugas",
+      "D": "Menulis ulang laporan sepenuhnya atas nama Anda sendiri"
+    },
+    "jawaban": "C",
+    "pembahasan": "Memperbaiki tanpa mengubah substansi dan tetap mencantumkan sumber asal menjaga akurasi informasi sekaligus memberikan pembinaan komunikasi tertulis kepada petugas."
+  },
+  {
+    "no": 102,
+    "subtes": "Manajerial",
+    "kompetensi": "Orientasi hasil",
+    "level": "Mudah",
+    "soal": "Anda memiliki tiga tugas dengan tenggat yang sama hari ini: rekap data kehadiran siswa, laporan bulanan sarana, dan notulen rapat kemarin. Cara paling tepat mengelola prioritas Anda adalah...",
+    "opsi": {
+      "A": "Mengerjakan yang paling mudah terlebih dahulu agar semangat bekerja terjaga",
+      "B": "Mengerjakan secara bersamaan agar semuanya terasa maju",
+      "C": "Mengidentifikasi mana yang paling berdampak jika terlambat, mengerjakan itu duluan, lalu melanjutkan ke tugas berikutnya",
+      "D": "Meminta perpanjangan tenggat untuk semua tugas kepada atasan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Orientasi hasil yang baik ditandai dengan kemampuan memprioritaskan berdasarkan dampak dan urgensi, bukan kemudahan atau kebiasaan."
+  },
+  {
+    "no": 103,
+    "subtes": "Manajerial",
+    "kompetensi": "Orientasi hasil",
+    "level": "Sedang",
+    "soal": "Laporan bulanan yang Anda kerjakan hampir selesai, namun Anda menemukan kesalahan data di bagian tengah yang akan mempengaruhi kesimpulan. Laporan harus dikirim dalam 30 menit. Tindakan terbaik adalah...",
+    "opsi": {
+      "A": "Mengirim laporan tepat waktu meskipun tahu ada kesalahan data",
+      "B": "Memperbaiki kesalahan data terlebih dahulu, menginformasikan kepada atasan bahwa laporan akan sedikit terlambat beserta alasannya",
+      "C": "Mengirim laporan dengan catatan kaki bahwa data masih perlu diverifikasi tanpa memberitahu atasan",
+      "D": "Membatalkan pengiriman laporan dan meminta tenggat baru minggu depan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Akurasi data adalah bagian dari orientasi hasil; menginformasikan keterlambatan beserta alasan yang valid lebih profesional daripada mengirim data yang salah."
+  },
+  {
+    "no": 104,
+    "subtes": "Manajerial",
+    "kompetensi": "Orientasi hasil",
+    "level": "Sulit",
+    "soal": "Target Anda bulan ini adalah menginput 500 data siswa baru ke sistem, namun sistem mengalami gangguan berulang yang memperlambat proses. Bulan hampir berakhir dan baru 320 data yang berhasil diinput. Tindakan paling tepat adalah...",
+    "opsi": {
+      "A": "Melaporkan bahwa target sudah tercapai dengan mengisi data sisipan yang tidak akurat",
+      "B": "Mendokumentasikan hambatan teknis secara rinci, melaporkan progres aktual kepada atasan, mengusulkan solusi alternatif seperti input offline atau perpanjangan waktu yang terukur",
+      "C": "Menyerah dan menunggu sistem pulih sendiri tanpa laporan apapun",
+      "D": "Meminta rekan kerja mengisi sisa data meski mereka tidak memiliki akses resmi"
+    },
+    "jawaban": "B",
+    "pembahasan": "Ketika hambatan eksternal menghalangi target, ASN yang berorientasi hasil mendokumentasikan masalah, melaporkan kondisi aktual, dan proaktif mengusulkan solusi."
+  },
+  {
+    "no": 105,
+    "subtes": "Manajerial",
+    "kompetensi": "Orientasi hasil",
+    "level": "Sedang",
+    "soal": "Anda menyadari bahwa cara kerja Anda dalam mengarsipkan dokumen fisik selama ini tidak efisien dan menyebabkan waktu pencarian rata-rata 15 menit per dokumen. Anda menemukan metode pengarsipan yang lebih baik. Langkah terbaik adalah...",
+    "opsi": {
+      "A": "Menerapkan metode baru secara diam-diam tanpa memberi tahu siapapun",
+      "B": "Membiarkan sistem lama karena perubahan akan membingungkan rekan kerja",
+      "C": "Mengusulkan metode baru kepada atasan disertai alasan dan rencana transisi, lalu menerapkannya setelah mendapat persetujuan",
+      "D": "Menunggu ada audit atau evaluasi eksternal sebelum mengusulkan perbaikan"
+    },
+    "jawaban": "C",
+    "pembahasan": "Inisiatif perbaikan yang disampaikan melalui jalur resmi dan disertai rencana transisi mencerminkan orientasi hasil yang bertanggung jawab."
+  },
+  {
+    "no": 106,
+    "subtes": "Manajerial",
+    "kompetensi": "Pelayanan publik",
+    "level": "Mudah",
+    "soal": "Seorang siswa datang ke meja pelayanan dengan wajah pucat dan mengeluh sakit perut. Saat itu antrean di loket cukup panjang. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Meminta siswa menunggu antrean seperti yang lain karena semua harus adil",
+      "B": "Segera mengarahkan siswa ke petugas kesehatan atau UKS tanpa menunggu antrean, lalu melanjutkan pelayanan antrean",
+      "C": "Menyuruh teman siswa untuk mengantarkannya ke UKS sendiri",
+      "D": "Mencatat nama siswa dan meminta datang kembali saat kondisi sudah membaik"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kondisi kesehatan darurat adalah pengecualian yang sah dari antrean biasa; pelayanan publik yang baik mengutamakan keselamatan tanpa mengorbankan keadilan bagi yang lain."
+  },
+  {
+    "no": 107,
+    "subtes": "Manajerial",
+    "kompetensi": "Pelayanan publik",
+    "level": "Sedang",
+    "soal": "Orang tua siswa mengajukan permintaan surat keterangan yang tidak termasuk dalam layanan standar Sekolah Rakyat. Orang tua tampak sangat membutuhkan surat tersebut untuk keperluan bantuan sosial. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menolak langsung karena layanan tersebut tidak tersedia",
+      "B": "Menerbitkan surat meskipun tidak ada dasar kewenangannya agar orang tua tidak kecewa",
+      "C": "Menjelaskan keterbatasan layanan dengan empati, mengecek apakah ada mekanisme alternatif yang tersedia, dan mengarahkan ke instansi yang berwenang jika tidak memungkinkan",
+      "D": "Meminta orang tua datang kembali minggu depan dan berharap masalahnya selesai sendiri"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pelayanan publik yang baik tidak hanya menolak permintaan di luar kewenangan, tetapi juga aktif membantu mencari solusi alternatif yang sah untuk kebutuhan masyarakat."
+  },
+  {
+    "no": 108,
+    "subtes": "Manajerial",
+    "kompetensi": "Pelayanan publik",
+    "level": "Sulit",
+    "soal": "Anda mengetahui bahwa seorang rekan kerja di loket pelayanan secara konsisten memperlambat proses layanan bagi orang tua yang terlihat dari kalangan kurang mampu, namun cepat melayani orang tua yang berpenampilan rapi. Atasan belum mengetahui hal ini. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena Anda tidak ingin konflik dengan rekan kerja",
+      "B": "Menegur rekan di depan antrean agar orang tua yang dilayani merasa diperjuangkan",
+      "C": "Mendiskusikan pengamatan Anda secara privat dengan rekan tersebut terlebih dahulu, dan jika perilaku berlanjut, melaporkan kepada atasan dengan bukti yang dapat dijelaskan",
+      "D": "Langsung merekam perilaku rekan dengan ponsel sebagai bukti tanpa konfirmasi apapun"
+    },
+    "jawaban": "C",
+    "pembahasan": "Diskriminasi dalam pelayanan publik harus diatasi; pendekatan awal secara privat memberi kesempatan perbaikan, dan eskalasi formal dilakukan jika tidak ada perubahan."
+  },
+  {
+    "no": 109,
+    "subtes": "Manajerial",
+    "kompetensi": "Pelayanan publik",
+    "level": "Sedang",
+    "soal": "Sistem antrian digital di loket pelayanan mengalami error sehingga nomor antrean tidak bisa dicetak. Masih ada 12 orang yang menunggu. Tindakan paling tepat Anda lakukan adalah...",
+    "opsi": {
+      "A": "Menutup loket sementara sampai sistem pulih meski tidak ada kepastian waktu",
+      "B": "Beralih ke sistem antrean manual menggunakan daftar tulis, mengumumkan perubahan kepada yang menunggu, dan melanjutkan pelayanan tanpa jeda panjang",
+      "C": "Melayani berdasarkan penampilan dan urgensi yang Anda nilai sendiri",
+      "D": "Meminta semua orang yang menunggu untuk pulang dan datang kembali esok hari"
+    },
+    "jawaban": "B",
+    "pembahasan": "Ketika sistem gagal, petugas layanan publik yang baik berinisiatif menggunakan prosedur cadangan untuk memastikan pelayanan tetap berjalan tanpa diskriminasi."
+  },
+  {
+    "no": 110,
+    "subtes": "Manajerial",
+    "kompetensi": "Pengembangan diri dan orang lain",
+    "level": "Mudah",
+    "soal": "Sekolah Rakyat tempat Anda bekerja akan menerapkan sistem pengelolaan data baru yang berbasis aplikasi digital. Anda belum familiar dengan aplikasi tersebut. Sikap terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menghindari penggunaan aplikasi baru dan tetap menggunakan cara lama karena Anda sudah terbiasa",
+      "B": "Menunggu rekan kerja yang lebih muda untuk mengajari Anda saat ada waktu",
+      "C": "Secara proaktif mempelajari aplikasi melalui panduan yang tersedia, mengikuti pelatihan yang disediakan, dan tidak ragu bertanya kepada yang lebih paham",
+      "D": "Meminta atasan untuk membebaskan Anda dari kewajiban menggunakan aplikasi tersebut"
+    },
+    "jawaban": "C",
+    "pembahasan": "Pengembangan diri yang baik ditunjukkan dengan sikap proaktif dalam menghadapi perubahan teknologi, bukan penolakan atau ketergantungan pada orang lain."
+  },
+  {
+    "no": 111,
+    "subtes": "Manajerial",
+    "kompetensi": "Pengembangan diri dan orang lain",
+    "level": "Sedang",
+    "soal": "Anda memiliki pengalaman 5 tahun dalam pengelolaan arsip, sementara rekan baru Anda yang baru bergabung masih sering melakukan kesalahan dalam pengarsipan. Atasan meminta Anda untuk membimbing rekan tersebut. Pendekatan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Mengerjakan tugas pengarsipan rekan tersebut sendiri karena lebih cepat dan efisien",
+      "B": "Membimbing dengan menunjukkan cara yang benar, memberi ruang bagi rekan untuk mencoba sendiri, dan memberikan umpan balik yang spesifik setelah ia mencoba",
+      "C": "Menegur rekan setiap kali ada kesalahan di depan staf lain agar ia lebih berhati-hati",
+      "D": "Menyerahkan panduan SOP tertulis dan memintanya belajar sendiri tanpa pendampingan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pembimbingan yang efektif menggabungkan demonstrasi, kesempatan praktik mandiri, dan umpan balik konstruktif yang mendorong pertumbuhan tanpa mempermalukan."
+  },
+  {
+    "no": 112,
+    "subtes": "Manajerial",
+    "kompetensi": "Pengembangan diri dan orang lain",
+    "level": "Sulit",
+    "soal": "Setelah mengikuti pelatihan manajemen data selama dua hari atas biaya instansi, Anda diminta atasan untuk menyusun ringkasan materi dan melatihkan keterampilan baru tersebut kepada empat rekan kerja yang tidak bisa hadir. Anda merasa kurang percaya diri menjadi fasilitator. Tindakan terbaik adalah...",
+    "opsi": {
+      "A": "Menolak karena merasa belum cukup ahli dan meminta atasan mencari trainer eksternal",
+      "B": "Menyetujui, menyiapkan materi dengan baik menggunakan catatan pelatihan, menyampaikan dengan jujur bahwa Anda baru saja belajar, dan mendorong diskusi dua arah",
+      "C": "Menyetujui tetapi menyampaikan materi hanya secara lisan tanpa persiapan agar tidak terlihat kaku",
+      "D": "Mengirimkan materi pelatihan asli melalui grup chat tanpa sesi tatap muka"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kesediaan berbagi pengetahuan yang baru diperoleh dengan persiapan matang dan kejujuran tentang batas kemampuan mencerminkan pengembangan diri dan orang lain yang autentik."
+  },
+  {
+    "no": 113,
+    "subtes": "Manajerial",
+    "kompetensi": "Mengelola perubahan",
+    "level": "Sedang",
+    "soal": "Kepala sekolah mengumumkan bahwa mulai bulan depan seluruh laporan administrasi harus dikirim dalam format digital dan tidak lagi menerima berkas fisik. Sebagian besar staf mengeluh kesulitan. Sebagai petugas TU yang lebih familiar dengan teknologi, sikap terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkan rekan yang kesulitan menyelesaikan masalahnya sendiri karena itu tanggung jawab masing-masing",
+      "B": "Menjelaskan kepada kepala sekolah bahwa kebijakan ini tidak realistis dan perlu dibatalkan",
+      "C": "Secara sukarela membantu rekan yang kesulitan beradaptasi, mengusulkan sesi latihan singkat bersama, dan menyampaikan hambatan teknis yang nyata kepada atasan secara konstruktif",
+      "D": "Tetap menggunakan format fisik untuk laporan Anda sendiri sampai rekan lain siap"
+    },
+    "jawaban": "C",
+    "pembahasan": "Mengelola perubahan yang efektif mencakup membantu rekan beradaptasi, menyampaikan kendala secara konstruktif, dan tetap bergerak maju sesuai arah kebijakan."
+  },
+  {
+    "no": 114,
+    "subtes": "Manajerial",
+    "kompetensi": "Mengelola perubahan",
+    "level": "Mudah",
+    "soal": "Sekolah Rakyat Anda menerapkan rotasi tugas antar staf TU setiap enam bulan sebagai kebijakan baru. Anda akan dipindahkan dari tugas pengarsipan ke tugas layanan front office yang belum pernah Anda lakukan. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Mengajukan keberatan resmi karena sudah nyaman dan ahli di posisi sebelumnya",
+      "B": "Menerima rotasi dengan sikap terbuka, aktif mempelajari tugas baru, dan meminta bimbingan dari rekan yang berpengalaman di posisi tersebut",
+      "C": "Menerima secara formal tetapi tetap mengerjakan tugas pengarsipan di waktu luang",
+      "D": "Menunggu instruksi detail sebelum mulai mempelajari apapun tentang tugas baru"
+    },
+    "jawaban": "B",
+    "pembahasan": "Sikap terbuka terhadap rotasi tugas dan inisiatif belajar yang proaktif mencerminkan kemampuan adaptasi yang diperlukan dalam lingkungan kerja yang berkembang."
+  },
+  {
+    "no": 115,
+    "subtes": "Manajerial",
+    "kompetensi": "Mengelola perubahan",
+    "level": "Sulit",
+    "soal": "Kebijakan baru mengharuskan semua data siswa diinput ke sistem pusat yang belum stabil dan sering error, menggantikan sistem lokal yang selama ini berjalan lancar. Tenggat migrasi data sangat ketat. Anda menemukan bahwa sistem baru menyebabkan banyak data ganda dan inkonsistensi. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menolak menggunakan sistem baru dan melanjutkan input di sistem lama sambil menunggu sistem baru diperbaiki",
+      "B": "Menggunakan sistem baru sesuai kebijakan, mendokumentasikan setiap error yang ditemukan secara sistematis, melaporkan temuan kepada atasan disertai data konkret, dan mengusulkan mekanisme verifikasi tambahan",
+      "C": "Menggunakan sistem baru tanpa melaporkan error karena takut dianggap menghambat kebijakan",
+      "D": "Meminta rekan dari unit lain untuk menginput data sambil Anda terus menggunakan sistem lama"
+    },
+    "jawaban": "B",
+    "pembahasan": "Mengikuti kebijakan sambil mendokumentasikan masalah secara sistematis dan melaporkannya dengan data adalah cara yang paling bertanggung jawab dalam transisi perubahan."
+  },
+  {
+    "no": 116,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Mudah",
+    "soal": "Sekolah Rakyat tempat Anda bekerja memiliki siswa dari 12 provinsi berbeda dengan latar belakang budaya yang sangat beragam. Seorang siswa dari Papua merasa minder karena logat bicaranya sering ditirukan rekan-rekannya. Tindakan Anda sebagai staf adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena itu bercanda biasa di kalangan remaja",
+      "B": "Menegur perilaku menirukan logat tersebut, menjelaskan bahwa setiap daerah memiliki kekayaan bahasa yang patut dihargai, dan memastikan siswa yang bersangkutan merasa aman",
+      "C": "Menyarankan siswa Papua untuk berbicara lebih standar agar tidak jadi bahan candaan",
+      "D": "Melaporkan ke orang tua siswa yang menirukan tanpa menangani situasinya langsung"
+    },
+    "jawaban": "B",
+    "pembahasan": "Menjadi perekat bangsa berarti aktif melindungi martabat setiap siswa dari segala bentuk diskriminasi berbasis identitas daerah dan mendorong budaya saling menghargai."
+  },
+  {
+    "no": 117,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Sedang",
+    "soal": "Menjelang perayaan hari kemerdekaan, Anda diminta merancang kegiatan yang melibatkan seluruh siswa dari berbagai daerah. Pendekatan yang paling tepat mencerminkan semangat persatuan adalah...",
+    "opsi": {
+      "A": "Menampilkan budaya dari satu daerah saja yang paling dikenal secara nasional",
+      "B": "Merancang kegiatan kolaboratif yang memadukan unsur budaya dari berbagai daerah yang diwakili siswa, sehingga setiap kelompok merasa diakui dan berkontribusi",
+      "C": "Mengadakan pertandingan antardaerah untuk menentukan budaya mana yang paling menarik",
+      "D": "Membebaskan siswa memilih kegiatan sendiri-sendiri tanpa tema persatuan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kegiatan yang merayakan keberagaman sekaligus membangun rasa kontribusi bersama adalah wujud nyata dari nilai perekat bangsa dalam lingkungan pendidikan multikultural."
+  },
+  {
+    "no": 118,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Sulit",
+    "soal": "Anda mengetahui bahwa di asrama terbentuk kelompok-kelompok siswa yang cenderung hanya bergaul dengan teman sedaerah dan mulai menunjukkan sikap tidak mau berbagi fasilitas dengan kelompok lain. Kondisi ini belum sampai ke telinga kepala sekolah. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya selama tidak ada perkelahian fisik",
+      "B": "Melaporkan langsung kepada kepala sekolah tanpa melakukan pendekatan apapun terlebih dahulu",
+      "C": "Melakukan pendekatan informal kepada masing-masing kelompok untuk memahami akar masalah, merancang aktivitas yang mendorong interaksi lintas kelompok, dan melaporkan situasi kepada kepala sekolah beserta langkah yang sudah diambil",
+      "D": "Memisahkan kamar asrama berdasarkan asal daerah agar tidak ada konflik penggunaan fasilitas"
+    },
+    "jawaban": "C",
+    "pembahasan": "Segregasi sosial di asrama perlu ditangani dengan pendekatan berbasis pemahaman dan interaksi positif, bukan pemisahan yang justru memperkuat sekat antar kelompok."
+  },
+  {
+    "no": 119,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Sedang",
+    "soal": "Seorang siswa menyatakan tidak mau mengikuti upacara bendera karena menurutnya ritual tersebut tidak sejalan dengan keyakinan keluarganya. Tindakan paling tepat Anda sebagai staf adalah...",
+    "opsi": {
+      "A": "Memaksanya mengikuti upacara karena itu adalah kewajiban nasional tanpa penjelasan lebih lanjut",
+      "B": "Membebaskannya dari upacara tanpa proses apapun agar tidak ada konflik",
+      "C": "Mendengarkan keberatan siswa dengan empati, menjelaskan makna upacara sebagai penghormatan bersama, dan melibatkan guru pembimbing atau kepala sekolah untuk mencari penyelesaian yang menghormati kedua nilai",
+      "D": "Mencatat siswa tersebut sebagai bermasalah dan melaporkannya kepada orang tua tanpa dialog"
+    },
+    "jawaban": "C",
+    "pembahasan": "Menangani ketegangan antara keyakinan pribadi dan kewajiban bersama memerlukan dialog empatik dan keterlibatan pihak yang berwenang untuk solusi yang menghormati semua pihak."
+  },
+  {
+    "no": 120,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Perekat dan pemersatu bangsa",
+    "level": "Mudah",
+    "soal": "Di ruang tunggu orang tua, Anda melihat seorang orang tua siswa dari suku minoritas yang tampak canggung dan tidak disambut oleh orang tua lain yang sedang berbincang dalam bahasa daerah mayoritas. Sikap terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena itu urusan sesama orang tua",
+      "B": "Menyapa orang tua tersebut secara ramah dalam bahasa Indonesia, memperkenalkannya kepada kelompok yang ada, dan menciptakan suasana yang inklusif",
+      "C": "Hanya memastikan urusan administrasi orang tua tersebut selesai lalu membiarkannya menunggu sendiri",
+      "D": "Meminta kelompok orang tua lain untuk berbicara dalam bahasa Indonesia"
+    },
+    "jawaban": "B",
+    "pembahasan": "Staf yang menjadi perekat bangsa tidak hanya menghindari diskriminasi tetapi juga aktif menciptakan suasana inklusif di setiap interaksi."
+  },
+  {
+    "no": 121,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Mudah",
+    "soal": "Jadwal makan siang asrama bertepatan dengan waktu ibadah wajib bagi siswa dari agama tertentu. Beberapa siswa harus memilih antara makan atau beribadah. Tindakan terbaik Anda sebagai petugas layanan asrama adalah...",
+    "opsi": {
+      "A": "Memberi tahu siswa bahwa jadwal makan tidak bisa diubah karena sudah ditetapkan",
+      "B": "Mengusulkan penyesuaian jadwal makan atau menyediakan opsi makan lebih awal atau lebih lambat bagi siswa yang memerlukan, setelah berkoordinasi dengan pihak yang berwenang",
+      "C": "Membiarkan siswa memilih sendiri tanpa fasilitas apapun dari sekolah",
+      "D": "Menyarankan siswa untuk mempersingkat waktu ibadahnya agar bisa tetap makan bersama"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kepekaan terhadap keberagaman agama diwujudkan dengan mencari akomodasi yang memungkinkan siswa menjalankan kewajiban agama tanpa mengorbankan kebutuhan dasar mereka."
+  },
+  {
+    "no": 122,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Sedang",
+    "soal": "Seorang siswa mengeluhkan bahwa menu makanan asrama selalu mengandung bahan yang tidak sesuai dengan pantangan agamanya, padahal ia sudah menyampaikan hal ini saat pendaftaran. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Meminta siswa untuk menyesuaikan diri dengan menu yang ada karena menu berlaku untuk semua",
+      "B": "Mengabaikan keluhan karena itu sudah menjadi risiko yang diketahui saat mendaftar",
+      "C": "Mendokumentasikan keluhan, memverifikasi catatan pendaftaran, berkoordinasi dengan bagian gizi atau dapur untuk menyediakan alternatif menu yang sesuai, dan memberi jawaban kepada siswa tentang langkah tindak lanjutnya",
+      "D": "Meminta siswa membawa makanannya sendiri dari luar"
+    },
+    "jawaban": "C",
+    "pembahasan": "Keluhan berbasis kebutuhan agama yang tercatat sejak awal harus ditindaklanjuti secara sistematis; ini adalah hak dasar siswa yang harus dipenuhi oleh layanan asrama."
+  },
+  {
+    "no": 123,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Sulit",
+    "soal": "Anda mendengar seorang staf membuat komentar bernada merendahkan tentang siswa dari etnis tertentu dalam obrolan tidak resmi di ruang staf. Komentar tersebut tidak terdengar oleh siswa. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut tertawa agar suasana tidak canggung meski Anda tidak setuju",
+      "B": "Diam dan tidak merespons karena itu hanya obrolan biasa dan tidak ada yang terluka",
+      "C": "Menyatakan dengan tenang bahwa komentar tersebut tidak tepat dan dapat merugikan lingkungan kerja yang inklusif, lalu mengakhiri percakapan tersebut",
+      "D": "Langsung melaporkan staf tersebut kepada atasan tanpa terlebih dahulu menegurnya"
+    },
+    "jawaban": "C",
+    "pembahasan": "Sikap diam atau tertawa mengamini komentar diskriminatif; menegur secara langsung dan tenang adalah respons yang paling tepat untuk membangun budaya kerja yang inklusif."
+  },
+  {
+    "no": 124,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Sedang",
+    "soal": "Seorang orang tua siswa meminta agar anaknya dipisahkan dari teman sekamar yang berbeda agama dengan alasan ingin menjaga kemurnian akidah. permintaan ini disampaikan secara formal dalam surat kepada kepala sekolah. Anda diminta memberikan rekomendasi. Rekomendasi paling tepat adalah...",
+    "opsi": {
+      "A": "Mengabulkan permintaan karena orang tua berhak menentukan lingkungan anak",
+      "B": "Menolak tanpa penjelasan dan memaksa siswa tetap di kamar yang sama",
+      "C": "Merekomendasikan dialog antara orang tua, siswa, dan pihak sekolah untuk memahami kekhawatiran sebenarnya, menjelaskan nilai kebhinekaan yang menjadi fondasi program, dan mencari solusi yang tidak menciptakan segregasi formal",
+      "D": "Mengabulkan sebagian dengan memindahkan siswa ke kamar lain yang kebetulan lebih homogen"
+    },
+    "jawaban": "C",
+    "pembahasan": "Permintaan pemisahan berbasis agama perlu ditanggapi dengan dialog yang menghormati kekhawatiran orang tua sekaligus mempertahankan nilai kebhinekaan yang menjadi fondasi Sekolah Rakyat."
+  },
+  {
+    "no": 125,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Kepekaan terhadap keberagaman suku, agama, ras",
+    "level": "Mudah",
+    "soal": "Dalam pengisian formulir pendataan siswa, ada kolom yang meminta informasi suku dan agama. Seorang siswa tampak ragu mengisi kolom tersebut. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memaksanya mengisi karena data tersebut wajib untuk keperluan administrasi",
+      "B": "Menjelaskan dengan ramah untuk apa data tersebut digunakan, memastikan kerahasiaannya terjaga, dan memberi siswa ruang untuk memutuskan",
+      "C": "Membiarkan kolom tersebut kosong tanpa penjelasan apapun",
+      "D": "Mengisinya berdasarkan perkiraan Anda dari penampilan fisik siswa"
+    },
+    "jawaban": "B",
+    "pembahasan": "Data identitas sensitif harus dikumpulkan dengan transparansi tentang tujuan penggunaan dan jaminan kerahasiaan agar siswa merasa aman dan dihormati."
+  },
+  {
+    "no": 126,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Mudah",
+    "soal": "Seorang siswa penerima beasiswa dari keluarga sangat miskin terlihat malu saat mengambil perlengkapan sekolah yang disediakan program di depan teman-temannya. Tindakan paling tepat Anda sebagai staf adalah...",
+    "opsi": {
+      "A": "Memanggil namanya keras-keras di depan semua siswa agar prosesnya efisien",
+      "B": "Mengatur mekanisme pengambilan perlengkapan secara privat atau di waktu yang tidak ramai untuk menjaga martabat siswa",
+      "C": "Memberitahu teman-teman siswa bahwa ia mendapat beasiswa agar mereka bisa membantu",
+      "D": "Meminta siswa mengambil sendiri di luar jam sekolah tanpa pendampingan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Melindungi martabat siswa dari kelompok rentan adalah tanggung jawab layanan; mekanisme privat mencegah rasa malu yang tidak perlu tanpa mengurangi hak mereka."
+  },
+  {
+    "no": 127,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Sedang",
+    "soal": "Seorang siswa yang berasal dari keluarga dengan riwayat kekerasan dalam rumah tangga menunjukkan perubahan perilaku yang mencolok: menjadi pendiam, tidak mau makan, dan menghindari kontak dengan staf. Anda adalah petugas asrama yang pertama menyadari hal ini. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menunggu siswa mau bercerita sendiri tanpa intervensi karena tidak ingin dianggap ikut campur",
+      "B": "Mendekati siswa secara individual dengan pendekatan yang hangat dan tidak menghakimi, mendengarkan jika ia mau bercerita, dan segera melaporkan perubahan perilaku ini kepada guru pembimbing atau konselor sekolah",
+      "C": "Langsung menelepon orang tua siswa untuk menanyakan apa yang terjadi di rumah",
+      "D": "Mengumumkan kepada staf lain agar semua waspada terhadap perilaku siswa tersebut"
+    },
+    "jawaban": "B",
+    "pembahasan": "Pendekatan empatik yang tidak menghakimi dan pelaporan kepada profesional yang tepat adalah respons paling aman untuk siswa yang berpotensi mengalami trauma."
+  },
+  {
+    "no": 128,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Sulit",
+    "soal": "Seorang siswa penyandang disabilitas ringan (kesulitan belajar) mengalami kesulitan mengisi formulir administrasi yang rumit dan terlihat frustrasi. Ada antrean panjang di belakangnya. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Meminta siswa minggir dulu dan mengisi formulir di luar antrean tanpa bantuan agar antrean lancar",
+      "B": "Mengisi seluruh formulir atas namanya tanpa melibatkan siswa agar cepat selesai",
+      "C": "Meluangkan waktu memandu siswa mengisi formulir langkah demi langkah dengan sabar, atau jika memungkinkan mengajak rekan lain sementara melayani antrean yang lain, sehingga siswa tetap aktif dalam prosesnya",
+      "D": "Memintanya datang di luar jam sibuk agar Anda bisa membantu lebih leluasa"
+    },
+    "jawaban": "C",
+    "pembahasan": "Layanan terhadap penyandang disabilitas harus memastikan mereka tetap aktif dalam proses layanannya sendiri; mengambil alih sepenuhnya justru mengurangi kemandirian mereka."
+  },
+  {
+    "no": 129,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Sedang",
+    "soal": "Seorang orang tua tunggal yang bekerja sebagai buruh harian tidak bisa hadir pada pertemuan orang tua yang dijadwalkan di hari kerja. Ia meminta agar informasi dari pertemuan tersebut disampaikan kepadanya melalui cara lain. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memintanya tetap hadir karena absensi orang tua akan mempengaruhi penilaian keaktifan",
+      "B": "Memberikan ringkasan tertulis hasil pertemuan kepada orang tua tersebut dan menawarkan waktu konsultasi alternatif yang lebih fleksibel sesuai kemampuannya",
+      "C": "Menyuruh anaknya untuk menyampaikan informasi pertemuan kepada orang tuanya",
+      "D": "Mencatat ketidakhadiran tanpa tindak lanjut apapun"
+    },
+    "jawaban": "B",
+    "pembahasan": "Fleksibilitas dalam pelayanan kepada orang tua dari kelompok rentan ekonomi mencerminkan empati dan komitmen terhadap kesetaraan akses informasi pendidikan."
+  },
+  {
+    "no": 130,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Empati dan layanan terhadap kelompok rentan",
+    "level": "Mudah",
+    "soal": "Seorang siswa baru dari daerah terpencil tampak kebingungan dan tidak tahu cara menggunakan fasilitas sanitasi modern di asrama. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menertawakannya bersama staf lain karena dianggap lucu",
+      "B": "Membiarkannya belajar sendiri melalui pengamatan agar tidak tergantung pada orang lain",
+      "C": "Menjelaskan cara penggunaan fasilitas dengan sopan dan sabar tanpa mempermalukan siswa, dan memastikan ia merasa nyaman bertanya jika masih bingung",
+      "D": "Meminta teman sekamarnya untuk mengajarinya tanpa memberitahu kepada staf"
+    },
+    "jawaban": "C",
+    "pembahasan": "Mendampingi siswa dari daerah terpencil beradaptasi dengan fasilitas modern adalah bagian dari layanan yang empatik dan menghargai latar belakang yang berbeda."
+  },
+  {
+    "no": 131,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Sedang",
+    "soal": "Seorang siswa menanyakan kepada Anda mengapa harus belajar Pancasila dan menganggapnya tidak relevan dengan kehidupan sehari-hari. Anda adalah staf TU yang kebetulan mendengar pertanyaan ini di lorong sekolah. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Mendiamkannya karena itu bukan tugas Anda untuk menjelaskan hal akademis",
+      "B": "Menyetujui pendapat siswa bahwa Pancasila memang tidak terlalu relevan untuk anak muda",
+      "C": "Merespons dengan contoh sederhana bagaimana nilai Pancasila hadir dalam kehidupan nyata di sekolah, dan menyarankan siswa untuk mendiskusikan lebih dalam dengan guru yang bersangkutan",
+      "D": "Memarahi siswa karena dianggap tidak menghargai dasar negara"
+    },
+    "jawaban": "C",
+    "pembahasan": "Staf ASN di lingkungan pendidikan turut bertanggung jawab menguatkan wawasan kebangsaan; respons yang bijak mengaitkan nilai abstrak dengan pengalaman nyata tanpa menggurui."
+  },
+  {
+    "no": 132,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Mudah",
+    "soal": "Anda melihat bendera merah putih di tiang sekolah sudah lusuh dan warnanya pudar. Acara resmi sekolah akan berlangsung minggu depan. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena pengadaan bendera bukan tanggung jawab langsung Anda",
+      "B": "Menunggu ada yang melaporkan secara resmi terlebih dahulu sebelum bertindak",
+      "C": "Segera melaporkan kondisi bendera kepada penanggung jawab sarana dan mengusulkan penggantian sebelum acara berlangsung",
+      "D": "Menurunkan bendera dan menyimpannya tanpa memberitahu siapapun"
+    },
+    "jawaban": "C",
+    "pembahasan": "Menjaga simbol negara dalam kondisi layak adalah wujud nyata wawasan kebangsaan; inisiatif pelaporan proaktif mencerminkan etika publik yang baik."
+  },
+  {
+    "no": 133,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Sulit",
+    "soal": "Anda menemukan konten di grup percakapan staf sekolah yang berisi informasi menyesatkan tentang sejarah nasional dan berpotensi menimbulkan perpecahan. Beberapa staf sudah menyebarkan ulang konten tersebut. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut menyebarkan karena sudah banyak yang berbagi dan tampaknya valid",
+      "B": "Keluar dari grup tanpa memberikan komentar apapun",
+      "C": "Menyampaikan dengan sopan di grup bahwa konten tersebut perlu diverifikasi terlebih dahulu, menyertakan sumber yang lebih kredibel jika tersedia, dan jika konten bersifat sangat berbahaya, melaporkannya kepada atasan untuk tindakan lebih lanjut",
+      "D": "Menghubungi secara pribadi hanya teman terdekat untuk memperingatkan tanpa menyentuh konten di grup"
+    },
+    "jawaban": "C",
+    "pembahasan": "ASN bertanggung jawab menjaga ekosistem informasi yang sehat; merespons misinformasi dengan verifikasi sopan dan sumber kredibel lebih efektif daripada diam atau keluar."
+  },
+  {
+    "no": 134,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Sedang",
+    "soal": "Seorang tamu yang datang ke sekolah memakai seragam instansi lain dan meminta Anda menunjukkan data jumlah siswa per daerah asal tanpa surat tugas resmi. Ia berdalih data tersebut diperlukan untuk laporan pemerintah pusat. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memberikan data karena ia tampak resmi dan tujuannya untuk keperluan pemerintah",
+      "B": "Menolak memberikan data dan meminta tamu tersebut melengkapi surat tugas resmi serta mengikuti prosedur permohonan data yang berlaku",
+      "C": "Memberikan data tetapi meminta tamu menandatangani buku tamu terlebih dahulu",
+      "D": "Meminta tamu menunggu dan menelepon atasan, lalu memberikan data jika atasan setuju via telepon"
+    },
+    "jawaban": "B",
+    "pembahasan": "Data siswa adalah informasi yang dilindungi; prosedur permohonan resmi harus ditegakkan tanpa pandang penampilan atau klaim kewenangan tamu yang tidak disertai dokumen."
+  },
+  {
+    "no": 135,
+    "subtes": "Sosial Kultural",
+    "kompetensi": "Wawasan kebangsaan dan etika publik",
+    "level": "Mudah",
+    "soal": "Anda sebagai staf ASN di Sekolah Rakyat diminta seorang kerabat untuk ikut serta dalam kegiatan yang berpotensi mempermasalahkan kebijakan pemerintah secara terbuka di media sosial mengatasnamakan ASN. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut serta karena kerabat sudah meminta dan topiknya penting untuk disuarakan",
+      "B": "Menolak dengan sopan dan menjelaskan bahwa sebagai ASN Anda terikat aturan netralitas dan tidak diperkenankan terlibat dalam kegiatan politik praktis atau tindakan yang mencoreng citra instansi",
+      "C": "Ikut tetapi menggunakan nama samaran agar tidak ketahuan",
+      "D": "Ikut tetapi hanya sebagai penonton tanpa berkomentar apapun"
+    },
+    "jawaban": "B",
+    "pembahasan": "ASN wajib menjaga netralitas dan tidak boleh terlibat dalam aktivitas yang berpotensi mencoreng citra pemerintah atau instansi, meskipun ada tekanan dari lingkungan sosial."
+  },
+  {
+    "no": 136,
+    "subtes": "Wawancara",
+    "kompetensi": "Kejujuran dan integritas",
+    "level": "Sedang",
+    "soal": "Dalam sesi wawancara seleksi ini, Anda ditanya: 'Pernahkah Anda melakukan kesalahan dalam pekerjaan sebelumnya yang berdampak pada orang lain? Ceritakan.' Respons yang paling mencerminkan kejujuran dan integritas adalah...",
+    "opsi": {
+      "A": "Menjawab bahwa Anda tidak pernah melakukan kesalahan yang berarti karena selalu berhati-hati",
+      "B": "Menceritakan kesalahan nyata yang pernah terjadi, menjelaskan dampaknya, langkah yang Anda ambil untuk memperbaiki, dan apa yang Anda pelajari dari pengalaman tersebut",
+      "C": "Menyebutkan kesalahan kecil yang tidak berdampak apapun agar terlihat jujur tanpa berisiko",
+      "D": "Mengalihkan pertanyaan dengan menceritakan keberhasilan Anda yang relevan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kejujuran sejati mencakup keberanian mengakui kesalahan secara spesifik beserta pertanggungjawaban dan pembelajaran; jawaban yang mengecilkan atau menghindari kesalahan tidak mencerminkan integritas."
+  },
+  {
+    "no": 137,
+    "subtes": "Wawancara",
+    "kompetensi": "Kejujuran dan integritas",
+    "level": "Mudah",
+    "soal": "Saat seleksi berlangsung, Anda menyadari bahwa peserta di sebelah Anda sedang menyalin jawaban dari ponsel yang disembunyikan di bawah meja. Pengawas tidak melihat kejadian ini. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut melihat jawaban di ponsel tersebut karena kesempatan terbuka",
+      "B": "Membiarkannya karena bukan urusan Anda dan Anda tidak mau membuat masalah",
+      "C": "Melaporkan kejadian tersebut kepada pengawas secara diam-diam saat ada kesempatan",
+      "D": "Menegur peserta tersebut secara langsung dengan suara keras"
+    },
+    "jawaban": "C",
+    "pembahasan": "Integritas dalam seleksi berarti menjaga keadilan proses; melaporkan kecurangan kepada pengawas adalah tindakan yang tepat tanpa harus membuat kegaduhan."
+  },
+  {
+    "no": 138,
+    "subtes": "Wawancara",
+    "kompetensi": "Kejujuran dan integritas",
+    "level": "Sulit",
+    "soal": "Anda mengetahui bahwa seorang peserta seleksi PPPK di sekolah yang sama memiliki koneksi dengan salah satu anggota panitia dan tampaknya mendapat perlakuan istimewa dalam proses administrasi. Anda tidak memiliki bukti tertulis, hanya pengamatan. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Menyebarkan informasi ini kepada sesama peserta agar menjadi perhatian bersama",
+      "B": "Mendokumentasikan pengamatan Anda secara faktual dan menyampaikannya melalui mekanisme pengaduan resmi yang tersedia jika Anda yakin ada pelanggaran",
+      "C": "Mencoba mendekati anggota panitia yang sama untuk mendapatkan perlakuan serupa",
+      "D": "Mengabaikan karena tanpa bukti tertulis tidak ada gunanya melapor"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kecurigaan yang didasari pengamatan faktual harus disalurkan melalui mekanisme resmi, bukan disebarkan secara informal atau direspons dengan tindakan tidak etis serupa."
+  },
+  {
+    "no": 139,
+    "subtes": "Wawancara",
+    "kompetensi": "Kepatuhan terhadap aturan",
+    "level": "Mudah",
+    "soal": "Atasan Anda meminta Anda menyelesaikan tugas administrasi dengan cara yang lebih cepat namun melanggar prosedur baku yang berlaku. Ia berargumen bahwa itu lebih efisien dan tidak akan ketahuan. Respons terbaik Anda adalah...",
+    "opsi": {
+      "A": "Mengikuti instruksi atasan karena atasan selalu benar dan Anda tidak ingin konflik",
+      "B": "Menolak secara sopan, menjelaskan risiko pelanggaran prosedur, dan menawarkan untuk mencari cara yang lebih cepat namun tetap sesuai aturan",
+      "C": "Mengikuti instruksi tetapi menyimpan bukti bahwa Anda diperintahkan melakukannya",
+      "D": "Langsung melaporkan atasan kepada kepala sekolah tanpa terlebih dahulu menyampaikan keberatan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kepatuhan terhadap aturan harus dijaga bahkan ketika instruksi datang dari atasan; penolakan yang disampaikan dengan konstruktif dan tawaran solusi alternatif adalah respons yang paling profesional."
+  },
+  {
+    "no": 140,
+    "subtes": "Wawancara",
+    "kompetensi": "Kepatuhan terhadap aturan",
+    "level": "Sedang",
+    "soal": "Anda mengetahui bahwa rekan kerja secara rutin memanfaatkan aset sekolah seperti printer dan kertas untuk keperluan usaha pribadi di luar jam kerja. Ia menganggap hal ini wajar karena 'tidak mengganggu siapapun'. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Ikut memanfaatkan aset sekolah untuk keperluan pribadi karena rekan sudah melakukannya lebih dulu",
+      "B": "Mengingatkan rekan bahwa penggunaan aset negara untuk kepentingan pribadi melanggar aturan, dan menyarankannya untuk menghentikan kebiasaan tersebut",
+      "C": "Melaporkan langsung ke inspektorat tanpa memberi tahu rekan terlebih dahulu",
+      "D": "Membiarkannya karena memang tidak ada yang dirugikan secara langsung"
+    },
+    "jawaban": "B",
+    "pembahasan": "Penggunaan aset negara untuk kepentingan pribadi adalah pelanggaran aturan ASN; mengingatkan rekan secara langsung adalah langkah awal yang proporsional sebelum eskalasi."
+  },
+  {
+    "no": 141,
+    "subtes": "Wawancara",
+    "kompetensi": "Kepatuhan terhadap aturan",
+    "level": "Sulit",
+    "soal": "Anda menemukan celah dalam sistem yang memungkinkan Anda memproses dokumen lebih cepat dengan melewati satu tahap verifikasi yang dianggap memakan waktu. Secara teknis tidak ada yang melarang hal ini secara eksplisit dalam SOP, namun tahap verifikasi tersebut ada untuk alasan akurasi data. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Memanfaatkan celah tersebut karena tidak ada larangan eksplisit dan hasilnya lebih efisien",
+      "B": "Tidak memanfaatkan celah, melaporkan temuan celah tersebut kepada atasan, dan mengusulkan revisi SOP untuk menutup celah sambil tetap mempertahankan efisiensi",
+      "C": "Memanfaatkan celah hanya untuk kasus mendesak saja",
+      "D": "Membagikan informasi celah ini kepada rekan kerja agar semua bisa bekerja lebih cepat"
+    },
+    "jawaban": "B",
+    "pembahasan": "Kepatuhan yang matang bukan sekadar mengikuti aturan yang tersurat, tetapi juga memahami tujuan aturan; melaporkan celah dan mengusulkan perbaikan mencerminkan integritas prosedural."
+  },
+  {
+    "no": 142,
+    "subtes": "Wawancara",
+    "kompetensi": "Etika kerja dan moralitas",
+    "level": "Mudah",
+    "soal": "Anda baru saja selesai mengerjakan tugas lebih awal dan masih ada satu jam sebelum jam kerja berakhir. Tidak ada atasan di ruangan. Tindakan yang paling mencerminkan etika kerja yang baik adalah...",
+    "opsi": {
+      "A": "Bermain ponsel karena tugas sudah selesai dan tidak ada yang mengawasi",
+      "B": "Pulang lebih awal karena tugas sudah selesai dan atasan tidak ada",
+      "C": "Menggunakan waktu tersebut untuk menyelesaikan pekerjaan yang tertunda, mempersiapkan tugas besok, atau membantu rekan yang masih sibuk",
+      "D": "Berpura-pura sibuk agar terlihat bekerja jika atasan tiba-tiba masuk"
+    },
+    "jawaban": "C",
+    "pembahasan": "Etika kerja yang baik tidak bergantung pada kehadiran pengawas; memanfaatkan waktu luang untuk pekerjaan produktif mencerminkan komitmen dan profesionalisme yang konsisten."
+  },
+  {
+    "no": 143,
+    "subtes": "Wawancara",
+    "kompetensi": "Etika kerja dan moralitas",
+    "level": "Sedang",
+    "soal": "Anda mengetahui bahwa seorang staf senior sering mengklaim hasil kerja orang lain sebagai karyanya kepada atasan. Staf tersebut cukup disegani di lingkungan kerja. Anda sendiri belum pernah menjadi korban langsung. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena Anda belum menjadi korban dan tidak mau bermasalah dengan staf senior",
+      "B": "Secara diam-diam mendokumentasikan karya dan kontribusi Anda secara konsisten, dan jika ada rekan yang menjadi korban, mendorong mereka untuk menyampaikan kepada atasan melalui jalur yang tepat",
+      "C": "Menyebarkan cerita ini kepada rekan lain agar semua waspada",
+      "D": "Langsung mengadukan staf tersebut kepada atasan tertinggi berdasarkan cerita rekan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Etika kerja yang matang mencakup melindungi integritas kontribusi diri sendiri dan mendukung rekan yang menjadi korban melalui jalur yang tepat, bukan gosip atau eskalasi prematur."
+  },
+  {
+    "no": 144,
+    "subtes": "Wawancara",
+    "kompetensi": "Etika kerja dan moralitas",
+    "level": "Sulit",
+    "soal": "Anda ditempatkan di sekolah yang jauh dari rumah dengan fasilitas terbatas. Beberapa bulan kemudian, ada tawaran posisi yang sama di kota yang lebih dekat dan nyaman melalui jalur yang tidak resmi. Anda diminta membayar sejumlah uang agar proses dipermudah. Tindakan terbaik Anda adalah...",
+    "opsi": {
+      "A": "Membayar karena kenyamanan hidup lebih penting dan semua orang melakukannya",
+      "B": "Menolak tawaran tersebut, tidak melibatkan diri dalam praktik tersebut, dan jika memungkinkan melaporkan tawaran itu kepada pihak yang berwenang",
+      "C": "Membayar sebagian dengan tawar-menawar agar terasa lebih etis",
+      "D": "Menolak saat ini tetapi menyimpan kontak penawar untuk digunakan di kemudian hari jika diperlukan"
+    },
+    "jawaban": "B",
+    "pembahasan": "Suap dalam mutasi jabatan adalah pelanggaran hukum dan etika ASN; penolakan tegas dan pelaporan jika memungkinkan adalah satu-satunya pilihan yang sesuai dengan moralitas."
+  },
+  {
+    "no": 145,
+    "subtes": "Wawancara",
+    "kompetensi": "Etika kerja dan moralitas",
+    "level": "Sulit",
+    "soal": "Anda mengetahui bahwa data yang Anda input ke laporan resmi mengandung angka yang sedikit tidak akurat karena tekanan waktu. Laporan sudah dikirim dan disetujui atasan. Beberapa hari kemudian Anda sadar kesalahan tersebut berdampak pada alokasi bantuan bagi siswa. Tindakan paling tepat Anda adalah...",
+    "opsi": {
+      "A": "Membiarkannya karena laporan sudah disetujui dan membuka masalah baru hanya akan merugikan Anda",
+      "B": "Menunggu ada audit untuk mengungkapkan kesalahan tersebut agar Anda tidak harus mengakuinya sendiri",
+      "C": "Segera mengakui kesalahan kepada atasan, menyampaikan dampak yang mungkin terjadi, dan mengusulkan langkah koreksi sebelum alokasi bantuan terdistribusi berdasarkan data yang salah",
+      "D": "Memperbaiki data secara diam-diam di sistem tanpa memberitahu siapapun"
+    },
+    "jawaban": "C",
+    "pembahasan": "Ketika kesalahan berdampak langsung pada pihak yang dilayani, tanggung jawab moral ASN mengharuskan pengakuan dan koreksi segera, meskipun itu berisiko secara personal."
+  }
+]
+
+Selesai — 

@@ -24,7 +24,7 @@ class TryoutSeeder extends Seeder
         $content = File::get($filePath);
 
         // Paket 1: Full SKD (110 Soal)
-        $tryoutFull = Tryout::firstOrCreate(
+        $tryoutFull = Tryout::updateOrCreate(
             ['title' => 'Paket 1: Full SKD CPNS 2026'],
             [
                 'category' => 'full',
@@ -35,7 +35,7 @@ class TryoutSeeder extends Seeder
         );
 
         // Paket 2: Khusus TWK (30 Soal)
-        $tryoutTwk = Tryout::firstOrCreate(
+        $tryoutTwk = Tryout::updateOrCreate(
             ['title' => 'Paket 2: Latihan Khusus TWK'],
             [
                 'category' => 'topic',
@@ -46,18 +46,20 @@ class TryoutSeeder extends Seeder
         );
 
         // Paket 3: Khusus TIU (35 Soal)
-        $tryoutTiu = Tryout::firstOrCreate(
+        $tryoutTiu = Tryout::updateOrCreate(
             ['title' => 'Paket 3: Latihan Khusus TIU'],
             [
                 'category' => 'topic',
                 'description' => 'Latihan 35 Soal Khusus Tes Intelegensia Umum (TIU) secara acak.',
                 'duration_minutes' => 35,
                 'is_active' => true,
+                'is_premium' => true,
+                'price' => 20000,
             ]
         );
 
         // Paket 4: Khusus TKP (45 Soal)
-        $tryoutTkp = Tryout::firstOrCreate(
+        $tryoutTkp = Tryout::updateOrCreate(
             ['title' => 'Paket 4: Latihan Khusus TKP'],
             [
                 'category' => 'topic',
@@ -68,7 +70,7 @@ class TryoutSeeder extends Seeder
         );
 
         // Paket 5: Paket Premium
-        $tryoutPremium = Tryout::firstOrCreate(
+        $tryoutPremium = Tryout::updateOrCreate(
             ['title' => 'Paket 5: Paket Premium SKD CPNS'],
             [
                 'category' => 'full',

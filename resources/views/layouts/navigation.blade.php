@@ -18,6 +18,9 @@
                     <x-nav-link :href="route('tryout.index', ['category' => 'topic'])" :active="request()->query('category') === 'topic' && request()->routeIs('tryout.index')">
                         {{ __('Latihan Topik') }}
                     </x-nav-link>
+                    <x-nav-link :href="route('tryout.index', ['category' => 'pppk'])" :active="request()->query('category') === 'pppk' && request()->routeIs('tryout.index')">
+                        {{ __('PPPK Sekolah Rakyat 2026') }}
+                    </x-nav-link>
                 </div>
             </div>
 
@@ -81,6 +84,9 @@
             </x-responsive-nav-link>
             <x-responsive-nav-link :href="route('tryout.index', ['category' => 'topic'])" :active="request()->query('category') === 'topic' && request()->routeIs('tryout.index')">
                 {{ __('Latihan Topik') }}
+            </x-responsive-nav-link>
+            <x-responsive-nav-link :href="route('tryout.index', ['category' => 'pppk'])" :active="request()->query('category') === 'pppk' && request()->routeIs('tryout.index')">
+                {{ __('PPPK Sekolah Rakyat 2026') }}
             </x-responsive-nav-link>
         </div>
 
