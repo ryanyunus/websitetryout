@@ -122,6 +122,9 @@ class TryoutSeeder extends Seeder
 
     private function insertQuestions($tryout, $matches, $forceTkp = false)
     {
+        // Hapus soal lama agar tidak duplikat (bertumpuk jadi 440) jika seeder dijalankan ulang
+        \App\Models\Question::where('tryout_id', $tryout->id)->delete();
+
         $qNumber = 1;
         foreach ($matches as $match) {
             $originalNumber = (int)$match[1];
