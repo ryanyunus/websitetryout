@@ -16,21 +16,28 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         // Admin
-        User::factory()->create([
-            'name' => 'Administrator',
-            'email' => 'admin@tryout.com',
-            'password' => bcrypt('password'),
-            'is_admin' => true,
-        ]);
+        User::firstOrCreate(
+            ['email' => 'admin@tryout.com'],
+            [
+                'name' => 'Administrator',
+                'password' => bcrypt('password'),
+                'is_admin' => true,
+                'email_verified_at' => now(),
+            ]
+        );
 
         // User Dummy
-        User::factory()->create([
-            'name' => 'Peserta Ujian',
-            'email' => 'peserta@tryout.com',
-            'password' => bcrypt('password'),
-            'is_admin' => false,
-        ]);
+        User::firstOrCreate(
+            ['email' => 'peserta@tryout.com'],
+            [
+                'name' => 'Peserta Ujian',
+                'password' => bcrypt('password'),
+                'is_admin' => false,
+                'email_verified_at' => now(),
+            ]
+        );
 
         $this->call(TryoutSeeder::class);
+        $this->call(PppkSekolahRakyatSeeder::class);
     }
 }
