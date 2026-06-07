@@ -31,7 +31,7 @@
                         <div class="text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-blue-500 to-purple-600">
                             {{ $attempt->score }}
                         </div>
-                        <span class="block text-sm text-gray-500 dark:text-gray-400 mt-2">Skala 100</span>
+                        <span class="block text-sm text-gray-500 dark:text-gray-400 mt-2">Skala {{ $maxScore }}</span>
                     </div>
 
                     <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 max-w-md mx-auto mb-6 text-left">

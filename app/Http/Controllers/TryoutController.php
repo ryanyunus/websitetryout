@@ -276,6 +276,15 @@ class TryoutController extends Controller
         $totalQuestions = $tryout->questions()->count();
         $unanswered = $totalQuestions - ($correctAnswers + $wrongAnswers);
 
-        return view('tryout.result', compact('tryout', 'attempt', 'correctAnswers', 'wrongAnswers', 'unanswered', 'totalQuestions'));
+        // Menghitung skala maksimum dinamis (sum dari max points tiap soal)
+        $maxScore = \Illuminate\Support\Facades\DB::table('options')
+            ->join('questions', 'options.question_id', '=', 'questions.id')
+            ->where('questions.tryout_id', $tryout->id)
+            ->groupBy('questions.id')
+            ->selectRaw('MAX(options.points) as max_points')
+            ->get()
+            ->sum('max_points');
+
+        return view('tryout.result', compact('tryout', 'attempt', 'correctAnswers', 'wrongAnswers', 'unanswered', 'totalQuestions', 'maxScore'));
     }
 }
