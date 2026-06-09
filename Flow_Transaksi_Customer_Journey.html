@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flow Transaksi - Customer Journey</title>
+    <style>
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            line-height: 1.6; 
+            color: #333; 
+            max-width: 850px; 
+            margin: 0 auto; 
+            padding: 40px; 
+        }
+        .header {
+            text-align: center;
+            border-bottom: 2px solid #2980b9;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        .header h1 { 
+            color: #2c3e50; 
+            margin-bottom: 5px;
+        }
+        .header p {
+            color: #7f8c8d;
+            margin-top: 0;
+        }
+        .info-box {
+            background-color: #e8f4f8;
+            border-left: 4px solid #2980b9;
+            padding: 15px;
+            margin-bottom: 30px;
+        }
+        .step { 
+            background: #fff; 
+            border: 1px solid #e0e0e0; 
+            border-left: 5px solid #3498db; 
+            padding: 20px; 
+            margin-bottom: 25px; 
+            border-radius: 4px; 
+        }
+        .step h3 { 
+            margin-top: 0; 
+            color: #2980b9; 
+            font-size: 1.1em;
+            margin-bottom: 10px;
+        }
+        .step p {
+            margin-bottom: 15px;
+            font-size: 0.95em;
+        }
+        .screenshot-container {
+            margin-top: 15px;
+            text-align: center;
+        }
+        .screenshot {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+        }
+        .placeholder-box {
+            background: #f9f9f9;
+            border: 2px dashed #cbd5e1;
+            padding: 30px 15px;
+            border-radius: 4px;
+            color: #64748b;
+            font-size: 0.9em;
+            text-align: center;
+        }
+        .mermaid { 
+            text-align: center; 
+            margin: 40px 0; 
+        }
+        .footer { 
+            margin-top: 50px; 
+            text-align: center; 
+            font-size: 0.85em; 
+            color: #95a5a6; 
+            border-top: 1px solid #eee;
+            padding-top: 20px;
+        }
+        @media print {
+            body { padding: 0; max-width: 100%; }
+            .step { page-break-inside: avoid; }
+            .mermaid { page-break-inside: avoid; }
+            .placeholder-box { border: 1px solid #ccc; background: #fff; }
+        }
+    </style>
+    <!-- Mermaid.js for rendering the flowchart -->
+    <script type="module">
+      import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+      mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+    </script>
+</head>
+<body>
+
+    <div class="header">
+        <h1>Flow Transaksi & Customer Journey</h1>
+        <p>Dokumen Persyaratan Integrasi Payment Gateway</p>
+    </div>
+
+    <div class="info-box">
+        <strong>Deskripsi Sistem:</strong> Dokumen ini menjelaskan alur perjalanan pengguna (customer journey) pada platform Tryout kami, dimulai dari pengguna mengakses aplikasi hingga proses checkout menuju halaman pembayaran (Payment Page) dengan bukti tangkapan layar (screenshot) sistem yang terintegrasi.
+    </div>
+
+    <h2 style="text-align: center; color: #2c3e50;">Bagan Alur (Flowchart) Transaksi</h2>
+
+    <div class="mermaid">
+        flowchart TD
+            A([1. Buka Website / Apps]) --> B[2. Lihat Daftar Tryout]
+            B --> C{3. Pilih Tryout Premium}
+            C --> D[4. Halaman Detail Tryout]
+            D --> E[5. Klik 'Beli Sekarang']
+            E --> F{6. Cek Status Login}
+            F -- Belum Login --> G[7. Halaman Login / Register]
+            G --> H[8. Halaman Checkout]
+            F -- Sudah Login --> H
+            H --> I[9. Klik 'Bayar Sekarang']
+            I --> J[10. Sistem Generate Transaksi ke Gateway]
+            J --> K([11. Masuk ke Payment Page Gateway])
+            K --> L{12. Proses Pembayaran}
+            L -- Berhasil --> M([13. Halaman Transaksi Berhasil])
+            L -- Gagal/Batal --> N([14. Halaman Transaksi Gagal])
+            M --> O[15. Akses Tryout di Dashboard]
+            
+            style A fill:#e8f4f8,stroke:#2980b9,stroke-width:2px
+            style K fill:#3498db,stroke:#2980b9,stroke-width:2px,color:#fff
+            style M fill:#27ae60,stroke:#2ecc71,stroke-width:2px,color:#fff
+            style N fill:#e74c3c,stroke:#c0392b,stroke-width:2px,color:#fff
+            style F fill:#f9e79f,stroke:#f1c40f,stroke-width:2px
+            style C fill:#f9e79f,stroke:#f1c40f,stroke-width:2px
+    </div>
+
+    <h2 style="color: #2c3e50; margin-top: 40px;">Penjelasan Detail & Tangkapan Layar (Screenshots)</h2>
+
+    <div class="step">
+        <h3>1. Halaman Utama & Katalog Produk (Akses Website)</h3>
+        <p>Pengguna mengunjungi halaman utama website untuk melihat daftar paket Tryout yang tersedia (baik yang Gratis maupun Premium).</p>
+        <div class="screenshot-container">
+            <img class="screenshot" src="screens/1_homepage.png" alt="Screenshot Halaman Utama" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <div class="placeholder-box" style="display: none;">
+                [Tangkapan Layar: Halaman Utama / Daftar Tryout]<br>
+                <span style="font-size: 0.8em; color: #94a3b8;">Simpan screenshot halaman utama Anda dengan nama '1_homepage.png' di dalam folder 'screens'</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="step">
+        <h3>2. Halaman Login / Pendaftaran Akun</h3>
+        <p>Ketika pengguna ingin membeli paket tetapi belum masuk ke sistem, sistem akan mengarahkan pengguna ke halaman Login / Register untuk masuk atau membuat akun.</p>
+        <div class="screenshot-container">
+            <img class="screenshot" src="screens/2_login.png" alt="Screenshot Halaman Login" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <div class="placeholder-box" style="display: none;">
+                [Tangkapan Layar: Halaman Login atau Register]<br>
+                <span style="font-size: 0.8em; color: #94a3b8;">Simpan screenshot halaman login Anda dengan nama '2_login.png' di dalam folder 'screens'</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="step">
+        <h3>3. Halaman Detail Tryout (Pemilihan Paket)</h3>
+        <p>Pengguna melihat detail paket tryout premium yang dipilih (berisi jumlah soal, durasi pengerjaan, dan tombol inisiasi pembelian).</p>
+        <div class="screenshot-container">
+            <img class="screenshot" src="screens/3_checkout.png" alt="Screenshot Halaman Detail Tryout" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <div class="placeholder-box" style="display: none;">
+                [Tangkapan Layar: Halaman Detail Tryout]<br>
+                <span style="font-size: 0.8em; color: #94a3b8;">Simpan screenshot halaman detail tryout Anda dengan nama '3_checkout.png' di dalam folder 'screens'</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="step">
+        <h3>4. Halaman Checkout (Informasi Detail & Ringkasan Pesanan)</h3>
+        <p>Pengguna melihat ringkasan pesanan, harga paket yang harus dibayar, serta tombol <strong>"Bayar Sekarang"</strong> untuk menginisiasi proses pembayaran di Payment Gateway.</p>
+        <div class="screenshot-container">
+            <img class="screenshot" src="screens/4_payment_page.png" alt="Screenshot Halaman Checkout" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <div class="placeholder-box" style="display: none;">
+                [Tangkapan Layar: Halaman Checkout / Order Summary]<br>
+                <span style="font-size: 0.8em; color: #94a3b8;">Simpan screenshot halaman checkout Anda dengan nama '4_payment_page.png' di dalam folder 'screens'</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="step">
+        <h3>5. Halaman Payment Gateway (Pemilihan Metode Pembayaran)</h3>
+        <p>Pengguna diarahkan ke halaman Payment Gateway terintegrasi untuk memilih metode pembayaran (Transfer Bank, E-Wallet, QRIS, dll.) dan menyelesaikan pembayaran.</p>
+        <div class="screenshot-container">
+            <img class="screenshot" src="screens/5_payment_gateway.png" alt="Screenshot Halaman Payment Gateway" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <div class="placeholder-box" style="display: none;">
+                [Tangkapan Layar: Halaman Payment Gateway (Midtrans/Tripay/Lainnya)]<br>
+                <span style="font-size: 0.8em; color: #94a3b8;">Simpan screenshot halaman payment gateway dengan nama '5_payment_gateway.png' di dalam folder 'screens'</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="step">
+        <h3>6. Halaman Transaksi Berhasil (Success Page)</h3>
+        <p>Setelah pembayaran berhasil diverifikasi oleh Payment Gateway, pengguna diarahkan kembali (redirect) ke halaman website yang menampilkan pesan bahwa transaksi telah berhasil.</p>
+        <div class="screenshot-container">
+            <img class="screenshot" src="screens/6_payment_success.png" alt="Screenshot Halaman Transaksi Berhasil" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <div class="placeholder-box" style="display: none;">
+                [Tangkapan Layar: Halaman Transaksi Berhasil]<br>
+                <span style="font-size: 0.8em; color: #94a3b8;">Simpan screenshot halaman transaksi berhasil dengan nama '6_payment_success.png' di dalam folder 'screens'</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="step">
+        <h3>7. Halaman Dashboard / Riwayat Transaksi</h3>
+        <p>Pengguna dapat melihat riwayat transaksinya dengan status "Lunas" (Paid) dan mendapatkan akses untuk mulai mengerjakan Tryout yang telah dibeli.</p>
+        <div class="screenshot-container">
+            <img class="screenshot" src="screens/7_dashboard_access.png" alt="Screenshot Halaman Dashboard" onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+            <div class="placeholder-box" style="display: none;">
+                [Tangkapan Layar: Halaman Dashboard & Akses Tryout]<br>
+                <span style="font-size: 0.8em; color: #94a3b8;">Simpan screenshot halaman dashboard dengan nama '7_dashboard_access.png' di dalam folder 'screens'</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        Dibuat pada: <script>document.write(new Date().toLocaleDateString('id-ID'));</script> | Dokumen Persyaratan Pendaftaran Payment Gateway
+    </div>
+
+</body>
+</html>
