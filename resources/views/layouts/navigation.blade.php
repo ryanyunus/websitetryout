@@ -12,13 +12,10 @@
 
                 <!-- Navigation Links -->
                 <div class="hidden space-x-8 sm:-my-px sm:ms-10 sm:flex">
-                    <x-nav-link :href="route('tryout.index', ['category' => 'full'])" :active="request()->query('category', 'full') === 'full' && request()->routeIs('tryout.index')">
-                        {{ __('Paket Full SKD') }}
+                    <x-nav-link :href="route('tryout.index', ['category' => 'cpns'])" :active="in_array(request()->query('category', 'full'), ['cpns', 'full', 'topic']) && request()->routeIs('tryout.index')">
+                        {{ __('CPNS') }}
                     </x-nav-link>
-                    <x-nav-link :href="route('tryout.index', ['category' => 'topic'])" :active="request()->query('category') === 'topic' && request()->routeIs('tryout.index')">
-                        {{ __('Latihan Topik') }}
-                    </x-nav-link>
-                    <x-nav-link :href="route('tryout.index', ['category' => 'pppk'])" :active="request()->query('category') === 'pppk' && request()->routeIs('tryout.index')">
+                    <x-nav-link :href="route('tryout.index', ['category' => 'pppk'])" :active="in_array(request()->query('category'), ['pppk', 'pppk_guru', 'pppk_tendik']) && request()->routeIs('tryout.index')">
                         {{ __('PPPK Sekolah Rakyat 2026') }}
                     </x-nav-link>
                 </div>
@@ -79,13 +76,10 @@
     <!-- Responsive Navigation Menu -->
     <div :class="{'block': open, 'hidden': ! open}" class="hidden sm:hidden">
         <div class="pt-2 pb-3 space-y-1">
-            <x-responsive-nav-link :href="route('tryout.index', ['category' => 'full'])" :active="request()->query('category', 'full') === 'full' && request()->routeIs('tryout.index')">
-                {{ __('Paket Full SKD') }}
+            <x-responsive-nav-link :href="route('tryout.index', ['category' => 'cpns'])" :active="in_array(request()->query('category', 'full'), ['cpns', 'full', 'topic']) && request()->routeIs('tryout.index')">
+                {{ __('CPNS') }}
             </x-responsive-nav-link>
-            <x-responsive-nav-link :href="route('tryout.index', ['category' => 'topic'])" :active="request()->query('category') === 'topic' && request()->routeIs('tryout.index')">
-                {{ __('Latihan Topik') }}
-            </x-responsive-nav-link>
-            <x-responsive-nav-link :href="route('tryout.index', ['category' => 'pppk'])" :active="request()->query('category') === 'pppk' && request()->routeIs('tryout.index')">
+            <x-responsive-nav-link :href="route('tryout.index', ['category' => 'pppk'])" :active="in_array(request()->query('category'), ['pppk', 'pppk_guru', 'pppk_tendik']) && request()->routeIs('tryout.index')">
                 {{ __('PPPK Sekolah Rakyat 2026') }}
             </x-responsive-nav-link>
         </div>

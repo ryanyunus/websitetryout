@@ -20,15 +20,37 @@ class TryoutController extends Controller
      */
     public function index(Request $request)
     {
-        $category = $request->query('category', 'full');
-        $tryouts = Tryout::where('is_active', true)
-                         ->where('category', $category)
-                         ->get();
+        $category = $request->query('category', 'cpns');
+        
+        // Menampilkan Landing Page Pilihan Utama PPPK
+        if ($category === 'pppk') {
+            $pageTitle = 'PPPK Sekolah Rakyat 2026';
+            return view('tryout.pppk-landing', compact('category', 'pageTitle'));
+        }
+
+        // Menampilkan Landing Page Pilihan Utama CPNS
+        if ($category === 'cpns') {
+            $pageTitle = 'CPNS 2026';
+            return view('tryout.cpns-landing', compact('category', 'pageTitle'));
+        }
+
+        // Ambil Tryout berdasarkan Kategori
+        if (in_array($category, ['pppk_guru', 'pppk_tendik'])) {
+            $tryouts = Tryout::where('is_active', true)
+                             ->whereIn('category', [$category, 'pppk']) // Tetap panggil pppk (untuk tryout yg berlaku keduanya jika ada)
+                             ->get();
+        } else {
+            $tryouts = Tryout::where('is_active', true)
+                             ->where('category', $category)
+                             ->get();
+        }
                          
         if ($category === 'topic') {
-            $pageTitle = 'Latihan per Topik';
-        } elseif ($category === 'pppk') {
-            $pageTitle = 'PPPK Sekolah Rakyat 2026';
+            $pageTitle = 'Paket Mini Tryout';
+        } elseif ($category === 'pppk_guru') {
+            $pageTitle = 'PPPK GURU 2026';
+        } elseif ($category === 'pppk_tendik') {
+            $pageTitle = 'PPPK Tenaga Kependidikan 2026';
         } else {
             $pageTitle = 'Paket Full SKD';
         }
