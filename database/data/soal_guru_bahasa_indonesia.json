@@ -1,0 +1,491 @@
+{
+  "paket": "Kompetensi Teknis PPPK Guru Ahli Pertama – Bahasa Indonesia",
+  "jumlah_soal": 30,
+  "referensi": "Kepmenpan RB No. 348 Tahun 2024 & Materi Pokok Soal CAT PPPK 2024",
+  "distribusi": {
+    "profesional_linguistik_sastra": 12,
+    "pedagogik_sjt": 18
+  },
+  "soal": [
+    {
+      "no": 1,
+      "kategori": "Profesional – Linguistik",
+      "subkategori": "Morfologi",
+      "soal": "Kata 'pembuatan' dibentuk dari proses morfologi berupa...",
+      "opsi": {
+        "A": "Afiksasi: prefiks pe- + kata dasar buat + sufiks -an",
+        "B": "Afiksasi: konfiks pe-an + kata dasar buat",
+        "C": "Reduplikasi parsial dari kata dasar buat",
+        "D": "Afiksasi: prefiks pe- + sufiks -an secara berurutan, bukan serentak",
+        "E": "Komposisi antara kata pe- dan kata buatan"
+      },
+      "kunci": "B",
+      "bobot": null,
+      "pembahasan": "Konfiks pe-...-an merupakan satu morfem terikat yang melekat serentak, bukan dua afiks berurutan. Proses ini menghasilkan nomina dari verba 'membuat'."
+    },
+    {
+      "no": 2,
+      "kategori": "Profesional – Linguistik",
+      "subkategori": "Sintaksis",
+      "soal": "Perhatikan kalimat berikut: 'Buku itu dibaca oleh siswa dengan penuh konsentrasi.' Fungsi frasa 'dengan penuh konsentrasi' dalam kalimat tersebut adalah...",
+      "opsi": {
+        "A": "Objek penderita",
+        "B": "Pelengkap",
+        "C": "Keterangan cara",
+        "D": "Keterangan tujuan",
+        "E": "Atribut subjek"
+      },
+      "kunci": "C",
+      "bobot": null,
+      "pembahasan": "Frasa 'dengan penuh konsentrasi' merupakan frasa preposisional yang menduduki fungsi keterangan cara, menerangkan bagaimana proses membaca berlangsung."
+    },
+    {
+      "no": 3,
+      "kategori": "Profesional – Linguistik",
+      "subkategori": "Semantik",
+      "soal": "Pasangan kata 'bunga' (tanaman) dan 'bunga' (bunga bank) merupakan contoh relasi makna berupa...",
+      "opsi": {
+        "A": "Sinonim",
+        "B": "Polisemi",
+        "C": "Homonim",
+        "D": "Hiponim",
+        "E": "Antonim"
+      },
+      "kunci": "C",
+      "bobot": null,
+      "pembahasan": "Homonim adalah kata yang sama bentuknya (tulisan dan ucapan) tetapi maknanya berbeda dan tidak saling berkaitan. Bandingkan dengan polisemi yang memiliki satu kata dengan beberapa makna yang masih berkaitan."
+    },
+    {
+      "no": 4,
+      "kategori": "Profesional – Linguistik",
+      "subkategori": "Fonologi",
+      "soal": "Perubahan bunyi /p/ menjadi /f/ pada kata 'pikir → fikir' dalam bahasa Indonesia merupakan proses...",
+      "opsi": {
+        "A": "Asimilasi progresif",
+        "B": "Metatesis",
+        "C": "Lenisi (pelemahan bunyi)",
+        "D": "Disimilasi",
+        "E": "Epentesis"
+      },
+      "kunci": "C",
+      "bobot": null,
+      "pembahasan": "Lenisi atau pelemahan bunyi adalah proses perubahan konsonan hambat menjadi konsonan gesekan yang lebih lemah. /p/ (hambat bilabial) melemah menjadi /f/ (gesekan labiodental) akibat pengaruh fonem asing."
+    },
+    {
+      "no": 5,
+      "kategori": "Profesional – Sastra",
+      "subkategori": "Apresiasi Puisi",
+      "soal": "Ciri utama yang membedakan 'pantun' dari 'syair' dalam kesusastraan Melayu klasik adalah...",
+      "opsi": {
+        "A": "Pantun terdiri dari 4 baris, syair terdiri dari 2 baris",
+        "B": "Pantun memiliki sampiran dan isi, sedangkan seluruh bait syair merupakan isi yang berkesinambungan",
+        "C": "Syair menggunakan rima silang a-b-a-b, pantun menggunakan rima penuh a-a-a-a",
+        "D": "Pantun berasal dari Arab, syair berasal dari Melayu asli",
+        "E": "Syair hanya untuk nyanyian ritual, pantun untuk percakapan sehari-hari"
+      },
+      "kunci": "B",
+      "bobot": null,
+      "pembahasan": "Perbedaan fundamental: pantun memiliki dua bagian (sampiran & isi) dengan rima a-b-a-b. Syair terdiri dari 4 baris berrima a-a-a-a dan seluruh barisnya merupakan isi yang saling berkesinambungan membentuk cerita atau nasihat."
+    },
+    {
+      "no": 6,
+      "kategori": "Profesional – Sastra",
+      "subkategori": "Analisis Prosa",
+      "soal": "Teknik penceritaan di mana tokoh utama menceritakan kisahnya sendiri menggunakan kata 'aku' disebut sudut pandang...",
+      "opsi": {
+        "A": "Orang ketiga serba tahu",
+        "B": "Orang pertama pengamat",
+        "C": "Orang pertama pelaku utama",
+        "D": "Orang kedua",
+        "E": "Orang ketiga terbatas"
+      },
+      "kunci": "C",
+      "bobot": null,
+      "pembahasan": "Sudut pandang orang pertama pelaku utama: narator adalah tokoh protagonis itu sendiri, menceritakan pengalamannya langsung dengan kata ganti 'aku'. Berbeda dengan orang pertama pengamat di mana 'aku' hanya tokoh pinggiran."
+    },
+    {
+      "no": 7,
+      "kategori": "Profesional – EBI & Teks",
+      "subkategori": "Ejaan Bahasa Indonesia",
+      "soal": "Penulisan yang BENAR sesuai EBI (Ejaan Bahasa Indonesia) adalah...",
+      "opsi": {
+        "A": "antar-kota, se-Indonesia, pasca-reformasi",
+        "B": "antarkota, se-Indonesia, pascareformasi",
+        "C": "antar kota, se Indonesia, pasca reformasi",
+        "D": "Antarkota, Se-Indonesia, Pascareformasi",
+        "E": "antarkota, seIndonesia, pascareformasi"
+      },
+      "kunci": "B",
+      "bobot": null,
+      "pembahasan": "EBI: prefiks 'antar-', 'pasca-', 'pra-', 'sub-' ditulis serangkai. Namun 'se-' + nama diri ditulis dengan tanda hubung (se-Indonesia). 'antar' + kata umum ditulis serangkai (antarkota)."
+    },
+    {
+      "no": 8,
+      "kategori": "Profesional – Teks",
+      "subkategori": "Genre-Based Approach",
+      "soal": "Teks yang bertujuan meyakinkan pembaca bahwa suatu proposisi adalah benar dengan menggunakan argumen logis, data, dan bukti empiris disebut teks...",
+      "opsi": {
+        "A": "Deskripsi",
+        "B": "Narasi",
+        "C": "Eksposisi",
+        "D": "Argumentasi",
+        "E": "Prosedur"
+      },
+      "kunci": "D",
+      "bobot": null,
+      "pembahasan": "Teks argumentasi berfungsi membuktikan kebenaran suatu klaim dengan data dan penalaran logis. Berbeda dengan eksposisi yang hanya menjelaskan/memaparkan tanpa tujuan meyakinkan secara eksplisit."
+    },
+    {
+      "no": 9,
+      "kategori": "Profesional – Sastra",
+      "subkategori": "Sejarah Sastra",
+      "soal": "Angkatan Balai Pustaka (1920-an) ditandai dengan tema dominan berupa konflik antara...",
+      "opsi": {
+        "A": "Kolonialisme Belanda dan perjuangan nasionalisme",
+        "B": "Adat tradisional dan keinginan individu yang modern",
+        "C": "Kepercayaan animisme dan Islam",
+        "D": "Kemiskinan ekonomi dan cita-cita sosial",
+        "E": "Perbedaan kelas sosial antara priyayi dan rakyat jelata"
+      },
+      "kunci": "B",
+      "bobot": null,
+      "pembahasan": "Karya Angkatan Balai Pustaka seperti 'Siti Nurbaya' dan 'Salah Asuhan' dominan mengangkat tema konflik adat (kawin paksa, perbedaan suku) versus kehendak individu yang terpengaruh pendidikan modern."
+    },
+    {
+      "no": 10,
+      "kategori": "Profesional – Linguistik",
+      "subkategori": "Wacana & Teks",
+      "soal": "Piranti kohesi yang berupa pengulangan kata atau frasa yang sama dari kalimat sebelumnya disebut...",
+      "opsi": {
+        "A": "Substitusi",
+        "B": "Elipsis",
+        "C": "Repetisi",
+        "D": "Konjungsi",
+        "E": "Referensi anaforis"
+      },
+      "kunci": "C",
+      "bobot": null,
+      "pembahasan": "Repetisi adalah penggunaan kembali kata atau frasa yang sama untuk menciptakan kepaduan wacana. Berbeda dengan referensi yang menggunakan kata ganti/pronomina untuk merujuk kembali."
+    },
+    {
+      "no": 11,
+      "kategori": "Profesional – Teks",
+      "subkategori": "Penyuntingan",
+      "soal": "Kalimat 'Para hadirin dipersilakan untuk duduk' mengandung kesalahan berbentuk...",
+      "opsi": {
+        "A": "Kesalahan ejaan",
+        "B": "Pleonasme (pemborosan kata)",
+        "C": "Kesalahan diksi",
+        "D": "Kesalahan struktur kalimat pasif",
+        "E": "Ambiguitas referensi"
+      },
+      "kunci": "B",
+      "bobot": null,
+      "pembahasan": "Pleonasme: 'para' sudah bermakna jamak/banyak, sedangkan 'hadirin' adalah bentuk jamak dari 'hadir'. Menggabungkan keduanya menciptakan redundansi. Yang benar: 'hadirin' saja atau 'para tamu' bukan 'para hadirin'."
+    },
+    {
+      "no": 12,
+      "kategori": "Profesional – Sastra",
+      "subkategori": "Drama",
+      "soal": "Konflik antartokoh yang mendorong peristiwa-peristiwa dalam drama menuju klimaks disebut...",
+      "opsi": {
+        "A": "Eksposisi",
+        "B": "Komplikasi",
+        "C": "Resolusi",
+        "D": "Denouement",
+        "E": "Prolog"
+      },
+      "kunci": "B",
+      "bobot": null,
+      "pembahasan": "Struktur drama: eksposisi (pengenalan) → komplikasi (konflik yang berkembang dan memuncak) → klimaks → resolusi (penyelesaian) → denouement (penutup). Komplikasi adalah fase eskalasi konflik."
+    },
+    {
+      "no": 13,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Strategi Pembelajaran Literasi",
+      "soal": "Seorang guru Bahasa Indonesia kelas VIII menemukan bahwa sebagian besar siswanya kesulitan membedakan fakta dan opini dalam artikel berita. Strategi pembelajaran yang PALING TEPAT untuk mengatasi masalah ini adalah...",
+      "opsi": {
+        "A": "Meminta siswa membaca ulang artikel yang sama di rumah sebagai pekerjaan rumah",
+        "B": "Memberikan ceramah tentang definisi fakta dan opini selama satu jam penuh",
+        "C": "Menyajikan dua teks berita (satu faktual ketat, satu sarat opini) secara berdampingan, lalu membimbing siswa mengidentifikasi penanda linguistik fakta dan opini melalui diskusi kelompok",
+        "D": "Memberikan latihan soal pilihan ganda tentang fakta dan opini dari buku paket",
+        "E": "Langsung beralih ke materi teks berikutnya karena topik ini dianggap terlalu sulit"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "Pendekatan komparatif (dua teks berdampingan) dan induktif (menemukan penanda linguistik sendiri melalui diskusi) merangsang kemampuan berpikir kritis (HOTS C4-C5). Ini selaras dengan pendekatan literasi kritis dan pembelajaran berbasis teks."
+    },
+    {
+      "no": 14,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Asesmen Menulis",
+      "soal": "Bu Dewi ingin menilai kemampuan menulis esai argumentatif siswa kelas XI secara holistik, bukan hanya melihat hasil akhir. Instrumen asesmen yang PALING TEPAT adalah...",
+      "opsi": {
+        "A": "Tes pilihan ganda tentang kaidah ejaan dan tata bahasa",
+        "B": "Rubrik analitik yang menilai aspek isi, struktur argumen, kebahasaan, dan koherensi secara terpisah dengan indikator yang jelas",
+        "C": "Penilaian berdasarkan panjang tulisan dan rapi tidaknya tulisan tangan",
+        "D": "Meminta siswa saling menilai tulisan teman tanpa panduan",
+        "E": "Nilai tunggal berdasarkan kesan guru secara keseluruhan"
+      },
+      "kunci": "B",
+      "bobot": 5,
+      "pembahasan": "Rubrik analitik memberikan transparansi, objektivitas, dan umpan balik spesifik per aspek. Ini memungkinkan siswa memahami kekuatan dan kelemahan tulisannya secara terarah, sesuai prinsip asesmen formatif yang valid dan reliabel."
+    },
+    {
+      "no": 15,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Diferensiasi Pembelajaran",
+      "soal": "Di kelas X, Pak Agus mendapati bahwa 5 siswa sudah mampu menganalisis teks sastra secara mandiri, sementara 10 siswa lainnya masih kesulitan mengidentifikasi unsur intrinsik dasar. Tindakan yang PALING TEPAT adalah...",
+      "opsi": {
+        "A": "Memberikan materi yang sama kepada semua siswa agar perlakuan adil dan merata",
+        "B": "Fokus mengajar kelompok yang lemah saja, biarkan kelompok yang sudah mampu belajar sendiri tanpa arahan",
+        "C": "Merancang dua jalur pembelajaran: kelompok kuat diberi tugas analisis sastra kompleks secara mandiri/kolaboratif, kelompok yang kesulitan mendapat scaffolding bertahap dengan panduan terstruktur dari guru",
+        "D": "Mengulang materi dari awal untuk seluruh kelas agar kelompok lemah bisa mengejar",
+        "E": "Melaporkan kepada kepala sekolah bahwa kelas tersebut memiliki kemampuan heterogen yang tidak bisa diajar bersamaan"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "Diferensiasi instruksional berdasarkan kesiapan belajar (readiness). Kelompok kuat mendapat perluasan (enrichment), kelompok lemah mendapat scaffolding. Ini sesuai prinsip Vygotsky tentang Zone of Proximal Development."
+    },
+    {
+      "no": 16,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Peningkatan Minat Baca",
+      "soal": "Guru menemukan bahwa siswanya tidak termotivasi membaca karya sastra karena menganggapnya kuno dan tidak relevan. Langkah yang PALING EFEKTIF untuk meningkatkan minat baca sastra adalah...",
+      "opsi": {
+        "A": "Mewajibkan siswa membaca 5 novel klasik dalam satu semester sebagai syarat kenaikan kelas",
+        "B": "Menghubungkan tema sastra klasik dengan isu sosial kontemporer yang relevan bagi remaja, menggunakan metode 'book talk' di kelas, dan memberi kebebasan siswa memilih satu karya dari daftar pilihan berdasarkan minat mereka",
+        "C": "Mengganti semua bacaan sastra dengan konten populer seperti Webtoon dan podcast",
+        "D": "Memberikan hukuman bagi siswa yang tidak menyelesaikan bacaan yang ditugaskan",
+        "E": "Meminta orang tua membelikan buku dan mengawasi anak membaca di rumah"
+      },
+      "kunci": "B",
+      "bobot": 5,
+      "pembahasan": "Motivasi intrinsik tumbuh saat siswa melihat relevansi materi dengan kehidupan mereka (meaningful learning) dan memiliki otonomi memilih. 'Book talk' membangun komunitas literasi yang positif."
+    },
+    {
+      "no": 17,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Pembelajaran Menulis HOTS",
+      "soal": "Seorang guru ingin merancang tugas menulis yang mendorong kemampuan berpikir tingkat tinggi (C5-C6 Taksonomi Bloom Revisi) pada siswa kelas XII. Tugas yang PALING TEPAT adalah...",
+      "opsi": {
+        "A": "Menyalin teks prosedur dari buku paket ke buku tulis",
+        "B": "Mengidentifikasi dan mencatat kata benda dalam artikel koran",
+        "C": "Menulis ringkasan cerita pendek yang sudah dibaca",
+        "D": "Menulis esai argumentatif yang mengkritisi dan menawarkan solusi atas fenomena lunturnya penggunaan bahasa Indonesia baku di media sosial, dilengkapi data dan analisis linguistik",
+        "E": "Menjawab pertanyaan pemahaman bacaan berdasarkan teks yang diberikan"
+      },
+      "kunci": "D",
+      "bobot": 5,
+      "pembahasan": "Opsi D meminta siswa mengevaluasi (C5) fenomena dan menciptakan solusi (C6) dengan mengintegrasikan pengetahuan linguistik. Ini adalah penerapan HOTS murni. Opsi lain hanya mencapai C1-C3."
+    },
+    {
+      "no": 18,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Konflik Kelas",
+      "soal": "Saat diskusi bedah novel di kelas, dua kelompok siswa terlibat perdebatan sengit tentang interpretasi ending cerita hingga suasana memanas. Respon guru yang PALING TEPAT adalah...",
+      "opsi": {
+        "A": "Menghentikan diskusi dan langsung memberikan jawaban 'benar' versi guru",
+        "B": "Membiarkan perdebatan berlanjut tanpa intervensi agar siswa belajar berargumen sendiri",
+        "C": "Memfasilitasi kedua kelompok untuk mendukung interpretasi masing-masing dengan bukti tekstual dari novel, kemudian menjelaskan bahwa sastra bersifat polisemik dan dapat memiliki multi-tafsir yang sahih asalkan berdasarkan teks",
+        "D": "Memberikan hukuman kepada kelompok yang paling keras berdebat",
+        "E": "Mengalihkan topik dan menutup diskusi karena dinilai tidak produktif"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "Guru sebagai fasilitator berpikir kritis. Memanfaatkan konflik interpretasi sebagai peluang belajar sifat polisemik sastra. Ini mengembangkan kemampuan argumentasi berbasis bukti teks sekaligus menghargai keberagaman perspektif."
+    },
+    {
+      "no": 19,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Asesmen Formatif",
+      "soal": "Di tengah pembelajaran menulis teks berita, Bu Sari ingin mengetahui sejauh mana pemahaman siswa sebelum melanjutkan ke tahap berikutnya. Teknik asesmen formatif yang PALING CEPAT dan EFEKTIF adalah...",
+      "opsi": {
+        "A": "Memberikan ulangan harian tertulis 30 soal",
+        "B": "Meminta siswa menulis 'exit ticket' berisi satu hal yang dipahami dan satu pertanyaan yang masih membingungkan",
+        "C": "Mengamati ekspresi wajah siswa untuk menilai tingkat pemahaman",
+        "D": "Menunggu nilai ujian tengah semester",
+        "E": "Menanyakan kepada ketua kelas apakah teman-temannya sudah paham"
+      },
+      "kunci": "B",
+      "bobot": 5,
+      "pembahasan": "Exit ticket adalah teknik asesmen formatif cepat yang memberikan data langsung tentang pemahaman dan kebingungan siswa. Guru bisa menggunakan data ini untuk menyesuaikan pembelajaran di pertemuan berikutnya (responsive teaching)."
+    },
+    {
+      "no": 20,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Motivasi Belajar",
+      "soal": "Seorang siswa yang sebenarnya cerdas menolak mengerjakan tugas menulis karena takut tulisannya salah dan ditertawakan teman. Pendekatan guru yang PALING TEPAT adalah...",
+      "opsi": {
+        "A": "Memberikan nilai 0 agar siswa merasa konsekuensi tidak mengerjakan tugas",
+        "B": "Menghubungi orang tua dan meminta mereka menekan anaknya di rumah",
+        "C": "Membangun psikologis aman (safe space) di kelas, memulai dengan tugas menulis bebas tanpa penilaian untuk membiasakan ekspresi, memberikan umpan balik positif yang spesifik pada aspek kekuatan tulisan, dan secara bertahap meningkatkan standar",
+        "D": "Memaksa siswa membacakan tulisannya di depan kelas agar terbiasa menghadapi ketakutan",
+        "E": "Mengabaikan masalah psikologis ini karena bukan tugas guru Bahasa Indonesia"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "Membangun psikologis aman adalah prasyarat pembelajaran efektif. Pendekatan bertahap (scaffolding afektif) menurunkan hambatan 'affective filter'. Umpan balik berbasis kekuatan mendorong motivasi intrinsik."
+    },
+    {
+      "no": 21,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Pemanfaatan Media",
+      "soal": "Pak Hendra ingin menggunakan podcast berbahasa Indonesia sebagai media pembelajaran keterampilan menyimak dan berbicara untuk kelas XI. Langkah yang PALING EFEKTIF adalah...",
+      "opsi": {
+        "A": "Memutarkan podcast dan menyuruh siswa diam mendengarkan selama 45 menit",
+        "B": "Memilih podcast dengan topik relevan bagi remaja, memutarkan segmen pendek (5-10 menit), kemudian memfasilitasi diskusi tentang isi, gaya bahasa, dan efektivitas cara penyampaian pembicara, dilanjutkan tugas membuat podcast mini kelompok",
+        "C": "Meminta siswa mendengarkan podcast di rumah sebagai PR tanpa panduan",
+        "D": "Melarang penggunaan media digital karena dikhawatirkan memecah konsentrasi",
+        "E": "Hanya menggunakan teks tertulis sebagai gantinya karena lebih mudah dikontrol"
+      },
+      "kunci": "B",
+      "bobot": 5,
+      "pembahasan": "Penggunaan media autentik harus disertai scaffolding pedagogis yang jelas: pemilihan konten relevan, pemberian panduan menyimak aktif, diskusi kritis, dan tugas produktif. Ini mengintegrasikan empat keterampilan berbahasa."
+    },
+    {
+      "no": 22,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Inklusi",
+      "soal": "Di kelas, terdapat satu siswa disleksia yang kesulitan membaca teks panjang namun sangat kreatif secara verbal. Modifikasi pembelajaran yang PALING TEPAT adalah...",
+      "opsi": {
+        "A": "Meminta siswa tersebut mengerjakan soal yang berbeda agar tidak mengganggu kelas lain",
+        "B": "Membebaskan siswa dari semua tugas membaca dan menulis",
+        "C": "Memberikan teks dengan font yang lebih besar, spasi yang lebih luas, dan memberikan opsi alternatif demonstrasi kompetensi (misalnya presentasi lisan atau rekaman audio) tanpa mengurangi standar kompetensi inti yang harus dicapai",
+        "D": "Menyarankan orang tua untuk memindahkan anak ke sekolah luar biasa",
+        "E": "Memberikan waktu yang sama dengan siswa lain karena perlakuan berbeda akan membuat siswa merasa diskriminasi"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "Pendidikan inklusi: adaptasi cara (how), bukan kompromi terhadap standar (what). Universal Design for Learning (UDL) mengamanatkan penyediaan multiple means of representation dan expression untuk mengakomodasi keberagaman belajar."
+    },
+    {
+      "no": 23,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Penilaian Berbicara",
+      "soal": "Guru ingin menilai kemampuan berpidato persuasif siswa secara objektif. Aspek yang HARUS ada dalam rubrik penilaian berbicara yang valid adalah...",
+      "opsi": {
+        "A": "Penampilan fisik dan ketampanan/kecantikan pembicara",
+        "B": "Kedalaman isi/argumen, struktur pidato, diksi dan gaya bahasa, vokal/artikulasi, kontak mata, serta penggunaan bahasa tubuh",
+        "C": "Hanya kelancaran berbicara tanpa jeda",
+        "D": "Popularitas siswa di kelas sebagai cerminan karisma",
+        "E": "Panjang durasi pidato (semakin lama semakin baik)"
+      },
+      "kunci": "B",
+      "bobot": 5,
+      "pembahasan": "Rubrik penilaian berbicara yang valid harus multi-aspek mencakup dimensi isi (ide/argumen), organisasi (struktur), kebahasaan (diksi, gaya bahasa), dan penampilan (vokal, gestur, kontak mata). Ini memastikan reliabilitas dan keadilan penilaian."
+    },
+    {
+      "no": 24,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Literasi Kritis Media",
+      "soal": "Guru ingin melatih literasi kritis siswa terhadap berita hoaks yang beredar di media sosial melalui pembelajaran teks berita. Aktivitas yang PALING RELEVAN adalah...",
+      "opsi": {
+        "A": "Melarang siswa menggunakan media sosial di sekolah",
+        "B": "Membandingkan sebuah berita dari sumber terpercaya dengan versi hoaks-nya, membimbing siswa menganalisis perbedaan struktur, diksi, sumber rujukan, dan penanda kredibilitas, kemudian siswa mempresentasikan hasil analisisnya",
+        "C": "Menyuruh siswa menghafal ciri-ciri berita hoaks dari buku",
+        "D": "Mengundang narasumber dari kepolisian untuk berbicara tentang bahaya hoaks",
+        "E": "Memberikan daftar situs berita terpercaya untuk diakses siswa"
+      },
+      "kunci": "B",
+      "bobot": 5,
+      "pembahasan": "Literasi kritis media tidak cukup dengan hafalan. Pendekatan komparatif dengan analisis linguistik aktual melatih kemampuan verifikasi mandiri yang akan bisa ditransfer ke konteks nyata. Ini membangun keterampilan abad 21 yang otentik."
+    },
+    {
+      "no": 25,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Refleksi Pembelajaran",
+      "soal": "Setelah mengajarkan materi teks eksplanasi selama tiga pertemuan, guru menyadari bahwa penjelasannya terlalu abstrak dan mayoritas siswa tidak memahami konsep kausalitas dalam teks eksplanasi. Langkah yang PALING TEPAT bagi guru adalah...",
+      "opsi": {
+        "A": "Melanjutkan ke materi berikutnya karena waktu sudah terlalu banyak terbuang",
+        "B": "Menyalahkan siswa karena tidak memperhatikan dengan serius",
+        "C": "Melakukan refleksi diri, merancang ulang pendekatan dengan menggunakan infografis kausalitas dan contoh fenomena alam konkret yang familiar bagi siswa, kemudian melaksanakan remediasi sebelum melanjutkan materi baru",
+        "D": "Mengurangi standar penilaian agar lebih banyak siswa yang lulus",
+        "E": "Meminta guru lain untuk menggantikan mengajar topik tersebut"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "Guru yang reflektif (reflective practitioner) mendiagnosis kegagalan pembelajaran sebagai permasalahan metodologi, bukan defisit siswa. Redesain pembelajaran dengan representasi konkret sebelum abstrak sesuai prinsip 'concrete-representational-abstract'."
+    },
+    {
+      "no": 26,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Diskusi Sastra",
+      "soal": "Bu Ratna memfasilitasi diskusi cerpen Pramoedya Ananta Toer. Seorang siswa menyatakan bahwa cerita tersebut tidak relevan karena 'terlalu jadul'. Respon guru yang PALING MENDIDIK adalah...",
+      "opsi": {
+        "A": "Memarahi siswa karena tidak menghargai karya sastra nasional",
+        "B": "Setuju dengan siswa dan beralih ke karya yang lebih populer",
+        "C": "Mengapresiasi keberanian berpendapat, lalu mengajak siswa menelusuri apakah tema-tema dalam cerpen tersebut (seperti diskriminasi, perjuangan identitas, atau ketidakadilan) masih ditemukan dalam konteks kehidupan mereka hari ini",
+        "D": "Mengabaikan komentar tersebut dan melanjutkan pembelajaran",
+        "E": "Menjelaskan bahwa siswa tidak berhak menilai karya Pramoedya"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "Mengaitkan sastra lama dengan relevansi kontemporer adalah kunci apresiasi sastra yang bermakna. Guru memvalidasi perspektif siswa sebelum menantang pemikiran mereka untuk melihat lebih dalam—ini adalah pendekatan dialogis yang produktif."
+    },
+    {
+      "no": 27,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Pengembangan Silabus",
+      "soal": "Dalam menyusun indikator pencapaian kompetensi (IPK) dari KD 'Menganalisis struktur dan kebahasaan teks editorial', kata kerja operasional yang TEPAT untuk level C4 Taksonomi Bloom adalah...",
+      "opsi": {
+        "A": "Menyebutkan ciri-ciri teks editorial",
+        "B": "Menjelaskan pengertian teks editorial",
+        "C": "Membedakan penggunaan kalimat opini dan kalimat fakta dalam teks editorial serta mengidentifikasi penanda kebahasaan yang membedakannya",
+        "D": "Mencatat daftar kata hubung dalam teks editorial",
+        "E": "Membaca teks editorial dengan intonasi yang tepat"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "C4 (Menganalisis): 'membedakan', 'mengidentifikasi', 'membandingkan'. Opsi A-B hanya C1-C2. Opsi D hanya C1. Opsi C meminta siswa memilah dan menemukan pola yang membedakan—ini adalah operasi kognitif level analisis."
+    },
+    {
+      "no": 28,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Pembelajaran Berbasis Proyek",
+      "soal": "Guru merancang proyek akhir semester: siswa membuat majalah digital kelas yang berisi berbagai jenis teks (berita, opini, cerpen, puisi, iklan layanan masyarakat). Nilai utama dari proyek ini dari perspektif pedagogik adalah...",
+      "opsi": {
+        "A": "Menghemat waktu guru dalam penilaian karena hanya satu produk",
+        "B": "Mengintegrasikan empat keterampilan berbahasa (menyimak, berbicara, membaca, menulis) secara autentik dalam satu proyek yang bermakna, mendorong kolaborasi, dan menghasilkan produk nyata yang memiliki audiens",
+        "C": "Mempermudah siswa karena proyek kelompok bisa dikerjakan satu orang",
+        "D": "Memenuhi tuntutan administrasi agar ada bukti fisik penilaian",
+        "E": "Membuat pelajaran lebih santai dan tidak membebani siswa"
+      },
+      "kunci": "B",
+      "bobot": 5,
+      "pembahasan": "Project-Based Learning (PjBL) mengintegrasikan keterampilan secara holistik dalam konteks autentik. Adanya 'audiens nyata' (pembaca majalah) meningkatkan motivasi dan tuntutan kualitas secara alamiah—prinsip pembelajaran bermakna Ausubel."
+    },
+    {
+      "no": 29,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Penggunaan Teknologi",
+      "soal": "Guru memanfaatkan teknologi dengan meminta siswa membuat blog pribadi sebagai portofolio tulisan sepanjang semester. Manfaat UTAMA pendekatan ini dari sudut pandang pembelajaran Bahasa Indonesia adalah...",
+      "opsi": {
+        "A": "Mengurangi penggunaan kertas sehingga ramah lingkungan",
+        "B": "Memudahkan guru merekap nilai secara digital",
+        "C": "Siswa menulis untuk audiens nyata di luar kelas, mendorong kepedulian terhadap kualitas tulisan, memungkinkan dokumentasi perkembangan kemampuan menulis dari waktu ke waktu, dan mendorong kebiasaan menulis sebagai praktik reflektif",
+        "D": "Mempersiapkan siswa menjadi blogger profesional",
+        "E": "Mengurangi kecurangan karena tulisan bisa dipantau secara daring"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "Blog sebagai portofolio digital menciptakan konteks menulis autentik (real audience), mendorong revisi berkelanjutan, dan mendokumentasikan perkembangan kemampuan—sesuai prinsip asesmen portofolio dan writing as process."
+    },
+    {
+      "no": 30,
+      "kategori": "Pedagogik – SJT",
+      "subkategori": "Penanganan Kesulitan Belajar",
+      "soal": "Guru menemukan bahwa seorang siswa pintar selalu menghindari tugas menulis kreatif dan hanya mau mengerjakan tugas analisis teks. Investigasi lebih lanjut menunjukkan siswa tersebut takut 'salah' dalam berimajinasi. Respons pedagogis yang PALING TEPAT adalah...",
+      "opsi": {
+        "A": "Memaksa siswa mengerjakan tugas menulis kreatif tanpa akomodasi apapun",
+        "B": "Membebaskan siswa dari tugas menulis kreatif selamanya",
+        "C": "Memulai dengan aktivitas menulis kreatif yang sangat terstruktur dan aman (seperti melanjutkan kalimat atau mengubah akhir cerita yang sudah ada), secara bertahap mengurangi scaffolding, sambil secara konsisten menegaskan bahwa dalam menulis kreatif tidak ada jawaban tunggal yang benar",
+        "D": "Melaporkan siswa ke guru BK karena menganggapnya sebagai masalah psikologis berat",
+        "E": "Memberikan contoh tulisan kreatif orang lain untuk ditiru persis"
+      },
+      "kunci": "C",
+      "bobot": 5,
+      "pembahasan": "Scaffolding bertahap dari zona aman menuju eksplorasi bebas mengurangi hambatan afektif ('fear of failure'). Menegaskan prinsip 'tidak ada salah benar' dalam kreativitas membangun pemahaman epistemologis siswa tentang sifat tulisan kreatif. Pendekatan ini sesuai dengan teori scaffolding Vygotsky."
+    }
+  ]
+}

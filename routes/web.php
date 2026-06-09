@@ -101,3 +101,16 @@ Route::get('/fix-categories', function () {
         return 'Terjadi kesalahan: ' . $e->getMessage();
     }
 });
+
+// Route bantuan untuk menambahkan paket Guru Bahasa Indonesia
+Route::get('/add-guru-indo', function () {
+    try {
+        \Illuminate\Support\Facades\Artisan::call('db:seed', [
+            '--class' => 'GuruBahasaIndonesiaSeeder',
+            '--force' => true
+        ]);
+        return 'Paket Kompetensi Teknis PPPK Guru Ahli Pertama – Bahasa Indonesia berhasil ditambahkan!';
+    } catch (\Exception $e) {
+        return 'Terjadi kesalahan: ' . $e->getMessage();
+    }
+});

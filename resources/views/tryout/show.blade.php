@@ -23,7 +23,7 @@
                         {{ $tryout->description }}
                     </p>
 
-                    @if($tryout->category === 'pppk' && str_contains($tryout->title, 'Paket Lengkap'))
+                    @if(str_starts_with($tryout->category, 'pppk') && str_contains($tryout->title, 'Paket Lengkap'))
                     <div class="max-w-2xl mx-auto mb-8 bg-[#1e1e1e] rounded-xl overflow-hidden shadow-lg border border-gray-700 text-left">
                         <table class="w-full text-sm text-left text-gray-300">
                             <thead class="text-xs text-gray-400 bg-[#252525] border-b border-gray-700">

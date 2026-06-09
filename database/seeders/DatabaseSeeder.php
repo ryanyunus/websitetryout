@@ -40,5 +40,6 @@ class DatabaseSeeder extends Seeder
         $this->call(TryoutSeeder::class);
         $this->call(PppkSekolahRakyatSeeder::class);
         $this->call(GuruTeknisSeeder::class);
+        $this->call(GuruBahasaIndonesiaSeeder::class);
     }
 }
