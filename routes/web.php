@@ -72,14 +72,31 @@ Route::get('/setup-database', function () {
     }
 });
 
-// Temporary Route for Hosting Installation
-Route::get('/install-database', function () {
+// Route bantuan untuk memperbaiki kategori dan judul PPPK di live hosting tanpa menghapus data
+Route::get('/fix-categories', function () {
     try {
-        \Illuminate\Support\Facades\Artisan::call('migrate:fresh', [
-            '--seed' => true,
-            '--force' => true
-        ]);
-        return 'Database MySQL berhasil di-reset dan di-install ulang sesuai struktur terbaru beserta data awalnya! Silakan hapus route ini.';
+        // Fix Kompetensi Teknis Guru
+        \App\Models\Tryout::where('title', 'like', '%Kompetensi Teknis Guru%')
+            ->update(['category' => 'pppk_guru']);
+
+        // Fix PPPK Tendik Lengkap & Teknis
+        \App\Models\Tryout::where('title', 'like', '%PPPK Tendik Sekolah Rakyat 2026 (Paket Lengkap)%')
+            ->orWhere('title', 'like', '%PPPK Tendik Sekolah Rakyat 2026 - Subtes Teknis%')
+            ->update(['category' => 'pppk_tendik']);
+
+        // Ganti judul yang ada 'Tendik dan Guru' menjadi umum agar tidak bingung
+        $shared = \App\Models\Tryout::where('title', 'like', '%Tendik dan Guru%')->get();
+        foreach ($shared as $t) {
+            $newTitle = str_replace('Tendik dan Guru ', '', $t->title);
+            $newDesc = str_replace('Tendik dan Guru ', '', $t->description);
+            $t->update([
+                'title' => $newTitle,
+                'description' => $newDesc,
+                'category' => 'pppk'
+            ]);
+        }
+        
+        return 'Kategori dan Judul Tryout berhasil diperbaiki!';
     } catch (\Exception $e) {
         return 'Terjadi kesalahan: ' . $e->getMessage();
     }

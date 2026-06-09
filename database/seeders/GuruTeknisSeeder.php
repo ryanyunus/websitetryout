@@ -21,7 +21,7 @@ class GuruTeknisSeeder extends Seeder
             'description' => 'Simulasi Subtes Kompetensi Teknis Guru PPPK 2026. (Berisi 90 Soal Lengkap)',
             'duration_minutes' => 90, 
             'is_active' => true,
-            'category' => 'pppk',
+            'category' => 'pppk_guru',
             'is_premium' => true,
             'price' => 30000,
         ]);

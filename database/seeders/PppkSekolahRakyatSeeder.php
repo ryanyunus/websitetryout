@@ -26,7 +26,7 @@ class PppkSekolahRakyatSeeder extends Seeder
             'description' => 'Simulasi Tes Kompetensi PPPK Tendik Sekolah Rakyat 2026. Terdiri dari 145 soal yang terbagi dalam Sesi 1 dan Sesi 2.',
             'duration_minutes' => 130, // 120 mnt Sesi 1 + 10 mnt Sesi 2
             'is_active' => true,
-            'category' => 'pppk',
+            'category' => 'pppk_tendik',
             'is_premium' => true,
             'price' => 50000,
         ]);
@@ -70,9 +70,12 @@ class PppkSekolahRakyatSeeder extends Seeder
                     $price = 20000;
                 }
                 
-                $baseTitle = "PPPK Tendik dan Guru Sekolah Rakyat 2026";
+                $baseTitle = "PPPK Sekolah Rakyat 2026";
+                $cat = 'pppk';
+
                 if ($subtes === 'Teknis') {
                     $baseTitle = "PPPK Tendik Sekolah Rakyat 2026";
+                    $cat = 'pppk_tendik';
                 }
 
                 $tryoutsTerpisah[$subtes] = Tryout::create([
@@ -80,7 +83,7 @@ class PppkSekolahRakyatSeeder extends Seeder
                     'description' => "Simulasi Tes Kompetensi {$baseTitle} untuk subtes {$subtes}." . (!$isPremium ? " (Gratis)" : ""),
                     'duration_minutes' => $duration,
                     'is_active' => true,
-                    'category' => 'pppk',
+                    'category' => $cat,
                     'is_premium' => $isPremium,
                     'price' => $price,
                 ]);
